@@ -1,0 +1,2960 @@
+1
+00:00:00,040 --> 00:00:04,440
+So have you ever really stopped 
+to think about this? 
+
+2
+00:00:05,360 --> 00:00:08,600
+That the very technologies we 
+use everyday, the ones designed 
+
+3
+00:00:08,600 --> 00:00:12,160
+to, you know, connect us, might 
+actually be controlling us, 
+
+4
+00:00:12,640 --> 00:00:14,600
+Maybe subtly, maybe not so 
+subtly. 
+
+5
+00:00:14,600 --> 00:00:16,239
+It's a really unsettling 
+thought, isn't it? 
+
+6
+00:00:16,360 --> 00:00:18,880
+It is. 
+And then what if these systems 
+
+7
+00:00:18,880 --> 00:00:21,480
+of control, the ones developing 
+in places we think of as totally
+
+8
+00:00:21,480 --> 00:00:24,720
+different, like the US and 
+China, what if they're actually 
+
+9
+00:00:24,720 --> 00:00:26,520
+becoming more alike than we 
+imagine? 
+
+10
+00:00:26,920 --> 00:00:28,720
+Yeah, that's a really 
+provocative question. 
+
+11
+00:00:28,720 --> 00:00:30,720
+We tend to put things in neat 
+boxes, right? 
+
+12
+00:00:31,000 --> 00:00:33,040
+US versus them, free versus 
+unfree. 
+
+13
+00:00:33,040 --> 00:00:34,400
+It's comfortable. 
+Exactly. 
+
+14
+00:00:34,920 --> 00:00:38,200
+But the reality, especially with
+digital power and surveillance, 
+
+15
+00:00:38,480 --> 00:00:41,840
+well, it seems to be way more 
+complex. 
+
+16
+00:00:42,440 --> 00:00:44,520
+And the material we're diving 
+into today argues they're 
+
+17
+00:00:44,520 --> 00:00:47,400
+converging in some pretty 
+surprising and maybe 
+
+18
+00:00:47,400 --> 00:00:48,800
+uncomfortable ways. 
+Absolutely. 
+
+19
+00:00:48,800 --> 00:00:50,000
+And that's what we're tackling 
+today. 
+
+20
+00:00:50,000 --> 00:00:52,760
+We're doing a deep dive into 
+this really fascinating, maybe 
+
+21
+00:00:52,760 --> 00:00:55,480
+even a bit disturbing piece of 
+material called Two Sides of the
+
+22
+00:00:55,480 --> 00:00:59,000
+Same Coin when Silicon Valley 
+and the CCP start speaking the 
+
+23
+00:00:59,000 --> 00:01:01,280
+same language. 
+And this isn't just some dry 
+
+24
+00:01:01,280 --> 00:01:04,519
+academic paper, right? 
+It makes a really bold claim. 
+
+25
+00:01:04,840 --> 00:01:08,280
+It challenges our basic 
+assumptions about surveillance, 
+
+26
+00:01:08,280 --> 00:01:12,680
+about power, and honestly, about
+what freedom even means anymore 
+
+27
+00:01:12,680 --> 00:01:16,960
+in this digital world. 
+Right, so our mission for this 
+
+28
+00:01:16,960 --> 00:01:20,800
+deep dive is to really pull out 
+the key insights from this text.
+
+29
+00:01:21,080 --> 00:01:23,480
+We're going to unpack its main 
+argument, which is pretty 
+
+30
+00:01:23,480 --> 00:01:24,520
+startling. 
+But just. 
+
+31
+00:01:25,040 --> 00:01:29,040
+And that the world's two biggest
+powers, the US and China, are 
+
+32
+00:01:29,120 --> 00:01:31,640
+maybe without even fully 
+intending it, sometimes building
+
+33
+00:01:31,640 --> 00:01:34,440
+these mirrored surveillance 
+societies. 
+
+34
+00:01:35,120 --> 00:01:37,720
+Yeah, we'll look at the 
+mechanisms they're using, the 
+
+35
+00:01:37,720 --> 00:01:40,320
+motivations behind it all, and 
+some, you know, really 
+
+36
+00:01:40,600 --> 00:01:42,720
+unexpected similarities, the 
+material points out. 
+
+37
+00:01:42,720 --> 00:01:45,160
+OK, but crucially, we're not 
+just stopping there because like
+
+38
+00:01:45,160 --> 00:01:46,920
+you said, things aren't always 
+neat boxes. 
+
+39
+00:01:46,920 --> 00:01:48,760
+To really get it, you need the 
+whole picture. 
+
+40
+00:01:48,760 --> 00:01:50,720
+Exactly. 
+So we'll also dig into the 
+
+41
+00:01:50,720 --> 00:01:53,720
+counterpoints, the critical 
+analysis that's actually in the 
+
+42
+00:01:53,720 --> 00:01:56,520
+source material itself. 
+It pushes back on its own 
+
+43
+00:01:56,560 --> 00:01:59,240
+claims. 
+That's good, so we get the full 
+
+44
+00:01:59,240 --> 00:02:02,320
+nuance view. 
+The goal is to help you 
+
+45
+00:02:02,320 --> 00:02:05,480
+listening in get really well 
+informed on this because it's 
+
+46
+00:02:05,480 --> 00:02:08,440
+super important, but without 
+feeling totally overwhelmed by 
+
+47
+00:02:08,440 --> 00:02:10,400
+it. 
+All yeah, it's dense stuff, but 
+
+48
+00:02:10,400 --> 00:02:12,760
+vital. 
+And what's compelling about this
+
+49
+00:02:12,760 --> 00:02:16,440
+source is that dual approach. 
+First, it hits you with the 
+
+50
+00:02:16,440 --> 00:02:20,520
+strong, almost unsettling 
+argument about the similarities 
+
+51
+00:02:20,520 --> 00:02:22,520
+in digital control between the 
+US and China. 
+
+52
+00:02:22,520 --> 00:02:25,400
+Right, the convergence idea. 
+But then it doesn't just leave 
+
+53
+00:02:25,400 --> 00:02:26,800
+you hanging there. 
+It pivots. 
+
+54
+00:02:26,920 --> 00:02:30,600
+It offers this really rigorous 
+critique of its own arguments, 
+
+55
+00:02:30,800 --> 00:02:33,720
+gives you counterpoints, fact 
+checks, brings in broader 
+
+56
+00:02:33,720 --> 00:02:35,880
+context. 
+It kind of tempers the drama. 
+
+57
+00:02:35,880 --> 00:02:39,360
+A bit, so it forces you to think
+critically, not just accept the 
+
+58
+00:02:39,360 --> 00:02:40,800
+first argument. 
+Precisely. 
+
+59
+00:02:40,800 --> 00:02:43,480
+It's a balanced way to tackle a 
+really charged topic. 
+
+60
+00:02:43,480 --> 00:02:46,960
+OK, let's peel back that first 
+layer, then Section 1, the core 
+
+61
+00:02:46,960 --> 00:02:50,640
+argument, this idea of two sides
+of the same digital coin. 
+
+62
+00:02:50,840 --> 00:02:52,360
+Right. 
+And it kicks off with a really 
+
+63
+00:02:52,360 --> 00:02:54,920
+bold statement. 
+It says both the US and China 
+
+64
+00:02:54,920 --> 00:02:58,560
+are building these quote 
+surveillance societies, and not 
+
+65
+00:02:58,560 --> 00:03:01,000
+just in a vague sense. 
+It claims they're often using 
+
+66
+00:03:01,000 --> 00:03:05,160
+the quote same machinery, think 
+data, algorithms and this 
+
+67
+00:03:05,160 --> 00:03:09,680
+relentless drive to know, to 
+score and ultimately to shape 
+
+68
+00:03:09,680 --> 00:03:12,360
+what citizens do and think. 
+Same machinery. 
+
+69
+00:03:12,560 --> 00:03:15,880
+That's a strong claim. 
+It is, and what really jumps out
+
+70
+00:03:15,880 --> 00:03:18,560
+is the core distinction it 
+makes, or rather, the 
+
+71
+00:03:18,560 --> 00:03:21,320
+distinction it minimizes. 
+It argues the main difference 
+
+72
+00:03:21,320 --> 00:03:25,080
+isn't in the technology or the 
+goal, but primarily in, quote, 
+
+73
+00:03:25,080 --> 00:03:27,480
+the branding and the story we 
+tell ourselves. 
+
+74
+00:03:27,640 --> 00:03:29,880
+Wow. 
+So how we justify it? 
+
+75
+00:03:29,880 --> 00:03:32,280
+Basically, yeah. 
+This immediately clashes with 
+
+76
+00:03:32,320 --> 00:03:35,600
+how we usually think, right? 
+We see the US and China as 
+
+77
+00:03:35,600 --> 00:03:38,680
+fundamentally different on this.
+China surveils, the US values 
+
+78
+00:03:38,680 --> 00:03:40,680
+privacy. 
+Or so the story. 
+
+79
+00:03:40,680 --> 00:03:42,040
+Goes right, That's the standard 
+narrative. 
+
+80
+00:03:42,040 --> 00:03:44,600
+But this material says maybe 
+that distinction is getting 
+
+81
+00:03:45,080 --> 00:03:47,720
+blurry, superficial. 
+Exactly. 
+
+82
+00:03:47,720 --> 00:03:50,520
+It pushes us to ask why this 
+convergence might be happening 
+
+83
+00:03:50,520 --> 00:03:52,040
+now. 
+It's not just about the tech 
+
+84
+00:03:52,040 --> 00:03:53,720
+being available, though that's 
+part of it. 
+
+85
+00:03:53,720 --> 00:03:55,840
+What else? 
+It points to a mix of tech 
+
+86
+00:03:55,840 --> 00:03:57,680
+maturity. 
+We can do this pervasive 
+
+87
+00:03:57,680 --> 00:04:00,920
+surveillance now and really 
+importantly, some big 
+
+88
+00:04:00,920 --> 00:04:03,960
+ideological shifts, especially 
+happening within the US. 
+
+89
+00:04:04,160 --> 00:04:06,880
+So the tools are ready and 
+certain powerful people are 
+
+90
+00:04:06,880 --> 00:04:10,880
+thinking, hey, we can and maybe 
+should use these tools for 
+
+91
+00:04:10,880 --> 00:04:13,280
+control. 
+That seems to be the implication
+
+92
+00:04:13,600 --> 00:04:16,760
+which brings us right to a 
+really central figure in this 
+
+93
+00:04:16,760 --> 00:04:21,880
+whole argument, Peter Teal. 
+Teal OK billionaire investor. 
+
+94
+00:04:21,959 --> 00:04:25,520
+PayPal Co founder. 
+Yes, but the material introduces
+
+95
+00:04:25,520 --> 00:04:27,880
+him as much more than that. 
+It calls him, quote, the 
+
+96
+00:04:27,880 --> 00:04:30,120
+intellectual godfather of the 
+New Right. 
+
+97
+00:04:30,760 --> 00:04:33,720
+That signal his influence goes 
+way beyond just tech and 
+
+98
+00:04:33,720 --> 00:04:35,880
+finance. 
+He's painted as a real thought 
+
+99
+00:04:35,880 --> 00:04:38,000
+leader. 
+A philosopher king for a new 
+
+100
+00:04:38,000 --> 00:04:40,040
+era, as the material puts it 
+somewhere. 
+
+101
+00:04:40,240 --> 00:04:43,200
+That sounds pretty dramatic. 
+It does, and his philosophy is 
+
+102
+00:04:43,200 --> 00:04:46,120
+apparently key here. 
+His skepticism about democracy. 
+
+103
+00:04:46,120 --> 00:04:49,440
+His belief in hierarchy, his 
+fascination with, quote, the 
+
+104
+00:04:49,440 --> 00:04:53,160
+management of human desire. 
+Managing desire? 
+
+105
+00:04:53,160 --> 00:04:55,120
+What does that even mean in this
+context? 
+
+106
+00:04:55,160 --> 00:04:58,400
+Well, it seems tied to this idea
+that he sees technology not just
+
+107
+00:04:58,400 --> 00:05:02,040
+as a business tool, but as a way
+to shape society itself, to 
+
+108
+00:05:02,040 --> 00:05:04,960
+impose a certain kind of order 
+based on hierarchy. 
+
+109
+00:05:05,120 --> 00:05:07,400
+It's about fundamentally 
+structuring power. 
+
+110
+00:05:07,480 --> 00:05:10,160
+OK, so how does that translate 
+into actual influence? 
+
+111
+00:05:10,160 --> 00:05:11,960
+Is it just ideas or is there 
+more? 
+
+112
+00:05:12,120 --> 00:05:15,240
+Oh, it's tangible. 
+According to this analysis, the 
+
+113
+00:05:15,240 --> 00:05:18,840
+material says Thiel has quote 
+seeded a generation of 
+
+114
+00:05:18,840 --> 00:05:22,680
+politicians, tech entrepreneurs 
+and policy architects, people 
+
+115
+00:05:22,680 --> 00:05:24,960
+who share or have adopted parts 
+of his worldview. 
+
+116
+00:05:25,080 --> 00:05:28,000
+Examples. 
+Well, his early crucial support 
+
+117
+00:05:28,000 --> 00:05:32,360
+for Donald Trump is 1 big one 
+funding anti woke candidates and
+
+118
+00:05:32,520 --> 00:05:35,280
+really relevant here, his 
+investments in companies that 
+
+119
+00:05:35,280 --> 00:05:39,360
+are basically the plumbing of 
+America's surveillance capacity.
+
+120
+00:05:39,440 --> 00:05:42,000
+Palantir, Facebook. 
+Right Palantir. 
+
+121
+00:05:42,000 --> 00:05:44,640
+Especially data analysis for 
+government defense. 
+
+122
+00:05:44,640 --> 00:05:47,200
+Exactly so. 
+The material positions Teal as 
+
+123
+00:05:47,200 --> 00:05:50,680
+this crucial bridge, a bridge 
+between Silicon Valley's biggest
+
+124
+00:05:50,680 --> 00:05:53,080
+players, the monopolists, and 
+the populist right. 
+
+125
+00:05:53,400 --> 00:05:55,680
+He connects. 
+Quote memes, money and power. 
+
+126
+00:05:55,800 --> 00:05:58,640
+So it's not just investing cash,
+it's linking ideology, 
+
+127
+00:05:58,720 --> 00:06:01,120
+communication strategies and the
+tech platform platforms 
+
+128
+00:06:01,120 --> 00:06:03,280
+themselves. 
+Precisely translating philosophy
+
+129
+00:06:03,280 --> 00:06:04,520
+into tech and politics. 
+OK. 
+
+130
+00:06:04,520 --> 00:06:06,680
+And this ties into that 
+management of desire thing. 
+
+131
+00:06:06,840 --> 00:06:10,320
+How does someone like Teal, this
+philosopher king type use tech 
+
+132
+00:06:10,320 --> 00:06:13,560
+to control what the material 
+calls the chaotic masses? 
+
+133
+00:06:13,680 --> 00:06:16,120
+This is where it gets really 
+interesting and maybe a bit 
+
+134
+00:06:16,120 --> 00:06:18,520
+dark. 
+The material points to Teal's 
+
+135
+00:06:18,520 --> 00:06:21,880
+interest in Renee Gerard's 
+concept of memetic desire. 
+
+136
+00:06:21,880 --> 00:06:25,000
+Memetic desire, remind me. 
+The idea that we don't really 
+
+137
+00:06:25,000 --> 00:06:28,400
+know what we want intrinsically,
+we copy our desires from others.
+
+138
+00:06:28,600 --> 00:06:31,880
+This can lead to rivalry, 
+conflict, social chaos as 
+
+139
+00:06:31,880 --> 00:06:35,960
+desires clash and escalate. 
+OK, now Teal, according to this 
+
+140
+00:06:35,960 --> 00:06:39,240
+analysis, sees this potential 
+for chaos not just as 
+
+141
+00:06:39,240 --> 00:06:42,800
+inevitable, but maybe even 
+desirable, or at least useful. 
+
+142
+00:06:42,800 --> 00:06:44,920
+Useful. 
+How could chaos be useful? 
+
+143
+00:06:45,360 --> 00:06:48,560
+If you believe you're one of the
+few who can manage it, if you 
+
+144
+00:06:48,560 --> 00:06:51,480
+see it as a force that can be 
+channelled to break down old 
+
+145
+00:06:51,480 --> 00:06:55,320
+structures and impose a new 
+hierarchical order, perhaps led 
+
+146
+00:06:55,320 --> 00:07:00,800
+by the CEO kings, the material 
+mentions It's a very strategic, 
+
+147
+00:07:00,800 --> 00:07:03,040
+almost manipulative view of 
+social dynamics. 
+
+148
+00:07:03,040 --> 00:07:06,360
+Wow, OK, that's a heavy concept.
+Managing chaos through tech and 
+
+149
+00:07:06,360 --> 00:07:08,040
+surveillance. 
+Which brings us to how this 
+
+150
+00:07:08,040 --> 00:07:09,760
+plays out in practice. 
+Section 2. 
+
+151
+00:07:10,080 --> 00:07:12,320
+Unpacking the parallel 
+surveillance in practice. 
+
+152
+00:07:12,440 --> 00:07:14,120
+Right. 
+And the first point is how 
+
+153
+00:07:14,120 --> 00:07:17,520
+surveillance has become like the
+material says, the water we swim
+
+154
+00:07:17,520 --> 00:07:19,200
+in. 
+It used to feel like something 
+
+155
+00:07:19,200 --> 00:07:21,080
+distant, right? 
+Something the CCP did to its 
+
+156
+00:07:21,080 --> 00:07:22,040
+citizens. 
+Exactly. 
+
+157
+00:07:22,040 --> 00:07:24,520
+That was the narrative. 
+But the argument here is that 
+
+158
+00:07:24,520 --> 00:07:28,480
+the same kinds of tech, the same
+methods are now tracking 
+
+159
+00:07:28,480 --> 00:07:32,000
+American gig workers, 
+protesters, immigrants, 
+
+160
+00:07:32,000 --> 00:07:34,600
+minorities. 
+And this expanded dramatically 
+
+161
+00:07:34,600 --> 00:07:36,080
+when. 
+The material points, 
+
+162
+00:07:36,080 --> 00:07:39,640
+particularly to the period since
+2016, surveillance, moving 
+
+163
+00:07:39,640 --> 00:07:43,400
+beyond just borders, going deep 
+into cities, into our online 
+
+164
+00:07:43,400 --> 00:07:44,840
+lives. 
+How specifically? 
+
+165
+00:07:44,840 --> 00:07:47,400
+What are the examples? 
+Well, it talks about agencies 
+
+166
+00:07:47,400 --> 00:07:51,040
+like ICE and DHS and it mentions
+this thing called the Mimetic 
+
+167
+00:07:51,040 --> 00:07:53,760
+Engineering complex. 
+Mimetic engineering complex. 
+
+168
+00:07:53,760 --> 00:07:56,360
+What's that? 
+It's defined broadly, not just 
+
+169
+00:07:56,360 --> 00:08:00,400
+Meta X, Google, Amazon, Open AI,
+but also talk radio, the whole 
+
+170
+00:08:00,400 --> 00:08:04,520
+advertising PR world, basically 
+the entire ecosystem that shapes
+
+171
+00:08:04,520 --> 00:08:07,960
+information and attention. 
+OK, so this complex, what did 
+
+172
+00:08:07,960 --> 00:08:10,840
+ICE and DHS do with it? 
+They systematically scraped 
+
+173
+00:08:10,840 --> 00:08:14,440
+social media looking for risky 
+posts, using algorithms to flag 
+
+174
+00:08:14,440 --> 00:08:17,040
+individuals based on their 
+online words and connections. 
+
+175
+00:08:17,360 --> 00:08:18,960
+And who were they targeting? 
+Just immigrants. 
+
+176
+00:08:19,400 --> 00:08:22,440
+No, and that's a crucial point. 
+The material stresses It wasn't 
+
+177
+00:08:22,440 --> 00:08:25,000
+just non citizens. 
+It included U.S. citizens with 
+
+178
+00:08:25,000 --> 00:08:28,320
+immigrant backgrounds and even 
+people holding what the 
+
+179
+00:08:28,320 --> 00:08:32,919
+government deemed dangerous 
+beliefs, views that went against
+
+180
+00:08:32,919 --> 00:08:36,960
+administration policy. 
+So, ideological screening using 
+
+181
+00:08:36,960 --> 00:08:39,080
+social media. 
+That's the implication. 
+
+182
+00:08:39,400 --> 00:08:43,760
+The analysis points to Trump era
+executive orders that gave DHS 
+
+183
+00:08:43,760 --> 00:08:47,800
+huge latitude to use publicly 
+available information, tweets, 
+
+184
+00:08:47,960 --> 00:08:51,120
+Facebook posts, even private 
+messages if they got warrants to
+
+185
+00:08:51,120 --> 00:08:53,480
+build deportation cases. 
+And the impact? 
+
+186
+00:08:53,480 --> 00:08:56,120
+An immediate chilling effect, 
+especially in immigrant 
+
+187
+00:08:56,120 --> 00:08:57,520
+communities. 
+People got scared. 
+
+188
+00:08:57,520 --> 00:08:59,920
+They started self censoring, 
+deleting accounts. 
+
+189
+00:09:00,160 --> 00:09:03,920
+Warnings spread like wildfire. 
+Yeah, anything you say online 
+
+190
+00:09:03,920 --> 00:09:05,600
+can and will be used against 
+you. 
+
+191
+00:09:05,800 --> 00:09:08,160
+It sounds like the machinery 
+started producing similar 
+
+192
+00:09:08,160 --> 00:09:11,280
+effects regardless of the flag. 
+Fear self censorship. 
+
+193
+00:09:11,280 --> 00:09:12,920
+That's exactly the parallel 
+being drawn. 
+
+194
+00:09:12,920 --> 00:09:15,240
+OK, so it's not just tracking 
+actions, but potentially 
+
+195
+00:09:15,240 --> 00:09:17,200
+thoughts or expressed beliefs. 
+It's thought police. 
+
+196
+00:09:18,080 --> 00:09:21,560
+Right, the material argues. 
+This mimetic engineering complex
+
+197
+00:09:21,560 --> 00:09:23,360
+isn't just selling ads anymore, 
+quote. 
+
+198
+00:09:23,560 --> 00:09:26,520
+They sell influence. 
+Influence over what we buy or 
+
+199
+00:09:26,520 --> 00:09:29,120
+more. 
+More influence over what we 
+
+200
+00:09:29,120 --> 00:09:32,360
+think, how we feel. 
+The algorithms, it says, are 
+
+201
+00:09:32,360 --> 00:09:35,680
+designed to maximize engagement.
+And how do they do that often? 
+
+202
+00:09:35,800 --> 00:09:37,280
+Outrage. 
+Conflict. 
+
+203
+00:09:37,400 --> 00:09:40,440
+By amplifying outrage, envy, and
+tribalism. 
+
+204
+00:09:40,440 --> 00:09:43,360
+That's the quote. 
+It's an attention economy fueled
+
+205
+00:09:43,360 --> 00:09:45,760
+by strong emotions. 
+You see it in your own feed, 
+
+206
+00:09:45,760 --> 00:09:47,120
+right? 
+The stuff that gets you riled 
+
+207
+00:09:47,120 --> 00:09:48,160
+up. 
+Yeah, absolutely. 
+
+208
+00:09:48,360 --> 00:09:52,040
+And the scary part, the material
+argues, is that since 2016 
+
+209
+00:09:52,040 --> 00:09:56,120
+especially, these platforms 
+became tools not just for fun or
+
+210
+00:09:56,120 --> 00:10:00,640
+commerce, but for state and mob 
+enforcement of ideological 
+
+211
+00:10:00,640 --> 00:10:02,360
+conformity. 
+State and mob. 
+
+212
+00:10:02,360 --> 00:10:03,960
+How does that? 
+Work well, think about it, 
+
+213
+00:10:04,120 --> 00:10:06,920
+depending on the year and the 
+political wins, people posting 
+
+214
+00:10:06,920 --> 00:10:10,440
+certain views, anti vax, anti 
+lockdown, pro Palestinian, anti 
+
+215
+00:10:10,440 --> 00:10:11,680
+trump. 
+They didn't just get argued 
+
+216
+00:10:11,680 --> 00:10:14,760
+with, they faced doxing online 
+harassment mobs. 
+
+217
+00:10:14,760 --> 00:10:17,200
+And sometimes actual official 
+consequences. 
+
+218
+00:10:17,600 --> 00:10:21,520
+Yeah, targeting by ICE or local 
+police investigating them based 
+
+219
+00:10:21,520 --> 00:10:24,400
+on online activity. 
+It shows how the platforms 
+
+220
+00:10:24,400 --> 00:10:27,640
+become spaces where conformity 
+is enforced both informally by 
+
+221
+00:10:27,640 --> 00:10:29,600
+crowds and formerly by 
+authorities. 
+
+222
+00:10:29,760 --> 00:10:31,920
+That reminds me of that Rand 
+Paul quote you mentioned is in 
+
+223
+00:10:31,920 --> 00:10:33,200
+the material. 
+Exactly. 
+
+224
+00:10:33,240 --> 00:10:36,560
+It fits perfectly here. 
+When you have a government that 
+
+225
+00:10:36,560 --> 00:10:40,760
+can collect massive amounts of 
+information, that data becomes a
+
+226
+00:10:40,760 --> 00:10:44,280
+powerful instrument for control.
+It doesn't have to be used for 
+
+227
+00:10:44,280 --> 00:10:47,880
+heavy-handed prosecutions. 
+The mere existence of it creates
+
+228
+00:10:47,880 --> 00:10:50,800
+a Society of caution, suspicion 
+and conformity. 
+
+229
+00:10:50,920 --> 00:10:53,480
+The mere existence of the data 
+changes society. 
+
+230
+00:10:53,600 --> 00:10:56,360
+Wow, it creates that chilling 
+effect, that sense of being 
+
+231
+00:10:56,360 --> 00:10:58,960
+watched, which leads to self 
+censorship. 
+
+232
+00:10:59,040 --> 00:11:01,640
+And this goes beyond just 
+individuals expressing views 
+
+233
+00:11:01,640 --> 00:11:04,160
+online. 
+What about organized groups like
+
+234
+00:11:04,160 --> 00:11:06,600
+protesters? 
+Yes, the material talks about 
+
+235
+00:11:06,600 --> 00:11:09,960
+predictive policing in this 
+context, using platform and data
+
+236
+00:11:09,960 --> 00:11:13,360
+not just after the fact but 
+before protests to monitor 
+
+237
+00:11:13,360 --> 00:11:15,960
+discussions and flag potential 
+agitators. 
+
+238
+00:11:15,960 --> 00:11:18,640
+Predicting trouble. 
+Essentially, and in some cases, 
+
+239
+00:11:18,840 --> 00:11:22,560
+cities actually partnered with 
+tech firms to map out networks 
+
+240
+00:11:22,560 --> 00:11:26,560
+of influence among activists, 
+identifying key people, 
+
+241
+00:11:26,600 --> 00:11:29,600
+potential flashpoints. 
+Mapping activist networks. 
+
+242
+00:11:29,600 --> 00:11:33,320
+The material describes it 
+starkly, an approach straight 
+
+243
+00:11:33,320 --> 00:11:37,600
+out of the CCP's playbook for 
+dissent control, again drawing 
+
+244
+00:11:37,600 --> 00:11:40,480
+that direct, unsettling parallel
+in methodology. 
+
+245
+00:11:40,520 --> 00:11:42,400
+OK, so the methods start to look
+similar. 
+
+246
+00:11:42,600 --> 00:11:45,080
+What about the relationship 
+between the state and the tech 
+
+247
+00:11:45,080 --> 00:11:47,720
+companies themselves? 
+That seems like a key difference
+
+248
+00:11:47,720 --> 00:11:48,920
+usually. 
+Right. 
+
+249
+00:11:49,000 --> 00:11:51,880
+And the material tackles this 
+head on with the idea of state 
+
+250
+00:11:51,880 --> 00:11:54,640
+corporate fusion, calling it the
+new Leviathan. 
+
+251
+00:11:54,720 --> 00:11:57,520
+Sounds ominous, yeah. 
+How does it compare the US and 
+
+252
+00:11:57,520 --> 00:11:59,120
+China here? 
+In China, it's pretty 
+
+253
+00:11:59,120 --> 00:12:01,600
+straightforward, right? 
+The CCP basically compels tech 
+
+254
+00:12:01,600 --> 00:12:05,080
+companies to hand over data. 
+Share everything with the state 
+
+255
+00:12:05,520 --> 00:12:07,520
+top down command. 
+OK, that's clear 
+
+256
+00:12:07,520 --> 00:12:09,880
+authoritarianism. 
+But in the US, the approach is 
+
+257
+00:12:09,880 --> 00:12:13,080
+different, maybe more subtle. 
+The state doesn't usually compel
+
+258
+00:12:13,080 --> 00:12:16,160
+in the same way. 
+Instead, it quote, contracts out
+
+259
+00:12:16,160 --> 00:12:18,680
+its surveillance. 
+Pays companies for the data. 
+
+260
+00:12:18,840 --> 00:12:21,400
+Exactly. 
+Huge government contracts for 
+
+261
+00:12:21,400 --> 00:12:24,480
+data access, Algorithmic 
+analysis, Predictive tools. 
+
+262
+00:12:24,920 --> 00:12:28,080
+But the material argues the 
+effect is largely the same. 
+
+263
+00:12:28,240 --> 00:12:30,720
+How so? 
+Because it results in a quote, 
+
+264
+00:12:30,960 --> 00:12:34,560
+seamless flow of data from your 
+phone, your bank, your face, 
+
+265
+00:12:34,560 --> 00:12:38,360
+into the hands of power. 
+Whether compelled or contracted,
+
+266
+00:12:38,360 --> 00:12:40,320
+the data ends up in the same 
+place. 
+
+267
+00:12:40,560 --> 00:12:44,040
+And this public private 
+partnership is presented as the 
+
+268
+00:12:44,040 --> 00:12:47,080
+new norm. 
+The new bipartisan ideology, 
+
+269
+00:12:47,080 --> 00:12:49,280
+according to the text. 
+It's just how things are done 
+
+270
+00:12:49,280 --> 00:12:50,880
+now, regardless of who's in 
+charge. 
+
+271
+00:12:51,160 --> 00:12:53,440
+It's less about if the state 
+gets the data, more about the 
+
+272
+00:12:53,440 --> 00:12:54,960
+mechanism and the payment 
+involved. 
+
+273
+00:12:54,960 --> 00:12:58,480
+And Teal's role comes back here,
+his investments in Palantir 
+
+274
+00:12:58,560 --> 00:13:01,200
+Facebook. 
+The material argues these aren't
+
+275
+00:13:01,200 --> 00:13:03,360
+contradictions to this 
+philosophy, but logical 
+
+276
+00:13:03,360 --> 00:13:06,480
+extensions of it. 
+Belief in monopoly hierarchy, 
+
+277
+00:13:06,480 --> 00:13:10,320
+Managing memetic desire. 
+Maybe Chaos is fine if you have 
+
+278
+00:13:10,320 --> 00:13:12,680
+the tools to manage it. 
+Tools provided by companies like
+
+279
+00:13:12,680 --> 00:13:14,840
+Palantir. 
+So he invests in the tools to 
+
+280
+00:13:14,840 --> 00:13:19,080
+manage the chaos he potentially 
+sees as inevitable or even 
+
+281
+00:13:19,080 --> 00:13:21,040
+useful. 
+That's the interpretation 
+
+282
+00:13:21,040 --> 00:13:22,720
+offered. 
+It paints a picture of him 
+
+283
+00:13:22,720 --> 00:13:26,480
+seeing these tech platforms not 
+just as businesses, but as 
+
+284
+00:13:26,520 --> 00:13:29,600
+instruments for shaping society 
+according to his hierarchical 
+
+285
+00:13:29,600 --> 00:13:30,960
+vision. 
+And what about the political 
+
+286
+00:13:30,960 --> 00:13:32,800
+angle? 
+Politicians who criticize Big 
+
+287
+00:13:32,800 --> 00:13:35,080
+Tech publicly. 
+Like Trump and his circle 
+
+288
+00:13:35,080 --> 00:13:37,280
+railing against liberal Silicon 
+Valley? 
+
+289
+00:13:37,320 --> 00:13:40,240
+Yeah, the material suggests that
+even while they criticize 
+
+290
+00:13:40,240 --> 00:13:45,560
+publicly, they privately see 
+these very tools, the data, the 
+
+291
+00:13:45,560 --> 00:13:49,320
+algorithms, as essential means 
+to achieve their goals, 
+
+292
+00:13:49,640 --> 00:13:52,160
+restoring order, achieving 
+greatness. 
+
+293
+00:13:52,360 --> 00:13:54,920
+So criticize the power 
+structure, but uses tools 
+
+294
+00:13:54,920 --> 00:13:57,200
+anyway. 
+A strategic embrace, perhaps A 
+
+295
+00:13:57,200 --> 00:13:59,200
+bit cynical. 
+Maybe like that Josh Hawley 
+
+296
+00:13:59,200 --> 00:14:01,680
+quote in the material about 
+fighting the robber barons of 
+
+297
+00:14:01,680 --> 00:14:05,160
+Big Tech to recover America's 
+populist democracy. 
+
+298
+00:14:05,240 --> 00:14:07,640
+Right, I remember that. 
+He's voicing a real concern, but
+
+299
+00:14:07,640 --> 00:14:10,200
+the underlying theme across the 
+political spectrum often 
+
+300
+00:14:10,200 --> 00:14:14,000
+involves wanting to control or 
+shape the information flow, even
+
+301
+00:14:14,000 --> 00:14:15,320
+if the justification is 
+different. 
+
+302
+00:14:15,320 --> 00:14:19,040
+OK, the material then focuses on
+a really specific and disturbing
+
+303
+00:14:19,040 --> 00:14:22,680
+parallel targeting immigrants 
+and minorities. 
+
+304
+00:14:22,800 --> 00:14:24,480
+It calls it a universal 
+playbook. 
+
+305
+00:14:24,760 --> 00:14:28,240
+Yeah, it starts with a known 
+example, the CCP's use of 
+
+306
+00:14:28,240 --> 00:14:30,600
+surveillance against Eagers and 
+dissidents. 
+
+307
+00:14:31,040 --> 00:14:33,840
+That's the established benchmark
+for this kind of targeted 
+
+308
+00:14:33,840 --> 00:14:35,680
+control. 
+But then it applies it to the 
+
+309
+00:14:35,680 --> 00:14:37,640
+US. 
+Directly, it highlights how 
+
+310
+00:14:37,640 --> 00:14:41,120
+under Trump, ICE used social 
+media monitoring and predictive 
+
+311
+00:14:41,120 --> 00:14:44,040
+analytics, specifically against 
+immigrants and even U.S. 
+
+312
+00:14:44,040 --> 00:14:46,320
+citizens with immigrant family 
+backgrounds. 
+
+313
+00:14:46,320 --> 00:14:49,560
+Based on what their posts, who 
+they do online, both. 
+
+314
+00:14:50,080 --> 00:14:52,520
+Building cases. 
+Identifying perceived risks 
+
+315
+00:14:52,520 --> 00:14:56,000
+within specific communities 
+based on identity associations. 
+
+316
+00:14:56,000 --> 00:14:58,720
+Online speech. 
+The material mentions anecdotal 
+
+317
+00:14:58,720 --> 00:15:01,120
+reports from that time. 
+Of people being detained or 
+
+318
+00:15:01,120 --> 00:15:04,000
+deported based on old tweets, 
+Facebook friends. 
+
+319
+00:15:04,000 --> 00:15:05,280
+Exactly. 
+Things like that. 
+
+320
+00:15:05,520 --> 00:15:09,400
+And the core logic the material 
+claims is disturbingly the same.
+
+321
+00:15:09,800 --> 00:15:11,920
+Identify, isolate, neutralize. 
+Wow. 
+
+322
+00:15:12,840 --> 00:15:16,120
+Identify, isolate, neutralize. 
+The argument is the only real 
+
+323
+00:15:16,120 --> 00:15:18,880
+difference lies in the mechanics
+and branding, not the 
+
+324
+00:15:18,880 --> 00:15:21,880
+fundamental goal of controlling 
+a specific population group 
+
+325
+00:15:21,880 --> 00:15:24,920
+deemed problematic. 
+That branding difference, yeah, 
+
+326
+00:15:24,920 --> 00:15:26,800
+it comes up again with the 
+language used, right? 
+
+327
+00:15:26,840 --> 00:15:29,000
+The philosophical rhetoric. 
+Yeah, absolutely. 
+
+328
+00:15:29,160 --> 00:15:32,240
+The CCP talks about harmony, 
+stability, national 
+
+329
+00:15:32,240 --> 00:15:35,840
+rejuvenation, words that sound 
+positive, collective. 
+
+330
+00:15:36,000 --> 00:15:40,000
+While the US right like Trump or
+Thiel talks about order 
+
+331
+00:15:40,280 --> 00:15:45,040
+security, American greatness 
+also sounds positive but maybe 
+
+332
+00:15:45,040 --> 00:15:47,360
+more nationalist or security 
+focused. 
+
+333
+00:15:47,400 --> 00:15:49,400
+Right. 
+But the material argues both 
+
+334
+00:15:49,400 --> 00:15:52,960
+sets of terms are essentially 
+code for control, code for 
+
+335
+00:15:52,960 --> 00:15:56,360
+managing risk, for channeling 
+that potentially chaotic mimetic
+
+336
+00:15:56,360 --> 00:15:59,720
+desire away from the powerful 
+and towards acceptable targets. 
+
+337
+00:16:00,000 --> 00:16:01,200
+Immigrants. 
+Dissidents. 
+
+338
+00:16:01,200 --> 00:16:03,680
+Political opponents. 
+So different words, same 
+
+339
+00:16:03,680 --> 00:16:06,800
+underlying goal. 
+Keep power, suppress threats, 
+
+340
+00:16:06,920 --> 00:16:08,680
+manage the masses from the top 
+down. 
+
+341
+00:16:08,840 --> 00:16:11,480
+That's the core assertion, and 
+it ties back to Thiel's 
+
+342
+00:16:11,480 --> 00:16:14,840
+skepticism about democracy. 
+His comments like competition is
+
+343
+00:16:14,840 --> 00:16:17,000
+for losers. 
+We're questioning if freedom and
+
+344
+00:16:17,000 --> 00:16:20,160
+democracy are compatible. 
+How does that mirror the CCP? 
+
+345
+00:16:20,240 --> 00:16:23,200
+The material says it mirrors the
+CCP fundamental distrust of 
+
+346
+00:16:23,200 --> 00:16:26,080
+pluralism, of dissent, of messy 
+democratic processes. 
+
+347
+00:16:26,360 --> 00:16:29,920
+It suggests both share a core 
+belief the crowd is dangerous, 
+
+348
+00:16:30,000 --> 00:16:32,360
+the individual as a potential 
+threat and the solution as 
+
+349
+00:16:32,360 --> 00:16:34,640
+hierarchy, surveillance and the 
+management of desire. 
+
+350
+00:16:34,920 --> 00:16:37,560
+A very similar worldview 
+operating under different 
+
+351
+00:16:37,560 --> 00:16:39,840
+political labels. 
+It really brings that Harry 
+
+352
+00:16:39,840 --> 00:16:42,440
+Truman quote from the material 
+into focus, doesn't it? 
+
+353
+00:16:43,040 --> 00:16:46,080
+About governments committed to 
+silencing opposition, only 
+
+354
+00:16:46,080 --> 00:16:49,240
+having one way to go. 
+Down the path of increasingly 
+
+355
+00:16:49,240 --> 00:16:53,600
+repressive measures until it 
+becomes a source of terror and 
+
+356
+00:16:53,600 --> 00:16:56,080
+creates a country where everyone
+lives in fear. 
+
+357
+00:16:57,240 --> 00:16:58,960
+Yeah, that hits hard in this 
+context. 
+
+358
+00:16:59,080 --> 00:17:02,720
+And this leads to the point 
+about denial and camouflage the 
+
+359
+00:17:02,720 --> 00:17:04,480
+American way. 
+How so? 
+
+360
+00:17:04,480 --> 00:17:08,720
+The material observes that the 
+CCP is, in a way, more honest 
+
+361
+00:17:08,720 --> 00:17:11,359
+about its authoritarianism. 
+They don't really pretend it's 
+
+362
+00:17:11,359 --> 00:17:12,800
+something else. 
+Right, it's overt. 
+
+363
+00:17:12,920 --> 00:17:15,800
+Whereas the US administration, 
+particularly the one focused on 
+
+364
+00:17:15,800 --> 00:17:19,880
+in this section, tends to cloak 
+it in the language of law and 
+
+365
+00:17:19,880 --> 00:17:24,200
+order and securing our borders. 
+Using familiar acceptable terms 
+
+366
+00:17:24,200 --> 00:17:26,160
+to justify the same fundamental 
+approach. 
+
+367
+00:17:26,160 --> 00:17:28,920
+Slightly different wrapping. 
+As the material puts it, it's 
+
+368
+00:17:28,920 --> 00:17:32,600
+about making control palatable 
+within a democratic narrative. 
+
+369
+00:17:32,960 --> 00:17:35,480
+A key difference in 
+presentation, if not always an 
+
+370
+00:17:35,480 --> 00:17:38,160
+underlying technique. 
+So where does this convergence 
+
+371
+00:17:38,160 --> 00:17:41,160
+potentially lead? 
+What's the end game according to
+
+372
+00:17:41,400 --> 00:17:43,400
+this argument? 
+An unsettling one? 
+
+373
+00:17:43,800 --> 00:17:47,320
+No place to hide It paints a 
+picture of a world where the 
+
+374
+00:17:47,360 --> 00:17:52,440
+actual infrastructure of control
+is global, modular and for sale 
+
+375
+00:17:52,440 --> 00:17:55,080
+to the highest bidder. 
+Meaning the tech developed in 
+
+376
+00:17:55,080 --> 00:17:57,560
+one place can be easily sold and
+used anywhere. 
+
+377
+00:17:57,680 --> 00:18:01,360
+That's the fear a universally 
+available toolkit for social 
+
+378
+00:18:01,360 --> 00:18:03,640
+management crossing borders 
+easily. 
+
+379
+00:18:03,720 --> 00:18:07,560
+And in that world, the line 
+between free and unfree gets. 
+
+380
+00:18:07,720 --> 00:18:11,400
+Blurred by data, the material 
+concludes that the only real 
+
+381
+00:18:11,400 --> 00:18:14,520
+difference left might just be 
+who gets to pull the levers. 
+
+382
+00:18:14,520 --> 00:18:15,640
+That's a pretty. 
+Bleak outlook. 
+
+383
+00:18:15,840 --> 00:18:19,120
+The tools become universal, the 
+branding fades, and it just 
+
+384
+00:18:19,120 --> 00:18:20,920
+comes down to who's in charge of
+the data flow. 
+
+385
+00:18:21,200 --> 00:18:24,000
+It is stark, though, that 
+Reagan, code included, also 
+
+386
+00:18:24,000 --> 00:18:26,000
+offers a warning, but from a 
+different angle, doesn't it, 
+
+387
+00:18:26,000 --> 00:18:29,320
+about the threat coming not from
+foreign foes but from power 
+
+388
+00:18:29,320 --> 00:18:33,080
+slipping away from the 
+grassroots to a remote central 
+
+389
+00:18:33,080 --> 00:18:35,480
+authority? 
+Yeah, a warning about domestic 
+
+390
+00:18:35,480 --> 00:18:38,720
+centralization of power, which 
+fits the digital surveillance 
+
+391
+00:18:38,720 --> 00:18:41,360
+concern too. 
+So wrapping up this core 
+
+392
+00:18:41,360 --> 00:18:45,440
+argument, the material suggests 
+the US and CCP systems aren't 
+
+393
+00:18:45,440 --> 00:18:48,200
+opposites anymore, if they ever 
+truly were in this digital 
+
+394
+00:18:48,200 --> 00:18:51,600
+realm, they're becoming 
+reflections, learning from each 
+
+395
+00:18:51,600 --> 00:18:55,480
+other, competing, and maybe 
+ultimately resembling each 
+
+396
+00:18:55,480 --> 00:18:58,040
+other. 
+Wow, OK, that is a really 
+
+397
+00:18:58,040 --> 00:19:00,760
+powerful and, like you said, 
+unsettling argument. 
+
+398
+00:19:00,880 --> 00:19:03,360
+It is, but remember, that's just
+one side of the coin, right? 
+
+399
+00:19:03,440 --> 00:19:06,120
+The material itself insists we 
+look at the other side, the 
+
+400
+00:19:06,120 --> 00:19:08,200
+counterpoints, the critiques. 
+Right, Section 3. 
+
+401
+00:19:08,880 --> 00:19:11,080
+The other side of the coin, 
+Counterpoints and critical 
+
+402
+00:19:11,080 --> 00:19:12,920
+analysis. 
+We need this balance. 
+
+403
+00:19:13,120 --> 00:19:15,120
+Absolutely. 
+And the first big counterpoint 
+
+404
+00:19:15,120 --> 00:19:17,080
+is basically. 
+It's not so neat. 
+
+405
+00:19:17,080 --> 00:19:19,000
+Meaning the mirror image idea is
+too simple. 
+
+406
+00:19:19,120 --> 00:19:21,760
+Exactly. 
+It's too neat, maybe overlooks 
+
+407
+00:19:21,760 --> 00:19:25,320
+crucial differences. 
+The reality is messier. 
+
+408
+00:19:25,360 --> 00:19:28,360
+Like what key differences? 
+The most fundamental one, the 
+
+409
+00:19:28,360 --> 00:19:30,920
+CCP, is a one party 
+authoritarian state. 
+
+410
+00:19:30,920 --> 00:19:33,560
+Period. 
+No Free Press, no independent 
+
+411
+00:19:33,560 --> 00:19:36,080
+courts that can really challenge
+the party, no meaningful 
+
+412
+00:19:36,080 --> 00:19:38,280
+elections. 
+That structure changes 
+
+413
+00:19:38,280 --> 00:19:40,280
+everything about how 
+surveillance is used and 
+
+414
+00:19:40,280 --> 00:19:41,960
+experienced. 
+OK, where's in the US? 
+
+415
+00:19:42,120 --> 00:19:45,240
+In the US, even with a growing 
+surveillance apparatus, there 
+
+416
+00:19:45,240 --> 00:19:48,400
+are still brakes. 
+Imperfect ones, sure, but they 
+
+417
+00:19:48,400 --> 00:19:50,680
+exist. 
+Courts can rule against the 
+
+418
+00:19:50,680 --> 00:19:53,240
+government. 
+Whistleblowers leak things. 
+
+419
+00:19:53,520 --> 00:19:55,800
+Journalists investigate. 
+There are lawsuits. 
+
+420
+00:19:55,960 --> 00:19:58,200
+There's Congress, messy as it 
+is. 
+
+421
+00:19:58,200 --> 00:20:02,280
+So mechanisms for pushback and 
+accountability still exist, even
+
+422
+00:20:02,280 --> 00:20:04,000
+if they're under pressure. 
+They do. 
+
+423
+00:20:04,520 --> 00:20:07,840
+They add friction which isn't 
+really present in the same way 
+
+424
+00:20:07,840 --> 00:20:09,920
+in the CCP system. 
+What about the methods of 
+
+425
+00:20:09,920 --> 00:20:11,600
+control? 
+Are they really the same? 
+
+426
+00:20:11,800 --> 00:20:15,000
+The material offers the carrot 
+versus stick distinction here. 
+
+427
+00:20:15,360 --> 00:20:18,440
+America's version, it argues, is
+often about selling the 
+
+428
+00:20:18,440 --> 00:20:21,320
+convenience of being watched. 
+The give us your data will give 
+
+429
+00:20:21,320 --> 00:20:23,480
+you dopamine model. 
+Yeah, basically, you trade 
+
+430
+00:20:23,480 --> 00:20:26,560
+privacy for personalized 
+services, targeted ads, easy 
+
+431
+00:20:26,560 --> 00:20:29,400
+logins, cool features. 
+There's often an element of 
+
+432
+00:20:29,400 --> 00:20:32,960
+perceived benefit and opt in, 
+even if the implications aren't 
+
+433
+00:20:32,960 --> 00:20:35,480
+always clear. 
+Where is the CCP PS approach is?
+
+434
+00:20:35,480 --> 00:20:38,200
+Much more stick. 
+Overt social credit scores 
+
+435
+00:20:38,200 --> 00:20:40,480
+affecting your life. 
+Direct punishment for non 
+
+436
+00:20:40,480 --> 00:20:43,440
+compliance re education camps in
+extreme cases. 
+
+437
+00:20:43,840 --> 00:20:48,520
+It's coercion, not convenience. 
+So similar tech maybe, but the 
+
+438
+00:20:48,520 --> 00:20:51,480
+incentive structure and a lived 
+experience are totally 
+
+439
+00:20:51,480 --> 00:20:53,640
+different. 
+Fundamentally different, this 
+
+440
+00:20:53,640 --> 00:20:56,280
+counterpoint argues. 
+OK, this sounds related to that 
+
+441
+00:20:56,280 --> 00:20:58,760
+other big rebuttal surveillance 
+capitalism. 
+
+442
+00:20:58,840 --> 00:21:01,040
+The surveillance. 
+State exactly, drawing on 
+
+443
+00:21:01,040 --> 00:21:04,800
+Shoshanna Zubach's work, the 
+core ideas about the motive. 
+
+444
+00:21:05,000 --> 00:21:06,880
+Right, in the US, the main 
+driver is. 
+
+445
+00:21:07,040 --> 00:21:09,520
+Profit. 
+Overwhelmingly. 
+
+446
+00:21:09,520 --> 00:21:12,680
+It's about profit Algorithm 
+shape behavior to get you to 
+
+447
+00:21:12,680 --> 00:21:15,560
+click ads, buy products, stay 
+engaged longer. 
+
+448
+00:21:15,760 --> 00:21:19,040
+It's about monetization, not 
+necessarily direct ideological 
+
+449
+00:21:19,040 --> 00:21:23,240
+control by the state. 
+So Meta, Google, Amazon, they 
+
+450
+00:21:23,240 --> 00:21:25,480
+feed on our engagement, our 
+outrage, sure. 
+
+451
+00:21:25,480 --> 00:21:27,520
+But. 
+But crucially, they don't answer
+
+452
+00:21:27,520 --> 00:21:30,720
+to a single party chairman. 
+Their primary loyalty is to 
+
+453
+00:21:30,720 --> 00:21:34,000
+shareholders, to revenue growth.
+It's a commercial logic, not 
+
+454
+00:21:34,200 --> 00:21:37,080
+primarily a political one 
+dictated by a ruling party. 
+
+455
+00:21:37,120 --> 00:21:38,880
+That creates a very different 
+dynamic. 
+
+456
+00:21:38,880 --> 00:21:41,320
+They might enable state 
+surveillance through contracts, 
+
+457
+00:21:41,640 --> 00:21:44,520
+but their core business isn't 
+the same as the states. 
+
+458
+00:21:44,840 --> 00:21:46,920
+That's the distinction this 
+rebuttal emphasizes. 
+
+459
+00:21:47,160 --> 00:21:48,840
+OK, what about the fact checking
+part? 
+
+460
+00:21:49,080 --> 00:21:52,640
+What did the material confirm is
+true and what did it say was 
+
+461
+00:21:52,640 --> 00:21:55,200
+maybe overstated in the main 
+argument? 
+
+462
+00:21:55,200 --> 00:21:57,280
+It confirms some key things we 
+discussed. 
+
+463
+00:21:57,880 --> 00:22:01,800
+Yes, ICEA did scrape social 
+media for risky immigrant posts.
+
+464
+00:22:02,240 --> 00:22:05,200
+Yes, predictive policing was 
+used to flag activists. 
+
+465
+00:22:05,480 --> 00:22:08,280
+Yes, Peter Thiel has publicly 
+questioned democracy. 
+
+466
+00:22:08,280 --> 00:22:10,320
+These are factual. 
+It was overstated. 
+
+467
+00:22:10,440 --> 00:22:14,120
+The idea of the US system being 
+same machinery, same result, 
+
+468
+00:22:14,120 --> 00:22:17,440
+that's called 2 pat. 
+It ignores constitutional limits
+
+469
+00:22:17,440 --> 00:22:20,680
+even if they're tested and the 
+real pushback from activists and
+
+470
+00:22:20,680 --> 00:22:22,680
+courts. 
+Outcomes aren't identical. 
+
+471
+00:22:23,000 --> 00:22:26,520
+And the no place to hide idea is
+also flagged as overstated. 
+
+472
+00:22:27,120 --> 00:22:30,040
+While surveillance is pervasive,
+we do have countermeasures. 
+
+473
+00:22:30,440 --> 00:22:32,600
+Encryption is still widely 
+available and legal. 
+
+474
+00:22:32,680 --> 00:22:35,680
+We have things like GDPR 
+influencing privacy globally, 
+
+475
+00:22:35,840 --> 00:22:39,840
+FOIA requests, lawsuits, tools 
+like Signal and Tor. 
+
+476
+00:22:40,000 --> 00:22:42,280
+So there are ways to resist or 
+create friction. 
+
+477
+00:22:42,280 --> 00:22:44,320
+It's not a totally sealed 
+system. 
+
+478
+00:22:44,360 --> 00:22:45,880
+Right. 
+There's still agency, still 
+
+479
+00:22:45,880 --> 00:22:48,160
+tools for pushback. 
+The material also adds more 
+
+480
+00:22:48,160 --> 00:22:50,280
+complexity, right? 
+These contextual threads and 
+
+481
+00:22:50,280 --> 00:22:52,360
+tangles. 
+Yeah, complicating the simple 
+
+482
+00:22:52,360 --> 00:22:55,960
+narratives, For example, Thiel 
+and Trump, or the GOP more 
+
+483
+00:22:56,080 --> 00:22:59,360
+broadly, it's not a unified 
+block on surveillance. 
+
+484
+00:22:59,360 --> 00:23:02,440
+You have libertarians opposing 
+mass surveillance clashing with 
+
+485
+00:23:02,440 --> 00:23:06,000
+populist who might favor it. 
+For law and order, there's 
+
+486
+00:23:06,000 --> 00:23:08,440
+internal division. 
+Makes sense and the state versus
+
+487
+00:23:08,440 --> 00:23:10,840
+corporate dynamic? 
+It reiterates that difference. 
+
+488
+00:23:10,880 --> 00:23:14,080
+China compels data sharing. the 
+US contracts it out. 
+
+489
+00:23:14,320 --> 00:23:17,080
+The counterpoint argues the 
+outcome isn't quite the same 
+
+490
+00:23:17,080 --> 00:23:19,080
+because of that friction. 
+We mentioned court battles, 
+
+491
+00:23:19,080 --> 00:23:23,240
+leaks, contract negotiations. 
+It's not as seamless as the main
+
+492
+00:23:23,240 --> 00:23:26,160
+argument might imply. 
+OK, and what about big tech 
+
+493
+00:23:26,160 --> 00:23:28,640
+itself? 
+Is it just a tool for the right 
+
+494
+00:23:28,640 --> 00:23:30,760
+or? 
+No, and this is important, the 
+
+495
+00:23:30,760 --> 00:23:32,920
+material points out big tech's 
+inconsistency. 
+
+496
+00:23:32,920 --> 00:23:35,480
+Yes, they sometimes censor 
+conservatives, but they've also 
+
+497
+00:23:35,480 --> 00:23:38,800
+censored leftists, pro 
+Palestinian voices, anti vax 
+
+498
+00:23:38,800 --> 00:23:40,720
+people. 
+It's described less as a 
+
+499
+00:23:40,720 --> 00:23:44,920
+consistent ideological enforcer 
+and more as a chaos machine. 
+
+500
+00:23:44,920 --> 00:23:46,600
+A. 
+Chaos machine meaning. 
+
+501
+00:23:46,840 --> 00:23:50,000
+Driven by engagement, ad 
+revenue, and often clumsy 
+
+502
+00:23:50,000 --> 00:23:53,840
+reactive content moderation 
+policies rather than a single 
+
+503
+00:23:53,840 --> 00:23:57,560
+coherent political agenda, it 
+challenges the idea that it's a 
+
+504
+00:23:57,560 --> 00:23:59,640
+simple monolith serving one 
+side. 
+
+505
+00:23:59,960 --> 00:24:02,720
+It's messier than that. 
+And the nuance extends to China 
+
+506
+00:24:02,720 --> 00:24:05,160
+too, right? 
+Avoiding the cartoon villain 
+
+507
+00:24:05,160 --> 00:24:07,360
+trap. 
+Yes, the counter analysis 
+
+508
+00:24:07,360 --> 00:24:10,920
+cautions against that. 
+It suggests thinking of the CCP 
+
+509
+00:24:10,920 --> 00:24:13,920
+leadership as strategic, long 
+term thinkers. 
+
+510
+00:24:14,360 --> 00:24:17,800
+They think in centuries. 
+They test, adapt, respond to 
+
+511
+00:24:17,800 --> 00:24:20,520
+carrot and stick. 
+More practical than evil, as the
+
+512
+00:24:20,520 --> 00:24:22,560
+material puts it. 
+Not excusing them, but 
+
+513
+00:24:22,560 --> 00:24:25,240
+understanding their approach. 
+Exactly, understanding their 
+
+514
+00:24:25,240 --> 00:24:27,640
+pragmatism, their realism, their
+nationalism. 
+
+515
+00:24:27,640 --> 00:24:30,480
+And it adds that they watch the 
+US with a mix of fear and 
+
+516
+00:24:30,480 --> 00:24:33,280
+amusement, which adds a layer 
+beyond just seeing them as a 
+
+517
+00:24:33,280 --> 00:24:35,600
+monolithic threat. 
+OK, that's a lot of important 
+
+518
+00:24:35,600 --> 00:24:37,400
+nuance. 
+What about those quick FAQs 
+
+519
+00:24:37,640 --> 00:24:40,680
+mentioned? 
+Right distilled points feel on 
+
+520
+00:24:40,680 --> 00:24:43,080
+democracy. 
+Clear skepticism. 
+
+521
+00:24:43,160 --> 00:24:46,680
+Competition is for losers. 
+US copying China's playbook, 
+
+522
+00:24:47,200 --> 00:24:49,760
+Similar tech, different 
+incentives, profit versus 
+
+523
+00:24:49,760 --> 00:24:52,720
+absolute control. 
+Trump expanding surveillance. 
+
+524
+00:24:53,200 --> 00:24:58,480
+Yes, ICEHHS used social media in
+new ways and the Biden admin 
+
+525
+00:24:58,480 --> 00:25:01,000
+hasn't reversed. 
+All of it shows continuity. 
+
+526
+00:25:01,240 --> 00:25:05,160
+And the big one, can we resist? 
+The answer given is yes. 
+
+527
+00:25:05,800 --> 00:25:09,240
+Privacy tech, strong data laws, 
+whistleblowers and relentless 
+
+528
+00:25:09,240 --> 00:25:12,640
+pushback all work. 
+And crucially, encryption is 
+
+529
+00:25:12,640 --> 00:25:14,960
+still legal. 
+For now, it points to concrete 
+
+530
+00:25:14,960 --> 00:25:17,680
+tools and strategies. 
+So resistance is possible. 
+
+531
+00:25:17,680 --> 00:25:19,440
+It's not a completely hopeless 
+situation. 
+
+532
+00:25:19,520 --> 00:25:21,080
+Not according to this analysis, 
+no. 
+
+533
+00:25:21,160 --> 00:25:22,640
+There are levers we can still 
+pull. 
+
+534
+00:25:22,680 --> 00:25:25,000
+OK, so taking all that in the 
+core argument and the 
+
+535
+00:25:25,000 --> 00:25:26,320
+counterpoints, where does that 
+leave us? 
+
+536
+00:25:26,320 --> 00:25:29,360
+Section 4. 
+The path forward resistance and 
+
+537
+00:25:29,360 --> 00:25:31,160
+reflection. 
+Well, the starting point is 
+
+538
+00:25:31,160 --> 00:25:34,200
+accepting A baseline reality. 
+Surveillance is here to stay. 
+
+539
+00:25:34,280 --> 00:25:36,960
+It's baked into modern life now.
+Right, we can't really put that 
+
+540
+00:25:36,960 --> 00:25:38,840
+genie back in the bottle. 
+Probably not. 
+
+541
+00:25:39,120 --> 00:25:41,400
+So the real question, the 
+critical fork in the road, isn't
+
+542
+00:25:41,400 --> 00:25:44,120
+if surveillance exists, but 
+whether it ultimately imprisons 
+
+543
+00:25:44,120 --> 00:25:46,600
+or empowers. 
+Imprisons or empowers? 
+
+544
+00:25:47,000 --> 00:25:49,840
+Meaning, does it just lock us 
+into hierarchies and control? 
+
+545
+00:25:49,840 --> 00:25:54,040
+Or can we somehow harness it? 
+Can data be used to build a 
+
+546
+00:25:54,040 --> 00:25:56,760
+freer future if we keep dragging
+it into the light? 
+
+547
+00:25:57,120 --> 00:26:00,280
+Can we make it work for 
+transparency, accountability, 
+
+548
+00:26:00,280 --> 00:26:03,320
+individual agency instead of 
+just top down control? 
+
+549
+00:26:03,440 --> 00:26:06,640
+That's a huge question. 
+Can we turn a tool of control 
+
+550
+00:26:06,800 --> 00:26:09,720
+into a tool for freedom? 
+It's about agency, isn't it? 
+
+551
+00:26:10,040 --> 00:26:14,200
+Can we collectively shape how 
+these powerful tools are used, 
+
+552
+00:26:14,360 --> 00:26:18,480
+ensure they serve us, rather 
+than just observe and manage us?
+
+553
+00:26:18,480 --> 00:26:20,200
+And the material ends with that 
+metaphor, right? 
+
+554
+00:26:20,200 --> 00:26:22,320
+The coin, yeah. 
+The coin doesn't just have two 
+
+555
+00:26:22,320 --> 00:26:24,840
+sides, it spins. 
+Meaning it's not a fixed state, 
+
+556
+00:26:24,960 --> 00:26:27,400
+it's dynamic, always changing. 
+Exactly. 
+
+557
+00:26:27,640 --> 00:26:30,960
+It's not US versus China as 
+static opposites or surveillance
+
+558
+00:26:30,960 --> 00:26:34,360
+versus freedom as a done deal. 
+It's an ongoing process. 
+
+559
+00:26:34,800 --> 00:26:37,840
+Control and influence are 
+constantly shifting, adapting. 
+
+560
+00:26:38,040 --> 00:26:40,480
+The situation is. 
+Fluid, which means we need to 
+
+561
+00:26:40,480 --> 00:26:43,160
+stay vigilant, keep questioning.
+It's a call to active 
+
+562
+00:26:43,160 --> 00:26:44,960
+engagement. 
+Definitely challenge the 
+
+563
+00:26:44,960 --> 00:26:46,840
+narratives, demand 
+accountability. 
+
+564
+00:26:47,120 --> 00:26:50,120
+The tech itself might be 
+neutral, but how it's used, the 
+
+565
+00:26:50,120 --> 00:26:53,240
+context, the intent, that's what
+matters for freedom and power. 
+
+566
+00:26:53,520 --> 00:26:56,640
+OK, wow, we have covered a lot 
+today. 
+
+567
+00:26:56,880 --> 00:27:00,000
+A really deep dive into these 
+parallels, often unsettling 
+
+568
+00:27:00,000 --> 00:27:03,480
+ones, between US and Chinese 
+surveillance explored feels 
+
+569
+00:27:03,480 --> 00:27:06,120
+influence. 
+But also, importantly, consider 
+
+570
+00:27:06,120 --> 00:27:08,840
+those crucial counterpoints that
+add the nuance we need. 
+
+571
+00:27:09,000 --> 00:27:11,960
+It's definitely a lot to chew 
+on, but understanding these 
+
+572
+00:27:11,960 --> 00:27:16,440
+convergences, the differences in
+motivation, the shared tools, it
+
+573
+00:27:16,440 --> 00:27:18,960
+feels essential for figuring out
+where we're headed. 
+
+574
+00:27:18,960 --> 00:27:21,680
+You know this stuff impacts your
+life every single day. 
+
+575
+00:27:21,760 --> 00:27:24,080
+Absolutely. 
+So the big question for you 
+
+576
+00:27:24,080 --> 00:27:26,720
+listening in What does this all 
+mean for you? 
+
+577
+00:27:27,360 --> 00:27:30,720
+In this world of constant data 
+collection, how much control do 
+
+578
+00:27:30,720 --> 00:27:33,160
+you feel you have? 
+Maybe more importantly, how can 
+
+579
+00:27:33,160 --> 00:27:36,400
+you help ensure these tools 
+serve freedom, not diminish it? 
+
+580
+00:27:36,480 --> 00:27:38,080
+Can we really imagine that 
+future? 
+
+581
+00:27:38,080 --> 00:27:41,600
+The material asks about where 
+data empowers rather than 
+
+582
+00:27:41,600 --> 00:27:43,560
+imprisons? 
+What would that even look like? 
+
+583
+00:27:43,600 --> 00:27:45,880
+This deep dive, really, it's 
+just scratching the surface. 
+
+584
+00:27:45,880 --> 00:27:48,680
+It's the start of understanding 
+these huge shifts in power and 
+
+585
+00:27:48,680 --> 00:27:50,320
+tech. 
+What stood out most to you 
+
+586
+00:27:50,320 --> 00:27:51,720
+today? 
+What are you going to do with 
+
+587
+00:27:51,720 --> 00:27:53,040
+this information, this 
+perspective? 
+
+588
+00:27:53,040 --> 00:27:54,960
+Keep digging, keep asking 
+questions. 
+
+589
+00:27:55,160 --> 00:27:59,800
+And keep challenging the stories
+we tell ourselves about freedom,
+
+590
+00:28:00,040 --> 00:28:03,520
+power, tech. 
+Because, like the material says,
+
+591
+00:28:03,520 --> 00:28:06,080
+that coin is spinning, and 
+understanding which way it's 
+
+592
+00:28:06,080 --> 00:28:08,000
+turning, well, that feels more 
+important than ever.
+

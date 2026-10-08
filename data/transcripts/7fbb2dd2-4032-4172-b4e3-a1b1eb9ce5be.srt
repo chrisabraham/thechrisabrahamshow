@@ -1,0 +1,4065 @@
+1
+00:00:00,040 --> 00:00:02,400
+Welcome, curious minds, to 
+another deep dive. 
+
+2
+00:00:02,640 --> 00:00:06,680
+Today, we're plunging head first
+into a topic that sparks just 
+
+3
+00:00:06,680 --> 00:00:08,960
+incredibly strong feelings and 
+endless debate. 
+
+4
+00:00:09,160 --> 00:00:12,320
+Yet it's often surprisingly 
+misunderstood the true nature of
+
+5
+00:00:12,320 --> 00:00:14,120
+a police officer. 
+You know, there's this prevalent
+
+6
+00:00:14,120 --> 00:00:17,040
+modern sentiment, a kind of 
+hopeful wish, really, that law 
+
+7
+00:00:17,040 --> 00:00:19,200
+enforcement could be, well, a 
+lot of things. 
+
+8
+00:00:19,400 --> 00:00:22,280
+We often hear the desire for 
+them to be multifaceted 
+
+9
+00:00:22,280 --> 00:00:24,800
+community figures, almost like 
+therapists or, you know, social 
+
+10
+00:00:24,800 --> 00:00:27,800
+workers capable of softening the
+world's edges when chaos 
+
+11
+00:00:27,800 --> 00:00:30,480
+inevitably erupts. 
+And that's precisely our 
+
+12
+00:00:30,480 --> 00:00:32,840
+mission. 
+With this deep dive, we're going
+
+13
+00:00:32,840 --> 00:00:35,760
+to try and strip away those 
+romanticizations, those well 
+
+14
+00:00:35,760 --> 00:00:40,480
+meaning but ultimately 
+uncomfortable emissions to truly
+
+15
+00:00:40,480 --> 00:00:42,960
+understand what a law 
+enforcement officer and Elio 
+
+16
+00:00:42,960 --> 00:00:45,320
+fundamentally is, and perhaps 
+more importantly, what they 
+
+17
+00:00:45,320 --> 00:00:48,320
+fundamentally are not. 
+And we're basing this directly 
+
+18
+00:00:48,320 --> 00:00:50,080
+on the rich source material 
+we've gathered. 
+
+19
+00:00:50,360 --> 00:00:54,120
+We'll offer a well a clear eyed 
+reminder of their core role, 
+
+20
+00:00:54,120 --> 00:00:58,480
+weaving in historical context 
+some surprising data and some 
+
+21
+00:00:58,480 --> 00:01:02,000
+compelling analogies to 
+illuminate this complex reality.
+
+22
+00:01:02,000 --> 00:01:03,760
+This isn't about taking aside, 
+not at all. 
+
+23
+00:01:03,920 --> 00:01:06,720
+It's about providing you with a 
+nuanced, practical understanding
+
+24
+00:01:07,000 --> 00:01:09,640
+of a role that impacts all of 
+us, so you can be truly well 
+
+25
+00:01:09,640 --> 00:01:12,560
+informed in your own thinking. 
+Prepare to have some assumptions
+
+26
+00:01:12,560 --> 00:01:15,080
+challenged and hopefully gain a 
+much clearer perspective. 
+
+27
+00:01:15,440 --> 00:01:18,640
+OK, let's unpack this then. 
+When we talk about policing 
+
+28
+00:01:18,640 --> 00:01:22,760
+today, there's this pervasive, 
+almost gentle wish floating 
+
+29
+00:01:22,760 --> 00:01:25,600
+around, especially visible and, 
+you know, public discourse. 
+
+30
+00:01:25,920 --> 00:01:28,640
+It's the idea that officers 
+should embody this incredible 
+
+31
+00:01:28,640 --> 00:01:31,360
+blend, part community therapist,
+part moral guide, part social 
+
+32
+00:01:31,360 --> 00:01:33,280
+worker. 
+The vision is that they'll be 
+
+33
+00:01:33,280 --> 00:01:36,640
+there to soften the harshness of
+the world, to bring a calming, 
+
+34
+00:01:36,640 --> 00:01:39,720
+almost therapeutic presence when
+life gets chaotic, handling 
+
+35
+00:01:39,720 --> 00:01:42,600
+complex social issues with 
+compassion and, you know, de 
+
+36
+00:01:42,600 --> 00:01:44,680
+escalation alone. 
+It's a very appealing image, 
+
+37
+00:01:44,680 --> 00:01:46,880
+isn't it? 
+This idea of a police officer as
+
+38
+00:01:46,880 --> 00:01:49,320
+a universal problem solver, a 
+kind of civic Saint Bernard, 
+
+39
+00:01:49,320 --> 00:01:53,080
+ready to offer aid and comfort. 
+It absolutely is, and it's a 
+
+40
+00:01:53,080 --> 00:01:55,800
+vision that's circulating with 
+incredible velocity, almost like
+
+41
+00:01:55,800 --> 00:01:58,680
+gospel in certain circles. 
+There's a strong push, for 
+
+42
+00:01:58,680 --> 00:02:02,480
+instance, to suggest that before
+you even think about dialing 
+
+43
+00:02:02,480 --> 00:02:06,160
+911, before you summon that 
+uniform presence of the state, 
+
+44
+00:02:06,160 --> 00:02:08,919
+you should pause. 
+You should wave very carefully 
+
+45
+00:02:08,919 --> 00:02:11,480
+whether police involvement might
+actually make the situation 
+
+46
+00:02:11,480 --> 00:02:14,520
+worse, whether it might escalate
+something that could otherwise 
+
+47
+00:02:14,520 --> 00:02:18,080
+be resolved with a softer touch.
+We've all probably encountered 
+
+48
+00:02:18,080 --> 00:02:20,800
+some version of this, perhaps 
+packaged neatly in those 
+
+49
+00:02:21,040 --> 00:02:25,200
+shareable social media carousels
+or earnest public service 
+
+50
+00:02:25,200 --> 00:02:27,880
+announcements advising. 
+Always ask the victim whether 
+
+51
+00:02:27,880 --> 00:02:29,560
+they feel safe involving the 
+police. 
+
+52
+00:02:29,800 --> 00:02:32,640
+Remember, to some, 911 might be 
+violence. 
+
+53
+00:02:32,720 --> 00:02:35,520
+Wow. 
+That's a powerful statement. 911
+
+54
+00:02:35,520 --> 00:02:37,440
+might be violence. 
+It's really designed to make you
+
+55
+00:02:37,440 --> 00:02:40,400
+stop and think, truly consider 
+the potential ramifications of a
+
+56
+00:02:40,400 --> 00:02:42,280
+call for help, isn't it? 
+It truly is. 
+
+57
+00:02:42,440 --> 00:02:45,360
+And look, to be fair, there's an
+undeniable kernel of wisdom in 
+
+58
+00:02:45,360 --> 00:02:47,440
+that caution. 
+A vital historical truth 
+
+59
+00:02:47,520 --> 00:02:49,840
+embedded within it. 
+If we look at the historical 
+
+60
+00:02:49,840 --> 00:02:53,240
+record, it is undeniably crowded
+with moments where the badge, 
+
+61
+00:02:53,520 --> 00:02:56,440
+despite its stated purpose of 
+protecting and serving, did far 
+
+62
+00:02:56,440 --> 00:02:59,720
+more harm than could. 
+Think of the era of Jim Crow 
+
+63
+00:02:59,720 --> 00:03:04,080
+policing, the enforcement of 
+discriminatory laws, or even 
+
+64
+00:03:04,080 --> 00:03:07,080
+more recently documented 
+instances of excessive force and
+
+65
+00:03:07,080 --> 00:03:09,640
+racial profiling. 
+There are countless historical 
+
+66
+00:03:09,640 --> 00:03:12,360
+instances where figures sworn to
+protect ended up failing 
+
+67
+00:03:12,360 --> 00:03:15,520
+spectacularly, even becoming 
+agents of harm themselves. 
+
+68
+00:03:15,960 --> 00:03:18,840
+Acknowledging that uncomfortable
+historical reality is crucial 
+
+69
+00:03:18,840 --> 00:03:20,720
+for any honest discussion about 
+law enforcement. 
+
+70
+00:03:21,480 --> 00:03:24,320
+What often gets lost in these 
+well meaning refrains, what is 
+
+71
+00:03:24,320 --> 00:03:27,440
+almost always omitted, is a 
+clear, unvarnished understanding
+
+72
+00:03:27,440 --> 00:03:30,240
+of what a police officer 
+actually is, and, crucially, 
+
+73
+00:03:30,240 --> 00:03:32,440
+what they are not. 
+That's the critical omission 
+
+74
+00:03:32,440 --> 00:03:35,000
+that leads to so much confusion 
+and, frankly, public 
+
+75
+00:03:35,000 --> 00:03:36,880
+disappointment. 
+Exactly. 
+
+76
+00:03:37,360 --> 00:03:40,440
+And Speaking of romanticized 
+images, let's talk about the old
+
+77
+00:03:40,440 --> 00:03:43,000
+beat cop. 
+You know, that classic, almost 
+
+78
+00:03:43,000 --> 00:03:46,320
+nostalgic image of the local 
+Bobby, The friendly officer 
+
+79
+00:03:46,320 --> 00:03:50,160
+walking a specific patrol area, 
+often stereotyped as Irish and 
+
+80
+00:03:50,160 --> 00:03:53,480
+old movies, perhaps tipping his 
+hat, breaking up a minor scuffle
+
+81
+00:03:53,480 --> 00:03:56,720
+between kids with a fatherly 
+word, watching over his specific
+
+82
+00:03:56,720 --> 00:04:00,840
+patch like some kind of kind 
+umple, an omnipresent, 
+
+83
+00:04:00,840 --> 00:04:03,520
+benevolent guardian. 
+It's a comforting picture, isn't
+
+84
+00:04:03,520 --> 00:04:05,000
+it? 
+A figure of approachable, 
+
+85
+00:04:05,000 --> 00:04:07,560
+fatherly authority who knows 
+everyone's name, all the 
+
+86
+00:04:07,560 --> 00:04:10,320
+neighborhood secrets. 
+It's a comforting picture, yes, 
+
+87
+00:04:10,520 --> 00:04:13,960
+and very, very romanticized, but
+it's absolutely essential to 
+
+88
+00:04:13,960 --> 00:04:17,360
+debunk that myth for clarity. 
+Even that seemingly benign 
+
+89
+00:04:17,360 --> 00:04:20,399
+figure, the Bobby, was never the
+neighborhood's roving social 
+
+90
+00:04:20,399 --> 00:04:22,000
+worker. 
+He wasn't equipped or trained to
+
+91
+00:04:22,000 --> 00:04:24,120
+be. 
+His primary role from the very 
+
+92
+00:04:24,120 --> 00:04:27,000
+beginning into the very end of 
+his shift was fundamentally that
+
+93
+00:04:27,000 --> 00:04:28,680
+of a boundary marker. 
+A boundary marker? 
+
+94
+00:04:28,800 --> 00:04:32,840
+Yeah, he was a walking, visible 
+reminder that chaos would simply
+
+95
+00:04:32,840 --> 00:04:35,840
+not be allowed to flourish 
+unchecked in his territory, in 
+
+96
+00:04:35,840 --> 00:04:38,440
+his specific designated area of 
+patrol. 
+
+97
+00:04:38,920 --> 00:04:42,040
+His physical presence, the 
+uniform, the badge, these were a
+
+98
+00:04:42,040 --> 00:04:45,480
+constant, tangible deterrent. 
+His job was to make it known 
+
+99
+00:04:45,480 --> 00:04:48,200
+that there were rules, a civic 
+code, and that these rules would
+
+100
+00:04:48,200 --> 00:04:51,280
+be enforced. 
+He was a symbol of order, a line
+
+101
+00:04:51,280 --> 00:04:54,040
+drawn in the sand, not a 
+dispenser of therapy or a 
+
+102
+00:04:54,040 --> 00:04:56,600
+mediator of deeply personal 
+family disputes. 
+
+103
+00:04:56,800 --> 00:05:00,440
+He was there to say essentially 
+this far and no further. 
+
+104
+00:05:00,600 --> 00:05:04,240
+So not a confessor, not a 
+mediator, just a line in the 
+
+105
+00:05:04,240 --> 00:05:07,320
+sand, a visible demarcation of 
+what's acceptable and what's 
+
+106
+00:05:07,320 --> 00:05:09,200
+not. 
+And that brings us directly to 
+
+107
+00:05:09,200 --> 00:05:11,800
+the classic motto we see 
+emblazoned on police cruisers 
+
+108
+00:05:11,800 --> 00:05:14,000
+and badges everywhere. 
+Protect and serve. 
+
+109
+00:05:14,280 --> 00:05:16,280
+That. 
+It sounds so straightforward, so
+
+110
+00:05:16,280 --> 00:05:19,040
+noble, so all-encompassing. 
+But how often do we actually 
+
+111
+00:05:19,040 --> 00:05:21,560
+stop to consider what that truly
+means in the context of what 
+
+112
+00:05:21,560 --> 00:05:24,280
+we've just discussed about 
+boundaries and order? 
+
+113
+00:05:24,480 --> 00:05:26,880
+That's a key point, and it's 
+where a significant public 
+
+114
+00:05:26,880 --> 00:05:31,800
+misinterpretation often arises. 
+The phrase protect and serve is 
+
+115
+00:05:31,800 --> 00:05:34,760
+widely misunderstood, or at 
+least interpreted to a very 
+
+116
+00:05:34,760 --> 00:05:38,440
+soft, individualized lens. 
+It most emphatically does not 
+
+117
+00:05:38,440 --> 00:05:41,920
+mean protect the 1 causing havoc
+at the expense of everyone else.
+
+118
+00:05:42,000 --> 00:05:43,360
+Right. 
+That's a common assumption 
+
+119
+00:05:43,360 --> 00:05:45,320
+though. 
+It is, but it's a dangerous 
+
+120
+00:05:45,320 --> 00:05:48,720
+misinterpretation, as if the 
+police are there to ensure 
+
+121
+00:05:48,720 --> 00:05:52,080
+everyone, even the lawbreaker, 
+feels safe and unthreatened in 
+
+122
+00:05:52,080 --> 00:05:54,600
+their actions, or to make sure 
+no one's feelings are hurt 
+
+123
+00:05:54,600 --> 00:05:58,640
+during an arrest. 
+No, what it means, unequivocally
+
+124
+00:05:58,800 --> 00:06:01,840
+is to protect the quiet, 
+unremarkable majority. 
+
+125
+00:06:02,960 --> 00:06:05,160
+Think about it, when a 
+neighborhood is plagued by 
+
+126
+00:06:05,160 --> 00:06:08,160
+repeat car break insurance, or a
+corner shop owner is repeatedly 
+
+127
+00:06:08,160 --> 00:06:11,280
+targeted by shoplifters, or a 
+family is subjected to a 
+
+128
+00:06:11,280 --> 00:06:14,800
+continuous noise nuisance from a
+defiant neighbor, The police 
+
+129
+00:06:14,800 --> 00:06:17,400
+aren't there to mediate the 
+needs or expressions of the 
+
+130
+00:06:17,400 --> 00:06:20,160
+person breaking the law. 
+They're there to enforce the 
+
+131
+00:06:20,160 --> 00:06:22,480
+boundary for the people who just
+want to live their lives without
+
+132
+00:06:22,480 --> 00:06:25,560
+fear, without their property 
+being violated, without their 
+
+133
+00:06:25,560 --> 00:06:27,280
+peace being constantly 
+disrupted. 
+
+134
+00:06:27,520 --> 00:06:30,040
+It's about enabling a stable, 
+peaceful environment for the 
+
+135
+00:06:30,040 --> 00:06:32,760
+many, even if that means 
+confronting the disruptive, 
+
+136
+00:06:32,960 --> 00:06:34,840
+often forceful actions of the 
+few. 
+
+137
+00:06:35,160 --> 00:06:38,000
+It's about upholding the social 
+contract, not negotiating 
+
+138
+00:06:38,000 --> 00:06:40,240
+individual desires. 
+That certainly shifts the 
+
+139
+00:06:40,240 --> 00:06:43,840
+perspective, moving away from 
+individual comfort to societal 
+
+140
+00:06:43,840 --> 00:06:47,200
+stability as the primary goal, 
+and that takes us directly into 
+
+141
+00:06:47,200 --> 00:06:49,640
+the fundamental identity of 
+these officers. 
+
+142
+00:06:49,840 --> 00:06:52,680
+Every working police officer you
+encounter, they use a specific 
+
+143
+00:06:52,680 --> 00:06:54,200
+shorthand to describe 
+themselves. 
+
+144
+00:06:54,840 --> 00:06:59,520
+Leo, law enforcement officer. 
+It's concise and it's very 
+
+145
+00:06:59,520 --> 00:07:01,760
+telling, isn't it? 
+It is indeed telling the Leo. 
+
+146
+00:07:02,080 --> 00:07:04,600
+It encapsulates the very essence
+of their role. 
+
+147
+00:07:04,680 --> 00:07:06,960
+And what's crucial here is what 
+that shorthand isn't. 
+
+148
+00:07:07,000 --> 00:07:08,600
+It isn't law negotiation 
+officer. 
+
+149
+00:07:08,720 --> 00:07:12,160
+It's not neighborhood mediation 
+officer, and it is absolutely, 
+
+150
+00:07:12,160 --> 00:07:14,640
+unequivocally not community 
+therapist. 
+
+151
+00:07:15,520 --> 00:07:18,960
+The profession itself, through 
+this very designation, clarifies
+
+152
+00:07:18,960 --> 00:07:22,640
+its reality. 
+L ES are trained at their core 
+
+153
+00:07:22,960 --> 00:07:25,960
+to enforce the code that the 
+broader society has written. 
+
+154
+00:07:26,520 --> 00:07:29,680
+Now, that code, the law, is 
+undeniably imperfect. 
+
+155
+00:07:29,680 --> 00:07:32,880
+It's always evolving, and 
+sometimes, yes, it can be clumsy
+
+156
+00:07:32,880 --> 00:07:37,040
+or blunt in its application. 
+But it is a code nonetheless, A 
+
+157
+00:07:37,040 --> 00:07:39,840
+fundamental framework for how we
+are meant to coexist within a 
+
+158
+00:07:39,840 --> 00:07:42,640
+civil society. 
+They're not there to customize 
+
+159
+00:07:42,640 --> 00:07:45,680
+that law for every household, 
+private folklore, or every 
+
+160
+00:07:45,680 --> 00:07:48,160
+streets informal treaty about 
+how things should be. 
+
+161
+00:07:48,680 --> 00:07:51,280
+They are certainly not sent to 
+arbitrate competing folkways or 
+
+162
+00:07:51,280 --> 00:07:54,480
+personal grievances when those 
+clash violently and threaten 
+
+163
+00:07:54,480 --> 00:07:56,440
+public order. 
+Their core function, when all 
+
+164
+00:07:56,440 --> 00:07:58,920
+else fails, when dialogue breaks
+down, when compliance is 
+
+165
+00:07:58,920 --> 00:08:01,920
+refused, is clear. 
+They are there to draw a line, 
+
+166
+00:08:02,120 --> 00:08:04,520
+and they are there to hold it. 
+That's what law enforcement 
+
+167
+00:08:04,520 --> 00:08:06,440
+truly means. 
+It's about ensuring that the 
+
+168
+00:08:06,440 --> 00:08:09,800
+agreed upon rules of society are
+not simply suggestions, but 
+
+169
+00:08:09,800 --> 00:08:12,680
+enforceable boundaries. 
+To draw a line and hold it, 
+
+170
+00:08:12,680 --> 00:08:15,400
+that's a powerful image and a 
+stark contrasts. 
+
+171
+00:08:15,400 --> 00:08:17,760
+Some of the softer, more 
+empathetic roles, we sometimes 
+
+172
+00:08:17,760 --> 00:08:20,520
+wish they embodied. 
+So if we're trying to truly 
+
+173
+00:08:20,520 --> 00:08:22,640
+understand their role, this 
+fundamental function of 
+
+174
+00:08:22,640 --> 00:08:25,720
+deterrence and maintaining 
+boundaries, what's good metaphor
+
+175
+00:08:25,720 --> 00:08:28,240
+for this line drawing and 
+holding function, this 
+
+176
+00:08:28,240 --> 00:08:32,280
+fundamental, often latent force?
+The source material offers a 
+
+177
+00:08:32,320 --> 00:08:34,559
+pretty vivid one the guard dog 
+metaphor. 
+
+178
+00:08:34,720 --> 00:08:37,600
+It's perhaps the most insightful
+metaphor for truly grasping the 
+
+179
+00:08:37,600 --> 00:08:40,440
+police role, because it captures
+the essence of deterrence 
+
+180
+00:08:40,440 --> 00:08:43,480
+without constant action. 
+And to illustrate it, the source
+
+181
+00:08:43,559 --> 00:08:46,120
+uses what it calls the parable 
+of the trade in Glock. 
+
+182
+00:08:46,880 --> 00:08:49,720
+Imagine for a moment handling a 
+police trade in pistol, say a 
+
+183
+00:08:49,720 --> 00:08:52,960
+Glock 17 or 19. 
+When you inspect it, you 
+
+184
+00:08:52,960 --> 00:08:55,480
+immediately notice the striking 
+physical paradox. 
+
+185
+00:08:56,280 --> 00:08:59,320
+The external parts, the slide, 
+the frame, the grip are often 
+
+186
+00:08:59,320 --> 00:09:02,040
+heavily chewed up. 
+You see clear marks from years 
+
+187
+00:09:02,040 --> 00:09:04,720
+of holster wear, the constant 
+friction of being drawn, 
+
+188
+00:09:04,720 --> 00:09:06,960
+reholstered, carried every 
+single day. 
+
+189
+00:09:07,440 --> 00:09:10,200
+It's a visible testament to 
+constant readiness, a weapon 
+
+190
+00:09:10,200 --> 00:09:12,760
+always on the hip, always ready 
+for immediate deployment. 
+
+191
+00:09:13,120 --> 00:09:16,440
+But then you dissemble it and 
+you look inside the internal 
+
+192
+00:09:16,440 --> 00:09:18,640
+mechanism. 
+It's often near pristine. 
+
+193
+00:09:18,880 --> 00:09:22,040
+It's fired few around, sometimes
+significantly fewer than a 
+
+194
+00:09:22,040 --> 00:09:24,880
+civilian might put through a 
+similar gun in a single year at 
+
+195
+00:09:24,880 --> 00:09:26,560
+a shooting range. 
+That's fascinating. 
+
+196
+00:09:26,960 --> 00:09:30,520
+So the outside tells a story of 
+constant, relentless readiness, 
+
+197
+00:09:30,600 --> 00:09:34,160
+a tool always present, always on
+standby, while the inside 
+
+198
+00:09:34,160 --> 00:09:37,040
+suggests the weapon itself is 
+rarely actually used in its 
+
+199
+00:09:37,040 --> 00:09:39,800
+ultimate capacity. 
+What does that paradox reveal 
+
+200
+00:09:39,800 --> 00:09:41,520
+about the officers daily 
+reality? 
+
+201
+00:09:41,720 --> 00:09:45,800
+Precisely this physical paradox,
+this stark contrast between 
+
+202
+00:09:45,800 --> 00:09:49,520
+external wear and internal 
+pristine condition, is the daily
+
+203
+00:09:49,520 --> 00:09:52,760
+posture of the guard dog. 
+The teeth, metaphorically 
+
+204
+00:09:52,760 --> 00:09:55,640
+speaking, remains she'sed. 
+They aren't constantly biting or
+
+205
+00:09:55,640 --> 00:09:57,680
+attacking. 
+They are not deployed in every 
+
+206
+00:09:57,680 --> 00:10:00,560
+interaction. 
+But the very existence of those 
+
+207
+00:10:00,560 --> 00:10:03,800
+teeth, the knowledge that they 
+are there and can be deployed if
+
+208
+00:10:03,800 --> 00:10:07,240
+necessary, that deters far more 
+chaos and violence than they 
+
+209
+00:10:07,240 --> 00:10:10,520
+ever actually need to inflict. 
+It's a latent possibility of 
+
+210
+00:10:10,520 --> 00:10:13,640
+force that maintains order, not 
+its constant application. 
+
+211
+00:10:13,800 --> 00:10:15,880
+It's the silent threat that 
+keeps the peace. 
+
+212
+00:10:16,560 --> 00:10:19,120
+Now here's where the irony, and 
+indeed the tragedy comes in. 
+
+213
+00:10:19,480 --> 00:10:21,920
+The same tool that Glock and 
+underfunded departments with 
+
+214
+00:10:21,920 --> 00:10:24,040
+insufficient training budgets 
+and often under arrested 
+
+215
+00:10:24,040 --> 00:10:26,520
+officers often turns on its own 
+handler. 
+
+216
+00:10:26,920 --> 00:10:29,280
+We're talking about accidental 
+self-inflicted gunshot wounds, 
+
+217
+00:10:29,280 --> 00:10:31,840
+not from a shootout, but from 
+this handling, from insufficient
+
+218
+00:10:31,840 --> 00:10:35,000
+practice, from fatigue. 
+These surprisingly happen 
+
+219
+00:10:35,000 --> 00:10:37,080
+frequently enough in big cities 
+like DC that they've earned A 
+
+220
+00:10:37,080 --> 00:10:38,520
+grim nickname. 
+Getting bit. 
+
+221
+00:10:39,360 --> 00:10:42,400
+It's gallows humor among Cox, a 
+dark joke shared in the locker 
+
+222
+00:10:42,400 --> 00:10:45,320
+room to cope with the reality of
+an avoidable, often embarrassing
+
+223
+00:10:45,320 --> 00:10:46,720
+injury. 
+Getting bit? 
+
+224
+00:10:46,720 --> 00:10:50,400
+Wow, that's quite a vivid and 
+uncomfortable phrase. 
+
+225
+00:10:50,640 --> 00:10:53,320
+What does that tell us about the
+broader reality of policing 
+
+226
+00:10:53,320 --> 00:10:56,320
+beyond just a specific incident?
+How does a specific tragic 
+
+227
+00:10:56,320 --> 00:10:59,280
+accidental discharge point to a 
+systemic issue of inadequate 
+
+228
+00:10:59,280 --> 00:11:01,360
+preparation versus just an 
+individual flaw? 
+
+229
+00:11:01,440 --> 00:11:05,280
+It speaks to a significant gap, 
+a chasm really, between the myth
+
+230
+00:11:05,280 --> 00:11:10,040
+of elite precision, the popular,
+often unrealistic idea that 
+
+231
+00:11:10,040 --> 00:11:12,680
+officers are always perfectly 
+trained, perfectly controlled, 
+
+232
+00:11:12,880 --> 00:11:16,200
+almost superhuman in their 
+mastery of their tools, and the 
+
+233
+00:11:16,200 --> 00:11:18,120
+stark truth of an ordinary civil
+servant. 
+
+234
+00:11:18,920 --> 00:11:22,440
+These are real people doing an 
+extraordinarily demanding job 
+
+235
+00:11:22,840 --> 00:11:26,200
+under immense pressure, but 
+often with all too ordinary and 
+
+236
+00:11:26,200 --> 00:11:28,520
+sometimes inadequate preparation
+and resources. 
+
+237
+00:11:29,520 --> 00:11:31,880
+The getting bit phenomena 
+highlights that the tools of 
+
+238
+00:11:31,880 --> 00:11:35,240
+deterrence require constant, 
+rigorous and expensive training.
+
+239
+00:11:36,000 --> 00:11:38,480
+Without that consistent 
+investment, without the hours on
+
+240
+00:11:38,480 --> 00:11:41,360
+the range, the repetition, the 
+scenario based drills that build
+
+241
+00:11:41,360 --> 00:11:44,760
+muscle memory under stress, even
+the tools meant to protect can 
+
+242
+00:11:44,760 --> 00:11:47,600
+become a liability. 
+The guard dog needs to be not 
+
+243
+00:11:47,600 --> 00:11:50,800
+just present, but incredibly 
+well trained to ensure it only 
+
+244
+00:11:50,800 --> 00:11:53,880
+barks and bites when absolutely 
+necessary and never turns on its
+
+245
+00:11:53,880 --> 00:11:56,400
+own handler through negligence 
+or poor preparation. 
+
+246
+00:11:57,160 --> 00:12:00,880
+It exposes the difficult truth 
+that an officer is a human being
+
+247
+00:12:01,400 --> 00:12:04,480
+with human limitations, working 
+within a system that may not 
+
+248
+00:12:04,480 --> 00:12:07,080
+always fully equip them for the 
+extraordinary demands placed 
+
+249
+00:12:07,080 --> 00:12:09,760
+upon them. 
+That puts a very human face on 
+
+250
+00:12:09,760 --> 00:12:12,320
+the tools of enforcement and on 
+the roll itself. 
+
+251
+00:12:12,680 --> 00:12:16,000
+And it ties into another point. 
+We often discuss the desire for 
+
+252
+00:12:16,000 --> 00:12:18,480
+police to be something more, 
+something idealized. 
+
+253
+00:12:18,480 --> 00:12:21,640
+People project these incredible,
+almost mythical roles onto them.
+
+254
+00:12:21,840 --> 00:12:24,600
+But an officer is not a paladin,
+nor are they a priest. 
+
+255
+00:12:24,720 --> 00:12:27,520
+That's the source of so much 
+public confusion and subsequent 
+
+256
+00:12:27,520 --> 00:12:29,640
+disappointment. 
+People want the police to be 
+
+257
+00:12:29,640 --> 00:12:31,880
+something they've never been, 
+and frankly, we're never 
+
+258
+00:12:31,880 --> 00:12:34,800
+designed or trained to be. 
+They want a paladin that 
+
+259
+00:12:34,800 --> 00:12:38,240
+incorruptible stainless night, 
+always on call, always morally 
+
+260
+00:12:38,240 --> 00:12:42,080
+pure, dispensing mercy, grace, 
+and rough wisdom all at once. 
+
+261
+00:12:42,600 --> 00:12:45,120
+They want a figure who can 
+understand every nuance of a 
+
+262
+00:12:45,120 --> 00:12:48,120
+situation, make a morally 
+perfect judgement, and resolve 
+
+263
+00:12:48,120 --> 00:12:51,400
+conflict with a word. 
+But a police officer is not your
+
+264
+00:12:51,400 --> 00:12:54,920
+moral champion, nor are they a 
+figure of spiritual guidance. 
+
+265
+00:12:55,360 --> 00:12:57,800
+They're not your pastor. 
+They're to offer spiritual 
+
+266
+00:12:57,800 --> 00:13:01,400
+guidance or absolve sins or to 
+provide deep counseling on 
+
+267
+00:13:01,400 --> 00:13:03,680
+personal struggles. 
+They're certainly not your local
+
+268
+00:13:03,680 --> 00:13:06,400
+mediator whose job is to bend 
+the law to accommodate each 
+
+269
+00:13:06,400 --> 00:13:09,400
+household's unique tragic back 
+story or individual 
+
+270
+00:13:09,400 --> 00:13:11,920
+circumstances saying, oh, I 
+understand why you broke the 
+
+271
+00:13:11,920 --> 00:13:13,000
+law. 
+You had a rough childhood. 
+
+272
+00:13:13,200 --> 00:13:14,520
+That simply isn't their 
+function. 
+
+273
+00:13:14,520 --> 00:13:17,160
+So they aren't there to 
+contextualize the law based on 
+
+274
+00:13:17,160 --> 00:13:19,640
+individual circumstances or 
+personal tragedies. 
+
+275
+00:13:20,000 --> 00:13:23,120
+Their primary role isn't about 
+discerning the deep why of 
+
+276
+00:13:23,120 --> 00:13:25,240
+someone's actions in the moment 
+of enforcement. 
+
+277
+00:13:25,920 --> 00:13:29,480
+Not in that sense, no. 
+They are at their core and arm 
+
+278
+00:13:29,480 --> 00:13:33,000
+of the state, and as an arm of 
+the state, they are fallible. 
+
+279
+00:13:33,160 --> 00:13:35,640
+They're human, and the tools 
+they wield can be blunt. 
+
+280
+00:13:36,240 --> 00:13:38,760
+They are trained to weigh risk 
+quickly and to do what the law 
+
+281
+00:13:38,760 --> 00:13:42,280
+demands when negotiation fails, 
+when voluntary compliance isn't 
+
+282
+00:13:42,280 --> 00:13:45,200
+achieved, or when an immediate 
+threat requires intervention. 
+
+283
+00:13:45,880 --> 00:13:49,160
+Their purpose is enforcement, 
+not empathetic arbitration of 
+
+284
+00:13:49,160 --> 00:13:51,480
+personal lows. 
+That's a crucial distinction. 
+
+285
+00:13:52,160 --> 00:13:55,840
+Furthermore, for many officers, 
+this isn't a sacred calling, not
+
+286
+00:13:55,840 --> 00:13:58,040
+in the same way a soldier might 
+feel bound by an almost 
+
+287
+00:13:58,040 --> 00:14:00,960
+transcendent oath for a 
+significant number. 
+
+288
+00:14:00,960 --> 00:14:02,640
+This is a pension government 
+job. 
+
+289
+00:14:02,960 --> 00:14:05,320
+They work for 20 years if 
+they're lucky, sometimes more, 
+
+290
+00:14:05,600 --> 00:14:08,400
+and then they retire. 
+It's not a holy calling, nor is 
+
+291
+00:14:08,400 --> 00:14:10,960
+a patriotic in the transcendent 
+spiritual sense some might 
+
+292
+00:14:10,960 --> 00:14:12,600
+imagine when they think of 
+uniformed service. 
+
+293
+00:14:13,000 --> 00:14:16,520
+It is work often performed under
+immense pressure, with the ever 
+
+294
+00:14:16,520 --> 00:14:20,040
+present latent possibility that 
+any mundane encounter, a routine
+
+295
+00:14:20,040 --> 00:14:23,320
+traffic stop, a noise complaint,
+might instantly erupt into a 
+
+296
+00:14:23,320 --> 00:14:25,880
+moment that will define, if not 
+tragically end a life. 
+
+297
+00:14:26,280 --> 00:14:29,520
+It's a job with unique and 
+profound pressures, but it is, 
+
+298
+00:14:29,560 --> 00:14:33,640
+at its heart, still a job with 
+benefits, a paycheck and a 
+
+299
+00:14:33,640 --> 00:14:36,120
+career path. 
+That puts a very practical spin 
+
+300
+00:14:36,120 --> 00:14:39,400
+on it, moving away from any sort
+of spiritual or heroic 
+
+301
+00:14:39,400 --> 00:14:42,200
+idealization. 
+It grounds the discussion in a 
+
+302
+00:14:42,200 --> 00:14:45,320
+very tangible reality. 
+And interestingly, the source 
+
+303
+00:14:45,320 --> 00:14:48,880
+material suggests even popular 
+culture, something as ubiquitous
+
+304
+00:14:48,880 --> 00:14:52,440
+as Spider Man, understands this 
+Simpler, more brutal, brutal 
+
+305
+00:14:52,440 --> 00:14:55,600
+honesty about immediate 
+intervention and honesty that 
+
+306
+00:14:55,600 --> 00:14:59,200
+our polite discourse often 
+conveniently forgets or actively
+
+307
+00:14:59,200 --> 00:15:02,000
+tries to suppress. 
+It's absolutely true, and it's a
+
+308
+00:15:02,000 --> 00:15:04,640
+telling cultural touchstone. 
+Think about it. 
+
+309
+00:15:05,040 --> 00:15:07,960
+When Spider Man swings across 
+the street and webs up a mugger 
+
+310
+00:15:08,080 --> 00:15:10,840
+who's threatening someone with a
+knife, what does he do? 
+
+311
+00:15:11,240 --> 00:15:13,640
+He certainly doesn't pause to 
+ask whether the young man 
+
+312
+00:15:13,640 --> 00:15:16,480
+brandishing the weapon had a 
+challenging upbringing or if his
+
+313
+00:15:16,480 --> 00:15:19,280
+father was absent, or if he's 
+suffering from systemic 
+
+314
+00:15:19,280 --> 00:15:21,360
+inequities that led him to that 
+desperate act. 
+
+315
+00:15:21,880 --> 00:15:24,640
+He doesn't sit him down on the 
+curb and initiate A therapeutic 
+
+316
+00:15:24,640 --> 00:15:27,840
+dialogue about early childhood 
+stressors or the societal 
+
+317
+00:15:27,840 --> 00:15:29,840
+factors contributing to his 
+criminal behavior. 
+
+318
+00:15:29,840 --> 00:15:33,240
+No, definitely not. 
+No, what he does is immobilize 
+
+319
+00:15:33,240 --> 00:15:36,840
+him quickly, efficiently, 
+decisively, without ceremony, 
+
+320
+00:15:37,160 --> 00:15:39,240
+and then he leaves him there for
+the police to deal with. 
+
+321
+00:15:39,720 --> 00:15:42,640
+There's no public outcry from 
+the audience, no calls for 
+
+322
+00:15:42,800 --> 00:15:45,960
+community accountability circles
+or restorative justice 
+
+323
+00:15:45,960 --> 00:15:48,200
+interventions for the person who
+just tried to rob someone. 
+
+324
+00:15:48,360 --> 00:15:51,960
+So the fictional hero doesn't 
+engage in social work or therapy
+
+325
+00:15:51,960 --> 00:15:56,200
+or deep analysis of root causes.
+He applies immediate, decisive 
+
+326
+00:15:56,200 --> 00:15:58,160
+force to stop the immediate 
+threat. 
+
+327
+00:15:58,400 --> 00:16:01,000
+Exactly. 
+And the reason we don't protest,
+
+328
+00:16:01,280 --> 00:16:03,640
+the reason we nod along and 
+cheer for Spider Man in that 
+
+329
+00:16:03,640 --> 00:16:07,160
+moment, is because there's this 
+deeply ingrained, unspoken 
+
+330
+00:16:07,160 --> 00:16:11,240
+consensus within us that 
+sometimes force must meet force.
+
+331
+00:16:11,800 --> 00:16:14,720
+Sometimes the problem at hand, 
+the immediate threat to life or 
+
+332
+00:16:14,720 --> 00:16:18,960
+property, is not one that can be
+resolved by sympathy alone, or 
+
+333
+00:16:18,960 --> 00:16:22,080
+by dialogue, or by understanding
+the root causes of someone's 
+
+334
+00:16:22,080 --> 00:16:24,200
+behavior in that immediate, 
+dangerous moment. 
+
+335
+00:16:24,840 --> 00:16:27,200
+In those instances where an 
+immediate tangible threat 
+
+336
+00:16:27,200 --> 00:16:31,200
+exists, the primary objective, 
+the most urgent need, is to stop
+
+337
+00:16:31,200 --> 00:16:34,040
+the harmful action, protect the 
+innocent and maintain the line 
+
+338
+00:16:34,040 --> 00:16:37,120
+of basic public order. 
+Spider Man is a cultural 
+
+339
+00:16:37,120 --> 00:16:40,120
+touchstone, reflects a very 
+primal understanding that for 
+
+340
+00:16:40,120 --> 00:16:43,080
+certain acts of violence or 
+aggression, immediate, decisive 
+
+341
+00:16:43,080 --> 00:16:45,680
+intervention, even forceful 
+intervention, is required. 
+
+342
+00:16:46,280 --> 00:16:49,280
+The deeper societal problems, 
+the root causes, the therapeutic
+
+343
+00:16:49,280 --> 00:16:51,400
+interventions, these are for 
+others to address after the 
+
+344
+00:16:51,400 --> 00:16:53,280
+immediate threat is contained in
+the line is held. 
+
+345
+00:16:53,360 --> 00:16:55,680
+It highlights the crucial 
+distinction between stopping an 
+
+346
+00:16:55,680 --> 00:16:59,360
+immediate threat and addressing 
+complex social issues, a 
+
+347
+00:16:59,360 --> 00:17:02,320
+distinction that frequently gets
+blurred, sometimes dangerously 
+
+348
+00:17:02,320 --> 00:17:05,359
+so, in the broader public 
+conversation around policing. 
+
+349
+00:17:05,520 --> 00:17:08,920
+It's a stark reminder, isn't it,
+that some problems simply can't 
+
+350
+00:17:08,920 --> 00:17:11,319
+be talked away in the moment 
+they're unfolding. 
+
+351
+00:17:11,599 --> 00:17:15,400
+That sometimes immediate action,
+even force, is the only option. 
+
+352
+00:17:15,880 --> 00:17:17,960
+And understanding that primal 
+need for intervention is 
+
+353
+00:17:17,960 --> 00:17:21,000
+critical when we look at how 
+this role, this core identity of
+
+354
+00:17:21,000 --> 00:17:24,079
+the law enforcement officer, has
+actually evolved over time. 
+
+355
+00:17:24,319 --> 00:17:27,480
+Because the guard dog of today 
+is a product of a century of 
+
+356
+00:17:27,480 --> 00:17:30,480
+shifting societal needs, 
+technological advancements, and 
+
+357
+00:17:30,480 --> 00:17:34,920
+often public reaction to crisis.
+So let's dive into a century of 
+
+358
+00:17:34,920 --> 00:17:38,360
+policing, how officers are 
+trained, the data that often 
+
+359
+00:17:38,360 --> 00:17:40,960
+gets overlooked, and the 
+inherent dilemmas they face. 
+
+360
+00:17:41,520 --> 00:17:45,280
+What did police training look 
+like back in, say, the 1930s and
+
+361
+00:17:45,280 --> 00:17:47,120
+50s? 
+Well, back then the picture was 
+
+362
+00:17:47,120 --> 00:17:50,240
+vastly different from today. 
+Almost unrecognizable, really. 
+
+363
+00:17:50,360 --> 00:17:53,080
+Local patrolmen essentially 
+learned on the job mostly by 
+
+364
+00:17:53,080 --> 00:17:55,760
+doing, by observing senior 
+officers, and by navigating 
+
+365
+00:17:55,760 --> 00:17:58,200
+their beat. 
+Many city police departments at 
+
+366
+00:17:58,200 --> 00:18:00,960
+the time operated heavily on 
+political patronage systems, 
+
+367
+00:18:01,400 --> 00:18:04,120
+meaning the local war boss or 
+precinct captain often decided 
+
+368
+00:18:04,120 --> 00:18:06,560
+who got the job, not necessarily
+based on meritocratic 
+
+369
+00:18:06,560 --> 00:18:08,200
+qualifications or extensive 
+training. 
+
+370
+00:18:08,520 --> 00:18:11,400
+It was often about who you knew 
+or who you were connected to. 
+
+371
+00:18:11,680 --> 00:18:13,640
+Right connections over 
+qualifications. 
+
+372
+00:18:13,640 --> 00:18:16,320
+Exactly. 
+Formal police academies were 
+
+373
+00:18:16,320 --> 00:18:20,800
+rare or very rudimentary 
+firearms training incredibly 
+
+374
+00:18:20,800 --> 00:18:23,440
+rare. 
+Many beat cops went their entire
+
+375
+00:18:23,440 --> 00:18:26,880
+careers without ever drawing a 
+gun in anger, let alone firing 
+
+376
+00:18:26,880 --> 00:18:30,480
+it at another human being. 
+The iconic image of The Walking 
+
+377
+00:18:30,480 --> 00:18:34,160
+beat cop, which we romanticize 
+today, emerge from these dense, 
+
+378
+00:18:34,160 --> 00:18:37,400
+often immigrant neighborhoods. 
+They were indeed a visible line 
+
+379
+00:18:37,400 --> 00:18:40,560
+of order, a physical presence, A
+deterrent, but certainly not a 
+
+380
+00:18:40,560 --> 00:18:43,240
+roving therapist. 
+Their job was primarily to keep 
+
+381
+00:18:43,240 --> 00:18:46,720
+the peace, deal with immediate, 
+often petty disruptions like 
+
+382
+00:18:46,960 --> 00:18:49,800
+breaking up bar brawls, 
+directing traffic or dragging 
+
+383
+00:18:49,800 --> 00:18:53,040
+drunks to the drunk tank, not 
+mediating complex trauma or 
+
+384
+00:18:53,040 --> 00:18:55,920
+providing social services. 
+It was very practical on the 
+
+385
+00:18:55,920 --> 00:18:57,960
+ground. 
+Learn as you go approach heavily
+
+386
+00:18:57,960 --> 00:19:00,600
+influenced by local politics and
+the specific needs of the 
+
+387
+00:19:00,600 --> 00:19:03,000
+immediate community. 
+So very decentralized, 
+
+388
+00:19:03,000 --> 00:19:06,200
+practical, almost reactive 
+approach, heavily influenced by 
+
+389
+00:19:06,200 --> 00:19:08,880
+local politics. 
+Then we move into the tumultuous
+
+390
+00:19:08,880 --> 00:19:13,000
+1960s and 70s, an era marked by 
+profound social upheaval. 
+
+391
+00:19:13,000 --> 00:19:15,560
+What fundamentally changed in 
+policing during that period? 
+
+392
+00:19:15,560 --> 00:19:18,640
+What forced that change? 
+Oh, the civil rights unrest and 
+
+393
+00:19:18,640 --> 00:19:20,760
+the widespread urban riots of 
+that era. 
+
+394
+00:19:20,760 --> 00:19:25,400
+I think Watson 65 or the mass of
+eruptions in Detroit and Newark 
+
+395
+00:19:25,400 --> 00:19:29,640
+in 67 really forced big city 
+departments to modernize, and 
+
+396
+00:19:29,640 --> 00:19:32,320
+often to do so rapidly and 
+sometimes brutally. 
+
+397
+00:19:33,120 --> 00:19:36,440
+The traditional, relatively 
+unarmed beat cop model was seen 
+
+398
+00:19:36,440 --> 00:19:39,120
+as completely insufficient to 
+handle large scale civil 
+
+399
+00:19:39,120 --> 00:19:42,280
+disorder. 
+As a result, riot control and 
+
+400
+00:19:42,280 --> 00:19:44,680
+officer survival training 
+suddenly took extreme 
+
+401
+00:19:44,680 --> 00:19:47,280
+precedence. 
+Far more than any emphasis on 
+
+402
+00:19:47,280 --> 00:19:49,560
+conflict mediation or community 
+relations. 
+
+403
+00:19:49,680 --> 00:19:51,600
+A big shift in priority is huge 
+shift. 
+
+404
+00:19:52,120 --> 00:19:54,600
+This is also the period when the
+SWAT concept emerged. 
+
+405
+00:19:54,720 --> 00:19:57,960
+The LAPD, for instance, 
+pioneered paramilitary units 
+
+406
+00:19:57,960 --> 00:20:00,600
+after the Watts riots 
+specifically designed for high 
+
+407
+00:20:00,600 --> 00:20:04,000
+risk situations, barricaded 
+suspects, large scale crowd 
+
+408
+00:20:04,000 --> 00:20:06,080
+control. 
+Police academies became more 
+
+409
+00:20:06,080 --> 00:20:08,360
+formalized during this period, 
+but their approach is still 
+
+410
+00:20:08,360 --> 00:20:10,960
+varied wildly. 
+Some focused on public relations
+
+411
+00:20:10,960 --> 00:20:13,360
+and community outreach, others 
+almost purely on the application
+
+412
+00:20:13,360 --> 00:20:16,440
+of force and tactical maneuvers.
+It was reactive modernization 
+
+413
+00:20:16,600 --> 00:20:19,400
+driven by a perceived need for a
+more militarized response to 
+
+414
+00:20:19,400 --> 00:20:22,040
+widespread social upheaval and 
+rising crime rates. 
+
+415
+00:20:22,160 --> 00:20:25,480
+And that paramilitary approach 
+seems to have truly taken hold 
+
+416
+00:20:25,480 --> 00:20:29,120
+and expanded significantly in 
+the 1980s and 90s, especially 
+
+417
+00:20:29,120 --> 00:20:31,160
+with the nationwide war on drugs
+effort. 
+
+418
+00:20:31,640 --> 00:20:35,000
+How did that specifically shape 
+police tactics and training? 
+
+419
+00:20:35,360 --> 00:20:38,200
+Absolutely. 
+The war on drugs, a massive 
+
+420
+00:20:38,200 --> 00:20:40,680
+federal initiative, 
+fundamentally brought policing 
+
+421
+00:20:40,680 --> 00:20:44,640
+into a full paramilitary style, 
+pushing it far beyond just 
+
+422
+00:20:44,640 --> 00:20:47,440
+specialized SWAT teams. 
+Departments across the country 
+
+423
+00:20:47,440 --> 00:20:49,160
+acquired surplus military 
+equipment. 
+
+424
+00:20:49,360 --> 00:20:52,120
+They adopted aggressive tactics 
+like battering Rams for forced 
+
+425
+00:20:52,120 --> 00:20:56,120
+entry, flash bang grenades for 
+disorientation and widespread no
+
+426
+00:20:56,120 --> 00:20:59,120
+knock warrants, which allowed 
+officers to enter homes without 
+
+427
+00:20:59,120 --> 00:21:01,840
+warning, often based just on 
+suspected drug activity. 
+
+428
+00:21:01,840 --> 00:21:04,520
+Which sounds inherently risky. 
+Extremely risky. 
+
+429
+00:21:05,240 --> 00:21:08,440
+And while firearms training did 
+improve for specialized tactical
+
+430
+00:21:08,440 --> 00:21:12,040
+teams, becoming more rigorous 
+and frequent, many patrol 
+
+431
+00:21:12,040 --> 00:21:15,240
+officers still only fire their 
+weapons maybe once or twice a 
+
+432
+00:21:15,240 --> 00:21:18,480
+year, just enough to meet 
+minimum qualification standards.
+
+433
+00:21:19,000 --> 00:21:23,000
+This era also saw the widespread
+adoption of the broken windows 
+
+434
+00:21:23,000 --> 00:21:26,720
+theory proposed by criminologist
+James Q Wilson and George L 
+
+435
+00:21:26,720 --> 00:21:29,320
+Kelling. 
+The core idea was that visible 
+
+436
+00:21:29,320 --> 00:21:33,280
+signs of crime, broken windows, 
+graffiti, public drinking create
+
+437
+00:21:33,280 --> 00:21:35,560
+an environment that encourages 
+more serious crime. 
+
+438
+00:21:36,120 --> 00:21:38,760
+So police were told to 
+aggressively chase every petty 
+
+439
+00:21:38,760 --> 00:21:41,160
+infraction. 
+Public drinking, turnstile 
+
+440
+00:21:41,160 --> 00:21:44,320
+jumping, panhandling, loitering.
+The idea was stopping these 
+
+441
+00:21:44,320 --> 00:21:46,000
+small things would prevent 
+bigger ones. 
+
+442
+00:21:46,000 --> 00:21:48,720
+To restore order by cracking 
+down on minor stuff. 
+
+443
+00:21:48,720 --> 00:21:50,560
+That was the theory to restore 
+order. 
+
+444
+00:21:50,880 --> 00:21:53,360
+But in practice, especially when
+applied broadly and without 
+
+445
+00:21:53,360 --> 00:21:56,160
+nuance, this approach often 
+shattered Community Trust, 
+
+446
+00:21:56,280 --> 00:21:58,000
+particularly in marginalized 
+communities. 
+
+447
+00:21:58,440 --> 00:22:01,040
+It led to more arrests for minor
+offenses and a widespread 
+
+448
+00:22:01,040 --> 00:22:04,520
+feeling of over policing rather 
+than genuine community safety or
+
+449
+00:22:04,520 --> 00:22:06,560
+partnership. 
+It fundamentally shifted the 
+
+450
+00:22:06,560 --> 00:22:09,800
+focus from broad peacekeeping to
+aggressive enforcement of minor 
+
+451
+00:22:09,800 --> 00:22:12,720
+infractions. 
+Then 911 hit in 2001. 
+
+452
+00:22:12,880 --> 00:22:15,120
+That must have fundamentally 
+shifted things again in the 
+
+453
+00:22:15,120 --> 00:22:18,560
+2000s and 20 tens, introducing a
+completely new paradigm for 
+
+454
+00:22:18,560 --> 00:22:21,880
+domestic policing. 
+It did, fundamentally redefining
+
+455
+00:22:21,880 --> 00:22:23,600
+everything from a federal 
+perspective. 
+
+456
+00:22:24,200 --> 00:22:27,480
+The immediate aftermath of 9/11 
+saw the channeling of massive 
+
+457
+00:22:27,480 --> 00:22:30,320
+federal grants through programs 
+like the Department of Homeland 
+
+458
+00:22:30,320 --> 00:22:32,680
+Security. 
+These became available to local 
+
+459
+00:22:32,680 --> 00:22:35,200
+police departments, leading to 
+the acquisition of armored 
+
+460
+00:22:35,200 --> 00:22:37,320
+vehicles. 
+Advanced surveillance tech, 
+
+461
+00:22:37,320 --> 00:22:40,880
+detection dogs, bomb squads, 
+even small town police forces 
+
+462
+00:22:40,880 --> 00:22:43,520
+got this kind of equipment. 
+The focus shifted sharply to 
+
+463
+00:22:43,520 --> 00:22:46,440
+counterterrorism and 
+preparedness for large scale 
+
+464
+00:22:46,440 --> 00:22:48,880
+coordinated attacks. 
+And active shooter training. 
+
+465
+00:22:49,240 --> 00:22:51,160
+Right. 
+Active shooter response training
+
+466
+00:22:51,160 --> 00:22:53,880
+ramped up dramatically. 
+It was completely revolutionized
+
+467
+00:22:53,880 --> 00:22:56,800
+after terrific events like 
+Columbine in 99 and Virginia 
+
+468
+00:22:56,800 --> 00:22:59,800
+Tech in 2007. 
+Officers were now taught to 
+
+469
+00:22:59,800 --> 00:23:03,080
+immediately engage a shooter 
+rather than waiting for SWAT. 
+
+470
+00:23:03,520 --> 00:23:06,160
+That fundamentally changed how 
+patrol officers were taught to 
+
+471
+00:23:06,160 --> 00:23:09,640
+respond to mass casualty events.
+But simultaneously, during the 
+
+472
+00:23:09,640 --> 00:23:13,240
+same period, a series of high 
+profile civilian shootings by 
+
+473
+00:23:13,240 --> 00:23:16,160
+police, incidents like Ferguson,
+the death of Tamir Rice, 
+
+474
+00:23:16,600 --> 00:23:19,960
+Philando Castir ignited 
+widespread public outrage and 
+
+475
+00:23:19,960 --> 00:23:22,560
+sparked demands for greater 
+transparency, leading to the 
+
+476
+00:23:22,560 --> 00:23:25,960
+rapid adoption of body cameras, 
+a push for de escalation 
+
+477
+00:23:25,960 --> 00:23:28,360
+training, and increased 
+accountability for police 
+
+478
+00:23:28,360 --> 00:23:30,960
+actions. 
+So the era became characterized 
+
+479
+00:23:30,960 --> 00:23:33,960
+by this fascinating, often 
+contradictory push and pull, 
+
+480
+00:23:34,120 --> 00:23:37,040
+increased militarization on one 
+hand, and calls for significant 
+
+481
+00:23:37,040 --> 00:23:39,360
+reform on the other. 
+And that tension seems to have 
+
+482
+00:23:39,360 --> 00:23:42,280
+continued, maybe even 
+intensified, into the twenty 20s
+
+483
+00:23:42,280 --> 00:23:45,800
+and beyond, with concepts like 
+Defund the Police gaining real 
+
+484
+00:23:45,800 --> 00:23:48,040
+prominence. 
+What's the current state of 
+
+485
+00:23:48,040 --> 00:23:50,920
+police training and the overall 
+public conversation around it? 
+
+486
+00:23:51,200 --> 00:23:54,760
+Yes, the Defund the Police and 
+Abolish the Police movements 
+
+487
+00:23:54,760 --> 00:23:58,120
+became incredibly prominent, 
+gaining significant traction in 
+
+488
+00:23:58,120 --> 00:24:01,560
+public discourse, particularly 
+after high profile incidents of 
+
+489
+00:24:01,560 --> 00:24:04,880
+police misconduct. 
+Some cities responding to these 
+
+490
+00:24:04,880 --> 00:24:08,600
+powerful calls did indeed slash 
+police budgets or reallocate 
+
+491
+00:24:08,600 --> 00:24:11,200
+funds. 
+Others pivoted, experimenting 
+
+492
+00:24:11,200 --> 00:24:14,080
+with alternative response teams 
+for certain types of calls, like
+
+493
+00:24:14,080 --> 00:24:16,320
+sending mental health crisis 
+workers instead of armed 
+
+494
+00:24:16,320 --> 00:24:18,640
+officers to nonviolent mental 
+health emergencies. 
+
+495
+00:24:19,080 --> 00:24:22,160
+However, a core, often 
+overlooked reality of police 
+
+496
+00:24:22,160 --> 00:24:25,080
+training remains A striking 
+point of contention and concern.
+
+497
+00:24:25,600 --> 00:24:28,080
+The average US police Academy 
+training still ranges from only 
+
+498
+00:24:28,080 --> 00:24:30,880
+about 600 to 900 hours 
+nationwide. 
+
+499
+00:24:30,880 --> 00:24:34,800
+Only 600 to 900 hours. 
+Yeah, that's often significantly
+
+500
+00:24:34,800 --> 00:24:37,520
+less than the hours required for
+a licensed Barber or a 
+
+501
+00:24:37,520 --> 00:24:40,840
+cosmetologist or even an 
+electrician in many states, 
+
+502
+00:24:41,160 --> 00:24:43,600
+which quite surprising, even 
+shocking when you consider the 
+
+503
+00:24:43,600 --> 00:24:45,160
+life and death stakes of the 
+job. 
+
+504
+00:24:45,720 --> 00:24:48,440
+The balance within that training
+also remains remarkably 
+
+505
+00:24:48,440 --> 00:24:50,800
+consistent. 
+It's still very heavy on 
+
+506
+00:24:50,800 --> 00:24:54,160
+firearms proficiency, tactical 
+maneuvers, defensive tactics, 
+
+507
+00:24:54,160 --> 00:24:56,960
+and legal code. 
+Well, de escalation techniques, 
+
+508
+00:24:56,960 --> 00:24:59,400
+crisis intervention, and mental 
+health modules, though they 
+
+509
+00:24:59,400 --> 00:25:02,880
+exist and are growing, still 
+constitute A relatively small 
+
+510
+00:25:02,880 --> 00:25:04,600
+slice of the overall training 
+time. 
+
+511
+00:25:05,160 --> 00:25:08,760
+It's a continuous, often 
+conflicting evolution driven by 
+
+512
+00:25:08,760 --> 00:25:12,760
+reactive policy shifts in public
+demand rather than a cohesive 
+
+513
+00:25:12,760 --> 00:25:15,640
+long term vision. 
+That training hour comparison is
+
+514
+00:25:15,640 --> 00:25:17,680
+quite jarring. 
+It really highlights a 
+
+515
+00:25:17,680 --> 00:25:21,200
+significant gap between public 
+expectation of a highly skilled,
+
+516
+00:25:21,200 --> 00:25:24,400
+multifaceted officer and the 
+practical preparation they often
+
+517
+00:25:24,400 --> 00:25:26,280
+receive. 
+Now let's get into some crucial 
+
+518
+00:25:26,280 --> 00:25:29,640
+data points, the kind of BS 
+check that's often overlooked or
+
+519
+00:25:29,640 --> 00:25:33,000
+distorted in public discourse. 
+What objective numbers should we
+
+520
+00:25:33,000 --> 00:25:35,120
+really know about policing to 
+cut through the noise? 
+
+521
+00:25:35,280 --> 00:25:38,080
+The data, when presented 
+clearly, provides some 
+
+522
+00:25:38,160 --> 00:25:41,360
+absolutely essential context 
+that often gets lost in the 
+
+523
+00:25:41,360 --> 00:25:44,680
+emotional debates. 
+First, regarding use of force, 
+
+524
+00:25:45,840 --> 00:25:48,520
+it's a statistic that often 
+surprises people and directly 
+
+525
+00:25:48,520 --> 00:25:52,160
+challenges common perceptions. 
+Only about 1% to 2%. 
+
+526
+00:25:52,440 --> 00:25:56,640
+Just one to 2% of all police 
+public encounters involve any 
+
+527
+00:25:56,640 --> 00:26:00,320
+physical force at all. 1 to 2%. 
+That seems incredibly low 
+
+528
+00:26:00,320 --> 00:26:01,720
+compared to the narrative. 
+It is. 
+
+529
+00:26:01,960 --> 00:26:04,600
+Think about the millions of 
+interactions happening annually 
+
+530
+00:26:04,600 --> 00:26:07,560
+across the country. 
+Traffic stops, domestic calls, 
+
+531
+00:26:07,720 --> 00:26:09,960
+noise complaints, public 
+assistance requests. 
+
+532
+00:26:10,240 --> 00:26:13,880
+A vanishingly tiny fraction of 
+these escalate to any physical 
+
+533
+00:26:13,880 --> 00:26:16,840
+force whatsoever. 
+Yet these incredibly rare 
+
+534
+00:26:16,840 --> 00:26:19,760
+moments, almost always the most 
+dramatic and often captured on 
+
+535
+00:26:19,760 --> 00:26:23,000
+video, are the ones that 
+overwhelmingly shape the entire 
+
+536
+00:26:23,000 --> 00:26:25,000
+public narrative and perception 
+of policing. 
+
+537
+00:26:25,440 --> 00:26:27,760
+It creates A skewed view of 
+daily reality. 
+
+538
+00:26:27,800 --> 00:26:30,360
+That's a huge disparity between 
+the statistical reality and 
+
+539
+00:26:30,360 --> 00:26:33,200
+public perception, almost a 
+statistical illusion created by 
+
+540
+00:26:33,200 --> 00:26:35,160
+media focus. 
+What about police shootings? 
+
+541
+00:26:35,160 --> 00:26:37,840
+Those are so often at the very 
+center of this conversation and 
+
+542
+00:26:37,840 --> 00:26:39,200
+calls for reform. 
+Right. 
+
+543
+00:26:40,000 --> 00:26:42,560
+Police shootings, specifically 
+civilians killed by police in 
+
+544
+00:26:42,560 --> 00:26:46,960
+the US annually, consistently 
+hover around 1000 to 1100 
+
+545
+00:26:46,960 --> 00:26:49,920
+individuals each year. 
+This number is tragically 
+
+546
+00:26:49,920 --> 00:26:53,560
+consistent year after year. 
+What's particularly notable and 
+
+547
+00:26:53,560 --> 00:26:56,200
+often surprising about this 
+figure is that it is barely 
+
+548
+00:26:56,200 --> 00:26:59,520
+budged in decades. 
+Despite all the public outcry, 
+
+549
+00:26:59,520 --> 00:27:02,360
+the waves of reforms, the 
+protests, technological 
+
+550
+00:27:02,360 --> 00:27:05,600
+advancements like body cameras 
+and less lethal options, it 
+
+551
+00:27:05,600 --> 00:27:08,960
+remains A persistent tragic 
+statistic indicating that this 
+
+552
+00:27:08,960 --> 00:27:11,440
+particular problem is deeply 
+entrenched and resistant to 
+
+553
+00:27:11,440 --> 00:27:14,320
+current solutions. 
+Then there are accidental 
+
+554
+00:27:14,320 --> 00:27:17,120
+discharges, which are still 
+significantly under reported 
+
+555
+00:27:17,120 --> 00:27:19,640
+across departments. 
+We touched on getting bitter 
+
+556
+00:27:19,640 --> 00:27:22,280
+earlier, that grim slang for 
+accidental self-inflicted 
+
+557
+00:27:22,280 --> 00:27:25,200
+gunshot wounds or even 
+unintended discharges that don't
+
+558
+00:27:25,200 --> 00:27:27,080
+cause injury but show a lapse in
+control. 
+
+559
+00:27:27,640 --> 00:27:30,520
+And large urban areas like DC 
+where high stress situations are
+
+560
+00:27:30,520 --> 00:27:32,240
+common. 
+It's common enough to be a 
+
+561
+00:27:32,240 --> 00:27:34,240
+source of gallows humor among 
+officers. 
+
+562
+00:27:34,760 --> 00:27:37,680
+It's a quiet, often hidden 
+indicator of the challenges of 
+
+563
+00:27:37,680 --> 00:27:40,680
+managing powerful tools under 
+constant pressure, and a symptom
+
+564
+00:27:40,680 --> 00:27:42,440
+of potential training or 
+resource gaps. 
+
+565
+00:27:42,600 --> 00:27:45,680
+And how do these numbers, these 
+training hours, these challenges
+
+566
+00:27:45,680 --> 00:27:48,480
+compare internationally? 
+Do other countries really do it 
+
+567
+00:27:48,480 --> 00:27:51,000
+better or is it a more complex 
+comparison than that? 
+
+568
+00:27:51,360 --> 00:27:54,360
+In many ways, yes, other 
+countries do appear to achieve 
+
+569
+00:27:54,360 --> 00:27:57,440
+better outcomes, but with 
+crucial caveats that are often 
+
+570
+00:27:57,440 --> 00:27:59,720
+overlooked. 
+European countries, for 
+
+571
+00:27:59,720 --> 00:28:02,640
+instance, often require twice as
+many training hours for their 
+
+572
+00:28:02,640 --> 00:28:06,640
+police officers as the US does, 
+sometimes up to 1500 hours or 
+
+573
+00:28:06,640 --> 00:28:09,480
+more. 
+Crucially, their training tends 
+
+574
+00:28:09,480 --> 00:28:12,560
+to emphasize scenario based 
+judgement, de escalation, 
+
+575
+00:28:12,800 --> 00:28:16,240
+conflict resolution, and social 
+sciences much more heavily than 
+
+576
+00:28:16,240 --> 00:28:18,880
+a force first posture. 
+They also tend to have better 
+
+577
+00:28:18,880 --> 00:28:21,560
+continuing education programs 
+throughout an officer's career 
+
+578
+00:28:21,840 --> 00:28:24,600
+and consequently generally 
+maintain higher levels of trust 
+
+579
+00:28:24,600 --> 00:28:27,000
+with their public. 
+So more training, different 
+
+580
+00:28:27,000 --> 00:28:29,240
+focus, better trust sounds 
+promising. 
+
+581
+00:28:29,560 --> 00:28:31,760
+It does. 
+However, it's vital to 
+
+582
+00:28:31,760 --> 00:28:34,640
+acknowledge that these countries
+also operate within vastly 
+
+583
+00:28:34,640 --> 00:28:37,880
+different cultural contexts. 
+They often benefit from higher 
+
+584
+00:28:37,880 --> 00:28:40,920
+levels of social cohesion, a 
+stronger sense of shared 
+
+585
+00:28:40,920 --> 00:28:45,120
+community, common norms, less 
+social stratification, and, 
+
+586
+00:28:45,120 --> 00:28:48,120
+critically, significantly less 
+personal firearm prevalence 
+
+587
+00:28:48,120 --> 00:28:51,520
+among the general population in 
+many European nations. 
+
+588
+00:28:51,520 --> 00:28:54,200
+It's incredible. 
+Precisely the paradox is this. 
+
+589
+00:28:54,680 --> 00:28:57,040
+The public overwhelmingly wants 
+less force. 
+
+590
+00:28:57,560 --> 00:28:59,040
+They want less violence from 
+their police. 
+
+591
+00:28:59,160 --> 00:29:01,840
+They want more de escalation, 
+more compassionate responses. 
+
+592
+00:29:02,280 --> 00:29:05,560
+Yet simultaneously, often when 
+the worst happens, when a truly 
+
+593
+00:29:05,560 --> 00:29:08,600
+dangerous, violent or acute 
+situation unfolds like an active
+
+594
+00:29:08,600 --> 00:29:11,760
+shooter, a home invasion, a 
+kidnapping, the public demands 
+
+595
+00:29:11,760 --> 00:29:14,400
+an instant, decisive, forceful 
+response. 
+
+596
+00:29:15,000 --> 00:29:17,440
+This creates A fundamental 
+tension, a seemingly 
+
+597
+00:29:17,440 --> 00:29:21,000
+irreconcilable demand, and it 
+means that the guard dog, that 
+
+598
+00:29:21,000 --> 00:29:24,600
+metaphor for the police role, 
+stays armed and ready, his teeth
+
+599
+00:29:24,600 --> 00:29:27,200
+real and present, even when you 
+might wish he didn't bark at 
+
+600
+00:29:27,200 --> 00:29:29,080
+all. 
+He has to be prepared for the 
+
+601
+00:29:29,080 --> 00:29:31,800
+worst, for the extreme scenario,
+because the public will 
+
+602
+00:29:31,800 --> 00:29:34,440
+inevitably call for him with 
+urgent demands when the worst 
+
+603
+00:29:34,440 --> 00:29:36,600
+arrives. 
+It's a job designed for the 
+
+604
+00:29:36,600 --> 00:29:39,080
+worst case scenario, despite the
+overwhelming majority of 
+
+605
+00:29:39,080 --> 00:29:41,800
+encounters being routine. 
+That's a powerful way to put it,
+
+606
+00:29:41,800 --> 00:29:43,800
+and it really crystallizes the 
+core dilemma. 
+
+607
+00:29:44,560 --> 00:29:46,960
+Now, let's address some 
+frequently asked questions that 
+
+608
+00:29:46,960 --> 00:29:49,320
+often arise in these 
+discussions, synthesizing some 
+
+609
+00:29:49,320 --> 00:29:51,680
+of the points we've covered and 
+giving them a bit more depth. 
+
+610
+00:29:52,000 --> 00:29:54,440
+First up. 
+So if they're not social 
+
+611
+00:29:54,440 --> 00:29:58,200
+workers, should cops just be 
+social workers, or should we 
+
+612
+00:29:58,200 --> 00:30:00,160
+replace them entirely with 
+social workers? 
+
+613
+00:30:00,400 --> 00:30:04,640
+The answer is nuanced but clear,
+and it requires understanding 
+
+614
+00:30:04,640 --> 00:30:08,360
+distinct roles. 
+Some crises absolutely do need 
+
+615
+00:30:08,360 --> 00:30:11,760
+social workers, and there's a 
+growing and I think welcome 
+
+616
+00:30:11,760 --> 00:30:14,800
+movement to send mental health 
+professionals or crisis 
+
+617
+00:30:14,800 --> 00:30:17,880
+intervention teams to certain 
+calls that are clearly 
+
+618
+00:30:17,880 --> 00:30:21,040
+nonviolent mental health 
+emergencies or low level 
+
+619
+00:30:21,040 --> 00:30:23,600
+disputes. 
+That's a valid and necessary 
+
+620
+00:30:23,600 --> 00:30:26,880
+development in public safety. 
+However, a law enforcement 
+
+621
+00:30:26,880 --> 00:30:29,760
+officer is not and cannot 
+fundamentally be a social 
+
+622
+00:30:29,760 --> 00:30:31,920
+worker. 
+Their authority flows from the 
+
+623
+00:30:31,920 --> 00:30:35,080
+state's monopoly on force. 
+It's the credible threat that 
+
+624
+00:30:35,080 --> 00:30:37,640
+someone will, if you push far 
+enough, if you resist lawful 
+
+625
+00:30:37,640 --> 00:30:41,360
+orders, be forcibly stopped, 
+restrained or apprehended, 
+
+626
+00:30:41,520 --> 00:30:43,640
+leading to arrest. 
+The authority is fundamentally 
+
+627
+00:30:43,640 --> 00:30:45,280
+different. 
+Completely different. 
+
+628
+00:30:45,720 --> 00:30:49,080
+A social worker operates on 
+consent, on building trust, on 
+
+629
+00:30:49,080 --> 00:30:52,960
+therapeutic engagement, on 
+voluntary compliance, and Leo 
+
+630
+00:30:52,960 --> 00:30:55,880
+ultimately operates on the 
+lawful ability to compel 
+
+631
+00:30:55,880 --> 00:30:59,520
+compliance, to intervene 
+physically when necessary, and 
+
+632
+00:30:59,520 --> 00:31:03,360
+to use force up to and including
+lethal force when authorized and
+
+633
+00:31:03,360 --> 00:31:06,200
+justified. 
+They serve different, albeit 
+
+634
+00:31:06,200 --> 00:31:07,600
+sometimes overlapping, 
+functions. 
+
+635
+00:31:08,200 --> 00:31:10,800
+When someone is experiencing a 
+mental health crisis but is not 
+
+636
+00:31:10,800 --> 00:31:13,400
+an immediate threat, a social 
+worker is ideal. 
+
+637
+00:31:13,880 --> 00:31:16,160
+When someone is actively 
+breaking into a home or 
+
+638
+00:31:16,160 --> 00:31:18,560
+assaulting another person or 
+threatening public safety with a
+
+639
+00:31:18,560 --> 00:31:21,920
+weapon, that's when the LE OS 
+distinct authority and training 
+
+640
+00:31:21,920 --> 00:31:23,320
+become necessary. 
+OK. 
+
+641
+00:31:23,640 --> 00:31:25,400
+What about the defund the police
+movement? 
+
+642
+00:31:25,400 --> 00:31:28,040
+We heard about it trending, some
+cities trying partial versions. 
+
+643
+00:31:28,040 --> 00:31:30,440
+What were the tangible outcomes?
+The lessons learned from those 
+
+644
+00:31:30,440 --> 00:31:32,640
+attempts? 
+Well, the US did indeed try 
+
+645
+00:31:32,640 --> 00:31:36,360
+partial versions of defunding in
+some cities, reallocating 
+
+646
+00:31:36,360 --> 00:31:39,520
+portions of police budgets to 
+other social services or 
+
+647
+00:31:39,520 --> 00:31:43,000
+alternative response models. 
+And in many instances it show 
+
+648
+00:31:43,000 --> 00:31:45,720
+that certain types of calls, 
+particularly those involving 
+
+649
+00:31:45,720 --> 00:31:48,240
+mental health crises, 
+homelessness or nonviolent 
+
+650
+00:31:48,240 --> 00:31:51,680
+neighbor disputes, were indeed 
+better handled and with better 
+
+651
+00:31:51,680 --> 00:31:55,400
+outcomes by mental health crisis
+teams or non police responders. 
+
+652
+00:31:55,880 --> 00:31:58,040
+These specialized teams could 
+provide more appropriate 
+
+653
+00:31:58,040 --> 00:32:00,680
+resources and de escalation 
+techniques than an armed 
+
+654
+00:32:00,680 --> 00:32:03,040
+officer. 
+So there was some success there.
+
+655
+00:32:03,320 --> 00:32:06,520
+Yes, definite successes in 
+diverting certain calls. 
+
+656
+00:32:07,240 --> 00:32:11,160
+However, the reality also showed
+that violent crime spikes or 
+
+657
+00:32:11,160 --> 00:32:14,640
+acute emergencies involving 
+immediate threats to life still 
+
+658
+00:32:14,640 --> 00:32:16,760
+unequivocally demand armed 
+responders. 
+
+659
+00:32:17,520 --> 00:32:21,040
+When carjacking surged in some 
+cities, or when organized retail
+
+660
+00:32:21,040 --> 00:32:24,160
+theft became rampant, or when 
+someone called 911 because an 
+
+661
+00:32:24,160 --> 00:32:27,400
+intruder was in their home, the 
+public's immediate demand was 
+
+662
+00:32:27,400 --> 00:32:30,160
+for a rapid, armed, decisive 
+police response. 
+
+663
+00:32:30,520 --> 00:32:33,760
+Even in cities that reallocated 
+funds, the guard dog was always 
+
+664
+00:32:33,760 --> 00:32:36,920
+waiting at the fence line, and 
+society, even when it wished 
+
+665
+00:32:36,920 --> 00:32:40,160
+otherwise, still reach for that 
+fundamental layer of protection 
+
+666
+00:32:40,200 --> 00:32:43,760
+when faced with violent chaos. 
+The experiment revealed that 
+
+667
+00:32:43,760 --> 00:32:46,680
+while some calls can be 
+diverted, the core need for a 
+
+668
+00:32:46,680 --> 00:32:48,720
+force backed response to 
+violence remains. 
+
+669
+00:32:48,960 --> 00:32:51,440
+We briefly touched on 
+international comparisons and 
+
+670
+00:32:51,440 --> 00:32:54,240
+you mentioned many countries do 
+it better, but can you elaborate
+
+671
+00:32:54,240 --> 00:32:56,560
+more on the key differences? 
+Isn't it just a matter of 
+
+672
+00:32:56,560 --> 00:32:58,920
+political will to replicate 
+their successes here? 
+
+673
+00:32:59,040 --> 00:33:02,120
+Many do perform better on 
+certain metrics, yes, and 
+
+674
+00:33:02,120 --> 00:33:05,720
+there's much to learn. 
+As we discussed, they often 
+
+675
+00:33:05,720 --> 00:33:09,600
+spend significantly more time on
+training, emphasizing judgement 
+
+676
+00:33:09,600 --> 00:33:12,840
+and de escalation far more than 
+just tactical proficiency. 
+
+677
+00:33:13,440 --> 00:33:16,240
+They invest in better continuing
+education for their officers 
+
+678
+00:33:16,240 --> 00:33:19,040
+throughout their careers, and 
+frequently enjoy higher levels 
+
+679
+00:33:19,040 --> 00:33:21,800
+of trust for their communities, 
+leading to more consensual 
+
+680
+00:33:21,800 --> 00:33:23,960
+policing. 
+These are all commendable and 
+
+681
+00:33:23,960 --> 00:33:28,120
+aspirational goals for US 
+policing, certainly, but it's 
+
+682
+00:33:28,120 --> 00:33:31,280
+critical to remember that these 
+countries also rely on vastly 
+
+683
+00:33:31,280 --> 00:33:35,040
+different cultural contexts 
+which cannot be simply imported.
+
+684
+00:33:35,480 --> 00:33:38,160
+They typically benefit from 
+higher social cohesion, a 
+
+685
+00:33:38,160 --> 00:33:41,920
+stronger sense of shared 
+community, shared values, norms,
+
+686
+00:33:42,360 --> 00:33:44,880
+which often leads to less 
+individualistic and more 
+
+687
+00:33:44,880 --> 00:33:48,600
+collective problem solving. 
+And crucially, they have much, 
+
+688
+00:33:48,600 --> 00:33:51,000
+much less personal firearm 
+prevalence among the general 
+
+689
+00:33:51,000 --> 00:33:54,320
+population. 
+In many European nations, it's 
+
+690
+00:33:54,320 --> 00:33:57,800
+exceptionally rare for civilians
+to own or carry handguns, and 
+
+691
+00:33:57,800 --> 00:34:00,760
+criminals are far less likely to
+be armed with firearms during 
+
+692
+00:34:00,760 --> 00:34:03,680
+routine encounters. 
+This fundamentally changes the 
+
+693
+00:34:03,680 --> 00:34:06,480
+nature of policing encounters, 
+dramatically reducing the 
+
+694
+00:34:06,480 --> 00:34:10,120
+immediate lethal threat officers
+face daily, which in turn allows
+
+695
+00:34:10,120 --> 00:34:12,239
+for different training paradigms
+and response models. 
+
+696
+00:34:12,600 --> 00:34:15,159
+So while we can certainly learn,
+it's not a direct copy paste 
+
+697
+00:34:15,159 --> 00:34:16,880
+solution. 
+The societal underpinnings are 
+
+698
+00:34:16,880 --> 00:34:19,960
+just too different and. 
+That slang phrase Getting bit 
+
+699
+00:34:19,960 --> 00:34:22,360
+for an accidental, 
+self-inflicted gunshot wound? 
+
+700
+00:34:22,840 --> 00:34:25,440
+Is that just a sign of sloppy 
+gun safety, or does it tell us 
+
+701
+00:34:25,440 --> 00:34:27,560
+something deeper about the 
+challenges police face? 
+
+702
+00:34:27,840 --> 00:34:30,280
+Sometimes, yes. 
+It can unfortunately indicate a 
+
+703
+00:34:30,280 --> 00:34:33,520
+lack of proper safety, 
+discipline, or simply human 
+
+704
+00:34:33,520 --> 00:34:35,239
+error under pressure. 
+No question. 
+
+705
+00:34:35,760 --> 00:34:38,320
+But it's also a powerful 
+illustration of a larger 
+
+706
+00:34:38,320 --> 00:34:41,760
+systemic contradiction that we 
+as a society often overlook. 
+
+707
+00:34:42,560 --> 00:34:46,320
+Society, including the 
+individual calling 911, wants a 
+
+708
+00:34:46,320 --> 00:34:49,199
+tool that projects deterrence. 
+A guard dog with teeth that are 
+
+709
+00:34:49,199 --> 00:34:52,199
+truly capable of stopping a 
+threat, a weapon that is always 
+
+710
+00:34:52,199 --> 00:34:55,239
+ready and reliable. 
+But often that same society 
+
+711
+00:34:55,239 --> 00:34:58,440
+doesn't invest enough hours or 
+enough resources into ensuring 
+
+712
+00:34:58,440 --> 00:35:02,000
+those officers master that tool.
+They are given enough range 
+
+713
+00:35:02,000 --> 00:35:05,360
+time, enough scenario training, 
+enough continuous professional 
+
+714
+00:35:05,360 --> 00:35:07,720
+development to handle that 
+weapon to a level of precision 
+
+715
+00:35:07,720 --> 00:35:10,720
+that minimizes such accidents, 
+especially under fatigue or 
+
+716
+00:35:10,720 --> 00:35:12,760
+stress. 
+It highlights the tension 
+
+717
+00:35:12,760 --> 00:35:15,880
+between desiring a capable 
+deterring force and providing 
+
+718
+00:35:15,880 --> 00:35:19,080
+the comprehensive, ongoing 
+training necessary to wield that
+
+719
+00:35:19,080 --> 00:35:21,880
+force safely and effectively, 
+both for the public and for the 
+
+720
+00:35:21,880 --> 00:35:24,720
+officers themselves. 
+It's a symptom of a system that 
+
+721
+00:35:24,720 --> 00:35:27,960
+demands a powerful tool but may 
+not really fund its mastery, 
+
+722
+00:35:28,160 --> 00:35:30,880
+leading to preventable incidents
+that erode trust and injure 
+
+723
+00:35:30,880 --> 00:35:33,200
+officers. 
+So why then, after all this 
+
+724
+00:35:33,200 --> 00:35:36,600
+nuanced discussion, after all 
+the data and historical context,
+
+725
+00:35:36,600 --> 00:35:38,760
+do we keep returning to this 
+guard dog metaphor? 
+
+726
+00:35:39,120 --> 00:35:42,000
+Why is it so essential to 
+understanding the police role 
+
+727
+00:35:42,000 --> 00:35:44,160
+and cutting through the layers 
+of misperception? 
+
+728
+00:35:44,240 --> 00:35:46,720
+We keep this guard dog metaphor 
+because it provides 
+
+729
+00:35:46,720 --> 00:35:50,280
+uncomfortable clarity, a stark, 
+unsentimental truth. 
+
+730
+00:35:50,600 --> 00:35:53,360
+It distills the essence of their
+function in a way that avoids 
+
+731
+00:35:53,360 --> 00:35:56,680
+romanticization on one hand and 
+unfair demonization on the 
+
+732
+00:35:56,680 --> 00:35:58,440
+other. 
+You don't want that guard dog 
+
+733
+00:35:58,440 --> 00:36:00,680
+off the leash all the time, 
+roaming freely, barking at 
+
+734
+00:36:00,680 --> 00:36:02,920
+shadows, causing issues 
+indiscriminately. 
+
+735
+00:36:03,120 --> 00:36:05,720
+No one wants that. 
+But you also absolutely do not 
+
+736
+00:36:05,720 --> 00:36:08,960
+want him gone, vanished, nowhere
+to be found, when the wolves 
+
+737
+00:36:08,960 --> 00:36:11,760
+come to your door, when true, 
+violent chaos erupts. 
+
+738
+00:36:12,320 --> 00:36:14,760
+What you want, ideally, is for 
+him to be trained. 
+
+739
+00:36:15,320 --> 00:36:17,440
+You want him leashed. 
+You want him trustworthy. 
+
+740
+00:36:17,840 --> 00:36:20,200
+But the fundamental reality is 
+that the job, when it comes down
+
+741
+00:36:20,200 --> 00:36:23,520
+to its core, requires teeth. 
+It requires the latent and 
+
+742
+00:36:23,520 --> 00:36:26,480
+sometimes active ability to use 
+force to protect the vulnerable 
+
+743
+00:36:26,720 --> 00:36:29,360
+and maintain order when all 
+other avenues have failed. 
+
+744
+00:36:30,040 --> 00:36:33,360
+The metaphor reminds us of this 
+core, often unpalatable truth 
+
+745
+00:36:33,360 --> 00:36:35,560
+that underpins the entire 
+institution of policing, 
+
+746
+00:36:35,760 --> 00:36:38,320
+regardless of our wishes or 
+desires for a different reality.
+
+747
+00:36:38,760 --> 00:36:41,720
+That's a truly sobering 
+clarification pulling us back to
+
+748
+00:36:41,720 --> 00:36:44,840
+the stark reality of the role. 
+So let's bring this back to the 
+
+749
+00:36:44,840 --> 00:36:47,920
+core message of this deep dive. 
+After unpacking all this, it 
+
+750
+00:36:47,920 --> 00:36:51,520
+becomes undeniably clear a 
+police officer is not a Saint 
+
+751
+00:36:51,520 --> 00:36:54,320
+Bernard with a barrel of Brandy 
+around its neck coming to rescue
+
+752
+00:36:54,320 --> 00:36:56,520
+you from a snowstorm of personal
+lows. 
+
+753
+00:36:56,960 --> 00:37:00,160
+They are not a soft place to 
+land when your personal code, or
+
+754
+00:37:00,160 --> 00:37:03,160
+someone else's collides with the
+broader societal one. 
+
+755
+00:37:03,640 --> 00:37:06,320
+They are not your confessor, 
+your therapist, or your tribal 
+
+756
+00:37:06,320 --> 00:37:09,520
+elder here to mediate personal 
+disputes with perfect empathy 
+
+757
+00:37:09,520 --> 00:37:11,760
+and endless time. 
+That's the ultimate 
+
+758
+00:37:11,760 --> 00:37:14,560
+uncomfortable truth, the reality
+stripped bare. 
+
+759
+00:37:14,760 --> 00:37:17,360
+They are, in the end, the 
+state's guard dog. 
+
+760
+00:37:17,800 --> 00:37:20,960
+They're conditioned to bark, to 
+deter, and, yes, to bite when 
+
+761
+00:37:20,960 --> 00:37:23,120
+that fundamental line of 
+societal order is crossed. 
+
+762
+00:37:23,440 --> 00:37:25,480
+Their training, their equipment,
+their tools, their legal 
+
+763
+00:37:25,480 --> 00:37:27,880
+mandates, they're very 
+designation as law enforcement 
+
+764
+00:37:27,880 --> 00:37:30,000
+officers. 
+Everything about the role points
+
+765
+00:37:30,000 --> 00:37:32,520
+to this reality. 
+It is a specific difficult job 
+
+766
+00:37:32,520 --> 00:37:35,000
+with specific difficult tools 
+for a specific difficult 
+
+767
+00:37:35,000 --> 00:37:37,640
+purpose. 
+And this leads us to the final 
+
+768
+00:37:37,840 --> 00:37:40,040
+provocative thought from our 
+source material. 
+
+769
+00:37:40,360 --> 00:37:42,920
+It presents a profound 
+challenge, doesn't it, to all of
+
+770
+00:37:42,920 --> 00:37:44,920
+us. 
+If you genuinely want a world 
+
+771
+00:37:44,920 --> 00:37:47,800
+where that guard dog is needed 
+less often, then you 
+
+772
+00:37:48,000 --> 00:37:51,840
+collectively as communities, as 
+a society, must actively build 
+
+773
+00:37:51,840 --> 00:37:53,840
+the conditions that make him 
+less necessary. 
+
+774
+00:37:54,080 --> 00:37:56,120
+We're talking about fostering 
+stronger bonds between 
+
+775
+00:37:56,120 --> 00:37:58,560
+neighbors, creating fairer 
+chances for the desperate, 
+
+776
+00:37:58,560 --> 00:38:01,200
+investing in mental health and 
+education, and nurturing a 
+
+777
+00:38:01,200 --> 00:38:04,200
+culture that fundamentally does 
+not glorify or enable the wolf 
+
+778
+00:38:04,200 --> 00:38:07,280
+at the door, whether that wolf 
+is violent crime, addiction, or 
+
+779
+00:38:07,280 --> 00:38:09,760
+profound despair. 
+That's the core societal 
+
+780
+00:38:09,760 --> 00:38:12,120
+responsibility, the aspirational
+goal. 
+
+781
+00:38:12,920 --> 00:38:15,680
+But, and this is the stark 
+reality that we must confront, 
+
+782
+00:38:16,280 --> 00:38:18,680
+when you have none of those 
+conditions, when those bonds 
+
+783
+00:38:18,680 --> 00:38:21,720
+weaken, when opportunities 
+disappear, when societal 
+
+784
+00:38:21,720 --> 00:38:25,400
+pressures breakdown or when they
+simply fail under acute pressure
+
+785
+00:38:25,440 --> 00:38:28,840
+like a sudden act of violence, 
+or when a person simply chooses 
+
+786
+00:38:28,840 --> 00:38:32,160
+to be the wolf despite all good 
+intentions, you will not be 
+
+787
+00:38:32,160 --> 00:38:33,720
+calling a therapist in the 
+middle of the night. 
+
+788
+00:38:34,160 --> 00:38:35,840
+You will not be calling a social
+worker. 
+
+789
+00:38:36,000 --> 00:38:39,480
+You will call the guard dog, and
+when he comes, when he responds 
+
+790
+00:38:39,480 --> 00:38:42,640
+to that desperate call, you must
+not for a second act surprised 
+
+791
+00:38:42,640 --> 00:38:45,360
+that his teeth are real and that
+he's prepared to use them. 
+
+792
+00:38:45,520 --> 00:38:48,000
+It's a powerful call to 
+reflection, demanding an 
+
+793
+00:38:48,000 --> 00:38:49,880
+uncomfortable clarity from us 
+all. 
+
+794
+00:38:50,440 --> 00:38:53,600
+You can choose to romanticize 
+the badge, to imbue it with all 
+
+795
+00:38:53,600 --> 00:38:56,600
+these idealized qualities of 
+perfect wisdom and boundless 
+
+796
+00:38:56,600 --> 00:39:00,720
+empathy, or you can choose to 
+demonize it, to see it only as 
+
+797
+00:39:00,720 --> 00:39:04,080
+an instrument of oppression. 
+But as the source material so 
+
+798
+00:39:04,080 --> 00:39:07,280
+eloquently states, if you want 
+to live with fewer guard dogs, 
+
+799
+00:39:07,280 --> 00:39:10,360
+then you must build a society 
+that genuinely needs fewer. 
+
+800
+00:39:10,880 --> 00:39:12,720
+Until then, be honest with 
+yourself. 
+
+801
+00:39:13,240 --> 00:39:16,000
+A police officer is not your 
+therapist, your priest, or your 
+
+802
+00:39:16,000 --> 00:39:18,680
+personal Redeemer. 
+He is the last argument the 
+
+803
+00:39:18,680 --> 00:39:22,360
+state makes, the ultimate line 
+of defense when chaos presses at
+
+804
+00:39:22,360 --> 00:39:25,160
+the fence. 
+If you ignore that truth, if you
+
+805
+00:39:25,160 --> 00:39:27,480
+sugarcoat it, you'll be stunned 
+when the teeth come out, when 
+
+806
+00:39:27,480 --> 00:39:29,960
+force is used. 
+But if you accept it, if you 
+
+807
+00:39:29,960 --> 00:39:33,360
+fund it wisely and constrain it 
+justly within its proper role, 
+
+808
+00:39:33,520 --> 00:39:34,920
+you may never have to hear the 
+bark. 
+
+809
+00:39:35,320 --> 00:39:37,520
+It's a truth that demands 
+clarity, not comfort. 
+
+810
+00:39:37,520 --> 00:39:40,400
+From all of us, thank you for 
+joining us on this deep dive 
+
+811
+00:39:40,400 --> 00:39:43,400
+into understanding the true 
+nature of law enforcement, and 
+
+812
+00:39:43,400 --> 00:39:45,840
+we encourage you to continue 
+seeking that uncomfortable 
+
+813
+00:39:45,840 --> 00:39:48,600
+clarity in a world overflowing 
+with complex information.
+

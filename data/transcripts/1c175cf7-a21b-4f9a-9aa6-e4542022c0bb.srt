@@ -1,0 +1,4500 @@
+1
+00:00:00,040 --> 00:00:03,760
+What if the very government 
+meant to unite a nation is, 
+
+2
+00:00:03,760 --> 00:00:06,320
+well, for some of its own 
+people, perceived as an 
+
+3
+00:00:06,320 --> 00:00:09,760
+occupying force? 
+It's a jarring thought, isn't 
+
+4
+00:00:09,760 --> 00:00:13,000
+it? 
+A provocative idea that truly 
+
+5
+00:00:13,000 --> 00:00:15,520
+challenges our conventional 
+understanding of national 
+
+6
+00:00:15,520 --> 00:00:17,640
+identity and, you know, internal
+conflict. 
+
+7
+00:00:17,640 --> 00:00:20,520
+It really does. 
+Today we're diving deep into 
+
+8
+00:00:20,520 --> 00:00:24,640
+precisely that concept, the 
+Profound Occupier thesis by 
+
+9
+00:00:24,640 --> 00:00:26,360
+Chris Abraham. 
+Yeah, it's quite a framework. 
+
+10
+00:00:26,520 --> 00:00:29,800
+This framework, as we'll 
+explore, offers a startlingly 
+
+11
+00:00:29,800 --> 00:00:33,280
+new and frankly pretty 
+unsettling lens through which to
+
+12
+00:00:33,280 --> 00:00:36,400
+understand profound internal 
+divisions right here within the 
+
+13
+00:00:36,400 --> 00:00:39,800
+United States. 
+It forces us to ask what if 
+
+14
+00:00:39,800 --> 00:00:43,080
+there isn't just one America, 
+but multiple kind of coexisting 
+
+15
+00:00:43,080 --> 00:00:45,000
+on the same map? 
+Our source material for this 
+
+16
+00:00:45,000 --> 00:00:49,280
+deep dive is a meticulously 
+analytical paper titled the 
+
+17
+00:00:49,320 --> 00:00:52,400
+occupier.pdf. 
+And this document doesn't just 
+
+18
+00:00:52,400 --> 00:00:54,600
+theorize, it really digs in 
+right. 
+
+19
+00:00:54,760 --> 00:00:57,400
+It dissects how specific amount 
+of things like enclaves, 
+
+20
+00:00:57,400 --> 00:01:00,560
+autonomy, and what it actually 
+calls parallel realities, how 
+
+21
+00:01:00,560 --> 00:01:04,120
+these explain America's 
+seemingly intractable internal 
+
+22
+00:01:04,120 --> 00:01:05,720
+divisions. 
+Parallel realities, OK. 
+
+23
+00:01:06,160 --> 00:01:09,960
+Yeah, our mission today is 
+basically to extract the most 
+
+24
+00:01:09,960 --> 00:01:13,320
+crucial and sometimes, you know,
+counterintuitive insights from 
+
+25
+00:01:13,320 --> 00:01:15,920
+this paper. 
+We really aim to challenge some 
+
+26
+00:01:15,920 --> 00:01:20,440
+widely called assumptions about,
+say, national unity and internal
+
+27
+00:01:20,440 --> 00:01:24,160
+governance, connecting the docs 
+for you, our listener, in a way 
+
+28
+00:01:24,160 --> 00:01:27,520
+that truly illuminates these 
+incredibly complex dynamics. 
+
+29
+00:01:27,520 --> 00:01:29,640
+Like peeling back the layers 
+maybe? 
+
+30
+00:01:29,640 --> 00:01:34,960
+Exactly, peeling back layers to 
+reveal a hidden but potentially 
+
+31
+00:01:34,960 --> 00:01:37,120
+crucial aspect of the American 
+experience. 
+
+32
+00:01:37,120 --> 00:01:39,840
+And why does this matter to you 
+listening right now? 
+
+33
+00:01:40,040 --> 00:01:42,920
+Well, whether you're trying to 
+make sense of complex social 
+
+34
+00:01:42,920 --> 00:01:45,920
+dynamics unfolding in the news. 
+Which seems constant these days.
+
+35
+00:01:46,080 --> 00:01:48,040
+Right. 
+Or maybe you're preparing for a 
+
+36
+00:01:48,040 --> 00:01:50,360
+critical discussion on community
+relations. 
+
+37
+00:01:50,720 --> 00:01:53,400
+Or perhaps you're simply, you 
+know, immensely curious about 
+
+38
+00:01:53,400 --> 00:01:56,440
+the surprising ways different 
+parts of America perceive 
+
+39
+00:01:56,440 --> 00:02:00,360
+governance and authority. 
+This deep dive is your shortcut 
+
+40
+00:02:00,360 --> 00:02:03,320
+to really getting your head 
+around a concept that's often 
+
+41
+00:02:03,320 --> 00:02:07,800
+talked about, maybe indirectly, 
+but rarely truly understood at 
+
+42
+00:02:07,800 --> 00:02:09,400
+this level. 
+It gives you a new lens 
+
+43
+00:02:09,400 --> 00:02:11,080
+basically. 
+Exactly. 
+
+44
+00:02:11,080 --> 00:02:14,680
+It's about providing you with a 
+robust framework to interpret 
+
+45
+00:02:14,680 --> 00:02:18,560
+events you see every day, 
+offering maybe an aha moment 
+
+46
+00:02:18,560 --> 00:02:20,720
+that could profoundly change 
+your perspective. 
+
+47
+00:02:20,720 --> 00:02:22,640
+Hopefully, yeah. 
+So let's unpack this 
+
+48
+00:02:22,640 --> 00:02:25,080
+immediately. 
+How can a government, 
+
+49
+00:02:25,240 --> 00:02:29,680
+particularly one established by 
+its own citizens, be an occupier
+
+50
+00:02:29,680 --> 00:02:32,280
+in its own country? 
+Yeah, that's the big question. 
+
+51
+00:02:32,480 --> 00:02:34,280
+It sounds almost contradictory, 
+doesn't it? 
+
+52
+00:02:34,280 --> 00:02:38,000
+When we hear that word occupier,
+our minds typically conjure 
+
+53
+00:02:38,000 --> 00:02:41,160
+images of, you know, foreign 
+armies and distant. 
+
+54
+00:02:41,160 --> 00:02:44,240
+Lands right or empires? 
+Or historical colonial powers 
+
+55
+00:02:44,240 --> 00:02:47,440
+imposing their will. 
+It implies an external, 
+
+56
+00:02:47,440 --> 00:02:50,840
+fundamentally foreign force. 
+But Abraham's thesis 
+
+57
+00:02:50,840 --> 00:02:54,400
+courageously turns that notion 
+inward, asking us to consider 
+
+58
+00:02:54,400 --> 00:02:57,080
+that perception within a 
+nation's very own borders. 
+
+59
+00:02:57,080 --> 00:02:59,400
+It's a bold move. 
+How does the paper define this 
+
+60
+00:02:59,400 --> 00:03:05,160
+very specific and undeniably 
+powerful term in the American 
+
+61
+00:03:05,160 --> 00:03:06,800
+context? 
+Well, a key point the paper 
+
+62
+00:03:06,800 --> 00:03:09,560
+makes is how it defines occupier
+with such precision. 
+
+63
+00:03:09,880 --> 00:03:13,360
+It states that an occupier is 
+quite simply someone or 
+
+64
+00:03:13,360 --> 00:03:15,600
+something that controls a place 
+where the people feel the 
+
+65
+00:03:15,600 --> 00:03:19,640
+control is not legitimate. 
+The feeling of illegitimacy. 
+
+66
+00:03:19,640 --> 00:03:22,240
+That feeling of illegitimacy is 
+absolutely really crucial. 
+
+67
+00:03:22,520 --> 00:03:26,520
+It's not about whether the 
+control is legitimate in a 
+
+68
+00:03:26,880 --> 00:03:29,680
+legal, statutory sense, you 
+know, on paper. 
+
+69
+00:03:29,680 --> 00:03:31,000
+Right, and not the legal 
+definition. 
+
+70
+00:03:31,000 --> 00:03:33,640
+No, it's entirely about the 
+perception of it from the 
+
+71
+00:03:33,640 --> 00:03:37,000
+perspective of those being 
+controlled that immediately 
+
+72
+00:03:37,000 --> 00:03:40,520
+shifts the focus from like 
+objective legal frameworks to 
+
+73
+00:03:40,520 --> 00:03:43,440
+subjective lived experience. 
+That's a big shift. 
+
+74
+00:03:43,440 --> 00:03:46,880
+It is, and to contextualize this
+further, the paper gives us 
+
+75
+00:03:46,880 --> 00:03:49,800
+familiar historical examples 
+that really ground this concept.
+
+76
+00:03:50,160 --> 00:03:52,040
+Think about the classic 
+understanding. 
+
+77
+00:03:52,600 --> 00:03:56,400
+In traditional warfare, an 
+occupier is the army that stays 
+
+78
+00:03:56,400 --> 00:03:59,920
+on land that isn't theirs long 
+after the initial conflict might
+
+79
+00:03:59,920 --> 00:04:01,200
+have ended. 
+Foreign soil. 
+
+80
+00:04:01,560 --> 00:04:04,120
+Exactly. 
+In the context of colonialism, 
+
+81
+00:04:04,440 --> 00:04:07,520
+it's the empire that rules over 
+a people without their consent, 
+
+82
+00:04:07,680 --> 00:04:09,800
+imposing its laws and systems 
+from afar. 
+
+83
+00:04:09,800 --> 00:04:11,680
+OK, those are clear external 
+forces. 
+
+84
+00:04:11,960 --> 00:04:16,079
+Very clear cut cases where the 
+authority is external, coercive 
+
+85
+00:04:16,079 --> 00:04:19,640
+and critically perceived as 
+illegitimate by the local 
+
+86
+00:04:19,640 --> 00:04:23,280
+population. 
+The core feeling across all 
+
+87
+00:04:23,280 --> 00:04:26,960
+these examples is one of being 
+governed against one's will or 
+
+88
+00:04:26,960 --> 00:04:31,200
+cultural norms, of having an 
+external system sort of grafted 
+
+89
+00:04:31,200 --> 00:04:34,520
+onto an existing, often deeply 
+rooted, internal one. 
+
+90
+00:04:34,520 --> 00:04:36,200
+Like an overlay that doesn't 
+fit. 
+
+91
+00:04:36,200 --> 00:04:39,800
+Precisely this fundamental 
+dynamic of external position 
+
+92
+00:04:39,800 --> 00:04:43,040
+meeting internal rejection is 
+what the thesis argues is 
+
+93
+00:04:43,040 --> 00:04:47,160
+mirrored within parts of the US.
+That's a powerful and quite 
+
+94
+00:04:47,160 --> 00:04:50,680
+unsettling shift in perspective.
+So bringing that back to the US 
+
+95
+00:04:50,680 --> 00:04:54,360
+context, the paper makes a 
+profound point that when certain
+
+96
+00:04:54,360 --> 00:04:57,880
+communities in America call the 
+US government an occupier, they 
+
+97
+00:04:57,880 --> 00:05:00,520
+are describing how it feels to 
+live under laws they see as 
+
+98
+00:05:00,520 --> 00:05:02,240
+foreign to their way of life. 
+Exactly. 
+
+99
+00:05:02,240 --> 00:05:03,680
+It's about that feeling of 
+foreignness. 
+
+100
+00:05:03,680 --> 00:05:07,280
+So this isn't merely A metaphor 
+or like an exaggeration for 
+
+101
+00:05:07,280 --> 00:05:09,640
+rhetorical effect. 
+No, the source insists. 
+
+102
+00:05:09,640 --> 00:05:12,600
+It's a descriptor of a genuine 
+lived experience, a deep seated 
+
+103
+00:05:12,600 --> 00:05:15,520
+disconnect where the governing 
+body feels alien to the governed
+
+104
+00:05:15,520 --> 00:05:17,480
+community. 
+It speaks to a fundamental 
+
+105
+00:05:17,480 --> 00:05:21,120
+difference in what is considered
+right, is considered legitimate,
+
+106
+00:05:21,400 --> 00:05:23,280
+and what truly represents their 
+values. 
+
+107
+00:05:23,400 --> 00:05:27,160
+It suggests a chasm, really. 
+The chasm and understanding that
+
+108
+00:05:27,160 --> 00:05:30,840
+runs far deeper than simple 
+political disagreement or 
+
+109
+00:05:30,840 --> 00:05:34,000
+ideological differences. 
+It hints at a clash of 
+
+110
+00:05:34,000 --> 00:05:37,360
+fundamental realities. 
+OK, so if it's that deep, is 
+
+111
+00:05:37,360 --> 00:05:39,560
+this solely about law 
+enforcement? 
+
+112
+00:05:39,560 --> 00:05:42,920
+Is it just about police presence
+or, you know, court rulings? 
+
+113
+00:05:42,920 --> 00:05:44,520
+That's a really important 
+clarification. 
+
+114
+00:05:44,760 --> 00:05:47,720
+The source makes a crucial 
+distinction here, emphasizing 
+
+115
+00:05:47,720 --> 00:05:51,080
+that this concept of occupation 
+is not just about law 
+
+116
+00:05:51,080 --> 00:05:53,880
+enforcement. 
+It is about identity, belonging 
+
+117
+00:05:53,960 --> 00:05:56,680
+and power. 
+Identity, belonging and power. 
+
+118
+00:05:56,720 --> 00:05:58,640
+OK. 
+This reframes the entire 
+
+119
+00:05:58,640 --> 00:06:02,120
+discussion, moving it beyond 
+mere legal compliance or public 
+
+120
+00:06:02,120 --> 00:06:04,080
+order issues. 
+We're talking about something 
+
+121
+00:06:04,080 --> 00:06:06,520
+much more foundational. 
+Like who you are as a group? 
+
+122
+00:06:06,520 --> 00:06:10,040
+Exactly who a community believes
+itself to be, where its deepest 
+
+123
+00:06:10,040 --> 00:06:12,840
+loyalties lie, and who 
+legitimately holds authority 
+
+124
+00:06:12,840 --> 00:06:16,160
+over their lives and spaces. 
+It delves into the very fabric 
+
+125
+00:06:16,160 --> 00:06:18,960
+of how communities define 
+themselves against a broader 
+
+126
+00:06:18,960 --> 00:06:21,120
+external system. 
+So it's deeper than just obeying
+
+127
+00:06:21,120 --> 00:06:23,440
+the law. 
+Much deeper, it implies that 
+
+128
+00:06:23,440 --> 00:06:26,800
+when an external force is 
+perceived as an occupier, it's 
+
+129
+00:06:26,800 --> 00:06:28,680
+not just their laws that are 
+resisted. 
+
+130
+00:06:29,160 --> 00:06:31,440
+But they're very right to 
+reshape the community's 
+
+131
+00:06:31,440 --> 00:06:34,520
+identity, belonging and internal
+power structures. 
+
+132
+00:06:34,520 --> 00:06:37,200
+So it feels like an existential 
+threat almost. 
+
+133
+00:06:37,200 --> 00:06:40,320
+In a way, yes. 
+This is a battle over the soul 
+
+134
+00:06:40,320 --> 00:06:42,880
+of a community, not just its 
+regulations. 
+
+135
+00:06:43,120 --> 00:06:45,440
+OK, here's where it really gets 
+interesting and frankly 
+
+136
+00:06:45,440 --> 00:06:48,280
+foundational to the entire 
+thesis you mentioned earlier. 
+
+137
+00:06:48,800 --> 00:06:52,800
+The source introduces this 
+incredibly powerful concept of 
+
+138
+00:06:52,800 --> 00:06:56,200
+parallel realities, which it 
+calls dimension A and dimension 
+
+139
+00:06:56,280 --> 00:06:57,720
+B. 
+Yes, this is central. 
+
+140
+00:06:57,840 --> 00:07:00,040
+It's not just a clever a phrase,
+is it? 
+
+141
+00:07:00,080 --> 00:07:03,600
+It seems like the analytical 
+backbone of Abraham's entire 
+
+142
+00:07:03,600 --> 00:07:05,320
+argument. 
+It absolutely is. 
+
+143
+00:07:05,320 --> 00:07:08,600
+It asks you to fundamentally 
+shift how you perceive the 
+
+144
+00:07:08,600 --> 00:07:11,520
+landscape of authority and 
+understanding within the United 
+
+145
+00:07:11,520 --> 00:07:13,960
+States. 
+It's an almost philosophical 
+
+146
+00:07:13,960 --> 00:07:16,040
+lens for examining societal 
+friction. 
+
+147
+00:07:16,040 --> 00:07:21,200
+Indeed, the core idea is to 
+imagine 2 distinct mental worlds
+
+148
+00:07:21,200 --> 00:07:24,480
+existing in the exact same 
+physical space, often 
+
+149
+00:07:24,480 --> 00:07:26,960
+overlapping. 2 worlds, same 
+place, yeah. 
+
+150
+00:07:27,360 --> 00:07:30,240
+And the paper posits that these 
+aren't merely different 
+
+151
+00:07:30,240 --> 00:07:33,800
+viewpoints or opinions. 
+They are entire self-contained 
+
+152
+00:07:33,800 --> 00:07:37,000
+frameworks of understanding, 
+each with his own internal 
+
+153
+00:07:37,000 --> 00:07:40,400
+logic, its own set of rules, and
+its own definition of what is 
+
+154
+00:07:40,400 --> 00:07:44,360
+real, legitimate, and just. 
+This duality is central to 
+
+155
+00:07:44,360 --> 00:07:46,800
+understanding the friction that 
+inevitably arises. 
+
+156
+00:07:46,800 --> 00:07:48,960
+OK, so breakdown dimension A for
+us first. 
+
+157
+00:07:49,120 --> 00:07:52,520
+Right Dimension A in this 
+framework is defined as the 
+
+158
+00:07:52,520 --> 00:07:56,440
+internal life of the enclave, 
+the community that rules itself 
+
+159
+00:07:56,440 --> 00:07:58,200
+through its own customs and 
+codes. 
+
+160
+00:07:58,200 --> 00:08:00,360
+The inside world. 
+The inside world, yeah. 
+
+161
+00:08:00,360 --> 00:08:04,080
+Built from Within is shaped by 
+shared history, tradition, 
+
+162
+00:08:04,080 --> 00:08:08,160
+religion, ethnic identity, or 
+even common socioeconomic 
+
+163
+00:08:08,160 --> 00:08:10,120
+circumstances that bind people 
+together. 
+
+164
+00:08:10,120 --> 00:08:13,520
+So the glue of the community. 
+Exactly and dimension a 
+
+165
+00:08:13,640 --> 00:08:16,400
+community. 
+Norms dictate behavior, disputes
+
+166
+00:08:16,400 --> 00:08:20,080
+might be settled outside formal 
+legal channels, and loyalty to 
+
+167
+00:08:20,080 --> 00:08:22,520
+the group's internal system 
+often overrides external 
+
+168
+00:08:22,520 --> 00:08:25,240
+directives. 
+It's a deeply self governing 
+
+169
+00:08:25,240 --> 00:08:28,280
+entity, even if it lacks formal 
+recognition from the state. 
+
+170
+00:08:28,280 --> 00:08:32,240
+It governs itself, really. 
+Yes, this dimension embodies the
+
+171
+00:08:32,240 --> 00:08:35,039
+autonomy, distinct identity and 
+collective will of the 
+
+172
+00:08:35,039 --> 00:08:38,280
+community, where unwritten rules
+and social contracts hold 
+
+173
+00:08:38,280 --> 00:08:41,360
+immense power and legitimacy for
+those within. 
+
+174
+00:08:41,640 --> 00:08:43,960
+This is their true reality. 
+OK, so that's dimension A. 
+
+175
+00:08:44,080 --> 00:08:47,480
+What about B? 
+So, in stark contrast, dimension
+
+176
+00:08:47,480 --> 00:08:50,600
+B represents the external 
+authority of the federal, state 
+
+177
+00:08:50,600 --> 00:08:52,080
+and local government. 
+The official stuff. 
+
+178
+00:08:52,160 --> 00:08:55,240
+The official power structure 
+exactly with its codified laws, 
+
+179
+00:08:55,240 --> 00:08:57,720
+established institutions, 
+recognize enforcement 
+
+180
+00:08:57,720 --> 00:09:00,760
+mechanisms, police, courts, 
+agencies, right. 
+
+181
+00:09:00,760 --> 00:09:04,200
+This is the world of statutes, 
+city ordinances, state police, 
+
+182
+00:09:04,200 --> 00:09:08,360
+federal agencies, the universal 
+legal framework that on paper 
+
+183
+00:09:08,600 --> 00:09:11,520
+applies to all citizens and all 
+territories within the United 
+
+184
+00:09:11,520 --> 00:09:13,120
+States. 
+The system we usually think of 
+
+185
+00:09:13,120 --> 00:09:14,720
+as the government. 
+Precisely. 
+
+186
+00:09:14,880 --> 00:09:18,200
+It's the system designed to be 
+comprehensive, overarching, and 
+
+187
+00:09:18,200 --> 00:09:21,480
+universally applicable. 
+Believing its legitimacy stems 
+
+188
+00:09:21,480 --> 00:09:25,600
+from democratic processes and a 
+broad social contract, Dimension
+
+189
+00:09:25,600 --> 00:09:29,160
+B operates under the assumption 
+that it is the singular ultimate
+
+190
+00:09:29,160 --> 00:09:31,560
+authority. 
+OK, so you have a the internal 
+
+191
+00:09:31,560 --> 00:09:33,600
+world and B the external 
+authority. 
+
+192
+00:09:33,600 --> 00:09:36,200
+How do they interact? 
+Or not interact well. 
+
+193
+00:09:36,200 --> 00:09:39,520
+What's truly illuminating, and 
+this is the crux, is how these 
+
+194
+00:09:39,520 --> 00:09:43,560
+two dimensions, while sharing 
+the same map, do not same rules.
+
+195
+00:09:44,360 --> 00:09:46,320
+Same map, different rules. 
+That's powerful. 
+
+196
+00:09:46,320 --> 00:09:48,600
+Isn't it? 
+This is the core of the inherent
+
+197
+00:09:48,600 --> 00:09:50,960
+tension. 
+They literally exist on the same
+
+198
+00:09:50,960 --> 00:09:54,560
+geographical plane, but their 
+operational principles, their 
+
+199
+00:09:54,560 --> 00:09:57,960
+interpretations of events, their
+definitions of legitimacy are 
+
+200
+00:09:57,960 --> 00:10:00,400
+fundamentally different. 
+So when they overlap. 
+
+201
+00:10:00,720 --> 00:10:04,000
+When they overlap, which they 
+inevitably do, tension doesn't 
+
+202
+00:10:04,000 --> 00:10:06,360
+just follow, it's virtually 
+guaranteed to erupt. 
+
+203
+00:10:06,960 --> 00:10:10,200
+As the source powerfully points 
+out, this framework helps 
+
+204
+00:10:10,200 --> 00:10:14,280
+explain why the exact same 
+event, say, a police raid, a 
+
+205
+00:10:14,280 --> 00:10:18,080
+federal arrest, or even just a 
+simple patrol can mean something
+
+206
+00:10:18,280 --> 00:10:21,080
+drastically, irreconcilably 
+different to each side. 
+
+207
+00:10:21,200 --> 00:10:23,200
+How so? 
+Give us that example. 
+
+208
+00:10:23,200 --> 00:10:25,960
+Well, to dimension B, that 
+police raid might be seen as 
+
+209
+00:10:26,200 --> 00:10:29,280
+upholding the law, ensuring 
+safety, maintaining order, 
+
+210
+00:10:29,440 --> 00:10:31,040
+acting within its legitimate 
+purview. 
+
+211
+00:10:31,320 --> 00:10:33,080
+Perfectly logical from their 
+perspective. 
+
+212
+00:10:33,120 --> 00:10:37,080
+Standard procedure maybe? 
+Right, but to dimension A that 
+
+213
+00:10:37,080 --> 00:10:39,520
+identical action can be 
+perceived as an act of 
+
+214
+00:10:39,520 --> 00:10:43,640
+occupation and intrusion and 
+affront to their self governance
+
+215
+00:10:44,040 --> 00:10:45,920
+or even an assault on their way 
+of life. 
+
+216
+00:10:45,920 --> 00:10:49,920
+So the same action means safety 
+to 1 and occupation to the 
+
+217
+00:10:49,920 --> 00:10:50,680
+other. 
+Exactly. 
+
+218
+00:10:51,000 --> 00:10:53,920
+The deeply divergent perceptions
+are not merely semantic. 
+
+219
+00:10:54,000 --> 00:10:57,120
+They reflect fundamentally 
+opposing views on who holds 
+
+220
+00:10:57,120 --> 00:11:00,520
+legitimate authority and what 
+constitutes just action within a
+
+221
+00:11:00,520 --> 00:11:03,440
+given space. 
+It's a clash of realities, not 
+
+222
+00:11:03,440 --> 00:11:05,960
+just opinions. 
+So if these dimension A 
+
+223
+00:11:05,960 --> 00:11:09,320
+realities exist, these sort of 
+self governing spaces within the
+
+224
+00:11:09,320 --> 00:11:13,880
+larger nation, where exactly do 
+we see them manifesting in 
+
+225
+00:11:13,880 --> 00:11:15,200
+America? 
+Yeah, good question. 
+
+226
+00:11:15,280 --> 00:11:18,160
+What do these enclaves, these 
+communities with their own 
+
+227
+00:11:18,160 --> 00:11:21,200
+internal codes, actually look 
+like on the ground? 
+
+228
+00:11:21,240 --> 00:11:22,760
+The paper says. 
+They're more common than we 
+
+229
+00:11:22,760 --> 00:11:24,800
+might think. 
+It does, and an enclave is the 
+
+230
+00:11:24,880 --> 00:11:28,040
+paper precisely defines. 
+It is a community that sees 
+
+231
+00:11:28,040 --> 00:11:30,280
+itself as separate. 
+Sees itself as separate OK. 
+
+232
+00:11:30,520 --> 00:11:33,080
+This isn't just about drawing 
+physical boundaries on a map, 
+
+233
+00:11:33,080 --> 00:11:36,560
+although those often exist. 
+More fundamentally, it's about a
+
+234
+00:11:36,560 --> 00:11:41,800
+shared identity, a collective 
+sense of distinctness, and often
+
+235
+00:11:42,000 --> 00:11:45,200
+a deep seated desire for 
+autonomy from the broader 
+
+236
+00:11:45,200 --> 00:11:48,120
+society. 
+A feeling of being a unit. 
+
+237
+00:11:48,720 --> 00:11:51,440
+Exactly. 
+A group feeling like a cohesive,
+
+238
+00:11:51,440 --> 00:11:55,040
+self-contained unit operating 
+under its own internal logic and
+
+239
+00:11:55,040 --> 00:11:57,360
+norms. 
+And the paper gives examples 
+
+240
+00:11:57,400 --> 00:11:59,320
+right across different kinds of 
+communities. 
+
+241
+00:11:59,320 --> 00:12:01,720
+Yes, and the diversity is really
+striking. 
+
+242
+00:12:01,760 --> 00:12:03,760
+Yeah. 
+It broadens our understanding 
+
+243
+00:12:03,760 --> 00:12:05,440
+beyond just one type of 
+community. 
+
+244
+00:12:05,640 --> 00:12:08,440
+For instance, it could manifest 
+as a Black inner city 
+
+245
+00:12:08,440 --> 00:12:11,880
+neighborhood, OK, where, you 
+know, historical context, shared
+
+246
+00:12:11,880 --> 00:12:14,960
+struggles against systemic 
+issues and deeply ingrained 
+
+247
+00:12:14,960 --> 00:12:17,840
+cultural traditions forge a 
+unique identity and internal 
+
+248
+00:12:17,840 --> 00:12:19,080
+support system. 
+Makes sense. 
+
+249
+00:12:19,240 --> 00:12:21,320
+Or think about a Latino 
+district, perhaps centered 
+
+250
+00:12:21,320 --> 00:12:24,800
+around common language, family 
+networks, cultural heritage that
+
+251
+00:12:24,800 --> 00:12:27,520
+distinguish it, fostering a 
+strong sense of internal 
+
+252
+00:12:27,520 --> 00:12:30,360
+solidarity. 
+The paper also points to an 
+
+253
+00:12:30,360 --> 00:12:34,440
+Orthodox Jewish suburb where 
+religious law, community support
+
+254
+00:12:34,440 --> 00:12:39,040
+systems and a distinct, often 
+quite insular way of life create
+
+255
+00:12:39,080 --> 00:12:42,800
+a highly self-sufficient and 
+internally governed environment.
+
+256
+00:12:42,920 --> 00:12:44,800
+Very strong internal rules 
+there. 
+
+257
+00:12:44,800 --> 00:12:47,680
+Absolutely. 
+And it stands to a Mormon town 
+
+258
+00:12:47,800 --> 00:12:51,000
+where faith and communal values 
+shape nearly every aspect of 
+
+259
+00:12:51,000 --> 00:12:53,440
+daily life, influencing 
+everything from business 
+
+260
+00:12:53,440 --> 00:12:55,160
+practices to social 
+interactions. 
+
+261
+00:12:56,040 --> 00:12:59,240
+A Chinatown, with its strong 
+ethnic ties, unique language 
+
+262
+00:12:59,240 --> 00:13:02,160
+practices and cultural 
+institutions, serves as an 
+
+263
+00:13:02,160 --> 00:13:04,120
+enclave. 
+So it's not just race or 
+
+264
+00:13:04,120 --> 00:13:05,320
+religion then? 
+Not at all. 
+
+265
+00:13:05,400 --> 00:13:08,160
+And the paper explicitly states 
+this isn't limited to urban or 
+
+266
+00:13:08,160 --> 00:13:11,840
+ethnically distinct areas. 
+It says even rural areas with 
+
+267
+00:13:11,840 --> 00:13:14,880
+strong local identity, like 
+parts of Appalachia, operate 
+
+268
+00:13:14,880 --> 00:13:17,080
+with suspicion toward outside 
+interference. 
+
+269
+00:13:17,120 --> 00:13:18,480
+Appalachia. 
+Interesting. 
+
+270
+00:13:18,480 --> 00:13:20,920
+So it's about that shared sense 
+of autonomy. 
+
+271
+00:13:20,960 --> 00:13:22,880
+Precisely. 
+It highlights that the enclave 
+
+272
+00:13:22,880 --> 00:13:26,040
+isn't defined merely by race or 
+religion, but by a powerful 
+
+273
+00:13:26,040 --> 00:13:29,480
+shared sense of autonomy and a 
+distinct internal system that 
+
+274
+00:13:29,480 --> 00:13:31,760
+differentiates them from the 
+surrounding dimension B. 
+
+275
+00:13:31,960 --> 00:13:35,040
+And what's the dynamic like 
+inside these spaces according to
+
+276
+00:13:35,040 --> 00:13:37,240
+the paper? 
+Well, the paper emphasizes, 
+
+277
+00:13:37,680 --> 00:13:42,040
+there is pride and autonomy. 
+This pride isn't just like civic
+
+278
+00:13:42,040 --> 00:13:45,200
+or local patriotism. 
+It's a deep seated connection to
+
+279
+00:13:45,200 --> 00:13:48,320
+their unique identity, their 
+resilience, and their ability to
+
+280
+00:13:48,320 --> 00:13:50,680
+sustain themselves according to 
+their own principles. 
+
+281
+00:13:51,240 --> 00:13:54,640
+This autonomy manifests in 
+subtle but profound ways, 
+
+282
+00:13:55,080 --> 00:13:58,440
+perhaps through informal justice
+systems, communal support 
+
+283
+00:13:58,440 --> 00:14:02,600
+networks, or social pressure 
+that enforces internal codes. 
+
+284
+00:14:02,760 --> 00:14:04,760
+The unwritten rules again. 
+Exactly. 
+
+285
+00:14:05,000 --> 00:14:08,920
+The source notes outsiders may 
+be allowed in, but they are not 
+
+286
+00:14:08,920 --> 00:14:11,600
+part of the dimension. 
+You can visit, but you don't 
+
+287
+00:14:11,600 --> 00:14:14,000
+belong. 
+Pretty much, you can visit, you 
+
+288
+00:14:14,000 --> 00:14:16,720
+can conduct business, but you 
+are not of the community, You 
+
+289
+00:14:16,720 --> 00:14:19,640
+don't inherently understand or 
+abide by their unwritten rules 
+
+290
+00:14:19,640 --> 00:14:22,320
+and social contracts. 
+And here's a crucial point the 
+
+291
+00:14:22,320 --> 00:14:24,920
+paper makes. 
+While these enclaves might 
+
+292
+00:14:24,920 --> 00:14:29,760
+follow US laws on paper, their 
+local codes matter just as much,
+
+293
+00:14:29,760 --> 00:14:33,160
+sometimes more. 
+So there's the potential clash 
+
+294
+00:14:33,200 --> 00:14:34,640
+right there. 
+Absolutely. 
+
+295
+00:14:34,840 --> 00:14:37,680
+This is where the potential for 
+friction often arises. 
+
+296
+00:14:38,080 --> 00:14:41,720
+For instance, a community might 
+legally comply with federal 
+
+297
+00:14:41,720 --> 00:14:45,840
+mandates on crime reporting, but
+internally, disputes might be 
+
+298
+00:14:45,840 --> 00:14:50,080
+resolved through mediation by 
+elders or social order 
+
+299
+00:14:50,080 --> 00:14:53,560
+maintained by collective shaming
+rather than involving external 
+
+300
+00:14:53,560 --> 00:14:55,040
+law enforcement. 
+Dimension B. 
+
+301
+00:14:55,040 --> 00:14:56,680
+So they handle it themselves. 
+Right. 
+
+302
+00:14:57,120 --> 00:15:00,840
+This unwritten internal system 
+holds immense power and 
+
+303
+00:15:00,840 --> 00:15:04,080
+legitimacy for those within the 
+dimension reality, often 
+
+304
+00:15:04,080 --> 00:15:07,840
+prioritizing communal harmony or
+traditional justice over formal 
+
+305
+00:15:07,840 --> 00:15:10,200
+legal procedures. 
+OK, given what we've just 
+
+306
+00:15:10,200 --> 00:15:12,280
+discussed about these 
+self-contained enclaves and 
+
+307
+00:15:12,280 --> 00:15:15,880
+their deeply ingrained internal 
+systems, what happens when 
+
+308
+00:15:15,880 --> 00:15:18,640
+external authority, what the 
+source calls the occupier 
+
+309
+00:15:18,640 --> 00:15:20,640
+shadow, actually enters these 
+spaces? 
+
+310
+00:15:20,640 --> 00:15:22,520
+Right, the shadow. 
+It seems like it would 
+
+311
+00:15:22,520 --> 00:15:25,640
+immediately create a palpable 
+and often volatile tension. 
+
+312
+00:15:26,640 --> 00:15:29,520
+How does the mayor describe this
+this inevitable clash? 
+
+313
+00:15:29,640 --> 00:15:32,440
+It describes a very visceral 
+reaction, almost instinctual. 
+
+314
+00:15:32,440 --> 00:15:35,400
+It states quite directly when 
+someone from outside comes in 
+
+315
+00:15:35,400 --> 00:15:37,880
+with power, police, ICE, federal
+agents. 
+
+316
+00:15:38,040 --> 00:15:40,400
+It feels like an invasion. 
+An invasion. 
+
+317
+00:15:40,600 --> 00:15:43,280
+Strong word. 
+Very This isn't just a mild 
+
+318
+00:15:43,280 --> 00:15:45,280
+inconvenience or routine 
+interaction. 
+
+319
+00:15:45,680 --> 00:15:49,960
+It's perceived as an incursion, 
+A hostile act against their 
+
+320
+00:15:49,960 --> 00:15:52,960
+autonomy and their established 
+internal order. 
+
+321
+00:15:54,080 --> 00:15:57,200
+For those living within 
+dimension A, it's a fundamental 
+
+322
+00:15:57,200 --> 00:15:59,480
+challenge to their self 
+governing nature and their right
+
+323
+00:15:59,480 --> 00:16:01,680
+to exist according to their own 
+rules. 
+
+324
+00:16:02,400 --> 00:16:05,600
+The very presence of Dimension 
+B's enforcement can activate 
+
+325
+00:16:05,600 --> 00:16:08,000
+deep seated feelings of 
+historical oppression or 
+
+326
+00:16:08,000 --> 00:16:09,760
+disregard. 
+And the paper connects us to 
+
+327
+00:16:09,760 --> 00:16:12,360
+popular culture too, right? 
+It does, and it's quite 
+
+328
+00:16:12,360 --> 00:16:14,560
+striking. 
+It specifically mentions the 
+
+329
+00:16:14,560 --> 00:16:16,960
+trope of an outsider cop on a 
+reservation. 
+
+330
+00:16:17,000 --> 00:16:18,640
+Oh yeah, I can picture that. 
+Right. 
+
+331
+00:16:18,680 --> 00:16:20,920
+Think about how often you've 
+seen that narrative play out in 
+
+332
+00:16:20,920 --> 00:16:24,080
+movies or TV shows. 
+A law enforcement officer from 
+
+333
+00:16:24,080 --> 00:16:27,960
+the outside coming into tribal 
+land where their authority isn't
+
+334
+00:16:27,960 --> 00:16:29,960
+implicitly recognized or 
+welcomed. 
+
+335
+00:16:29,960 --> 00:16:31,320
+They're always met with 
+suspicion. 
+
+336
+00:16:31,440 --> 00:16:33,040
+Always. 
+They're often seen with 
+
+337
+00:16:33,040 --> 00:16:36,080
+suspicion, even as a threat, 
+regardless of their individual 
+
+338
+00:16:36,080 --> 00:16:38,840
+intentions. 
+This trope, the paper argues, 
+
+339
+00:16:39,080 --> 00:16:42,240
+captures a profound and 
+incredibly real feeling for 
+
+340
+00:16:42,240 --> 00:16:44,840
+communities experiencing the 
+occupier shadow. 
+
+341
+00:16:44,880 --> 00:16:47,640
+So it's not just fiction. 
+It's not fictional. 
+
+342
+00:16:47,840 --> 00:16:52,120
+It's a pervasive, lived reality 
+that resonates deeply with many 
+
+343
+00:16:52,120 --> 00:16:55,480
+enclaves in the US because it 
+mirrors their own experiences of
+
+344
+00:16:55,480 --> 00:16:57,920
+external authority. 
+Why is it felt so acutely 
+
+345
+00:16:57,920 --> 00:16:59,920
+though? 
+What's the core perception? 
+
+346
+00:17:00,080 --> 00:17:04,160
+The core perception here is 
+stark and undeniable. 
+
+347
+00:17:04,720 --> 00:17:08,160
+For many communities, outside 
+enforcement is not help, it is 
+
+348
+00:17:08,200 --> 00:17:10,240
+intrusion. 
+Not help intrusion. 
+
+349
+00:17:10,240 --> 00:17:13,079
+Big difference. 
+Huge difference, and this is a 
+
+350
+00:17:13,079 --> 00:17:15,800
+critical distinction that often 
+eludes dimension B. 
+
+351
+00:17:16,240 --> 00:17:19,319
+The external authority, 
+operating from its own logical 
+
+352
+00:17:19,319 --> 00:17:22,680
+framework, believes it's 
+providing a service, maintaining
+
+353
+00:17:22,680 --> 00:17:26,760
+order, ensuring safety for all 
+citizens as mandated by its loss
+
+354
+00:17:26,760 --> 00:17:27,839
+they. 
+Think they're doing their job? 
+
+355
+00:17:28,119 --> 00:17:31,440
+Right, but from the perspective 
+of dimension A, that identical 
+
+356
+00:17:31,440 --> 00:17:34,400
+action is disruptive, unwelcome,
+and a direct affront to their 
+
+357
+00:17:34,400 --> 00:17:37,360
+internal governance. 
+It's an unwanted imposition of 
+
+358
+00:17:37,360 --> 00:17:41,040
+external will onto a space that 
+considers itself self regulated,
+
+359
+00:17:41,520 --> 00:17:44,440
+often viewing the help as a 
+pretext for control or 
+
+360
+00:17:44,440 --> 00:17:46,960
+subjugation. 
+This fundamental difference in 
+
+361
+00:17:46,960 --> 00:17:49,400
+interpretation is what fuels so 
+much of the conflict. 
+
+362
+00:17:49,400 --> 00:17:51,080
+And this difference in 
+perspective, it actually 
+
+363
+00:17:51,080 --> 00:17:53,720
+manifests in public ways like 
+slogans. 
+
+364
+00:17:53,840 --> 00:17:57,920
+Yes, absolutely, and the source 
+meticulously analyzes the 
+
+365
+00:17:57,920 --> 00:18:01,920
+significance of slogans like All
+cops are bastards, ACAB and 
+
+366
+00:18:02,280 --> 00:18:04,200
+Snitches get stitches. 
+OK. 
+
+367
+00:18:04,200 --> 00:18:06,520
+Yeah, those are well known. 
+Right, and it explains that they
+
+368
+00:18:06,520 --> 00:18:10,960
+are not just anti police, there 
+are warnings to keep dimension B
+
+369
+00:18:10,960 --> 00:18:13,080
+out of dimension A. 
+Warnings. 
+
+370
+00:18:13,360 --> 00:18:15,560
+How so? 
+Well, they aren't simply 
+
+371
+00:18:15,560 --> 00:18:18,720
+generalized expressions of anger
+or a signal of criminal intent, 
+
+372
+00:18:19,000 --> 00:18:20,600
+although maybe sometimes they 
+are. 
+
+373
+00:18:21,000 --> 00:18:24,280
+But the paper argues they are in
+fact powerful declarations of 
+
+374
+00:18:24,280 --> 00:18:28,920
+sovereignty from Dimension A. 
+Yeah, they function as internal 
+
+375
+00:18:28,920 --> 00:18:32,160
+codes, signaling to community 
+members that loyalty to the 
+
+376
+00:18:32,160 --> 00:18:35,000
+enclave's internal system is 
+paramount, and that any 
+
+377
+00:18:35,000 --> 00:18:38,000
+collaboration with the external 
+authority with dimension B. 
+
+378
+00:18:38,000 --> 00:18:39,600
+Like snitching. 
+Exactly. 
+
+379
+00:18:39,680 --> 00:18:42,280
+Snitching is seen as a profound 
+betrayal of their communities 
+
+380
+00:18:42,280 --> 00:18:44,720
+autonomy, identity and 
+collective security. 
+
+381
+00:18:45,280 --> 00:18:48,440
+There are boundaries articulated
+through defiance marking, where 
+
+382
+00:18:48,440 --> 00:18:50,560
+internal rules supersede 
+external ones. 
+
+383
+00:18:50,560 --> 00:18:52,920
+That reframes the slogan 
+significantly. 
+
+384
+00:18:53,040 --> 00:18:55,920
+The idea of internal occupation 
+feels incredibly significant, 
+
+385
+00:18:55,920 --> 00:18:57,840
+almost global in its 
+implications. 
+
+386
+00:18:58,080 --> 00:19:00,960
+It forces us to confront 
+uncomfortable parallels. 
+
+387
+00:19:01,080 --> 00:19:05,440
+Does the source offer maybe a 
+historical or international 
+
+388
+00:19:05,440 --> 00:19:08,080
+analogy that can help us 
+understand this dynamic even 
+
+389
+00:19:08,080 --> 00:19:10,240
+better? 
+An example that makes this 
+
+390
+00:19:10,240 --> 00:19:13,480
+abstract concept of parallel 
+realities more concrete. 
+
+391
+00:19:13,680 --> 00:19:16,960
+It does, and it's a remarkably 
+powerful and I think, 
+
+392
+00:19:17,000 --> 00:19:20,440
+illustrative analogy to help 
+bridge this conceptual gap. 
+
+393
+00:19:21,000 --> 00:19:25,640
+It dedicates an entire section 
+to Baghdad, a story about layers
+
+394
+00:19:25,640 --> 00:19:27,120
+of power. 
+Baghdad, OK. 
+
+395
+00:19:27,120 --> 00:19:29,880
+How does that connect? 
+Well, it presents a context many
+
+396
+00:19:29,880 --> 00:19:32,760
+of us can grasp of recent 
+history to illuminate the 
+
+397
+00:19:32,760 --> 00:19:36,480
+complexities of authority and 
+perceive legitimacy in a 
+
+398
+00:19:36,480 --> 00:19:39,480
+profoundly fragmented landscape.
+Right post Saddam. 
+
+399
+00:19:39,480 --> 00:19:41,920
+Exactly. 
+The source vividly recounts the 
+
+400
+00:19:41,920 --> 00:19:44,560
+situation in Baghdad after 
+Saddam Hussein's fall. 
+
+401
+00:19:44,960 --> 00:19:47,440
+It describes how the city 
+quickly became a patchwork of 
+
+402
+00:19:47,440 --> 00:19:49,440
+warlords, each with their own 
+rules. 
+
+403
+00:19:49,600 --> 00:19:51,920
+Right, I remember reports like 
+the very chaotic. 
+
+404
+00:19:52,000 --> 00:19:55,240
+Extremely this created a 
+decentralized, highly fragmented
+
+405
+00:19:55,240 --> 00:19:58,440
+landscape where local power 
+structures held sway, each 
+
+406
+00:19:58,440 --> 00:20:00,560
+governing their territory 
+according to their own system of
+
+407
+00:20:00,560 --> 00:20:03,240
+justice, their own economic 
+principles, their own methods of
+
+408
+00:20:03,240 --> 00:20:05,560
+maintaining order. 
+Little fiefdoms, almost. 
+
+409
+00:20:05,720 --> 00:20:07,960
+Kind of. 
+And above this incredibly 
+
+410
+00:20:07,960 --> 00:20:12,960
+complex localized reality, the 
+US Army was another authority 
+
+411
+00:20:12,960 --> 00:20:14,920
+above it all, but not part of 
+it. 
+
+412
+00:20:15,040 --> 00:20:17,800
+Above, but not part of it. 
+They were an external force 
+
+413
+00:20:18,040 --> 00:20:20,240
+operating with a different 
+mission, different rules, 
+
+414
+00:20:20,400 --> 00:20:24,840
+attempting to impose a singular 
+overarching order onto a multi 
+
+415
+00:20:24,840 --> 00:20:27,360
+layered, already self governing 
+reality. 
+
+416
+00:20:27,560 --> 00:20:32,000
+They were on the map, physically
+there, but critically, not of 
+
+417
+00:20:32,000 --> 00:20:35,240
+the many internal systems that 
+defined life for the locals. 
+
+418
+00:20:35,480 --> 00:20:38,000
+So how did the locals perceive 
+US actions then? 
+
+419
+00:20:38,000 --> 00:20:39,880
+Well, what's? 
+Truly eliminating is the crucial
+
+420
+00:20:39,880 --> 00:20:42,440
+point the paper makes about 
+perception, which is central to 
+
+421
+00:20:42,440 --> 00:20:46,520
+this whole occupier thesis. 
+It highlights when U.S. forces 
+
+422
+00:20:46,520 --> 00:20:50,040
+struck A warlord, local saw it 
+as an invasion, even if that 
+
+423
+00:20:50,040 --> 00:20:52,360
+warlord was cruel. 
+Even if the warlord was bad, 
+
+424
+00:20:52,360 --> 00:20:53,720
+they still saw it as an 
+invasion. 
+
+425
+00:20:53,720 --> 00:20:56,160
+Yes, this is absolutely vital to
+grasp. 
+
+426
+00:20:56,440 --> 00:20:59,120
+From the US perspective, 
+intervening against a warlord 
+
+427
+00:20:59,120 --> 00:21:02,200
+might have been seen as a 
+necessary act to restore order, 
+
+428
+00:21:02,240 --> 00:21:05,600
+protect civilians, dismantle 
+criminal elements, a legitimate 
+
+429
+00:21:05,600 --> 00:21:07,520
+function. 
+That would be the dimension B 
+
+430
+00:21:07,520 --> 00:21:08,800
+perspective. 
+Exactly. 
+
+431
+00:21:09,240 --> 00:21:13,200
+But from the ground within the 
+local dimension, A that warlord,
+
+432
+00:21:13,520 --> 00:21:16,520
+despite any cruelty or 
+injustice, represented their 
+
+433
+00:21:16,520 --> 00:21:19,320
+existing power structure, their 
+system, maybe their protector, 
+
+434
+00:21:19,320 --> 00:21:21,560
+or at least their own known 
+oppressor. 
+
+435
+00:21:21,760 --> 00:21:25,520
+The devil you know, perhaps? 
+Perhaps an attack on the warlord
+
+436
+00:21:25,520 --> 00:21:28,400
+was perceived as an attack on 
+the existing local order and 
+
+437
+00:21:28,400 --> 00:21:30,560
+intrusion into their self 
+governed space. 
+
+438
+00:21:30,760 --> 00:21:33,920
+Regardless of the warlord's 
+ethics, the external force 
+
+439
+00:21:33,920 --> 00:21:37,120
+wasn't seen as a Liberator or a 
+restorer of order. 
+
+440
+00:21:37,200 --> 00:21:39,760
+But as an outsider messing with 
+their reality. 
+
+441
+00:21:39,760 --> 00:21:42,520
+Precisely an illegitimate 
+intervener disrupting their 
+
+442
+00:21:42,520 --> 00:21:45,200
+established, albeit imperfect, 
+reality. 
+
+443
+00:21:45,760 --> 00:21:49,240
+So how does that Baghdad story 
+mirror the US dynamic? 
+
+444
+00:21:49,240 --> 00:21:51,400
+Then make that connection 
+explicit. 
+
+445
+00:21:51,480 --> 00:21:54,000
+The paper connects it directly, 
+stating that Americans thought 
+
+446
+00:21:54,000 --> 00:21:56,280
+they were restoring order. 
+Locals felt occupied. 
+
+447
+00:21:56,280 --> 00:21:58,320
+Same dynamic. 
+This story mirrors the dynamic 
+
+448
+00:21:58,320 --> 00:22:02,400
+in American cities and enclaves.
+2 systems exist at once until 1 
+
+449
+00:22:02,400 --> 00:22:05,160
+pierces the other. 
+This analogy is incredibly 
+
+450
+00:22:05,160 --> 00:22:08,720
+potent because it strips away 
+our preconceived notions of 
+
+451
+00:22:08,720 --> 00:22:13,200
+national unity and forces us to 
+confront the idea that within 
+
+452
+00:22:13,200 --> 00:22:16,920
+America's borders there could 
+exist deeply ingrained local 
+
+453
+00:22:16,920 --> 00:22:19,040
+systems. 
+Dimension A systems. 
+
+454
+00:22:19,040 --> 00:22:22,160
+Right dimension, a systems of 
+governance identity that 
+
+455
+00:22:22,160 --> 00:22:25,200
+perceive federal or state 
+intervention in much the same 
+
+456
+00:22:25,200 --> 00:22:27,960
+way as an external occupying 
+force. 
+
+457
+00:22:28,400 --> 00:22:30,960
+It's a powerful illustration of 
+how the symbol act of 
+
+458
+00:22:30,960 --> 00:22:34,160
+enforcement can be interpreted 
+so differently depending on 
+
+459
+00:22:34,160 --> 00:22:36,640
+which dimension you inhabit. 
+Which inevitably leads to 
+
+460
+00:22:36,640 --> 00:22:38,480
+friction. 
+Inherent friction in conflict, 
+
+461
+00:22:38,480 --> 00:22:40,160
+yeah. 
+The source then takes this 
+
+462
+00:22:40,160 --> 00:22:42,520
+powerful analogy even further, 
+doesn't it? 
+
+463
+00:22:43,400 --> 00:22:46,360
+Framing policing within these 
+enclaves through a truly 
+
+464
+00:22:46,360 --> 00:22:49,520
+challenging lens. 
+Policing as colonialism. 
+
+465
+00:22:49,600 --> 00:22:51,920
+Yes, and that's bound to be 
+controversial phrasing for some.
+
+466
+00:22:51,920 --> 00:22:54,560
+Absolutely. 
+This isn't just strong language.
+
+467
+00:22:54,560 --> 00:22:57,880
+It implies a deep historical 
+resonance and a power dynamic 
+
+468
+00:22:57,880 --> 00:23:00,120
+that goes far beyond mere law 
+enforcement. 
+
+469
+00:23:00,800 --> 00:23:04,160
+It suggests A systemic issue 
+echoing past injustices. 
+
+470
+00:23:04,480 --> 00:23:07,000
+Well, the paper makes the 
+comparison quite directly. 
+
+471
+00:23:07,320 --> 00:23:11,280
+It argues that when federal or 
+state forces enter enclaves, 
+
+472
+00:23:11,440 --> 00:23:13,160
+they're often seen as 
+colonizers. 
+
+473
+00:23:13,520 --> 00:23:16,440
+Their authority is not welcome. 
+Seen as colonizers. 
+
+474
+00:23:16,440 --> 00:23:20,120
+This perspective use the police 
+or federal agents not as fellow 
+
+475
+00:23:20,120 --> 00:23:23,800
+citizens upholding a shared law,
+but is agents of an external 
+
+476
+00:23:23,800 --> 00:23:27,960
+power, imposing rules and 
+control on a territory that in 
+
+477
+00:23:27,960 --> 00:23:30,960
+the hearts and minds of its 
+inhabitants already governs 
+
+478
+00:23:30,960 --> 00:23:33,320
+itself. 
+So it's a fundamental rejection 
+
+479
+00:23:33,320 --> 00:23:36,000
+of their legitimacy. 
+Yes, rooted in a feeling of 
+
+480
+00:23:36,000 --> 00:23:39,720
+being subjected to foreign rule.
+The historical echoes are 
+
+481
+00:23:39,720 --> 00:23:42,840
+profound, suggesting a 
+continuity of power dynamics 
+
+482
+00:23:43,040 --> 00:23:46,720
+even if the context is domestic.
+So how do the justifications 
+
+483
+00:23:46,720 --> 00:23:48,920
+differ then between the police 
+and the community? 
+
+484
+00:23:48,960 --> 00:23:50,760
+That's where the fundamental 
+difference lies. 
+
+485
+00:23:51,120 --> 00:23:53,440
+The paper highlights this stark 
+contrast. 
+
+486
+00:23:53,800 --> 00:23:56,320
+The outside power believes it is
+acting lawfully. 
+
+487
+00:23:56,480 --> 00:23:58,240
+The inside sees it as 
+oppression. 
+
+488
+00:23:58,240 --> 00:23:59,840
+Two totally different realities 
+again. 
+
+489
+00:24:00,000 --> 00:24:02,360
+Completely. 
+Dimension B operates under the 
+
+490
+00:24:02,360 --> 00:24:05,280
+belief that its actions are 
+legitimate, lawful, necessary 
+
+491
+00:24:05,280 --> 00:24:08,040
+for the good of all citizens, 
+maintaining universal order, 
+
+492
+00:24:08,400 --> 00:24:11,120
+following statutes, procedures, 
+applying neutral law. 
+
+493
+00:24:11,280 --> 00:24:15,360
+But Dimension A views these same
+actions through a fundamentally 
+
+494
+00:24:15,360 --> 00:24:18,920
+different lens, one of 
+historical subjugation, maybe 
+
+495
+00:24:18,920 --> 00:24:22,560
+cultural imposition, the erosion
+of their internal autonomy. 
+
+496
+00:24:22,560 --> 00:24:24,520
+So it's a clash of moral 
+frameworks too. 
+
+497
+00:24:24,560 --> 00:24:28,240
+Yes, and legal ones. 
+What is right and just is 
+
+498
+00:24:28,240 --> 00:24:32,080
+diametrically opposed, and the 
+very act of policing becomes a 
+
+499
+00:24:32,120 --> 00:24:36,680
+symbolic and often literal act 
+of control from the dimension a 
+
+500
+00:24:36,680 --> 00:24:39,720
+perspective. 
+And this explains resistance. 
+
+501
+00:24:39,720 --> 00:24:42,320
+That helps explain it, yes. 
+From this perspective, the 
+
+502
+00:24:42,320 --> 00:24:45,200
+source states, This is why 
+defiance of the police is framed
+
+503
+00:24:45,200 --> 00:24:48,040
+as resistance. 
+To dimension B, this is crime. 
+
+504
+00:24:48,120 --> 00:24:49,960
+To dimension A, it is 
+self-defense. 
+
+505
+00:24:50,080 --> 00:24:53,200
+Resistance versus crime, 
+Self-defense versus illegality. 
+
+506
+00:24:53,200 --> 00:24:54,840
+Exactly. 
+It's not just a semantic 
+
+507
+00:24:54,840 --> 00:24:57,760
+difference, it's a fundamental 
+divergent in understanding the 
+
+508
+00:24:57,760 --> 00:25:00,400
+very nature of an interaction 
+from dimension B. 
+
+509
+00:25:00,680 --> 00:25:02,920
+Resisting arrest, failing to 
+comply? 
+
+510
+00:25:02,920 --> 00:25:05,040
+That's a criminal act, a breach 
+of law and order. 
+
+511
+00:25:05,040 --> 00:25:08,240
+Undermining society? 
+Right, but from within dimension
+
+512
+00:25:08,360 --> 00:25:11,520
+A, within its moral economy, it 
+can be seen as an act of self 
+
+513
+00:25:11,520 --> 00:25:14,720
+preservation, a defense of their
+communities autonomy, A stand 
+
+514
+00:25:14,720 --> 00:25:17,320
+against perceived oppression. 
+Their right to self rule. 
+
+515
+00:25:17,560 --> 00:25:20,000
+Exactly their inherent right to 
+self rule. 
+
+516
+00:25:20,520 --> 00:25:25,080
+It's a tragic collision of two 
+irreconcilable realities, each 
+
+517
+00:25:25,080 --> 00:25:27,360
+side believing in the 
+righteousness of its own 
+
+518
+00:25:27,360 --> 00:25:29,640
+actions. 
+Which just leads to cycles of 
+
+519
+00:25:29,640 --> 00:25:31,880
+conflict. 
+Profoundly difficult cycles to 
+
+520
+00:25:31,880 --> 00:25:34,880
+break because the underlying 
+premises are so fundamentally 
+
+521
+00:25:34,880 --> 00:25:36,760
+different. 
+That's a powerful and deeply 
+
+522
+00:25:36,760 --> 00:25:39,600
+uncomfortable framing that makes
+me wonder, are there communities
+
+523
+00:25:39,600 --> 00:25:43,720
+that explicitly go beyond just 
+feeling occupied and actively 
+
+524
+00:25:43,720 --> 00:25:47,720
+try to reject outside authority?
+You mean like formal rejection? 
+
+525
+00:25:47,720 --> 00:25:50,600
+Yeah, almost creating their own 
+nations within a nation. 
+
+526
+00:25:50,600 --> 00:25:53,760
+It seems like a natural, if 
+maybe radical, extension of this
+
+527
+00:25:53,760 --> 00:25:57,760
+thesis, moving from perceived 
+occupation to outright attempts 
+
+528
+00:25:57,760 --> 00:25:59,640
+at self governance. 
+Yes, the source definitely 
+
+529
+00:25:59,640 --> 00:26:02,480
+delves into this very concept 
+and it provides concrete 
+
+530
+00:26:02,480 --> 00:26:05,880
+examples calling them autonomous
+zones, modern reservations. 
+
+531
+00:26:07,200 --> 00:26:10,280
+This takes the theoretical 
+framework of dimension A and 
+
+532
+00:26:10,280 --> 00:26:13,320
+shows how it manifests in 
+concrete real world attempts to 
+
+533
+00:26:13,320 --> 00:26:16,760
+establish self rule and actively
+push back against dimension B. 
+
+534
+00:26:16,760 --> 00:26:18,720
+So they're not just conceptual 
+spaces. 
+
+535
+00:26:18,920 --> 00:26:22,280
+Not just conceptual, but 
+tangible attempts to enact a 
+
+536
+00:26:22,280 --> 00:26:25,120
+different form of governance. 
+What examples does the paper 
+
+537
+00:26:25,120 --> 00:26:27,560
+give? 
+Well, it provides compelling 
+
+538
+00:26:27,560 --> 00:26:30,320
+examples that we've seen play 
+out in recent headlines and 
+
+539
+00:26:30,320 --> 00:26:33,960
+ongoing policy debates. 
+Consider sanctuary cities. 
+
+540
+00:26:34,160 --> 00:26:36,640
+Right, that's a big one. 
+Where a municipal government 
+
+541
+00:26:36,640 --> 00:26:41,240
+explicitly chooses to ignore or 
+limit cooperation with federal 
+
+542
+00:26:41,240 --> 00:26:45,200
+immigration laws, here a local 
+government is directly saying 
+
+543
+00:26:45,280 --> 00:26:48,920
+our local priorities or values 
+supersede federal mandates in 
+
+544
+00:26:48,920 --> 00:26:51,200
+this area. 
+That's dimension A winning 
+
+545
+00:26:51,200 --> 00:26:54,360
+locally in a way. 
+It's a direct manifestation of 
+
+546
+00:26:54,360 --> 00:26:57,040
+Dimension A's collective will, 
+expressed through local 
+
+547
+00:26:57,040 --> 00:27:00,400
+governance superseding Dimension
+B's mandates, at least in 
+
+548
+00:27:00,400 --> 00:27:02,040
+practice. 
+And then there's the more 
+
+549
+00:27:02,040 --> 00:27:06,600
+radical but well known case of 
+Seattle's Chaz, or the Capitol 
+
+550
+00:27:06,600 --> 00:27:08,480
+Hill Autonomous Zone. 
+Chaz. 
+
+551
+00:27:09,160 --> 00:27:11,640
+Which literally claimed 
+independence from police 
+
+552
+00:27:11,640 --> 00:27:14,440
+authority attempting to 
+establish an entirely self 
+
+553
+00:27:14,440 --> 00:27:17,840
+governed area within a major US 
+city, complete with its own 
+
+554
+00:27:17,840 --> 00:27:21,280
+internal security and social 
+services for a time. 
+
+555
+00:27:21,280 --> 00:27:24,040
+That was a direct attempt at 
+secession from dimension B. 
+
+556
+00:27:24,320 --> 00:27:26,960
+Absolutely. 
+These weren't just protests, 
+
+557
+00:27:27,280 --> 00:27:31,360
+they were tangible, albeit often
+short lived, experiments in 
+
+558
+00:27:31,360 --> 00:27:35,440
+secession from external control,
+a declaration of Dimension A's 
+
+559
+00:27:35,440 --> 00:27:37,520
+intent. 
+Are these just isolated 
+
+560
+00:27:37,520 --> 00:27:40,000
+incidents though, or is it 
+broader? 
+
+561
+00:27:40,040 --> 00:27:43,000
+The paper argues it's broader, 
+perhaps less publicized, but 
+
+562
+00:27:43,000 --> 00:27:45,360
+pervasive. 
+It states that many 
+
+563
+00:27:45,360 --> 00:27:47,960
+neighborhoods act like 
+reservations, policing 
+
+564
+00:27:47,960 --> 00:27:50,360
+themselves and resisting outside
+enforcement. 
+
+565
+00:27:50,440 --> 00:27:52,760
+Acting like reservations. 
+Interesting phrase. 
+
+566
+00:27:52,760 --> 00:27:55,840
+It suggests A widespread trend 
+where communities informally or 
+
+567
+00:27:55,840 --> 00:27:57,960
+formally take on the role of 
+self governance. 
+
+568
+00:27:58,440 --> 00:28:01,120
+They develop their own methods 
+for maintaining order, resolving
+
+569
+00:28:01,120 --> 00:28:04,800
+disputes, enforcing norms. 
+How like community elders or 
+
+570
+00:28:04,840 --> 00:28:06,400
+something? 
+Could be through the influence 
+
+571
+00:28:06,400 --> 00:28:09,280
+of community elders, Yeah, or 
+informal social pressure, or 
+
+572
+00:28:09,280 --> 00:28:11,480
+even organized neighborhood 
+patrols that operate 
+
+573
+00:28:11,480 --> 00:28:13,240
+independently of official law 
+enforcement. 
+
+574
+00:28:13,640 --> 00:28:16,120
+It effectively creates a 
+parallel system of justice and 
+
+575
+00:28:16,120 --> 00:28:18,000
+authority. 
+Another layer of dimension. 
+
+576
+00:28:18,120 --> 00:28:21,480
+A Exactly, and it sometimes 
+comes into direct conflict with 
+
+577
+00:28:21,480 --> 00:28:25,740
+official channels embodying a 
+quiet but pervasive form of self
+
+578
+00:28:25,740 --> 00:28:28,000
+determination. 
+So what's the core logic driving
+
+579
+00:28:28,000 --> 00:28:29,760
+this? 
+Why try to govern yourselves? 
+
+580
+00:28:30,040 --> 00:28:34,360
+Well, the paper articulates the 
+underlying logic as remarkably 
+
+581
+00:28:34,360 --> 00:28:38,120
+simple, yet incredibly powerful.
+We govern ourselves. 
+
+582
+00:28:38,160 --> 00:28:41,640
+Just that we govern ourselves. 
+It's not a complex political 
+
+583
+00:28:41,640 --> 00:28:44,280
+philosophy or an obscure legal 
+argument. 
+
+584
+00:28:44,520 --> 00:28:47,840
+It's a direct, almost primal 
+assertion of autonomy. 
+
+585
+00:28:48,480 --> 00:28:52,280
+It reflects a deep seated belief
+that the community itself is the
+
+586
+00:28:52,280 --> 00:28:55,760
+legitimate source of authority 
+for its members, and that 
+
+587
+00:28:55,760 --> 00:28:59,040
+external forces lack the 
+consent, the understanding, or 
+
+588
+00:28:59,040 --> 00:29:01,840
+maybe the moral right to 
+legitimately rule over them. 
+
+589
+00:29:02,600 --> 00:29:06,040
+It's the core desire of 
+Dimension A to remain unmolested
+
+590
+00:29:06,040 --> 00:29:08,840
+and self-sufficient, to 
+determine its own destiny and 
+
+591
+00:29:08,840 --> 00:29:12,280
+maintain its own way of life 
+independent of external decrees.
+
+592
+00:29:12,520 --> 00:29:14,480
+So these enclaves aren't static 
+then? 
+
+593
+00:29:14,480 --> 00:29:17,640
+They're constantly evolving, 
+shifting, even forming a new. 
+
+594
+00:29:17,680 --> 00:29:19,840
+That's right, they're dynamic. 
+Which makes me wonder, does the 
+
+595
+00:29:19,840 --> 00:29:22,520
+source discuss how global 
+migration impacts this dynamic 
+
+596
+00:29:22,520 --> 00:29:25,120
+within the US? 
+Does migration create new 
+
+597
+00:29:25,120 --> 00:29:26,360
+enclaves? 
+New dimension? 
+
+598
+00:29:26,400 --> 00:29:27,920
+A spaces. 
+Absolutely. 
+
+599
+00:29:28,160 --> 00:29:31,080
+Something striking about how the
+paper highlights the dynamic 
+
+600
+00:29:31,080 --> 00:29:34,160
+nature of this phenomenon is its
+explicit statement that 
+
+601
+00:29:34,360 --> 00:29:37,960
+migration brings new enclaves. 
+As populations move and settle 
+
+602
+00:29:37,960 --> 00:29:40,400
+within the United States, 
+particularly from different 
+
+603
+00:29:40,400 --> 00:29:43,280
+cultural or national 
+backgrounds, they often seek out
+
+604
+00:29:43,280 --> 00:29:46,400
+and create communities that 
+reflect their shared cultural, 
+
+605
+00:29:46,680 --> 00:29:48,720
+linguistic, or religious 
+identities. 
+
+606
+00:29:48,720 --> 00:29:50,240
+Makes sense, people stick 
+together. 
+
+607
+00:29:50,440 --> 00:29:54,360
+Right, and these then become new
+pockets for Dimension A can take
+
+608
+00:29:54,360 --> 00:29:58,200
+root, asserting its own internal
+logic and social codes within 
+
+609
+00:29:58,200 --> 00:30:01,440
+the broader American landscape. 
+What kinds of communities does 
+
+610
+00:30:01,440 --> 00:30:04,760
+it mention specifically? 
+The source details the types of 
+
+611
+00:30:04,760 --> 00:30:07,240
+communities establishing these 
+new autonomous zones. 
+
+612
+00:30:07,440 --> 00:30:11,840
+It mentions Syrian, Afghan, 
+Somali, Persian and other 
+
+613
+00:30:11,840 --> 00:30:15,160
+communities that create tight 
+knit zones with their own codes.
+
+614
+00:30:15,160 --> 00:30:17,920
+So often communities coming from
+very different contexts. 
+
+615
+00:30:17,920 --> 00:30:20,440
+Exactly. 
+Often groups fleeing conflict, 
+
+616
+00:30:20,640 --> 00:30:23,600
+persecution or simply seeking 
+better opportunities. 
+
+617
+00:30:23,800 --> 00:30:27,000
+And they arrive with distinct 
+cultural norms, languages, 
+
+618
+00:30:27,280 --> 00:30:29,040
+social structures already in 
+place. 
+
+619
+00:30:29,200 --> 00:30:31,440
+And maybe experiences with 
+government back home. 
+
+620
+00:30:31,440 --> 00:30:33,760
+That's key. 
+Their shared experiences, 
+
+621
+00:30:34,080 --> 00:30:37,400
+including crucially often a 
+history of corrupt or oppressive
+
+622
+00:30:37,400 --> 00:30:40,680
+external authorities in their 
+home countries, naturally lead 
+
+623
+00:30:40,680 --> 00:30:42,720
+them to form close knit 
+communities. 
+
+624
+00:30:42,920 --> 00:30:44,640
+So they bring a certain 
+skepticism. 
+
+625
+00:30:44,880 --> 00:30:47,400
+You can say that within these 
+communities they often develop 
+
+626
+00:30:47,400 --> 00:30:51,360
+their own internal systems for 
+social organization, economic 
+
+627
+00:30:51,360 --> 00:30:55,120
+activity, conflict resolution, 
+which might be quite alien to 
+
+628
+00:30:55,280 --> 00:30:58,040
+dimension B. 
+A key characteristic, as the 
+
+629
+00:30:58,040 --> 00:31:01,520
+paper notes, is their inherent 
+distrust of outside 
+
+630
+00:31:01,520 --> 00:31:05,520
+interference, A mistrust forged 
+by past experiences and 
+
+631
+00:31:05,520 --> 00:31:08,440
+reinforced by the desire to 
+preserve their unique identity. 
+
+632
+00:31:08,440 --> 00:31:11,560
+How does this self rule function
+in practice in these newer 
+
+633
+00:31:11,560 --> 00:31:14,080
+enclaves? 
+Well, the paper gets compelling 
+
+634
+00:31:14,120 --> 00:31:17,320
+pangible examples. 
+It notes that some Somali areas 
+
+635
+00:31:17,360 --> 00:31:19,920
+are so concentrated they 
+function like independent 
+
+636
+00:31:19,920 --> 00:31:22,040
+societies. 
+Independent societies within the
+
+637
+00:31:22,240 --> 00:31:23,760
+US. 
+It suggests A remarkable level 
+
+638
+00:31:23,760 --> 00:31:27,160
+of self-sufficiency where many 
+services, social interactions, 
+
+639
+00:31:27,160 --> 00:31:29,800
+dispute resolutions occur 
+primarily within the community, 
+
+640
+00:31:30,000 --> 00:31:33,400
+relying on internal networks and
+trusted community leaders rather
+
+641
+00:31:33,400 --> 00:31:34,960
+than external government 
+structures. 
+
+642
+00:31:34,960 --> 00:31:36,880
+Wow. 
+Any other examples? 
+
+643
+00:31:37,120 --> 00:31:39,920
+Similarly, it points out that 
+Mexican American neighborhoods 
+
+644
+00:31:39,920 --> 00:31:44,400
+in Los Angeles with the 
+Southwest enforce for us by US 
+
+645
+00:31:44,400 --> 00:31:46,320
+norms. 
+For us, by us. 
+
+646
+00:31:46,560 --> 00:31:50,400
+Yeah, this highlights a strong 
+internal loyalty and a 
+
+647
+00:31:50,400 --> 00:31:53,560
+preference for community driven 
+solutions and support systems 
+
+648
+00:31:53,880 --> 00:31:56,760
+where the community takes care 
+of his own and looks inward for 
+
+649
+00:31:56,760 --> 00:32:00,120
+guidance, often preferring to 
+handle matters internally to 
+
+650
+00:32:00,120 --> 00:32:03,360
+avoid interactions with external
+authorities perceived as hostile
+
+651
+00:32:03,640 --> 00:32:06,840
+or unhelpful. 
+And how do these enclaves signal
+
+652
+00:32:06,840 --> 00:32:08,840
+their boundaries? 
+It's not always obvious. 
+
+653
+00:32:08,840 --> 00:32:11,640
+Right. 
+It's often subtle but incredibly
+
+654
+00:32:11,640 --> 00:32:13,880
+powerful. 
+The source shares a fascinating 
+
+655
+00:32:13,880 --> 00:32:18,080
+detail about cultural markers 
+like Go Go Music in DC signal 
+
+656
+00:32:18,080 --> 00:32:19,880
+boundaries. 
+Go go music. 
+
+657
+00:32:20,320 --> 00:32:22,080
+How does music signal a 
+boundary? 
+
+658
+00:32:22,480 --> 00:32:25,040
+It's not about physical walls or
+explicit signage. 
+
+659
+00:32:25,400 --> 00:32:29,800
+It's about cultural cues, music,
+language, specific social 
+
+660
+00:32:29,800 --> 00:32:32,320
+behaviors that delineate where 
+one dimension ends and another 
+
+661
+00:32:32,320 --> 00:32:34,320
+begins. 
+They signal this is our space, 
+
+662
+00:32:34,320 --> 00:32:36,400
+our culture. 
+And the paper recounts a 
+
+663
+00:32:36,400 --> 00:32:38,720
+specific anecdote that truly 
+brings this to life. 
+
+664
+00:32:39,440 --> 00:32:41,320
+A local once warned me at a go 
+go club. 
+
+665
+00:32:41,560 --> 00:32:44,320
+You can come in, but I wouldn't.
+You can come in, but I wouldn't.
+
+666
+00:32:44,480 --> 00:32:46,360
+What did that mean? 
+Was it dangerous? 
+
+667
+00:32:46,560 --> 00:32:49,880
+The source clarifies it wasn't a
+threat of physical harm or an 
+
+668
+00:32:49,880 --> 00:32:53,120
+act of aggression. 
+Instead, it was a clear, 
+
+669
+00:32:53,120 --> 00:32:56,640
+implicit message that you were 
+entering a space governed by 
+
+670
+00:32:56,640 --> 00:32:59,040
+different rules, different 
+social contracts, different 
+
+671
+00:32:59,040 --> 00:33:02,280
+expectations of behavior. 
+You're crossing into dimension 
+
+672
+00:33:02,560 --> 00:33:03,320
+A. 
+Exactly. 
+
+673
+00:33:03,960 --> 00:33:06,840
+It was a friendly but firm 
+reminder that while you are 
+
+674
+00:33:06,840 --> 00:33:09,720
+physically present, you are 
+still an outsider to that 
+
+675
+00:33:09,720 --> 00:33:13,160
+dimension, a reality. 
+It illustrates the powerful, 
+
+676
+00:33:13,160 --> 00:33:17,320
+often unwritten social codes 
+that define and protect these 
+
+677
+00:33:17,320 --> 00:33:20,440
+autonomous zones, asserting 
+their distinct identity and 
+
+678
+00:33:20,440 --> 00:33:22,800
+sovereignty in subtle yet 
+profound ways. 
+
+679
+00:33:22,920 --> 00:33:26,360
+That anecdote perfectly 
+illustrates the nuance of these 
+
+680
+00:33:26,360 --> 00:33:29,400
+invisible boundaries. 
+This concept of boundaries and 
+
+681
+00:33:29,400 --> 00:33:32,520
+self governance, however 
+informal, leads to another 
+
+682
+00:33:32,520 --> 00:33:36,560
+powerful idea introduced in the 
+source the warlord mentality. 
+
+683
+00:33:36,720 --> 00:33:39,040
+Yeah, that's a provocative term.
+It certainly grabs your 
+
+684
+00:33:39,040 --> 00:33:41,040
+attention. 
+What does that mean for these 
+
+685
+00:33:41,040 --> 00:33:44,080
+enclaves and how does it relate 
+to the internal dynamics and 
+
+686
+00:33:44,080 --> 00:33:46,280
+loyalties we've been discussing?
+Doesn't mean they're actually 
+
+687
+00:33:46,280 --> 00:33:49,240
+run by warlords. 
+No, not literally warlords in 
+
+688
+00:33:49,240 --> 00:33:51,120
+the sense of armed conflict, 
+usually. 
+
+689
+00:33:51,960 --> 00:33:55,360
+What's truly illuminating is how
+the term warlord mentality in 
+
+690
+00:33:55,360 --> 00:33:59,040
+the paper is used not 
+necessarily to imply chaos or 
+
+691
+00:33:59,040 --> 00:34:03,120
+lawlessness in the conventional 
+sense, but rather a fierce, 
+
+692
+00:34:03,120 --> 00:34:08,360
+almost primal territoriality. 
+The source states directly every
+
+693
+00:34:08,360 --> 00:34:11,960
+enclave is territorial. 
+This means they view their 
+
+694
+00:34:11,960 --> 00:34:15,280
+specific space, their community,
+as their sovereign domain where 
+
+695
+00:34:15,280 --> 00:34:17,440
+the rules apply. 
+This is our space. 
+
+696
+00:34:17,440 --> 00:34:20,000
+Exactly. 
+The paper then clarifies A 
+
+697
+00:34:20,000 --> 00:34:22,840
+crucial point. 
+It may not be lawless, but it 
+
+698
+00:34:22,840 --> 00:34:25,679
+governs itself, so it's not an 
+absence of order. 
+
+699
+00:34:25,920 --> 00:34:29,040
+It's a distinct system of order 
+where authority originates from 
+
+700
+00:34:29,040 --> 00:34:31,880
+within the enclave itself, not 
+from external governments or 
+
+701
+00:34:31,880 --> 00:34:34,239
+legal systems. 
+Their own dimension, a order. 
+
+702
+00:34:34,320 --> 00:34:36,520
+Right. 
+This territoriality is a core, 
+
+703
+00:34:36,520 --> 00:34:40,199
+non negotiable aspect of their 
+dimension, a identity, a deep 
+
+704
+00:34:40,199 --> 00:34:42,880
+assertion of their autonomy 
+against any perceived external 
+
+705
+00:34:42,880 --> 00:34:44,639
+encroachment. 
+So how do these internal 
+
+706
+00:34:44,639 --> 00:34:46,960
+governance systems operate and 
+assert themselves then? 
+
+707
+00:34:47,040 --> 00:34:49,280
+What are the rules? 
+Well, often they're unwritten. 
+
+708
+00:34:49,520 --> 00:34:52,000
+The paper explains that 
+outsiders crossing the line 
+
+709
+00:34:52,000 --> 00:34:54,239
+break the unwritten rule. 
+This turf is not yours. 
+
+710
+00:34:54,679 --> 00:34:57,640
+Break the unwritten rule. 
+Yeah, this highlights the 
+
+711
+00:34:57,640 --> 00:35:00,800
+existence of implicit codes of 
+conduct, social contracts, 
+
+712
+00:35:01,000 --> 00:35:03,320
+boundaries that are deeply 
+understood and rigorously 
+
+713
+00:35:03,320 --> 00:35:05,440
+enforced by those within the 
+enclave. 
+
+714
+00:35:06,080 --> 00:35:09,120
+These aren't necessarily written
+laws or formal statutes. 
+
+715
+00:35:09,120 --> 00:35:10,560
+And everyone knows them. 
+Right. 
+
+716
+00:35:10,800 --> 00:35:13,600
+Powerful norms that dictate 
+behavior, resolve disputes, 
+
+717
+00:35:13,600 --> 00:35:17,360
+maintain social cohesion. 
+When outsider, particularly one 
+
+718
+00:35:17,360 --> 00:35:20,880
+representing dimension B, enters
+this space without acknowledging
+
+719
+00:35:20,880 --> 00:35:23,880
+or respecting these unwritten 
+rules, it's seen as an 
+
+720
+00:35:23,880 --> 00:35:27,240
+infringement, A disrespectful 
+crossing of a boundary. 
+
+721
+00:35:27,240 --> 00:35:28,040
+Issues. 
+You don't get it. 
+
+722
+00:35:28,200 --> 00:35:29,960
+Exactly. 
+It signals A fundamental 
+
+723
+00:35:29,960 --> 00:35:33,160
+misunderstanding of who truly 
+holds sway and whose authority 
+
+724
+00:35:33,160 --> 00:35:36,280
+is legitimate in that territory,
+emphasizing the paramount 
+
+725
+00:35:36,280 --> 00:35:38,800
+importance of internal 
+acceptance and community 
+
+726
+00:35:38,800 --> 00:35:41,560
+sanctioned legitimacy over 
+external legality. 
+
+727
+00:35:41,840 --> 00:35:44,400
+And how does this connect back 
+to defying the police or other 
+
+728
+00:35:44,400 --> 00:35:46,560
+authorities? 
+Well, this perspective 
+
+729
+00:35:46,560 --> 00:35:49,520
+profoundly shifts how we 
+interpret defiance of external 
+
+730
+00:35:49,520 --> 00:35:50,920
+authority within these 
+communities. 
+
+731
+00:35:51,480 --> 00:35:54,240
+The source points out that 
+defiance of police is often seen
+
+732
+00:35:54,240 --> 00:35:56,680
+by insiders as protecting their 
+autonomy. 
+
+733
+00:35:56,720 --> 00:35:58,880
+Protecting autonomy, not just 
+breaking the law. 
+
+734
+00:35:59,120 --> 00:36:02,600
+For the perspective of dimension
+A resisting law enforcement 
+
+735
+00:36:02,600 --> 00:36:05,120
+isn't necessarily about 
+committing a crime or 
+
+736
+00:36:05,120 --> 00:36:07,120
+challenging abstract notions of 
+order. 
+
+737
+00:36:07,440 --> 00:36:09,800
+It's fundamentally about 
+defending their self governed 
+
+738
+00:36:09,800 --> 00:36:13,040
+space, their cultural identity, 
+their right to exist 
+
+739
+00:36:13,040 --> 00:36:15,680
+independently from an external 
+system they perceive as 
+
+740
+00:36:15,680 --> 00:36:19,200
+illegitimate or oppressive. 
+Which highlights that internal 
+
+741
+00:36:19,200 --> 00:36:21,320
+loyalty again. 
+Immense loyalty. 
+
+742
+00:36:21,520 --> 00:36:25,640
+The paper contrast this starkly.
+From the outside, this is chaos.
+
+743
+00:36:25,960 --> 00:36:29,360
+From the inside, it is loyalty. 
+Chaos versus loyalty. 
+
+744
+00:36:29,440 --> 00:36:33,000
+Same action, different label. 
+Precisely to dimension B, 
+
+745
+00:36:33,120 --> 00:36:35,720
+actions taken by enclaves to 
+defend their autonomy might 
+
+746
+00:36:35,720 --> 00:36:38,560
+appear as disorder, criminal 
+behavior, a breakdown of 
+
+747
+00:36:38,560 --> 00:36:41,400
+societal norms. 
+But from within dimension A, 
+
+748
+00:36:41,840 --> 00:36:45,240
+these same actions are perceived
+as acts of solidarity, courage, 
+
+749
+00:36:45,640 --> 00:36:48,200
+a powerful demonstration of 
+fidelity to their communities, 
+
+750
+00:36:48,200 --> 00:36:51,040
+distinct way of life and its 
+inherent right to self rule. 
+
+751
+00:36:51,200 --> 00:36:53,920
+That distinction is absolutely 
+critical for understanding the 
+
+752
+00:36:53,920 --> 00:36:55,760
+motivations, isn't it? 
+It really is. 
+
+753
+00:36:55,960 --> 00:36:59,360
+It explains why external efforts
+to impose order often meet such 
+
+754
+00:36:59,360 --> 00:37:02,320
+fierce resistance. 
+So what does this all mean when 
+
+755
+00:37:02,320 --> 00:37:05,960
+we bring all these powerful and 
+at times frankly unsettling 
+
+756
+00:37:05,960 --> 00:37:08,840
+pieces together? 
+How does Chris Abraham's 
+
+757
+00:37:08,920 --> 00:37:12,560
+occupier thesis ultimately 
+redefine our understanding of 
+
+758
+00:37:12,560 --> 00:37:14,520
+the United States? 
+Yeah, the big picture. 
+
+759
+00:37:14,760 --> 00:37:18,280
+It challenges the very notion of
+what it means to be 1 nation. 
+
+760
+00:37:18,560 --> 00:37:21,480
+It sounds like a truly seismic 
+shift in perspective. 
+
+761
+00:37:21,920 --> 00:37:25,080
+Well, what's truly illuminating 
+is the overarching conclusion. 
+
+762
+00:37:25,080 --> 00:37:28,440
+The source arrives at a stark 
+and profound summary of its 
+
+763
+00:37:28,440 --> 00:37:32,280
+entire argument. 
+The US is many cultures on one 
+
+764
+00:37:32,280 --> 00:37:34,120
+map. 
+Many cultures 1 map. 
+
+765
+00:37:34,120 --> 00:37:36,160
+Each believes in its right to 
+self rule. 
+
+766
+00:37:36,960 --> 00:37:39,480
+This is a powerful assertion, 
+moving beyond the idea of a 
+
+767
+00:37:39,480 --> 00:37:42,840
+simple melting pot or even a 
+multicultural mosaic. 
+
+768
+00:37:42,840 --> 00:37:45,920
+It's more fragmented than that. 
+It posits a more fundamental 
+
+769
+00:37:45,920 --> 00:37:48,840
+segmentation where distinct 
+cultural entities not only 
+
+770
+00:37:48,840 --> 00:37:52,160
+coexist but also fundamentally 
+assert their inherent current 
+
+771
+00:37:52,160 --> 00:37:54,760
+right to govern themselves, 
+often independently of external 
+
+772
+00:37:54,760 --> 00:37:56,880
+legal frameworks or centralized 
+authority. 
+
+773
+00:37:57,320 --> 00:37:59,920
+It suggests the American 
+experiment is far more fractured
+
+774
+00:37:59,920 --> 00:38:02,120
+at its core than commonly 
+acknowledged. 
+
+775
+00:38:02,360 --> 00:38:04,480
+And this brings us back to the 
+core clash. 
+
+776
+00:38:04,760 --> 00:38:06,960
+Exactly. 
+It brings us squarely back to 
+
+777
+00:38:06,960 --> 00:38:08,760
+the core clash we explored 
+earlier. 
+
+778
+00:38:09,320 --> 00:38:11,760
+The government sees itself as 
+the ultimate authority. 
+
+779
+00:38:12,440 --> 00:38:16,880
+Enclaves see it as an occupier. 
+Dimension B versus Dimension A's
+
+780
+00:38:16,880 --> 00:38:19,280
+perception. 
+This is the central 
+
+781
+00:38:19,320 --> 00:38:22,280
+irreconcilable tension that 
+defines the entire thesis. 
+
+782
+00:38:22,880 --> 00:38:25,520
+The federal, state, local 
+governments representing 
+
+783
+00:38:25,520 --> 00:38:28,640
+Dimension B operate under the 
+absolute assumption of their 
+
+784
+00:38:28,640 --> 00:38:32,040
+universal legitimate authority 
+over all territory and all 
+
+785
+00:38:32,040 --> 00:38:34,360
+people within their borders. 
+They believe they have the 
+
+786
+00:38:34,360 --> 00:38:35,840
+right. 
+They view their laws and 
+
+787
+00:38:35,840 --> 00:38:39,440
+enforcement as universally 
+applicable and just, but the 
+
+788
+00:38:39,440 --> 00:38:43,480
+enclaves embodying Dimension A 
+fundamentally reject this 
+
+789
+00:38:43,480 --> 00:38:46,320
+universal claim, viewing 
+interventions by the government 
+
+790
+00:38:46,320 --> 00:38:49,000
+not as legitimate governance, 
+but it's an illegitimate 
+
+791
+00:38:49,000 --> 00:38:52,040
+imposition on their inherent 
+right to autonomy and self 
+
+792
+00:38:52,040 --> 00:38:54,040
+determination. 
+It's a fundamental disagreement 
+
+793
+00:38:54,040 --> 00:38:55,280
+about sovereignty. 
+Absolutely. 
+
+794
+00:38:55,320 --> 00:38:57,800
+It's not merely A 
+misunderstanding, it's a deep 
+
+795
+00:38:57,800 --> 00:39:00,880
+seated philosophical and 
+practical disagreement about the
+
+796
+00:39:00,880 --> 00:39:02,520
+very nature of sovereignty 
+itself. 
+
+797
+00:39:02,760 --> 00:39:06,520
+A constant push and pullover who
+truly holds the reins of power 
+
+798
+00:39:06,520 --> 00:39:09,400
+within their communal spaces. 
+So what's the consequence of 
+
+799
+00:39:09,400 --> 00:39:12,360
+these unreconciled realities? 
+If they don't reconcile, what 
+
+800
+00:39:12,360 --> 00:39:14,600
+happens? 
+The paper issues a stark warning
+
+801
+00:39:14,600 --> 00:39:17,520
+about the consequence. 
+Until these two realities 
+
+802
+00:39:17,520 --> 00:39:22,080
+reconcile, every clash will feel
+like colonizer versus colonized.
+
+803
+00:39:22,240 --> 00:39:24,520
+Every clash feels like that. 
+That's the implication. 
+
+804
+00:39:24,920 --> 00:39:27,800
+It means that each interaction, 
+whether it's a police action, a 
+
+805
+00:39:27,800 --> 00:39:32,520
+federal initiative, A zoning 
+dispute, a cultural policy, it's
+
+806
+00:39:32,520 --> 00:39:35,120
+not just a routine policy 
+implementation or legal 
+
+807
+00:39:35,120 --> 00:39:37,120
+enforcement. 
+It gets loaded with meaning. 
+
+808
+00:39:37,120 --> 00:39:39,120
+Exactly. 
+It becomes imbued with the 
+
+809
+00:39:39,120 --> 00:39:42,400
+historical weight and power 
+dynamics of colonial encounters.
+
+810
+00:39:42,720 --> 00:39:46,240
+It transforms every encounter 
+into a power struggle where one 
+
+811
+00:39:46,240 --> 00:39:49,720
+side feels an ancestral or 
+deeply cultural right to self 
+
+812
+00:39:49,720 --> 00:39:52,480
+determination and the other 
+asserts a legal right to 
+
+813
+00:39:52,480 --> 00:39:55,400
+universal governance. 
+Which just guarantees ongoing 
+
+814
+00:39:55,400 --> 00:39:57,800
+conflict. 
+It sets the stage for ongoing, 
+
+815
+00:39:57,800 --> 00:40:01,000
+deeply rooted conflict that goes
+far beyond simple policy 
+
+816
+00:40:01,000 --> 00:40:03,560
+disputes. 
+It is a battle for recognition 
+
+817
+00:40:03,600 --> 00:40:06,120
+and legitimacy. 
+And the paper insists this 
+
+818
+00:40:06,120 --> 00:40:09,120
+feeling of occupation is real, 
+not just rhetoric. 
+
+819
+00:40:09,400 --> 00:40:13,280
+It's strongly emphasizes the 
+profound authenticity and lived 
+
+820
+00:40:13,280 --> 00:40:17,480
+experience behind this feeling. 
+The cry of occupation is not 
+
+821
+00:40:17,480 --> 00:40:21,520
+just rhetoric, it is the voice 
+of communities guarding their 
+
+822
+00:40:21,520 --> 00:40:23,560
+own worlds within America's 
+borders. 
+
+823
+00:40:23,560 --> 00:40:27,080
+Parting their own worlds. 
+Yeah, this validates the lived 
+
+824
+00:40:27,080 --> 00:40:28,800
+experience of countless 
+individuals. 
+
+825
+00:40:29,040 --> 00:40:31,040
+It's arguing. 
+It's not hyperbole or an 
+
+826
+00:40:31,040 --> 00:40:33,160
+exaggerated complaint to be 
+dismissed lightly. 
+
+827
+00:40:33,400 --> 00:40:36,520
+It's a genuine, heartfelt 
+expression of communities 
+
+828
+00:40:36,520 --> 00:40:39,400
+protecting their distinct 
+identities, their internal 
+
+829
+00:40:39,400 --> 00:40:42,600
+codes, their chosen way of life 
+from what they perceive as an 
+
+830
+00:40:42,600 --> 00:40:45,960
+external, illegitimate and 
+potentially destructive force. 
+
+831
+00:40:46,000 --> 00:40:49,560
+A defense of dimension A itself.
+Precisely a defense of their 
+
+832
+00:40:49,560 --> 00:40:53,040
+very existence has dimension a a
+struggle for cultural and social
+
+833
+00:40:53,040 --> 00:40:55,880
+survival against an overwhelming
+external power. 
+
+834
+00:40:56,240 --> 00:40:59,360
+So This is why autonomy matters 
+so much in this thesis. 
+
+835
+00:40:59,360 --> 00:41:02,320
+This is why the concept of 
+autonomy matters so deeply, yes,
+
+836
+00:41:02,600 --> 00:41:05,560
+and why understanding this 
+thesis is, I think, crucial for 
+
+837
+00:41:05,560 --> 00:41:07,320
+anyone trying to make sense of 
+America today. 
+
+838
+00:41:07,760 --> 00:41:10,880
+The thesis leaves us with a 
+powerful final statement that 
+
+839
+00:41:10,880 --> 00:41:12,840
+truly encapsulates his core 
+argument. 
+
+840
+00:41:13,200 --> 00:41:15,760
+America is not one dimension, it
+is 2. 
+
+841
+00:41:16,360 --> 00:41:18,360
+And they're always on the verge 
+of collision. 
+
+842
+00:41:19,160 --> 00:41:21,720
+This is the ultimate take away. 
+2 dimensions on the verge of 
+
+843
+00:41:21,720 --> 00:41:23,560
+collision. 
+Yes. the United States, from 
+
+844
+00:41:23,560 --> 00:41:27,160
+this perspective, is not a 
+unified entity with a singular 
+
+845
+00:41:27,160 --> 00:41:29,400
+understanding of governance or 
+legitimacy. 
+
+846
+00:41:30,000 --> 00:41:33,840
+Instead, it is a complex 
+bifurcated system where two 
+
+847
+00:41:33,840 --> 00:41:37,280
+distinct realities coexist 
+constantly at risk of clashing 
+
+848
+00:41:37,440 --> 00:41:39,760
+because they're fundamental 
+principles of authority, 
+
+849
+00:41:39,880 --> 00:41:43,120
+belonging and self determination
+are so profoundly opposed. 
+
+850
+00:41:43,120 --> 00:41:45,240
+The collision might not always 
+be violent, you mean? 
+
+851
+00:41:45,240 --> 00:41:46,520
+Right. 
+It might not always be violent, 
+
+852
+00:41:46,680 --> 00:41:50,680
+but it manifests in persistent 
+friction, misunderstanding and a
+
+853
+00:41:50,680 --> 00:41:53,040
+perpetual struggle for dominance
+or recognition. 
+
+854
+00:41:53,480 --> 00:41:58,440
+Wow, OK this deep dive into 
+Chris Abrahams occupier thesis 
+
+855
+00:41:58,440 --> 00:42:01,440
+is truly transformative. 
+I mean, for many of us it isn't 
+
+856
+00:42:01,440 --> 00:42:03,600
+just about understanding 
+different communities or some 
+
+857
+00:42:03,600 --> 00:42:05,880
+new academic framework. 
+It feels more fundamental. 
+
+858
+00:42:05,880 --> 00:42:08,040
+It really is. 
+It's about seeing America 
+
+859
+00:42:08,040 --> 00:42:11,640
+through a completely new and 
+challenging lens. 
+
+860
+00:42:12,160 --> 00:42:15,280
+For many of us, I think this 
+framework provides those crucial
+
+861
+00:42:15,480 --> 00:42:19,080
+aha moments, suddenly making 
+sense of headlines and social 
+
+862
+00:42:19,080 --> 00:42:22,320
+tensions that previously seemed 
+inexplicable or just chaotic. 
+
+863
+00:42:22,320 --> 00:42:23,800
+It gives you a different way to 
+interpret things. 
+
+864
+00:42:23,800 --> 00:42:27,200
+Exactly. 
+It allows you, the listener, to 
+
+865
+00:42:27,200 --> 00:42:29,880
+look at interactions between 
+communities and external 
+
+866
+00:42:29,880 --> 00:42:33,400
+authorities with a far greater 
+degree of nuance and insight, 
+
+867
+00:42:33,400 --> 00:42:36,760
+moving beyond simplistic 
+explanations to grasp the 
+
+868
+00:42:36,760 --> 00:42:38,840
+underlying conflict of 
+realities. 
+
+869
+00:42:39,240 --> 00:42:43,320
+So if America truly is, as the 
+thesis suggests, two countries 
+
+870
+00:42:43,320 --> 00:42:47,200
+on one map, it really does raise
+a challenging but I think 
+
+871
+00:42:47,200 --> 00:42:49,880
+necessary set of questions for 
+all of us. 
+
+872
+00:42:50,000 --> 00:42:50,520
+Like what? 
+Well. 
+
+873
+00:42:50,840 --> 00:42:53,880
+What are the profound 
+implications for policy making, 
+
+874
+00:42:54,440 --> 00:42:57,680
+for community engagement, or 
+even simply for our individual 
+
+875
+00:42:57,680 --> 00:42:59,720
+approach to empathy and 
+understanding? 
+
+876
+00:42:59,800 --> 00:43:02,440
+Yeah, how do we even talk to 
+each other across these divides?
+
+877
+00:43:02,440 --> 00:43:04,400
+Right. 
+How might acknowledging these 
+
+878
+00:43:04,400 --> 00:43:08,200
+parallel realities, dimension A 
+and dimension B change how we 
+
+879
+00:43:08,200 --> 00:43:11,440
+think about solving internal 
+conflicts rather than, you know,
+
+880
+00:43:11,440 --> 00:43:14,200
+inadvertently exacerbating them 
+through a singular, uninformed 
+
+881
+00:43:14,200 --> 00:43:16,000
+approach? 
+That's a huge question. 
+
+882
+00:43:16,000 --> 00:43:17,840
+It leaves us with a provocative 
+thought. 
+
+883
+00:43:18,560 --> 00:43:22,240
+What if the path to greater 
+unity isn't forcing one reality 
+
+884
+00:43:22,240 --> 00:43:26,280
+onto another, but first truly 
+understanding and perhaps even 
+
+885
+00:43:26,280 --> 00:43:28,920
+in some way acknowledging the 
+existence of both? 
+
+886
+00:43:29,080 --> 00:43:31,680
+Acknowledging both realities, 
+that's definitely something to 
+
+887
+00:43:31,680 --> 00:43:34,120
+chew on. 
+We truly encourage you listening
+
+888
+00:43:34,400 --> 00:43:36,200
+to take these concepts and apply
+them. 
+
+889
+00:43:36,320 --> 00:43:39,240
+Yeah, think about it in your. 
+Think about where you might 
+
+890
+00:43:39,240 --> 00:43:42,400
+observe these dynamics playing 
+out in your own communities or 
+
+891
+00:43:42,400 --> 00:43:46,080
+in the news stories you consume.
+Begin to apply the concepts of 
+
+892
+00:43:46,080 --> 00:43:50,360
+dimension A and dimension B to 
+real world situations. 
+
+893
+00:43:50,360 --> 00:43:51,800
+See. 
+If it changes your perspective. 
+
+894
+00:43:51,880 --> 00:43:54,560
+Perhaps even trying to see a 
+familiar situation through both 
+
+895
+00:43:54,560 --> 00:43:56,720
+lenses. 
+This framework is a powerful 
+
+896
+00:43:56,720 --> 00:43:59,480
+tool for critical thinking and 
+seeing the deeper layers of 
+
+897
+00:43:59,480 --> 00:44:01,760
+societal dynamics that often go 
+unnoticed. 
+
+898
+00:44:01,760 --> 00:44:03,760
+Keep digging. 
+Keep exploring, keep 
+
+899
+00:44:03,760 --> 00:44:07,360
+questioning, and keep thinking 
+critically about the complex, 
+
+900
+00:44:07,440 --> 00:44:10,800
+sometimes colliding tapestry 
+that is America.
+

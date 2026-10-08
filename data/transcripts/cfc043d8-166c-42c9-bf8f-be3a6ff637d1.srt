@@ -1,0 +1,4250 @@
+1
+00:00:00,040 --> 00:00:02,360
+Welcome, curious minds to The 
+Deep Dive. 
+
+2
+00:00:02,560 --> 00:00:06,360
+Today we're plunging into an 
+idea that might sound utterly 
+
+3
+00:00:06,360 --> 00:00:08,680
+dramatic, maybe even a bit 
+mythical at first. 
+
+4
+00:00:09,320 --> 00:00:10,640
+But we've all heard that phrase,
+right? 
+
+5
+00:00:10,920 --> 00:00:14,120
+The Graveyard of Empires. 
+Oh yeah, definitely conjures of 
+
+6
+00:00:14,240 --> 00:00:15,640
+all sorts of images. 
+Exactly. 
+
+7
+00:00:15,640 --> 00:00:19,640
+Ancient lands, immense power 
+just fizzling out. 
+
+8
+00:00:19,680 --> 00:00:22,800
+A place known for absorbing 
+these huge invading forces and 
+
+9
+00:00:22,800 --> 00:00:25,480
+then kind of just shrugging them
+off, leaving them totally 
+
+10
+00:00:25,480 --> 00:00:27,600
+depleted. 
+The land itself basically 
+
+11
+00:00:27,600 --> 00:00:28,760
+unchanged. 
+Right. 
+
+12
+00:00:29,200 --> 00:00:31,600
+Powerless in the end. 
+But here's the twist we're 
+
+13
+00:00:31,600 --> 00:00:35,760
+exploring today. 
+What if that same dynamic, that 
+
+14
+00:00:35,760 --> 00:00:39,320
+really unique pattern of like 
+absorption and then rejection, 
+
+15
+00:00:39,640 --> 00:00:41,240
+could actually apply to modern 
+America? 
+
+16
+00:00:41,240 --> 00:00:44,000
+It's a compelling parallel, 
+isn't it almost unsettling when 
+
+17
+00:00:44,000 --> 00:00:45,160
+you first hear it? 
+Totally. 
+
+18
+00:00:45,160 --> 00:00:47,120
+Because, I mean, it seems so 
+counterintuitive. 
+
+19
+00:00:47,120 --> 00:00:50,520
+America, you know, global 
+superpower, beacon of 
+
+20
+00:00:50,520 --> 00:00:54,600
+innovation, constant change, not
+some besieged nation fending off
+
+21
+00:00:54,640 --> 00:00:55,280
+armies. 
+Right. 
+
+22
+00:00:55,280 --> 00:00:58,200
+But the author we're looking at,
+Chris Abraham, in this 
+
+23
+00:00:58,240 --> 00:01:02,040
+provocative article titled 
+America, Afghanistan, he argues 
+
+24
+00:01:02,040 --> 00:01:05,319
+exactly that point and with, 
+well, surprising depth and a lot
+
+25
+00:01:05,319 --> 00:01:08,160
+of historical examples. 
+Yeah, he really builds a case. 
+
+26
+00:01:08,240 --> 00:01:10,800
+Absolutely. 
+So for this deep dive, our 
+
+27
+00:01:10,800 --> 00:01:14,240
+mission really is to unpack 
+Abraham's fascinating argument 
+
+28
+00:01:15,240 --> 00:01:19,560
+that America, in its own very 
+unique way, mirrors 
+
+29
+00:01:19,560 --> 00:01:23,960
+Afghanistan's historical role, 
+not against, you know, literal 
+
+30
+00:01:23,960 --> 00:01:27,480
+invading armies with tanks and 
+stuff, thankfully, but against 
+
+31
+00:01:27,480 --> 00:01:30,560
+these powerful cultural and 
+social movements that try to 
+
+32
+00:01:30,560 --> 00:01:32,960
+change the country from within. 
+So we're going to delve into 
+
+33
+00:01:32,960 --> 00:01:36,440
+these really striking parallels 
+and the specific, often kind of 
+
+34
+00:01:36,440 --> 00:01:41,040
+unseen forces the author claims 
+are fundamentally at play just 
+
+35
+00:01:41,040 --> 00:01:42,840
+beneath the surface of American 
+Society. 
+
+36
+00:01:43,000 --> 00:01:45,600
+It's about understanding a 
+different kind of power, isn't 
+
+37
+00:01:45,600 --> 00:01:48,360
+it? 
+Not like overt military might, 
+
+38
+00:01:48,560 --> 00:01:51,920
+but something more subtle. 
+An enduring power of absorption,
+
+39
+00:01:51,920 --> 00:01:55,680
+maybe an eventual 
+neutralization, like a societal 
+
+40
+00:01:55,680 --> 00:01:59,320
+immune response, if you will, 
+that ultimately preserves some 
+
+41
+00:01:59,320 --> 00:02:01,560
+kind of core identity. 
+Yeah, that's a good way to put 
+
+42
+00:02:01,560 --> 00:02:03,680
+it. 
+Given Afghanistan's remarkable, 
+
+43
+00:02:03,680 --> 00:02:07,200
+almost mystical ability to just 
+outlast and eventually shed 
+
+44
+00:02:07,200 --> 00:02:11,039
+these external forces, it leads 
+to this really wild question 
+
+45
+00:02:11,039 --> 00:02:14,280
+from the article. 
+Could America, in its own 
+
+46
+00:02:14,280 --> 00:02:18,560
+distinct way, be doing the exact
+same thing, but doing it to 
+
+47
+00:02:18,560 --> 00:02:20,920
+internal movements instead of 
+literal armies? 
+
+48
+00:02:22,120 --> 00:02:23,600
+The source material for this 
+deep dive? 
+
+49
+00:02:23,600 --> 00:02:27,400
+It lays out a fascinating, maybe
+even unsettling case that really
+
+50
+00:02:27,400 --> 00:02:30,800
+forces you to reconsider how 
+societal change actually 
+
+51
+00:02:30,800 --> 00:02:32,600
+happens. 
+Oh, doesn't happen. 
+
+52
+00:02:32,640 --> 00:02:34,320
+Right. 
+How deep does change really go? 
+
+53
+00:02:34,360 --> 00:02:38,600
+OK, so to really grasp Abraham's
+main idea, we first need to 
+
+54
+00:02:39,560 --> 00:02:42,480
+properly establish Afghanistan's
+historical reputation. 
+
+55
+00:02:42,880 --> 00:02:44,440
+It's not just some dramatic 
+nickname. 
+
+56
+00:02:45,080 --> 00:02:47,480
+The Graveyard of Empires is, 
+according to this source, a 
+
+57
+00:02:47,480 --> 00:02:50,720
+historical truth proven over and
+over again through centuries. 
+
+58
+00:02:51,160 --> 00:02:53,960
+It's a reputation earned 
+through, well, a really unique 
+
+59
+00:02:53,960 --> 00:02:55,920
+kind of cultural resilience. 
+Precisely. 
+
+60
+00:02:56,000 --> 00:02:57,880
+The source really emphasizes 
+this point. 
+
+61
+00:02:58,480 --> 00:03:01,240
+For century, some of the most 
+formidable, most powerful 
+
+62
+00:03:01,240 --> 00:03:03,760
+nations on earth have marched 
+into Afghanistan. 
+
+63
+00:03:03,880 --> 00:03:05,360
+Big ones. 
+Huge. 
+
+64
+00:03:05,560 --> 00:03:09,080
+They came with overwhelming 
+armies, cutting edge weapons for
+
+65
+00:03:09,080 --> 00:03:13,480
+their time, meticulous plans, 
+and this this fervent belief 
+
+66
+00:03:13,560 --> 00:03:16,320
+that they could control and 
+fundamentally change the very 
+
+67
+00:03:16,320 --> 00:03:19,600
+fabric of Afghan society. 
+Every single time. 
+
+68
+00:03:19,600 --> 00:03:22,080
+Every single time, they were 
+convinced they'd be different, 
+
+69
+00:03:22,360 --> 00:03:25,120
+that they would succeed where 
+everyone else had failed, that 
+
+70
+00:03:25,120 --> 00:03:28,760
+their will, their might, their 
+ideology would finally bend 
+
+71
+00:03:28,760 --> 00:03:31,880
+Afghanistan to their desires. 
+And the examples the article 
+
+72
+00:03:31,880 --> 00:03:36,200
+gives are just incredibly stark.
+We're talking global superpowers
+
+73
+00:03:36,200 --> 00:03:38,000
+at the absolute peak of their 
+influence. 
+
+74
+00:03:38,000 --> 00:03:40,280
+Yeah, the big leagues. 
+First, think about the British 
+
+75
+00:03:40,280 --> 00:03:43,880
+Empire, 19th, early 20th 
+centuries at the height of its 
+
+76
+00:03:43,880 --> 00:03:47,000
+power, ruling like 1/4 of the 
+world's population. 
+
+77
+00:03:47,000 --> 00:03:48,720
+Right. 
+The empire on which the sun 
+
+78
+00:03:48,720 --> 00:03:50,000
+never set. 
+Exactly. 
+
+79
+00:03:50,520 --> 00:03:53,520
+Britain tried repeatedly to 
+assert control over Afghanistan,
+
+80
+00:03:53,520 --> 00:03:55,920
+mostly strategic reasons, you 
+know, worried about Russia, the 
+
+81
+00:03:55,920 --> 00:03:59,040
+Great game. 
+They invested immense resources,
+
+82
+00:03:59,120 --> 00:04:03,040
+thousands of lives, unparalleled
+military might in these 
+
+83
+00:04:03,040 --> 00:04:05,200
+campaigns that stretched on for 
+decades. 
+
+84
+00:04:05,240 --> 00:04:07,080
+Yeah, multiple Anglo Afghan 
+wars. 
+
+85
+00:04:07,360 --> 00:04:10,920
+Yet each time they just found 
+themselves bogged down this 
+
+86
+00:04:10,920 --> 00:04:13,880
+seemingly endless conflict. 
+Their forces bled dry, their 
+
+87
+00:04:13,880 --> 00:04:17,600
+political will just eroded, and 
+ultimately they were forced to 
+
+88
+00:04:17,600 --> 00:04:20,519
+retreat, leaving Afghanistan 
+pretty much unconquered and 
+
+89
+00:04:20,519 --> 00:04:22,640
+unbowed. 
+It just absorbed the punch. 
+
+90
+00:04:22,720 --> 00:04:27,080
+Then Fast forward the Soviet 
+Union, late 20th century. 
+
+91
+00:04:27,360 --> 00:04:28,880
+A different kind of superpower, 
+right? 
+
+92
+00:04:28,920 --> 00:04:31,520
+Driven by communist ideology, 
+believing it was the future of 
+
+93
+00:04:31,520 --> 00:04:34,480
+the world. 
+A world revolution narrative. 
+
+94
+00:04:34,480 --> 00:04:38,320
+In 1979 they launched a full 
+scale invasion, poured billions 
+
+95
+00:04:38,320 --> 00:04:40,560
+into this protracted, really 
+brutal war. 
+
+96
+00:04:41,000 --> 00:04:43,920
+Their goal was clear. 
+Install a compliant communist 
+
+97
+00:04:43,920 --> 00:04:46,160
+regime. 
+Fundamentally transform Afghan 
+
+98
+00:04:46,160 --> 00:04:47,560
+society in their image. 
+Right. 
+
+99
+00:04:47,560 --> 00:04:50,960
+Modernize it, secularize it, 
+bring it into the Soviet sphere.
+
+100
+00:04:51,040 --> 00:04:53,640
+They had this overwhelming 
+military machine, vast 
+
+101
+00:04:53,640 --> 00:04:55,120
+resources. 
+They were there for a whole 
+
+102
+00:04:55,120 --> 00:04:58,840
+decade, but they too eventually 
+withdrew in 1989. 
+
+103
+00:04:58,960 --> 00:05:02,000
+Their economy strained, their 
+military demoralized, their 
+
+104
+00:05:02,000 --> 00:05:04,360
+imperial ambitions just in 
+tatters. 
+
+105
+00:05:04,400 --> 00:05:06,200
+The Soviet Vietnam, some called 
+it. 
+
+106
+00:05:06,400 --> 00:05:09,160
+Exactly. 
+And they left behind a nation 
+
+107
+00:05:09,400 --> 00:05:12,280
+that despite just immense 
+suffering and destruction, 
+
+108
+00:05:12,480 --> 00:05:15,560
+largely reverted. 
+It went back to its pre invasion
+
+109
+00:05:15,560 --> 00:05:18,320
+state in terms of its core 
+identity, its tribal structures.
+
+110
+00:05:18,320 --> 00:05:20,640
+The underlying patterns just re 
+emerge. 
+
+111
+00:05:20,640 --> 00:05:22,720
+And then most recently, the 
+United States. 
+
+112
+00:05:23,360 --> 00:05:26,480
+After 911, the US-led this 
+international coalition into 
+
+113
+00:05:26,480 --> 00:05:29,000
+Afghanistan spent trillions of 
+dollars. 
+
+114
+00:05:29,040 --> 00:05:33,280
+Trillions with AT. 
+Fought for two decades, the 
+
+115
+00:05:33,280 --> 00:05:37,760
+stated goals dismantle terrorist
+networks, stabilize the region, 
+
+116
+00:05:37,920 --> 00:05:40,760
+transform Afghanistan into a 
+stable democratic state. 
+
+117
+00:05:41,160 --> 00:05:43,680
+A modern nation building project
+on a massive scale. 
+
+118
+00:05:43,880 --> 00:05:47,160
+The investment was colossal. 
+Lives treasure 2 decades of 
+
+119
+00:05:47,160 --> 00:05:49,760
+sustained effort trying to build
+institutions, change the 
+
+120
+00:05:49,760 --> 00:05:51,840
+culture. 
+Yet as we all saw just a few 
+
+121
+00:05:51,840 --> 00:05:55,160
+years ago, the ultimate outcome 
+was this incredibly rapid 
+
+122
+00:05:55,160 --> 00:05:57,600
+collapse. 
+The new systems, the government,
+
+123
+00:05:57,600 --> 00:06:00,160
+the military that have been 
+propped up for years by foreign 
+
+124
+00:06:00,160 --> 00:06:02,480
+aid and influence, just melted 
+away. 
+
+125
+00:06:02,480 --> 00:06:05,320
+Yeah, startlingly fast. 
+And Afghanistan, in so many 
+
+126
+00:06:05,320 --> 00:06:08,480
+fundamental ways just reverted, 
+went back to its old ways almost
+
+127
+00:06:08,480 --> 00:06:10,760
+instantly once the foreign 
+forces packed up and left. 
+
+128
+00:06:10,880 --> 00:06:13,800
+It's this recurring theme. 
+Every single one of these global
+
+129
+00:06:13,800 --> 00:06:16,320
+giants thought they could turn 
+Afghanistan into what they 
+
+130
+00:06:16,320 --> 00:06:20,040
+wanted it to be, and every 
+single time Afghanistan absorb 
+
+131
+00:06:20,040 --> 00:06:23,080
+their efforts waited them out 
+and just went back to being 
+
+132
+00:06:23,080 --> 00:06:25,840
+Afghanistan the moment the 
+foreign armies drained and 
+
+133
+00:06:25,840 --> 00:06:27,160
+defeated. 
+Left. 
+
+134
+00:06:27,400 --> 00:06:29,560
+And what's really fascinating 
+here, what the source 
+
+135
+00:06:29,560 --> 00:06:33,640
+meticulously details, is how 
+Afghanistan's resilience works. 
+
+136
+00:06:33,960 --> 00:06:38,200
+It isn't primarily framed as 
+like direct military victory on 
+
+137
+00:06:38,200 --> 00:06:40,560
+the battlefield, though 
+obviously there was intense 
+
+138
+00:06:40,560 --> 00:06:42,120
+fighting. 
+Sure, lots of conflict. 
+
+139
+00:06:42,120 --> 00:06:44,960
+But instead, it's presented as 
+this profound cultural 
+
+140
+00:06:44,960 --> 00:06:47,000
+absorption and eventual 
+rejection. 
+
+141
+00:06:47,000 --> 00:06:50,480
+It's a very different kind of 
+power, a strategic patience, 
+
+142
+00:06:50,480 --> 00:06:53,640
+almost spiritual, that just 
+outlasts raw force. 
+
+143
+00:06:53,640 --> 00:06:55,080
+That's such a powerful 
+distinction. 
+
+144
+00:06:55,080 --> 00:06:56,480
+It really makes you wonder, 
+doesn't it? 
+
+145
+00:06:56,840 --> 00:07:01,840
+Is true imposed external change 
+ever really possible, or is it 
+
+146
+00:07:01,840 --> 00:07:05,320
+always just this temporary 
+veneer over an unyielding core? 
+
+147
+00:07:05,440 --> 00:07:07,160
+Yeah. 
+Is it just surface stuff? 
+
+148
+00:07:07,640 --> 00:07:10,880
+So it's not about winning every 
+single pitched battle, it's 
+
+149
+00:07:10,880 --> 00:07:14,520
+about this more subtle, enduring
+strategy for survival. 
+
+150
+00:07:15,240 --> 00:07:17,400
+The source highlights 
+Afghanistan's mastery of 
+
+151
+00:07:17,400 --> 00:07:21,400
+patients, it's uncanny ability 
+to simply wait out outsiders, no
+
+152
+00:07:21,400 --> 00:07:24,240
+matter how mighty they are, no 
+matter what they say they want 
+
+153
+00:07:24,240 --> 00:07:26,280
+to do. 
+Yes, and this outlasting isn't 
+
+154
+00:07:26,280 --> 00:07:29,520
+just passive waiting. 
+It's described as an active, 
+
+155
+00:07:29,600 --> 00:07:33,560
+even deceptive, strategy. 
+Afghanistan, as the author puts 
+
+156
+00:07:33,560 --> 00:07:37,520
+it, pretends to play along. 
+OK, what does that look like? 
+
+157
+00:07:37,520 --> 00:07:41,040
+It means it readily accepts the 
+money, the aid, the resources 
+
+158
+00:07:41,040 --> 00:07:42,600
+that these foreign powers bring 
+in. 
+
+159
+00:07:42,840 --> 00:07:45,360
+It even allows pretty 
+substantial surface changes to 
+
+160
+00:07:45,360 --> 00:07:46,880
+happen. 
+Like what kind of changes? 
+
+161
+00:07:47,160 --> 00:07:50,040
+Well, you know, schools being 
+built using foreign money and 
+
+162
+00:07:50,040 --> 00:07:53,000
+curricula, new laws being 
+enforced, at least in the 
+
+163
+00:07:53,000 --> 00:07:56,800
+cities, foreign ideals, 
+democratic principles, modern 
+
+164
+00:07:56,800 --> 00:08:00,120
+education ideas, different 
+social norms being promoted and 
+
+165
+00:08:00,120 --> 00:08:02,040
+seemingly adopted in public 
+spaces. 
+
+166
+00:08:02,040 --> 00:08:04,560
+So on the surface, it really 
+looks like change is happening, 
+
+167
+00:08:04,560 --> 00:08:05,840
+like the invaders are 
+succeeding. 
+
+168
+00:08:06,080 --> 00:08:07,600
+Exactly. 
+It looks like fundamental 
+
+169
+00:08:07,600 --> 00:08:10,760
+transformation is underway, like
+they're actually reshaping the 
+
+170
+00:08:10,760 --> 00:08:12,400
+country according to their 
+plans. 
+
+171
+00:08:12,640 --> 00:08:16,200
+But, and this is the crucial 
+bit, almost devious according to
+
+172
+00:08:16,200 --> 00:08:19,760
+the author, beneath this shiny 
+veneer of surface compliance, 
+
+173
+00:08:20,240 --> 00:08:24,400
+the people remain deeply loyal. 
+Loyal to their tribes, their 
+
+174
+00:08:24,400 --> 00:08:26,600
+local communities, their ancient
+ways of doing things. 
+
+175
+00:08:26,600 --> 00:08:29,680
+Their core identity stays strong
+and hidden. 
+
+176
+00:08:29,720 --> 00:08:30,480
+Hidden. 
+Wow. 
+
+177
+00:08:30,800 --> 00:08:34,000
+They smile, they nod, they say 
+what the occupiers want to hear.
+
+178
+00:08:34,320 --> 00:08:36,799
+They might even benefit 
+personally from the influx of 
+
+179
+00:08:36,799 --> 00:08:39,679
+cash or jobs. 
+But all the while, they're 
+
+180
+00:08:39,679 --> 00:08:43,120
+fundamental cultural and social 
+core remains untouched, 
+
+181
+00:08:43,159 --> 00:08:47,720
+resilient, just. 
+It's like a master class in 
+
+182
+00:08:47,720 --> 00:08:51,960
+quiet internal resistance, A 
+societal deep breath held for 
+
+183
+00:08:51,960 --> 00:08:54,920
+decades, maybe even centuries. 
+And this patient kind of 
+
+184
+00:08:55,120 --> 00:08:58,280
+deceptive strategy, it has this 
+devastating, draining effect on 
+
+185
+00:08:58,280 --> 00:09:01,600
+the invading force, the foreign 
+armies, the aid organizations, 
+
+186
+00:09:01,600 --> 00:09:04,600
+the diplomats, they expend 
+immense energy pouring countless
+
+187
+00:09:04,600 --> 00:09:07,600
+resources, and critically, 
+slowly but surely, they lose 
+
+188
+00:09:07,600 --> 00:09:09,160
+their willpower. 
+They get exhausted. 
+
+189
+00:09:09,160 --> 00:09:12,080
+Totally exhausted, Frustrated by
+the slow pace of what they see 
+
+190
+00:09:12,080 --> 00:09:14,800
+as genuine change. 
+Worn out by the constant need to
+
+191
+00:09:14,800 --> 00:09:17,240
+prop things up. 
+Delusioned by the seeming 
+
+192
+00:09:17,240 --> 00:09:20,120
+futility of it all. 
+And when the invaders finally 
+
+193
+00:09:20,120 --> 00:09:24,320
+leave, drained, financially 
+depleted, defeated in spirit. 
+
+194
+00:09:24,440 --> 00:09:28,720
+Afghanistan simply shrugs off 
+everything they tried to build. 
+
+195
+00:09:28,720 --> 00:09:30,880
+Just like that shrugs it off. 
+Pretty much. 
+
+196
+00:09:31,280 --> 00:09:33,960
+The effects are immediate and 
+dramatic, almost like a spell is
+
+197
+00:09:33,960 --> 00:09:35,880
+broken. 
+The schools that were built, 
+
+198
+00:09:35,960 --> 00:09:37,920
+they close, or the curriculum 
+reverts. 
+
+199
+00:09:37,920 --> 00:09:41,280
+The new laws, they just vanish, 
+become irrelevant overnight. 
+
+200
+00:09:41,520 --> 00:09:43,840
+The new systems, the 
+institutions they tried to 
+
+201
+00:09:43,840 --> 00:09:46,000
+create, they collapse like 
+houses of cars. 
+
+202
+00:09:46,960 --> 00:09:51,400
+And Afghanistan, the deep 
+fundamental core of Afghanistan 
+
+203
+00:09:51,680 --> 00:09:54,720
+remains unchanged. 
+It returns to its pre invasion 
+
+204
+00:09:54,720 --> 00:09:58,640
+state with startling speed. 
+It's this powerful repeating 
+
+205
+00:09:58,640 --> 00:10:01,880
+cycle absorption, then 
+rejection. 
+
+206
+00:10:01,880 --> 00:10:03,320
+That's how it's beaten every 
+empire. 
+
+207
+00:10:03,360 --> 00:10:04,640
+It doesn't need to win big 
+battles. 
+
+208
+00:10:04,640 --> 00:10:07,600
+Exactly, According to the 
+source, it only needs to survive
+
+209
+00:10:07,600 --> 00:10:10,560
+long enough for its enemies to 
+give up, to get tired, to run 
+
+210
+00:10:10,560 --> 00:10:13,400
+out of money or political will. 
+It buries their efforts in 
+
+211
+00:10:13,400 --> 00:10:15,400
+silence. 
+The profound cultural attrition.
+
+212
+00:10:15,400 --> 00:10:18,520
+Which is precisely why it gets 
+called the Graveyard of Empires.
+
+213
+00:10:19,400 --> 00:10:22,320
+That makes a lot of sense. 
+So we've established Afghanistan
+
+214
+00:10:22,320 --> 00:10:26,680
+as this, this master of cultural
+absorption and rejection, a 
+
+215
+00:10:26,680 --> 00:10:30,160
+living testament to endurance 
+against overwhelming external 
+
+216
+00:10:30,160 --> 00:10:32,360
+force. 
+Now here's where the article 
+
+217
+00:10:32,360 --> 00:10:34,640
+takes it's truly surprising 
+turn. 
+
+218
+00:10:34,640 --> 00:10:37,800
+It's central thesis. 
+Chris Abraham argues that 
+
+219
+00:10:38,080 --> 00:10:41,360
+America does the same thing, but
+to movements. 
+
+220
+00:10:42,160 --> 00:10:44,800
+And initially, that sounds 
+incredibly counterintuitive, 
+
+221
+00:10:44,800 --> 00:10:46,840
+doesn't it? 
+Yeah, it really does, America. 
+
+222
+00:10:46,840 --> 00:10:48,920
+Is just such a vastly different 
+entity. 
+
+223
+00:10:48,920 --> 00:10:53,880
+It's wealthy, it's modern, 
+powerful, a global leader, not a
+
+224
+00:10:53,880 --> 00:10:57,720
+poor tribal country being 
+invaded by armies over and over.
+
+225
+00:10:58,280 --> 00:11:01,080
+The conventional wisdom just 
+doesn't line up with this idea 
+
+226
+00:11:01,080 --> 00:11:03,400
+that America could also be a 
+kind of graveyard. 
+
+227
+00:11:03,400 --> 00:11:05,000
+Exactly. 
+We're used to thinking of 
+
+228
+00:11:05,000 --> 00:11:07,880
+America as a country that leads 
+change, that influences others, 
+
+229
+00:11:07,880 --> 00:11:10,320
+that undergoes its own dynamic 
+transformations through 
+
+230
+00:11:10,520 --> 00:11:12,720
+political action, social 
+progress, innovation. 
+
+231
+00:11:12,800 --> 00:11:15,520
+Right, the narrative is usually 
+one of progress, or at least 
+
+232
+00:11:15,640 --> 00:11:19,000
+constant flux. 
+But the author here, Abraham, he
+
+233
+00:11:19,000 --> 00:11:22,560
+redefines what counts as an 
+invader in the American context.
+
+234
+00:11:22,960 --> 00:11:25,040
+It's not tanks and soldiers 
+rolling down Main Street. 
+
+235
+00:11:25,320 --> 00:11:28,200
+Instead, it's movements. 
+Movements that arrive with a 
+
+236
+00:11:28,200 --> 00:11:31,560
+different kind of force. 
+Protests, slogans, laws and 
+
+237
+00:11:31,560 --> 00:11:35,800
+corporate campaigns, all driven 
+by this passionate mission to 
+
+238
+00:11:35,800 --> 00:11:39,800
+change the culture from within. 
+So like cultural armies, in a 
+
+239
+00:11:39,800 --> 00:11:43,440
+way, seeking to reshape the 
+American landscape of values and
+
+240
+00:11:43,440 --> 00:11:44,920
+norms. 
+Yeah, that's a good way to think
+
+241
+00:11:44,920 --> 00:11:47,160
+about it. 
+And what's really fascinating is
+
+242
+00:11:47,160 --> 00:11:50,680
+how America, according to the 
+source, responds to these 
+
+243
+00:11:50,680 --> 00:11:54,000
+internal movements. 
+The pattern, Abraham argues, is 
+
+244
+00:11:54,000 --> 00:11:57,200
+remarkably similar to how 
+Afghanistan interacts with 
+
+245
+00:11:57,200 --> 00:12:00,280
+foreign powers. 
+Oh, so when a powerful movement 
+
+246
+00:12:00,280 --> 00:12:03,800
+rises up, demands fundamental 
+change, asserts, you know, we 
+
+247
+00:12:03,800 --> 00:12:07,160
+are going to transform America. 
+America, like Afghanistan, 
+
+248
+00:12:07,400 --> 00:12:11,280
+simply plays along. 
+Plays along, it doesn't resist. 
+
+249
+00:12:11,440 --> 00:12:13,400
+Well, not necessarily head on, 
+not always. 
+
+250
+00:12:13,400 --> 00:12:16,800
+It appears to open the door 
+wide, almost welcoming the new 
+
+251
+00:12:16,800 --> 00:12:18,520
+ideology or at least 
+accommodating it. 
+
+252
+00:12:18,520 --> 00:12:20,680
+Very visibly. 
+The source describes this 
+
+253
+00:12:20,680 --> 00:12:24,400
+massive influx of resources that
+gets funneled towards supporting
+
+254
+00:12:24,400 --> 00:12:27,640
+these movements. 
+Companies may be eager to seem 
+
+255
+00:12:27,640 --> 00:12:31,360
+relevant or just avoid bad PR, 
+throw enormous amounts of money 
+
+256
+00:12:31,360 --> 00:12:33,920
+at them. 
+Sponsorships, donations, 
+
+257
+00:12:34,400 --> 00:12:36,560
+internal DEI programs, that sort
+of thing. 
+
+258
+00:12:36,760 --> 00:12:39,200
+Right, corporate alignment 
+becomes a big signal. 
+
+259
+00:12:39,320 --> 00:12:42,320
+Governments rewrite rules, pass 
+new legislation that seems to 
+
+260
+00:12:42,320 --> 00:12:45,840
+align with the movement's goals.
+Educational institutions from 
+
+261
+00:12:45,840 --> 00:12:49,760
+K12 up to universities create 
+new programs, new curricula 
+
+262
+00:12:49,920 --> 00:12:52,000
+designed to reflect the 
+movement's values. 
+
+263
+00:12:52,760 --> 00:12:55,080
+So visible institutional 
+changes. 
+
+264
+00:12:55,440 --> 00:12:58,440
+And citizens, maybe out of 
+genuine belief, maybe social 
+
+265
+00:12:58,440 --> 00:13:01,320
+pressure, maybe just wanting to 
+show they agree, they repeat the
+
+266
+00:13:01,320 --> 00:13:03,640
+slogans, adopt A new language, 
+participate in the public 
+
+267
+00:13:03,640 --> 00:13:05,240
+rituals associated with the 
+movement. 
+
+268
+00:13:05,320 --> 00:13:08,800
+It creates this overwhelming 
+sense on the surface of 
+
+269
+00:13:08,920 --> 00:13:11,520
+compliance even like 
+revolutionary transformation 
+
+270
+00:13:11,520 --> 00:13:13,680
+happening really fast. 
+It goes further than just 
+
+271
+00:13:13,680 --> 00:13:16,120
+compliance too. 
+There's an active reward system 
+
+272
+00:13:16,360 --> 00:13:18,720
+that gets built into this 
+absorption process. 
+
+273
+00:13:18,720 --> 00:13:22,320
+A reward system, Yeah. 
+People who vocally support the 
+
+274
+00:13:22,320 --> 00:13:25,880
+movement, who adopt its language
+and its principles, they often 
+
+275
+00:13:25,880 --> 00:13:29,640
+find themselves rewarded. 
+New jobs, promotions, social 
+
+276
+00:13:29,640 --> 00:13:32,760
+media praise, increased 
+influence awards. 
+
+277
+00:13:33,320 --> 00:13:35,080
+So there are incentives to get 
+on board. 
+
+278
+00:13:35,160 --> 00:13:38,160
+Exactly. 
+In this collective action, the 
+
+279
+00:13:38,320 --> 00:13:41,160
+pouring end of resources, the 
+validation, the rewards, it 
+
+280
+00:13:41,160 --> 00:13:44,280
+creates this powerful illusion 
+of complete and permanent 
+
+281
+00:13:44,280 --> 00:13:47,360
+transformation. 
+On the surface, it looks like 
+
+282
+00:13:47,360 --> 00:13:50,520
+America is completely getting in
+to the movement's demands, 
+
+283
+00:13:50,520 --> 00:13:53,480
+adopting its language, 
+implementing its policies with 
+
+284
+00:13:53,480 --> 00:13:56,120
+surprising speed. 
+OK, I see the playing a long 
+
+285
+00:13:56,120 --> 00:13:58,240
+part now. 
+It seems like total acceptance. 
+
+286
+00:13:58,240 --> 00:14:01,160
+But in here's the crucial 
+parallel, the absolute core 
+
+287
+00:14:01,160 --> 00:14:05,160
+inside of the article, just like
+Afghanistan's deep identity, 
+
+288
+00:14:05,160 --> 00:14:07,680
+remained hidden beneath the 
+surface compliance. 
+
+289
+00:14:08,240 --> 00:14:10,560
+The author argues that in 
+America, this is only on the 
+
+290
+00:14:10,560 --> 00:14:12,840
+surface. 
+Underneath it all, the percher 
+
+291
+00:14:12,840 --> 00:14:14,520
+waits. 
+It's for. 
+
+292
+00:14:14,560 --> 00:14:15,320
+What? 
+It just waits. 
+
+293
+00:14:15,360 --> 00:14:16,840
+It takes the money, it takes the
+changes. 
+
+294
+00:14:16,960 --> 00:14:19,680
+It incorporates them on a 
+superficial level, maybe even a 
+
+295
+00:14:19,680 --> 00:14:23,600
+performative level sometimes, 
+but it does not fully absorb 
+
+296
+00:14:23,600 --> 00:14:27,240
+them into its deep core. 
+It pretends to be transformed, 
+
+297
+00:14:27,360 --> 00:14:31,920
+while in some deeper, almost 
+subconscious societal way, it's 
+
+298
+00:14:31,920 --> 00:14:34,400
+secretly preparing to return to 
+what it was before. 
+
+299
+00:14:34,600 --> 00:14:38,160
+Like cultural mimicry looking 
+like the thing but not being the
+
+300
+00:14:38,160 --> 00:14:39,160
+thing. 
+Exactly. 
+
+301
+00:14:39,240 --> 00:14:41,280
+Ultimately preserving the status
+quo underneath. 
+
+302
+00:14:41,560 --> 00:14:43,400
+So what does this all mean for 
+us? 
+
+303
+00:14:43,440 --> 00:14:46,280
+You know, the listeners, as we 
+watch these big social shifts 
+
+304
+00:14:46,280 --> 00:14:50,160
+happen, the source is suggesting
+there's this deeply ingrained 
+
+305
+00:14:50,160 --> 00:14:54,800
+societal mechanism at play here.
+America isn't actively fighting 
+
+306
+00:14:54,800 --> 00:14:56,960
+these movements head on like in 
+a cultural war battle. 
+
+307
+00:14:56,960 --> 00:15:00,400
+Not fundamentally. 
+Instead, it's absorbing them in 
+
+308
+00:15:00,400 --> 00:15:02,120
+a way that ultimately 
+neutralizes them. 
+
+309
+00:15:02,120 --> 00:15:05,240
+It's like a kind of cultural 
+camouflage where the real 
+
+310
+00:15:05,240 --> 00:15:09,000
+identity, the underlying inertia
+of the system, stays hidden and 
+
+311
+00:15:09,000 --> 00:15:13,360
+resilient beneath this veneer of
+rapid but ultimately temporary 
+
+312
+00:15:13,400 --> 00:15:15,360
+change. 
+And the author doesn't just make
+
+313
+00:15:15,360 --> 00:15:16,800
+this claim in the abstract, 
+right? 
+
+314
+00:15:16,800 --> 00:15:19,640
+He backs set up with a pretty 
+extensive list of historical 
+
+315
+00:15:19,640 --> 00:15:21,920
+examples showing this consistent
+pattern. 
+
+316
+00:15:22,080 --> 00:15:25,240
+Big surge service compliance, 
+then rollback in action. 
+
+317
+00:15:25,440 --> 00:15:28,200
+Indeed, it's quite compelling 
+when you see them laid out. 
+
+318
+00:15:28,480 --> 00:15:31,160
+The source illustrates this 
+pattern across a really wide 
+
+319
+00:15:31,160 --> 00:15:34,200
+array of social and political 
+landscapes, suggesting this 
+
+320
+00:15:34,200 --> 00:15:37,280
+consistent, almost cyclical 
+rhythm in American history. 
+
+321
+00:15:37,840 --> 00:15:40,240
+It definitely challenges our 
+usual narratives of like, 
+
+322
+00:15:40,240 --> 00:15:43,400
+straightforward linear progress.
+OK, let's get into some of where
+
+323
+00:15:43,400 --> 00:15:45,800
+does the author start? 
+He goes back to the civil rights
+
+324
+00:15:45,800 --> 00:15:49,160
+movement of the 1960s, 
+obviously, undeniably big 
+
+325
+00:15:49,160 --> 00:15:51,960
+victories there. 
+Huge victory Landmark 
+
+326
+00:15:51,960 --> 00:15:57,120
+legislation Civil Rights Act 64 
+Voting Rights Act 65 Outlawed 
+
+327
+00:15:57,120 --> 00:16:00,920
+segregation, prohibited 
+discrimination, dismantled legal
+
+328
+00:16:00,920 --> 00:16:04,120
+barriers for black voters. 
+Right On the surface, it looked 
+
+329
+00:16:04,120 --> 00:16:07,120
+like a complete, permanent 
+transformation, A fundamental 
+
+330
+00:16:07,120 --> 00:16:10,920
+reshaping of American Society, 
+dismantling centuries of 
+
+331
+00:16:10,920 --> 00:16:13,840
+systemic oppression. 
+The energy, the protests, the 
+
+332
+00:16:13,840 --> 00:16:17,080
+legal battles, it all led to 
+what seemed like this undeniable
+
+333
+00:16:17,080 --> 00:16:19,280
+victory that had fundamentally 
+changed America. 
+
+334
+00:16:19,280 --> 00:16:21,920
+And for a time, those changes 
+were incredibly impactful. 
+
+335
+00:16:21,920 --> 00:16:25,080
+They brought about profound 
+shifts in opportunity in public 
+
+336
+00:16:25,080 --> 00:16:26,720
+life, no question. 
+Absolutely. 
+
+337
+00:16:26,720 --> 00:16:29,960
+However, the source points out 
+that decades later, we saw this 
+
+338
+00:16:29,960 --> 00:16:32,920
+quiet, kind of insidious 
+resegregation of schools 
+
+339
+00:16:32,920 --> 00:16:35,600
+happening across the nation. 
+Now, so not by law, right? 
+
+340
+00:16:35,840 --> 00:16:39,000
+No, not by overt law, more 
+through things like demographic 
+
+341
+00:16:39,000 --> 00:16:43,000
+shifts, housing patterns, the 
+subtle but powerful influence of
+
+342
+00:16:43,000 --> 00:16:46,000
+economic inequalities. 
+Neighborhoods, even though 
+
+343
+00:16:46,000 --> 00:16:49,360
+legally desegregated, largely 
+stayed divided along racial 
+
+344
+00:16:49,360 --> 00:16:52,160
+lines in many places. 
+The initial energy, the 
+
+345
+00:16:52,160 --> 00:16:55,720
+political will of the movement, 
+that relentless push for deep 
+
+346
+00:16:55,720 --> 00:16:59,040
+integration. 
+It faded over time and the old 
+
+347
+00:16:59,040 --> 00:17:02,680
+patterns, maybe in a more hidden
+de facto form, began to creep 
+
+348
+00:17:02,680 --> 00:17:04,960
+back. 
+It just shows how incredibly 
+
+349
+00:17:04,960 --> 00:17:07,680
+challenging it is to truly 
+overcome that deep seated 
+
+350
+00:17:07,680 --> 00:17:09,680
+cultural inertia. 
+OK, what's another example? 
+
+351
+00:17:09,839 --> 00:17:12,280
+Then there's affirmative action.
+Born out of that civil rights 
+
+352
+00:17:12,280 --> 00:17:14,280
+era. 
+It was implemented to actively 
+
+353
+00:17:14,280 --> 00:17:16,839
+give opportunities to millions 
+who'd been historically 
+
+354
+00:17:16,839 --> 00:17:18,640
+disadvantaged. 
+Right Opening doors in 
+
+355
+00:17:18,640 --> 00:17:21,200
+education, Jobs, government 
+contracts. 
+
+356
+00:17:21,400 --> 00:17:23,520
+A direct step to level the 
+playing field. 
+
+357
+00:17:23,520 --> 00:17:26,960
+It created real, tangible 
+pathways for advancement for 
+
+358
+00:17:26,960 --> 00:17:28,960
+marginalized communities for 
+decades. 
+
+359
+00:17:29,200 --> 00:17:31,800
+But overtime, we've seen its 
+gradual rollback. 
+
+360
+00:17:32,000 --> 00:17:33,280
+Yeah, that's been a long 
+process. 
+
+361
+00:17:33,280 --> 00:17:34,080
+Exactly. 
+Exactly. 
+
+362
+00:17:34,080 --> 00:17:37,800
+Not a sudden repeal, but this 
+protracted process. 
+
+363
+00:17:38,040 --> 00:17:41,640
+Decades of legal challenges 
+going way back to the Baker case
+
+364
+00:17:41,640 --> 00:17:45,240
+in the 70s limiting quotas up 
+through Grutter V Bollinger in 
+
+365
+00:17:45,240 --> 00:17:48,960
+the early 2000s, which upheld 
+race as just one factor. 
+
+366
+00:17:48,960 --> 00:17:50,880
+And public opinion shifted too 
+right. 
+
+367
+00:17:51,560 --> 00:17:53,680
+Lots of debate about reverse 
+discrimination. 
+
+368
+00:17:54,440 --> 00:17:57,640
+Influenced by political 
+narratives and then ultimately, 
+
+369
+00:17:57,640 --> 00:18:01,680
+just recently, the Supreme Court
+delivered what many see as the 
+
+370
+00:18:01,680 --> 00:18:05,560
+final broad blow, effectively 
+ending its application in higher
+
+371
+00:18:05,560 --> 00:18:08,880
+education admissions. 
+So those initial gains, while 
+
+372
+00:18:08,880 --> 00:18:11,120
+important, didn't embed 
+themselves permanently. 
+
+373
+00:18:11,240 --> 00:18:12,760
+That seems to be the author's 
+point. 
+
+374
+00:18:12,760 --> 00:18:16,640
+It's a textbook example of that 
+slow erosion he describes after 
+
+375
+00:18:16,640 --> 00:18:18,960
+the initial surge. 
+OK, what about voting rights? 
+
+376
+00:18:18,960 --> 00:18:21,880
+Also from the civil rights era? 
+Super critical. 
+
+377
+00:18:21,880 --> 00:18:25,480
+Right initially strong for a 
+time, ensuring unprecedented 
+
+378
+00:18:25,480 --> 00:18:27,920
+access to the ballot box, 
+especially in the South. 
+
+379
+00:18:28,080 --> 00:18:30,840
+Federal power was used to 
+protect those rights, but again,
+
+380
+00:18:30,840 --> 00:18:33,400
+the source notes, they were 
+weakened piece by piece over the
+
+381
+00:18:33,400 --> 00:18:34,520
+years. 
+How'd it happen? 
+
+382
+00:18:34,760 --> 00:18:37,600
+Through various means, 
+legislative changes. 
+
+383
+00:18:37,600 --> 00:18:41,920
+Certainly a key moment was the 
+Supreme Court decision in 2013, 
+
+384
+00:18:41,920 --> 00:18:45,640
+Shelby County V Holder, which 
+gutted a core provision of the 
+
+385
+00:18:45,640 --> 00:18:48,040
+Voting Rights Act. 
+The pre clearance requirement. 
+
+386
+00:18:48,040 --> 00:18:50,360
+Exactly. 
+That eliminated the need for 
+
+387
+00:18:50,360 --> 00:18:53,240
+certain states with a history of
+discrimination to get federal 
+
+388
+00:18:53,240 --> 00:18:55,400
+approval before changing 
+election laws. 
+
+389
+00:18:55,840 --> 00:18:59,160
+And that opened the door for a 
+wave of new state level 
+
+390
+00:18:59,160 --> 00:19:02,080
+restrictions. 
+Like strict voter ID laws, voter
+
+391
+00:19:02,080 --> 00:19:04,040
+roll purges limiting early 
+voting. 
+
+392
+00:19:04,040 --> 00:19:06,840
+All that stuff leading to new 
+obstacles that have in some 
+
+393
+00:19:06,840 --> 00:19:08,480
+places made voting more 
+difficult. 
+
+394
+00:19:08,480 --> 00:19:11,520
+Again, it just demonstrates how 
+even fundamental rights can be 
+
+395
+00:19:11,520 --> 00:19:14,760
+eroded if the vigilance, the 
+energy of the movement that 
+
+396
+00:19:14,760 --> 00:19:18,280
+secured them, starts to wane. 
+OK, moving to more contemporary 
+
+397
+00:19:18,280 --> 00:19:21,160
+examples, Remember Occupy Wall 
+Street back in 2011? 
+
+398
+00:19:21,160 --> 00:19:23,240
+Oh. 
+Yeah, burst onto the scene, 
+
+399
+00:19:23,280 --> 00:19:26,320
+filled cities with protests 
+against economic inequality. 
+
+400
+00:19:26,320 --> 00:19:29,120
+The whole 99% versus the 1% 
+thing, right? 
+
+401
+00:19:29,160 --> 00:19:31,720
+It really put wealth to 
+disparity on the map, ignited a 
+
+402
+00:19:31,720 --> 00:19:34,320
+national conversation. 
+It had immense public 
+
+403
+00:19:34,320 --> 00:19:37,200
+visibility, seemed poised to 
+reshape the whole economic 
+
+404
+00:19:37,200 --> 00:19:39,960
+discourse, introduced new 
+language shark critiques of 
+
+405
+00:19:39,960 --> 00:19:42,600
+corporate power. 
+Then, as the source states, it 
+
+406
+00:19:42,600 --> 00:19:45,440
+vanished almost overnight. 
+The camps dispersed. 
+
+407
+00:19:45,440 --> 00:19:47,560
+The immediate media frenzy died 
+down. 
+
+408
+00:19:47,560 --> 00:19:50,920
+The energy just dissipated. 
+Did it have any lasting impact? 
+
+409
+00:19:51,160 --> 00:19:54,040
+Well, some of its language 
+definitely entered the lexicon 
+
+410
+00:19:54,400 --> 00:19:57,000
+and it arguably influenced 
+subsequent movements. 
+
+411
+00:19:57,080 --> 00:20:00,560
+But the systemic economic 
+changes it was demanding, they 
+
+412
+00:20:00,560 --> 00:20:03,760
+largely didn't materialize. 
+The direct pressure points were 
+
+413
+00:20:03,760 --> 00:20:07,840
+released and the system kind of 
+snapped back to its equilibrium.
+
+414
+00:20:07,840 --> 00:20:09,480
+OK. 
+And Black Lives Matter, 
+
+415
+00:20:09,720 --> 00:20:13,480
+undeniably powerful, brought 
+global attention to racial 
+
+416
+00:20:13,480 --> 00:20:18,000
+injustice, police brutality. 
+Huge, massive protests in 2014. 
+
+417
+00:20:18,200 --> 00:20:21,000
+Then again, even bigger, in 
+2020, after George Floyd's 
+
+418
+00:20:21,000 --> 00:20:24,800
+murder, widespread public 
+support, a real re evaluation of
+
+419
+00:20:24,800 --> 00:20:28,320
+law enforcement, cinemic racism.
+Corporations issued statements. 
+
+420
+00:20:28,320 --> 00:20:30,800
+Streets were painted. 
+The public discourse shifted 
+
+421
+00:20:30,800 --> 00:20:31,840
+dramatically. 
+For sure. 
+
+422
+00:20:31,840 --> 00:20:35,640
+Yet years later, Despite that 
+unprecedented surge of activism,
+
+423
+00:20:35,640 --> 00:20:38,800
+despite the widespread public 
+support at its peak, the source 
+
+424
+00:20:38,800 --> 00:20:41,280
+argues that the systems it 
+fought against remain. 
+
+425
+00:20:41,480 --> 00:20:44,320
+Meaning while there have been 
+some police reforms in certain 
+
+426
+00:20:44,320 --> 00:20:47,360
+cities or States, and definitely
+a heightened public awareness, 
+
+427
+00:20:47,680 --> 00:20:51,680
+the fundamental structures the 
+move aim to dismantle haven't 
+
+428
+00:20:51,680 --> 00:20:53,800
+seen the wholesale 
+transformation many had hoped 
+
+429
+00:20:53,800 --> 00:20:55,920
+for. 
+That initial public and 
+
+430
+00:20:55,920 --> 00:20:59,200
+corporate enthusiasm has in many
+cases cooled off. 
+
+431
+00:20:59,720 --> 00:21:03,400
+The deeper systemic changes 
+proved far more resistant once 
+
+432
+00:21:03,400 --> 00:21:05,160
+the initial surge of energy 
+passed. 
+
+433
+00:21:05,280 --> 00:21:08,520
+The pattern seems to continue 
+with even more recent, almost 
+
+434
+00:21:08,520 --> 00:21:11,280
+current examples. 
+This really brings the author's 
+
+435
+00:21:11,280 --> 00:21:15,760
+argument into sharp focus. 
+Like DEI programs, diversity, 
+
+436
+00:21:15,760 --> 00:21:17,040
+equity and inclusion. 
+Right. 
+
+437
+00:21:17,040 --> 00:21:19,480
+They became mandatory almost 
+everywhere it seemed, across 
+
+438
+00:21:19,480 --> 00:21:21,880
+corporations, universities, 
+government agencies. 
+
+439
+00:21:22,200 --> 00:21:24,840
+Happened remarkably quickly, 
+especially post 2020. 
+
+440
+00:21:24,840 --> 00:21:27,960
+Looks like a permanent fixture, 
+you know, institutionalizing 
+
+441
+00:21:27,960 --> 00:21:31,440
+these critical social values. 
+But the source highlights that 
+
+442
+00:21:31,440 --> 00:21:34,480
+they are now being dismantled 
+quietly in many sectors. 
+
+443
+00:21:34,480 --> 00:21:36,160
+Really. 
+We're seeing legislative 
+
+444
+00:21:36,160 --> 00:21:40,120
+pushback in several states, 
+limiting or outright banning DEI
+
+445
+00:21:40,120 --> 00:21:42,480
+initiatives in public 
+universities and government 
+
+446
+00:21:42,480 --> 00:21:45,160
+jobs. 
+Cororations are quietly scaling 
+
+447
+00:21:45,160 --> 00:21:47,680
+back commitments, maybe 
+restructuring departments, 
+
+448
+00:21:47,680 --> 00:21:50,880
+renaming programs often driven 
+by shifts in the economic 
+
+449
+00:21:50,880 --> 00:21:54,000
+climate, or just wanting to 
+avoid political backlash. 
+
+450
+00:21:54,640 --> 00:21:59,160
+So that widespread rapid embrace
+was maybe more surface level 
+
+451
+00:21:59,160 --> 00:22:01,000
+compliance. 
+That's the implication. 
+
+452
+00:22:01,000 --> 00:22:03,920
+It's being peeled back, showing 
+that swift adoption doesn't 
+
+453
+00:22:03,920 --> 00:22:05,760
+always mean deep 
+institutionalization. 
+
+454
+00:22:06,040 --> 00:22:09,000
+It fits the pattern. 
+OK, woke activism is another 
+
+455
+00:22:09,000 --> 00:22:11,960
+term the author uses. 
+Yeah, arguing it certainly 
+
+456
+00:22:12,200 --> 00:22:14,160
+reshaped media and education for
+a moment. 
+
+457
+00:22:14,400 --> 00:22:16,480
+Influence content creation, 
+curricula. 
+
+458
+00:22:16,720 --> 00:22:20,520
+Public discourse at a really 
+rapid pace led to quick changes 
+
+459
+00:22:20,520 --> 00:22:23,160
+in what was seen as culturally 
+acceptable or progressive, 
+
+460
+00:22:23,360 --> 00:22:26,240
+particularly around identity 
+issues, historical narratives. 
+
+461
+00:22:26,280 --> 00:22:28,480
+Always a but. 
+But as the article notes, it's 
+
+462
+00:22:28,480 --> 00:22:31,840
+now meeting huge backlash. 
+Significant countermovements 
+
+463
+00:22:31,840 --> 00:22:34,400
+have mobilized. 
+There's a fierce cultural and 
+
+464
+00:22:34,400 --> 00:22:37,120
+political pushback challenging 
+its core tenets, leading to 
+
+465
+00:22:37,120 --> 00:22:39,320
+reversals or at least a 
+tempering of many of its 
+
+466
+00:22:39,320 --> 00:22:42,160
+cultural impacts. 
+Suggesting the initial reshaping
+
+467
+00:22:42,160 --> 00:22:45,000
+wasn't fully absorbed or 
+accepted by the broader culture.
+
+468
+00:22:45,040 --> 00:22:48,720
+Exactly, suggesting a deep 
+powerful resistance was maybe 
+
+469
+00:22:48,720 --> 00:22:51,680
+just waiting for the right 
+moment to assert itself again. 
+
+470
+00:22:51,960 --> 00:22:55,600
+Trans rights campaigns. 
+They made massive cultural waves
+
+471
+00:22:55,600 --> 00:22:59,440
+over the past decade, right? 
+Unprecedented visibility pushing
+
+472
+00:22:59,440 --> 00:23:03,200
+for significant legal social 
+changes around gender identity. 
+
+473
+00:23:03,200 --> 00:23:05,040
+Absolutely. 
+It felt like a really rapid 
+
+474
+00:23:05,040 --> 00:23:08,280
+acceleration of acceptance 
+policy, changes in sports, 
+
+475
+00:23:08,280 --> 00:23:11,840
+healthcare, legal recognition. 
+But then the reversal. 
+
+476
+00:23:12,080 --> 00:23:15,600
+But then, as the source points 
+out, laws and policies are being
+
+477
+00:23:15,600 --> 00:23:19,560
+reversed across states at an 
+equally rapid pace, it seems. 
+
+478
+00:23:19,720 --> 00:23:22,560
+So that initial surge met a 
+powerful rollback. 
+
+479
+00:23:22,560 --> 00:23:25,840
+Yeah, through legislative bans 
+on gender affirming care for 
+
+480
+00:23:25,840 --> 00:23:29,040
+minors, restrictions on bathroom
+access, limitations on 
+
+481
+00:23:29,120 --> 00:23:32,600
+participation in sports. 
+This stark reversal suggests 
+
+482
+00:23:32,600 --> 00:23:35,920
+that even these profound 
+cultural shifts, while seeming 
+
+483
+00:23:35,920 --> 00:23:39,240
+to gain huge ground quickly, 
+weren't permanently embedding 
+
+484
+00:23:39,240 --> 00:23:40,760
+themselves the way it first 
+appeared. 
+
+485
+00:23:41,400 --> 00:23:43,960
+They ran up against a powerful 
+countercurrent of existing 
+
+486
+00:23:43,960 --> 00:23:45,880
+cultural norms. 
+Even something is like 
+
+487
+00:23:45,880 --> 00:23:48,600
+universally impacting as the 
+COVID lockdowns. 
+
+488
+00:23:48,800 --> 00:23:52,560
+Right Forced, absolutely 
+sweeping behavior changes. 
+
+489
+00:23:52,560 --> 00:23:55,840
+Almost unimaginable adaptations 
+in how we worked, schooled, our 
+
+490
+00:23:55,840 --> 00:23:59,800
+kids, socialized public health 
+mandates, masks, distancing, 
+
+491
+00:24:00,040 --> 00:24:02,520
+vaccine pushes. 
+It was an unprecedented, almost 
+
+492
+00:24:02,600 --> 00:24:06,800
+overnight shift in societal 
+norms, a real top down 
+
+493
+00:24:06,800 --> 00:24:10,000
+imposition of change. 
+And yet, within two years, 
+
+494
+00:24:10,000 --> 00:24:12,960
+America rejected them outright, 
+argues the author. 
+
+495
+00:24:13,160 --> 00:24:15,960
+The willingness to comply with 
+restrictions just faded 
+
+496
+00:24:15,960 --> 00:24:17,760
+dramatically. 
+Yeah, you saw mask mandates 
+
+497
+00:24:17,760 --> 00:24:20,120
+dropped. 
+Vaccine skepticism grew. 
+
+498
+00:24:20,200 --> 00:24:23,520
+A widespread, almost defiant 
+return to pre pandemic 
+
+499
+00:24:23,520 --> 00:24:26,680
+behaviors, A rejection of 
+perceived government overreach. 
+
+500
+00:24:26,960 --> 00:24:31,040
+It demonstrated this remarkable 
+societal snapback from intense 
+
+501
+00:24:31,040 --> 00:24:34,680
+force changes, almost like the 
+collective body just expelled 
+
+502
+00:24:34,680 --> 00:24:37,440
+something alien to its nature. 
+Climate change initiatives too. 
+
+503
+00:24:37,680 --> 00:24:39,000
+Author says they consistently 
+serve. 
+
+504
+00:24:40,000 --> 00:24:42,640
+Yeah, We see these periods of 
+intense focus, new policies 
+
+505
+00:24:42,640 --> 00:24:45,680
+proposed like the Green New Deal
+concept, public engagement 
+
+506
+00:24:45,680 --> 00:24:48,640
+around environmental action, 
+joining agreements like Paris. 
+
+507
+00:24:48,840 --> 00:24:50,960
+But then these efforts often 
+lose momentum. 
+
+508
+00:24:50,960 --> 00:24:53,640
+They face political opposition, 
+industry pushback. 
+
+509
+00:24:53,920 --> 00:24:56,760
+Economic concerns take 
+precedence, and they struggle to
+
+510
+00:24:56,760 --> 00:24:59,640
+achieve that lasting systemic 
+change needed. 
+
+511
+00:24:59,960 --> 00:25:01,720
+It results in this cyclical 
+pattern. 
+
+512
+00:25:01,960 --> 00:25:06,280
+Progress, then stagnation. 
+The deep inertia of fossil fuel 
+
+513
+00:25:06,280 --> 00:25:10,320
+economies and establish energy 
+systems proves incredibly hard 
+
+514
+00:25:10,320 --> 00:25:13,360
+to overcome in a sustained way. 
+And even right now, the author 
+
+515
+00:25:13,360 --> 00:25:17,560
+points to free Palestine Rallies
+dominate headlines capturing 
+
+516
+00:25:17,560 --> 00:25:21,080
+significant public attention, 
+debate influencing political 
+
+517
+00:25:21,080 --> 00:25:24,400
+discourse, massive 
+demonstrations, intense media 
+
+518
+00:25:24,400 --> 00:25:26,480
+coverage, calls for policy 
+shifts. 
+
+519
+00:25:26,600 --> 00:25:29,400
+But the author suggests, right 
+in line with this consistent 
+
+520
+00:25:29,400 --> 00:25:32,280
+pattern he's been outlining, 
+that they too will fade. 
+
+521
+00:25:32,360 --> 00:25:35,200
+Meaning the impact won't last. 
+Meaning, the intensity of public
+
+522
+00:25:35,200 --> 00:25:37,840
+focus, the widespread 
+demonstrations, the immediate 
+
+523
+00:25:37,840 --> 00:25:40,720
+political pressure often 
+dissipate overtime without 
+
+524
+00:25:40,720 --> 00:25:43,600
+necessarily leading to the 
+fundamental shifts in, say, 
+
+525
+00:25:43,600 --> 00:25:45,320
+foreign policy that the movement
+seek. 
+
+526
+00:25:45,760 --> 00:25:48,640
+The core of decision making in 
+this analysis is just far more 
+
+527
+00:25:48,640 --> 00:25:51,120
+resistant to a temporary surge 
+in public opinion. 
+
+528
+00:25:51,320 --> 00:25:53,520
+OK, wow. 
+So here's where it gets really 
+
+529
+00:25:53,520 --> 00:25:54,880
+interesting for you, the 
+listener. 
+
+530
+00:25:55,120 --> 00:25:57,360
+This isn't just about one 
+movement or one issue. 
+
+531
+00:25:57,360 --> 00:26:00,480
+No, the scope is broad. 
+The source is laying out this 
+
+532
+00:26:00,480 --> 00:26:05,640
+repeating historical rhythm 
+across really diverse social and
+
+533
+00:26:05,640 --> 00:26:08,640
+political landscapes. 
+It forces you to look beyond the
+
+534
+00:26:08,640 --> 00:26:11,720
+daily headlines, beyond the 
+immediate reactions, and 
+
+535
+00:26:11,720 --> 00:26:15,680
+consider the long game, the deep
+currents beneath the surface, 
+
+536
+00:26:16,160 --> 00:26:20,600
+the consistency of this pattern,
+big surge, surface compliance, 
+
+537
+00:26:20,600 --> 00:26:23,480
+and then rollback across so many
+different kinds of issues. 
+
+538
+00:26:23,720 --> 00:26:27,720
+That's what makes the author's 
+argument so, well, compelling. 
+
+539
+00:26:27,920 --> 00:26:30,720
+Or at least provocative. 
+Yeah, it paints this picture of 
+
+540
+00:26:30,720 --> 00:26:35,200
+America not as this perpetually 
+evolving entity always moving 
+
+541
+00:26:35,200 --> 00:26:39,040
+forward, but as one with an 
+incredibly stubborn core, deeply
+
+542
+00:26:39,040 --> 00:26:43,240
+resistant to fundamental change.
+OK, so this pattern, the surges,
+
+543
+00:26:43,240 --> 00:26:45,960
+the surface compliance, the 
+rollbacks, it isn't just random 
+
+544
+00:26:45,960 --> 00:26:48,000
+according to the author. 
+He attributes it to these really
+
+545
+00:26:48,000 --> 00:26:50,160
+fundamental forces operating at 
+a societal level. 
+
+546
+00:26:50,640 --> 00:26:52,960
+So let's shift to the why. 
+What are the underlying, almost 
+
+547
+00:26:52,960 --> 00:26:55,440
+inescapable forces the author 
+says are at play here? 
+
+548
+00:26:55,720 --> 00:27:00,320
+Right, he boils it down to two 
+key concepts drawn from physics 
+
+549
+00:27:00,320 --> 00:27:03,800
+but applied to society. 
+Inertia and entropy. 
+
+550
+00:27:03,800 --> 00:27:06,920
+Inertia and entropy. 
+Understanding these, even just 
+
+551
+00:27:06,920 --> 00:27:11,080
+the basic idea, provides a kind 
+of foundational explanation for 
+
+552
+00:27:11,080 --> 00:27:12,920
+why this pattern might keep 
+repeating. 
+
+553
+00:27:13,360 --> 00:27:17,080
+It makes it feel less like a 
+series of coincidences and more 
+
+554
+00:27:17,080 --> 00:27:19,640
+like maybe a law of social 
+interaction. 
+
+555
+00:27:19,640 --> 00:27:21,080
+All. 
+Right, let's start with inertia.
+
+556
+00:27:21,320 --> 00:27:22,880
+In physics. 
+It's pretty simple, right? 
+
+557
+00:27:23,040 --> 00:27:26,800
+A body at rest stays at rest 
+unless a big force moves it. 
+
+558
+00:27:26,800 --> 00:27:29,760
+Exactly. 
+And a body in motion stays in 
+
+559
+00:27:29,760 --> 00:27:31,440
+motion unless something stops 
+it. 
+
+560
+00:27:31,680 --> 00:27:34,840
+It's that inherent tendency for 
+things to resist changes in 
+
+561
+00:27:34,840 --> 00:27:36,920
+their state. 
+Think about pushing a really 
+
+562
+00:27:36,920 --> 00:27:38,760
+heavy boulder. 
+Takes a lot of effort just to 
+
+563
+00:27:38,760 --> 00:27:39,600
+get it moving. 
+Right. 
+
+564
+00:27:39,600 --> 00:27:41,560
+And once it's moving, it wants 
+to keep going. 
+
+565
+00:27:41,560 --> 00:27:43,560
+And conversely, it takes effort 
+to stop it. 
+
+566
+00:27:43,560 --> 00:27:46,000
+It resists change. 
+So how does that apply 
+
+567
+00:27:46,000 --> 00:27:48,080
+culturally? 
+Well, the cultural application 
+
+568
+00:27:48,080 --> 00:27:50,360
+is critical here. 
+Cultures, the author argues, 
+
+569
+00:27:50,360 --> 00:27:54,040
+work basically the same way. 
+They inherently resist change 
+
+570
+00:27:54,040 --> 00:27:57,120
+unless an enormous continuous 
+effort pushes them. 
+
+571
+00:27:57,120 --> 00:27:58,880
+So society is like that heavy 
+rock. 
+
+572
+00:27:59,040 --> 00:28:02,560
+Kind of a society with all its 
+established norms, its 
+
+573
+00:28:02,560 --> 00:28:05,720
+traditions, its institutions, 
+its power structures, its 
+
+574
+00:28:05,720 --> 00:28:09,080
+ingrained beliefs. 
+It has immense inertia. 
+
+575
+00:28:09,520 --> 00:28:12,440
+Even when it seems to be moved, 
+when it outwardly adopts new 
+
+576
+00:28:12,440 --> 00:28:16,680
+ideas or behaviors, there's this
+deep underlying tendency for it 
+
+577
+00:28:16,720 --> 00:28:20,920
+to want to return to where it 
+started once that external 
+
+578
+00:28:20,920 --> 00:28:23,640
+force, that push from the 
+movement diminishes. 
+
+579
+00:28:23,760 --> 00:28:26,560
+Like a powerful gravitational 
+pull back to the status quo, 
+
+580
+00:28:26,560 --> 00:28:28,920
+back to what feels familiar and 
+established. 
+
+581
+00:28:28,920 --> 00:28:30,920
+Exactly. 
+Back to its resting state, you 
+
+582
+00:28:30,920 --> 00:28:32,080
+can see. 
+OK, so that's inertia. 
+
+583
+00:28:32,080 --> 00:28:34,800
+What about entropy? 
+Entropy in physics is often 
+
+584
+00:28:34,800 --> 00:28:37,760
+described as the tendency 
+towards disorder, the slow 
+
+585
+00:28:37,760 --> 00:28:41,800
+breakdown of things over time. 
+Order turns into disorder unless
+
+586
+00:28:41,800 --> 00:28:44,920
+energy is constantly added to 
+maintain the order. 
+
+587
+00:28:44,960 --> 00:28:47,360
+Like a tidy room getting messy 
+if you don't keep cleaning it. 
+
+588
+00:28:47,440 --> 00:28:49,920
+Perfect analogy. 
+Or think of a sandcastle on the 
+
+589
+00:28:49,920 --> 00:28:51,560
+beach. 
+You build this ordered 
+
+590
+00:28:51,560 --> 00:28:54,200
+structure, but the wind and the 
+waves, the natural forces, will 
+
+591
+00:28:54,200 --> 00:28:56,880
+inevitably erode it, turn it 
+back into disordered sand, 
+
+592
+00:28:57,160 --> 00:28:59,840
+unless you are constantly 
+putting in energy to rebuild and
+
+593
+00:28:59,840 --> 00:29:02,000
+maintain it. 
+OK, so how does that apply to 
+
+594
+00:29:02,000 --> 00:29:04,960
+culture and movements? 
+Applied to culture, entropy 
+
+595
+00:29:04,960 --> 00:29:09,280
+means that new systems, new 
+rules, and new habits decay if 
+
+596
+00:29:09,280 --> 00:29:10,760
+they are not actively 
+maintained. 
+
+597
+00:29:11,200 --> 00:29:14,400
+When a movement achieves a win, 
+a new law is passed, a new 
+
+598
+00:29:14,400 --> 00:29:17,120
+program is created. 
+Public consciousness shifts in a
+
+599
+00:29:17,120 --> 00:29:19,680
+specific way. 
+That win is an ordered state. 
+
+600
+00:29:19,680 --> 00:29:21,400
+It's a departure from the 
+previous state. 
+
+601
+00:29:21,480 --> 00:29:23,080
+Right, it required energy to 
+create it. 
+
+602
+00:29:23,080 --> 00:29:26,000
+Precisely. 
+But the moment the consistent 
+
+603
+00:29:26,000 --> 00:29:29,240
+energy of a movement fades when 
+the activists go home, the 
+
+604
+00:29:29,240 --> 00:29:32,200
+funding dries up, the media 
+moves on to the next thing. 
+
+605
+00:29:32,400 --> 00:29:36,960
+Entropy, that natural force of 
+disorder and decay, begins to 
+
+606
+00:29:36,960 --> 00:29:39,280
+erase its gains. 
+The same castle starts 
+
+607
+00:29:39,280 --> 00:29:40,640
+crumbling. 
+Exactly. 
+
+608
+00:29:40,720 --> 00:29:43,760
+The changes are simply not 
+self-sustaining without constant
+
+609
+00:29:43,760 --> 00:29:46,320
+upkeep. 
+They require continuous energy 
+
+610
+00:29:46,320 --> 00:29:49,120
+input to resist that natural 
+tendency to decay back to the 
+
+611
+00:29:49,120 --> 00:29:51,680
+previous state or just into 
+general disarray. 
+
+612
+00:29:52,000 --> 00:29:54,960
+And the author argues these two 
+forces, inertia and entropy, 
+
+613
+00:29:55,280 --> 00:29:58,440
+they don't just act separately. 
+No, they work in tandem, 
+
+614
+00:29:58,680 --> 00:30:01,800
+creating this really formidable 
+barrier to lasting change. 
+
+615
+00:30:02,240 --> 00:30:06,640
+Inertia keeps the core of 
+society, its deep seated values,
+
+616
+00:30:06,640 --> 00:30:09,720
+its traditional structures. 
+It's established power dynamics 
+
+617
+00:30:09,960 --> 00:30:14,120
+largely the same, profoundly 
+resistant to fundamental shifts 
+
+618
+00:30:14,400 --> 00:30:17,160
+like the heavy boulder. 
+While entropy is constantly 
+
+619
+00:30:17,160 --> 00:30:19,880
+working to wear down anything 
+new that is built on top of that
+
+620
+00:30:19,880 --> 00:30:21,040
+core. 
+Precisely. 
+
+621
+00:30:21,120 --> 00:30:24,480
+It's systematically eroding the 
+new structures, the new norms, 
+
+622
+00:30:24,480 --> 00:30:27,480
+the new laws. 
+So no matter how strong the 
+
+623
+00:30:27,480 --> 00:30:30,440
+initial push from a movement, no
+matter how much energy it 
+
+624
+00:30:30,440 --> 00:30:34,880
+generates in that surge, once 
+that energy runs out, once the 
+
+625
+00:30:34,880 --> 00:30:36,760
+constant effort isn't applied 
+anymore. 
+
+626
+00:30:36,760 --> 00:30:39,920
+Inertia pulls it back and 
+entropy wears it down. 
+
+627
+00:30:39,960 --> 00:30:42,200
+Right. 
+These two fundamental forces 
+
+628
+00:30:42,200 --> 00:30:45,400
+ensure that everything snaps 
+back to its old state, or close 
+
+629
+00:30:45,400 --> 00:30:47,600
+to it. 
+The societal system just seeks 
+
+630
+00:30:47,600 --> 00:30:51,320
+its lowest energy configuration,
+which is usually its prior, more
+
+631
+00:30:51,320 --> 00:30:53,080
+comfortable, more established 
+state. 
+
+632
+00:30:53,200 --> 00:30:55,200
+So if we connect this to the 
+bigger picture for you, the 
+
+633
+00:30:55,200 --> 00:30:57,760
+learner, the author isn't just 
+throwing around abstract 
+
+634
+00:30:57,760 --> 00:31:00,080
+scientific terms here. 
+No, the argument is that these 
+
+635
+00:31:00,080 --> 00:31:04,240
+are fundamental laws governing 
+how societies change, or rather,
+
+636
+00:31:04,360 --> 00:31:08,480
+how they don't change in a truly
+lasting way without constant, 
+
+637
+00:31:08,560 --> 00:31:11,480
+immense, and frankly exhausting 
+effort. 
+
+638
+00:31:11,600 --> 00:31:15,160
+It suggests a really profound 
+challenge for any movement 
+
+639
+00:31:15,320 --> 00:31:17,600
+that's aiming for deep, 
+permanent societal 
+
+640
+00:31:17,600 --> 00:31:20,080
+transformation. 
+Makes the whole prospect seem 
+
+641
+00:31:20,080 --> 00:31:22,040
+much more daunting than we might
+usually think. 
+
+642
+00:31:22,080 --> 00:31:24,320
+Definitely changes the 
+perspective on activism and 
+
+643
+00:31:24,320 --> 00:31:26,880
+progress. 
+So if inertia and entropy are 
+
+644
+00:31:26,880 --> 00:31:30,360
+the why the fundamental forces 
+driving this pattern, let's talk
+
+645
+00:31:30,360 --> 00:31:33,040
+more about the how. 
+How does America actually do 
+
+646
+00:31:33,040 --> 00:31:34,640
+this? 
+Absorbing and neutralizing? 
+
+647
+00:31:35,280 --> 00:31:37,520
+The author brings back the 
+Afghanistan analogy here. 
+
+648
+00:31:37,840 --> 00:31:40,320
+Afghanistan as the master of 
+patients. 
+
+649
+00:31:40,520 --> 00:31:42,720
+Right, playing along with the 
+invaders, taking their 
+
+650
+00:31:42,720 --> 00:31:45,280
+resources, just waiting for them
+to get tired and leave. 
+
+651
+00:31:45,440 --> 00:31:49,080
+In America, the article argues, 
+employs a strikingly similar, 
+
+652
+00:31:49,080 --> 00:31:52,280
+maybe more passive but similar 
+waiting game with movements. 
+
+653
+00:31:52,440 --> 00:31:55,160
+Yes, and this is where the 
+argument gets particularly 
+
+654
+00:31:55,160 --> 00:31:57,040
+sharp, maybe even a bit 
+unsettling. 
+
+655
+00:31:57,640 --> 00:32:01,280
+When a movement invades the 
+culture with its demands, its 
+
+656
+00:32:01,280 --> 00:32:05,480
+protests, its push for new 
+policies, America's response, 
+
+657
+00:32:05,480 --> 00:32:08,680
+according to the source, isn't 
+usually to directly fight it 
+
+658
+00:32:08,680 --> 00:32:11,680
+head on with full force. 
+So what does it do instead? 
+
+659
+00:32:11,720 --> 00:32:16,200
+Instead, the claim is America 
+gives it everything it asks for,
+
+660
+00:32:16,520 --> 00:32:18,640
+at least on the surface. 
+Everything like what? 
+
+661
+00:32:18,760 --> 00:32:22,440
+It throws vast sums of money at 
+the cause or things associated 
+
+662
+00:32:22,440 --> 00:32:25,240
+with it. 
+It lavishes media attention. 
+
+663
+00:32:25,480 --> 00:32:28,400
+It provides official approval, 
+sometimes right from the top. 
+
+664
+00:32:28,720 --> 00:32:31,680
+It even gives out easy wins. 
+Easy wins, like quick 
+
+665
+00:32:31,680 --> 00:32:35,360
+legislative changes or companies
+adopting slogans really fast. 
+
+666
+00:32:35,360 --> 00:32:37,200
+Exactly. 
+Rapid corporate adoption of the 
+
+667
+00:32:37,200 --> 00:32:39,400
+language. 
+Visible public endorsements? 
+
+668
+00:32:39,680 --> 00:32:42,520
+Maybe some policy tweaks that 
+seem like big victories but 
+
+669
+00:32:42,520 --> 00:32:44,680
+don't fundamentally alter the 
+core structures. 
+
+670
+00:32:44,760 --> 00:32:47,400
+That's truly fascinating. 
+It's almost like the system is 
+
+671
+00:32:47,400 --> 00:32:50,400
+designed to make the reformers 
+believe they're winning, maybe 
+
+672
+00:32:50,400 --> 00:32:52,560
+even achieving total victory 
+really quickly. 
+
+673
+00:32:52,680 --> 00:32:56,000
+That's one interpretation. 
+The movement pushes hard, 
+
+674
+00:32:56,040 --> 00:32:59,880
+demanding radical change, and 
+the system appears to capitulate
+
+675
+00:32:59,880 --> 00:33:03,800
+quickly, adopting new policies, 
+programs, language with 
+
+676
+00:33:03,800 --> 00:33:06,360
+surprising speed, apparent 
+eagerness. 
+
+677
+00:33:06,640 --> 00:33:09,160
+And that can generate immense 
+excitement within the movement, 
+
+678
+00:33:09,200 --> 00:33:11,560
+a belief that victory is just 
+around the corner. 
+
+679
+00:33:11,680 --> 00:33:15,320
+But this strategy, the author 
+argues, surprisingly drains the 
+
+680
+00:33:15,320 --> 00:33:17,520
+movement faster. 
+How does that work? 
+
+681
+00:33:17,560 --> 00:33:19,040
+Well, think about the 
+psychology. 
+
+682
+00:33:19,360 --> 00:33:22,480
+If a movement gets these quick, 
+surface level victories, it can 
+
+683
+00:33:22,480 --> 00:33:25,800
+lead to a sense of premature 
+success, a feeling that the 
+
+684
+00:33:25,800 --> 00:33:29,160
+hardest work is already done. 
+People might relax, the urgency 
+
+685
+00:33:29,160 --> 00:33:32,080
+might fade. 
+Or conversely, it might spur the
+
+686
+00:33:32,080 --> 00:33:35,280
+movement to push even harder for
+even more fundamental change, 
+
+687
+00:33:35,280 --> 00:33:37,760
+believing the system is finally 
+weak or pliable. 
+
+688
+00:33:38,080 --> 00:33:41,200
+But this constant high energy 
+expenditure, this cycle of 
+
+689
+00:33:41,200 --> 00:33:44,800
+intense celebration followed by 
+renewed, even more demanding 
+
+690
+00:33:44,800 --> 00:33:47,720
+pushes, it's just not 
+sustainable long term for a 
+
+691
+00:33:47,720 --> 00:33:49,880
+social force. 
+The movement burns itself out 
+
+692
+00:33:50,040 --> 00:33:52,120
+like a fire given too much 
+oxygen all at once. 
+
+693
+00:33:52,160 --> 00:33:54,520
+Kind of. 
+It consumes all its fuel, all 
+
+694
+00:33:54,520 --> 00:33:58,280
+its energy in this intense but 
+ultimately short lived burst. 
+
+695
+00:33:58,480 --> 00:34:02,640
+And once the movement finally 
+runs out of strength, once that 
+
+696
+00:34:02,640 --> 00:34:06,040
+initial energy is depleted, the 
+activists are exhausted, the 
+
+697
+00:34:06,040 --> 00:34:09,320
+public attention moves on. 
+What happens then? 
+
+698
+00:34:09,600 --> 00:34:14,400
+According to the author, America
+then disperses whatever is left 
+
+699
+00:34:14,400 --> 00:34:17,040
+of that energy into its massive 
+social system. 
+
+700
+00:34:17,040 --> 00:34:21,000
+Disperses it like how? 
+It's described like this vast 
+
+701
+00:34:21,000 --> 00:34:24,920
+complex Organism, maybe a 
+societal sponge that can absorb 
+
+702
+00:34:24,920 --> 00:34:29,280
+and dilute any incoming force. 
+It spreads the energy so thinly 
+
+703
+00:34:29,280 --> 00:34:32,080
+that it ceases to be a 
+concentrated transformative 
+
+704
+00:34:32,080 --> 00:34:33,800
+power. 
+So the passionate activists 
+
+705
+00:34:33,800 --> 00:34:36,600
+might get jobs within the very 
+institutions they were trying to
+
+706
+00:34:36,600 --> 00:34:38,639
+change. 
+Their sharp edges get dulled. 
+
+707
+00:34:38,679 --> 00:34:41,800
+Perhaps, or the revolutionary 
+slogans become corporate tag 
+
+708
+00:34:41,800 --> 00:34:43,600
+lines, stripped of their 
+original meaning. 
+
+709
+00:34:43,920 --> 00:34:46,440
+The fervor gets metabolized, 
+integrated in a way that 
+
+710
+00:34:46,440 --> 00:34:48,239
+neutralizes its radical 
+potential. 
+
+711
+00:34:48,360 --> 00:34:51,400
+And the outcome, according to 
+this theory, is predictable, 
+
+712
+00:34:51,440 --> 00:34:53,880
+Yeah. 
+The slogans fade, the policies 
+
+713
+00:34:53,880 --> 00:34:56,880
+weaken, the attention shifts, 
+The initial excitement, the 
+
+714
+00:34:56,880 --> 00:35:00,160
+changes it brought, they slowly 
+dissipate, not with a bang, but 
+
+715
+00:35:00,160 --> 00:35:01,640
+with a whimper. 
+And crucially. 
+
+716
+00:35:01,760 --> 00:35:05,440
+Crucially, the old patterns 
+return stronger than before 
+
+717
+00:35:06,040 --> 00:35:08,840
+because that underlying cultural
+inertia was never really 
+
+718
+00:35:08,840 --> 00:35:11,880
+overcome. 
+The system simply reasserts its 
+
+719
+00:35:11,880 --> 00:35:14,520
+preferred state. 
+After temporarily accommodating 
+
+720
+00:35:14,520 --> 00:35:16,600
+the external pressure, it snaps 
+back. 
+
+721
+00:35:16,880 --> 00:35:19,440
+And the author adds his point 
+about societal memory almost 
+
+722
+00:35:19,440 --> 00:35:21,280
+like a collective sigh of 
+relief. 
+
+723
+00:35:21,280 --> 00:35:25,000
+Yes, the culture, having been 
+through this intense period of 
+
+724
+00:35:25,000 --> 00:35:27,640
+the movement, the disruption, 
+the arguments, the constant 
+
+725
+00:35:27,640 --> 00:35:31,440
+demands for change, it remembers
+how exhausting the movement was.
+
+726
+00:35:31,440 --> 00:35:34,040
+So it's not just that it returns
+to the old state, there's a 
+
+727
+00:35:34,040 --> 00:35:35,920
+resistance to going through that
+again. 
+
+728
+00:35:35,920 --> 00:35:38,720
+Exactly. 
+There's this quiet collective 
+
+729
+00:35:38,720 --> 00:35:42,000
+sigh, maybe a deep, most 
+unconscious longing for 
+
+730
+00:35:42,000 --> 00:35:45,720
+stability, for things to just 
+calm down, and it quietly hopes 
+
+731
+00:35:45,720 --> 00:35:47,600
+that nothing like it happens 
+again soon. 
+
+732
+00:35:47,840 --> 00:35:50,880
+This collective exhaustion 
+perhaps makes the next potential
+
+733
+00:35:50,880 --> 00:35:53,600
+invasion by a movement even 
+harder to get off the ground. 
+
+734
+00:35:53,640 --> 00:35:55,160
+Wow. 
+OK, so this raises a really 
+
+735
+00:35:55,160 --> 00:35:57,200
+important question for you, the 
+listener, to consider. 
+
+736
+00:35:57,600 --> 00:36:00,600
+Is this whole process, this 
+absorption and neutralization, 
+
+737
+00:36:00,920 --> 00:36:04,440
+is it a conscious strategy, like
+a deliberate manipulation by 
+
+738
+00:36:04,440 --> 00:36:06,360
+powerful people to neutralize 
+dissent? 
+
+739
+00:36:06,440 --> 00:36:09,400
+Or is it just an emergent 
+property, something that happens
+
+740
+00:36:09,400 --> 00:36:13,160
+naturally in a complex system 
+like American Society, and 
+
+741
+00:36:13,160 --> 00:36:17,000
+almost inevitable consequence of
+those underlying forces, inertia
+
+742
+00:36:17,000 --> 00:36:20,360
+and entropy, acting on a large, 
+diverse, deeply ingrained 
+
+743
+00:36:20,360 --> 00:36:22,960
+culture? 
+The author seems to lean towards
+
+744
+00:36:22,960 --> 00:36:25,120
+the latter. 
+Yeah, it's presented less as 
+
+745
+00:36:25,120 --> 00:36:29,040
+some kind of malicious intent or
+a grand conspiracy and more as 
+
+746
+00:36:29,160 --> 00:36:32,960
+these fundamental, almost 
+unyielding laws governing social
+
+747
+00:36:32,960 --> 00:36:37,000
+change in this specific context,
+almost like a societal physics. 
+
+748
+00:36:37,000 --> 00:36:39,160
+It's a truly thought provoking 
+perspective. 
+
+749
+00:36:39,680 --> 00:36:43,280
+It suggests this deep, almost 
+automatic mechanism is at play, 
+
+750
+00:36:43,280 --> 00:36:47,280
+A societal immune system that 
+quietly but effectively fends 
+
+751
+00:36:47,280 --> 00:36:49,080
+off attempts at radical 
+transformation. 
+
+752
+00:36:49,640 --> 00:36:52,280
+It just absorbs the blows. 
+So to really solidify this whole
+
+753
+00:36:52,280 --> 00:36:55,800
+analogy, the author concludes by
+reinforcing this powerful black 
+
+754
+00:36:55,800 --> 00:36:57,360
+hole metaphor that was 
+introduced earlier. 
+
+755
+00:36:57,840 --> 00:37:00,720
+Afghanistan is portrayed as a 
+black hole for empires. 
+
+756
+00:37:00,800 --> 00:37:03,400
+Meaning it just swallows their 
+armies, their aid, and their 
+
+757
+00:37:03,400 --> 00:37:05,720
+power. 
+Empires March in with all their 
+
+758
+00:37:05,720 --> 00:37:09,000
+might, their resources, their 
+grand plans for transformation. 
+
+759
+00:37:09,160 --> 00:37:12,160
+But Afghanistan ultimately 
+absorbs them without 
+
+760
+00:37:12,160 --> 00:37:16,120
+fundamentally changing itself. 
+It leaves the invaders depleted,
+
+761
+00:37:16,240 --> 00:37:19,400
+their ambitions swallowed whole,
+their efforts yielding Nothing 
+
+762
+00:37:19,400 --> 00:37:21,480
+lasting. 
+They just disappear into the 
+
+763
+00:37:21,480 --> 00:37:23,720
+Afghan landscape, metaphorically
+speaking. 
+
+764
+00:37:23,720 --> 00:37:28,280
+And then the mirror image 
+America is presented as a black 
+
+765
+00:37:28,280 --> 00:37:29,480
+hole for movements. 
+Right. 
+
+766
+00:37:29,480 --> 00:37:32,560
+It swallows their energy, their 
+reforms, and their victories. 
+
+767
+00:37:33,040 --> 00:37:35,720
+Movements arrive with all their 
+passion, their demands, their 
+
+768
+00:37:35,720 --> 00:37:38,800
+policy wins. 
+And America seems to consume 
+
+769
+00:37:38,800 --> 00:37:41,600
+them much like a black hole 
+consumes light and matter. 
+
+770
+00:37:42,000 --> 00:37:45,680
+So in both cases, the source 
+argues, the entity, whether it's
+
+771
+00:37:45,680 --> 00:37:49,400
+Afghanistan or America, absorbs 
+what it's given, be it military 
+
+772
+00:37:49,400 --> 00:37:52,800
+might or social reform energy. 
+But crucially, it gives back 
+
+773
+00:37:52,800 --> 00:37:56,280
+nothing lasting in terms of 
+fundamental, irreversible change
+
+774
+00:37:56,280 --> 00:37:59,120
+to its core identity. 
+The energy, the reforms, the 
+
+775
+00:37:59,120 --> 00:38:01,600
+power, it all just disappears 
+into the system. 
+
+776
+00:38:01,680 --> 00:38:03,680
+Dissipated, diluted, 
+neutralized. 
+
+777
+00:38:03,720 --> 00:38:06,040
+Leaving the outside force, 
+whether it's an empire or a 
+
+778
+00:38:06,040 --> 00:38:09,240
+movement, emptying confused, 
+wondering why their immense 
+
+779
+00:38:09,240 --> 00:38:11,520
+efforts didn't result in the 
+permanent transformation they 
+
+780
+00:38:11,520 --> 00:38:14,160
+expected. 
+Yeah, the impact gets absorbed, 
+
+781
+00:38:14,160 --> 00:38:16,760
+but the core remains essentially
+untouched. 
+
+782
+00:38:16,960 --> 00:38:18,800
+It's a really powerful image, 
+isn't it? 
+
+783
+00:38:18,960 --> 00:38:23,320
+Almost haunting this idea that 
+these immense forces, whether 
+
+784
+00:38:23,320 --> 00:38:26,720
+military or cultural, just 
+vanish into some kind of 
+
+785
+00:38:26,720 --> 00:38:30,520
+societal vacuum, leaving little 
+long term trace beyond a 
+
+786
+00:38:30,520 --> 00:38:33,720
+temporary ripple on the surface.
+It definitely forces you to 
+
+787
+00:38:33,720 --> 00:38:37,440
+fundamentally reconsider how we 
+understand progress, how we 
+
+788
+00:38:37,440 --> 00:38:40,600
+understand lasting change, 
+especially in the face of such 
+
+789
+00:38:40,600 --> 00:38:44,760
+profound underlying forces like 
+inertia and entropy. 
+
+790
+00:38:45,040 --> 00:38:48,560
+OK, so let's recap this 
+fascinating deep dive into Chris
+
+791
+00:38:48,560 --> 00:38:51,200
+Abraham's article America, 
+Afghanistan. 
+
+792
+00:38:51,480 --> 00:38:54,360
+We've explored this truly 
+unexpected, maybe even jarring, 
+
+793
+00:38:54,360 --> 00:38:56,000
+parallel. 
+Yeah, it's a lot to process. 
+
+794
+00:38:56,240 --> 00:38:58,480
+With Afghanistan, the invaders 
+are literal armies. 
+
+795
+00:38:58,480 --> 00:39:01,240
+They March in with weapons grand
+plan, seeking to conquer and 
+
+796
+00:39:01,240 --> 00:39:04,400
+transform, and ultimately they 
+leave defeated, their efforts 
+
+797
+00:39:04,400 --> 00:39:06,280
+having vanished into the Afghan 
+landscape. 
+
+798
+00:39:06,360 --> 00:39:09,320
+Right, the Graveyard of Empires.
+With America, the author argues,
+
+799
+00:39:09,320 --> 00:39:12,120
+the invaders are movements They 
+March in with protests, new 
+
+800
+00:39:12,120 --> 00:39:15,160
+policies, compelling slogans 
+demanding to reshape the culture
+
+801
+00:39:15,160 --> 00:39:17,600
+from within. 
+And in both scenarios, the core 
+
+802
+00:39:17,600 --> 00:39:20,400
+mechanism as presented in the 
+article is remarkably similar. 
+
+803
+00:39:20,800 --> 00:39:23,640
+Afghanistan gives that illusion 
+of compliance, takes the 
+
+804
+00:39:23,640 --> 00:39:28,160
+resources outwardly, adjusts 
+only to quietly wait and outlast
+
+805
+00:39:28,160 --> 00:39:30,680
+until the invaders just exhaust 
+themselves and go home. 
+
+806
+00:39:31,160 --> 00:39:33,040
+And America does much the same 
+with movements. 
+
+807
+00:39:33,280 --> 00:39:35,080
+It appears to give them 
+everything they ask for. 
+
+808
+00:39:35,080 --> 00:39:38,320
+Resources, public approval, 
+rapid surface level compliance 
+
+809
+00:39:38,560 --> 00:39:41,720
+until their intense energy is 
+spent, the media spotlight moves
+
+810
+00:39:41,720 --> 00:39:44,640
+on and the movement burns itself
+out or gets absorbed. 
+
+811
+00:39:44,800 --> 00:39:48,400
+And in the end, in both cases, 
+the entity Afghanistan or 
+
+812
+00:39:48,400 --> 00:39:50,880
+America effectively rolls back 
+the changes. 
+
+813
+00:39:51,200 --> 00:39:54,240
+It sheds that temporary veneer 
+and returns to its original 
+
+814
+00:39:54,240 --> 00:39:56,760
+fundamental state. 
+Or something very close to it. 
+
+815
+00:39:57,040 --> 00:39:59,320
+Afghanistan is the graveyard of 
+empires. 
+
+816
+00:39:59,600 --> 00:40:02,640
+America, this author posits, is 
+the graveyard of movements. 
+
+817
+00:40:02,760 --> 00:40:04,800
+Both drain what tries to change 
+them. 
+
+818
+00:40:05,000 --> 00:40:08,520
+Both seem to play a patient long
+game, whether consciously or 
+
+819
+00:40:08,520 --> 00:40:10,480
+not. 
+Both in their fundamental 
+
+820
+00:40:10,480 --> 00:40:12,800
+essence, according to this 
+analysis, remain largely 
+
+821
+00:40:12,800 --> 00:40:16,320
+unchanged, preserving their core
+identity against these powerful 
+
+822
+00:40:16,320 --> 00:40:20,360
+external and internal pressures.
+This perspective, it truly 
+
+823
+00:40:20,360 --> 00:40:22,720
+challenges our conventional 
+understanding of societal 
+
+824
+00:40:22,720 --> 00:40:25,240
+evolution, doesn't it? 
+The effectiveness of activism. 
+
+825
+00:40:25,400 --> 00:40:28,040
+Absolutely. 
+It compels us to ask if what we 
+
+826
+00:40:28,040 --> 00:40:31,560
+often perceive as progress, 
+especially rapid progress, is 
+
+827
+00:40:31,560 --> 00:40:34,120
+maybe just a temporary 
+oscillation around a very 
+
+828
+00:40:34,120 --> 00:40:36,520
+stable, very deep seated 
+cultural core. 
+
+829
+00:40:36,560 --> 00:40:39,720
+It certainly does. 
+So thinking about all this, if 
+
+830
+00:40:39,720 --> 00:40:43,560
+this author's analysis holds 
+water, if America truly operates
+
+831
+00:40:43,560 --> 00:40:46,760
+as a kind of graveyard of 
+movements, what does that tell 
+
+832
+00:40:46,760 --> 00:40:49,480
+us about the nature of deep 
+seated cultural change? 
+
+833
+00:40:50,560 --> 00:40:53,240
+Does it mean true lasting 
+transformation is almost 
+
+834
+00:40:53,240 --> 00:40:56,480
+impossible without perpetual 
+relentless energy, without 
+
+835
+00:40:56,480 --> 00:40:59,640
+completely overcoming that 
+massive inertia and the constant
+
+836
+00:40:59,640 --> 00:41:02,200
+drag of entropy? 
+Or are there other forces, maybe
+
+837
+00:41:02,200 --> 00:41:05,200
+slower, more subtle forces, or 
+perhaps different approaches to 
+
+838
+00:41:05,200 --> 00:41:07,680
+change altogether, that can 
+eventually overcome this 
+
+839
+00:41:07,680 --> 00:41:10,160
+powerful cultural gravity the 
+author describes? 
+
+840
+00:41:10,320 --> 00:41:12,760
+And maybe most importantly, what
+does this perspective mean for 
+
+841
+00:41:12,760 --> 00:41:16,640
+you, the learner, as you observe
+the next big cultural surge, the
+
+842
+00:41:16,640 --> 00:41:19,120
+next societal debate unfolding 
+around you? 
+
+843
+00:41:19,440 --> 00:41:23,800
+Are you witnessing genuine, 
+enduring transformation, a 
+
+844
+00:41:23,800 --> 00:41:26,760
+fundamental shift that will 
+actually last for generations? 
+
+845
+00:41:26,920 --> 00:41:30,240
+Or are you just watching another
+cycle, another iteration of 
+
+846
+00:41:30,240 --> 00:41:33,280
+absorption and eventual 
+rollback, destined to leave the 
+
+847
+00:41:33,280 --> 00:41:36,880
+underlying system essentially 
+intact once the noise dies down?
+
+848
+00:41:37,120 --> 00:41:39,600
+It's definitely a question worth
+pondering as you watch the 
+
+849
+00:41:39,600 --> 00:41:41,880
+headlines unfold and engage with
+the world around you. 
+
+850
+00:41:42,120 --> 00:41:43,720
+Something to keep in the back of
+your mind.
+

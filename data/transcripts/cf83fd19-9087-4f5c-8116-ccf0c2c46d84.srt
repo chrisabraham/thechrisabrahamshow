@@ -1,0 +1,3650 @@
+1
+00:00:00,040 --> 00:00:03,040
+Welcome to the Deep Dive, where 
+we dig into complex topics and 
+
+2
+00:00:03,040 --> 00:00:05,720
+hopefully pull out the real gems
+of understanding for you. 
+
+3
+00:00:05,800 --> 00:00:08,560
+That's the plan. 
+So today we're tackling a 
+
+4
+00:00:08,560 --> 00:00:12,560
+question that might just well 
+flip your perspective on funding
+
+5
+00:00:12,560 --> 00:00:16,520
+big social programs entirely. 
+What if the answer to funding 
+
+6
+00:00:16,520 --> 00:00:19,480
+these really ambitious goals, 
+you know, like universal 
+
+7
+00:00:19,480 --> 00:00:24,320
+healthcare, free college, truly 
+robust social safety Nets? 
+
+8
+00:00:25,520 --> 00:00:29,000
+What if the answer was something
+everyone seems to love to hate? 
+
+9
+00:00:29,080 --> 00:00:30,880
+Something that definitely gets a
+bad rap. 
+
+10
+00:00:30,880 --> 00:00:33,680
+Exactly something that 
+consistently gets pushed aside 
+
+11
+00:00:33,680 --> 00:00:35,080
+in our public discourse. 
+Right. 
+
+12
+00:00:35,400 --> 00:00:40,200
+And our mission in this deep 
+dive is to explore a, well, a 
+
+13
+00:00:40,200 --> 00:00:43,000
+truly provocative argument. 
+It's about the unexpected, 
+
+14
+00:00:43,160 --> 00:00:47,160
+almost counterintuitive role of 
+tariffs, Yes, tariffs, in 
+
+15
+00:00:47,160 --> 00:00:50,400
+potentially achieving what some 
+might envision as a, let's say, 
+
+16
+00:00:50,400 --> 00:00:53,280
+comprehensive socialist utopia 
+right here in America. 
+
+17
+00:00:53,280 --> 00:00:54,960
+Tariffs. 
+OK, definitely not the first 
+
+18
+00:00:54,960 --> 00:00:57,360
+thing that springs to mind for 
+funding social programs. 
+
+19
+00:00:57,360 --> 00:01:00,200
+Not at all, and we're diving 
+deep into excerpts from an 
+
+20
+00:01:00,200 --> 00:01:01,800
+essay. 
+It's titled If American 
+
+21
+00:01:01,800 --> 00:01:05,560
+Socialists Were Real, They'd 
+Love Terrace dot PDF by Chris 
+
+22
+00:01:05,560 --> 00:01:10,760
+Abraham, and the central premise
+Abraham presents is quite bold. 
+
+23
+00:01:11,400 --> 00:01:13,760
+He basically contends that if 
+American socialists were 
+
+24
+00:01:13,760 --> 00:01:16,600
+genuinely serious about hitting 
+their stated goals. 
+
+25
+00:01:16,600 --> 00:01:18,560
+You mean the big ones? 
+Healthcare Education. 
+
+26
+00:01:18,600 --> 00:01:20,720
+Precisely. 
+Then they should be advocating 
+
+27
+00:01:20,720 --> 00:01:24,520
+for tariffs, like really pushing
+for them as the primary funding 
+
+28
+00:01:24,520 --> 00:01:27,640
+mechanism for all these desired 
+social services that they 
+
+29
+00:01:27,680 --> 00:01:29,640
+aren't. 
+But as he points out, they are 
+
+30
+00:01:29,640 --> 00:01:31,960
+conspicuously not. 
+It's a real disconnect he's 
+
+31
+00:01:31,960 --> 00:01:33,000
+highlighting. 
+Interesting. 
+
+32
+00:01:33,000 --> 00:01:38,000
+So for you, our listener, this 
+deep dive is going to be, I 
+
+33
+00:01:38,000 --> 00:01:41,680
+think, an illuminating journey 
+will meticulously unpack why 
+
+34
+00:01:41,680 --> 00:01:46,120
+Abraham presents tariffs as what
+he actually calls the only path 
+
+35
+00:01:46,680 --> 00:01:49,280
+to achieving these really 
+ambitious social goals. 
+
+36
+00:01:49,840 --> 00:01:51,520
+The only path. 
+It's strong language. 
+
+37
+00:01:51,520 --> 00:01:54,480
+It is, and we'll challenge some 
+very common perceptions you 
+
+38
+00:01:54,480 --> 00:01:57,080
+might hold about tariffs, you 
+know, who really pays for them, 
+
+39
+00:01:57,280 --> 00:02:00,040
+what are the broader economic 
+implications, that whole debate.
+
+40
+00:02:00,080 --> 00:02:02,400
+Yeah, the standard narrative 
+versus what Abraham's putting 
+
+41
+00:02:02,400 --> 00:02:03,680
+forward. 
+Exactly. 
+
+42
+00:02:03,960 --> 00:02:06,720
+By the end of this conversation,
+you'll undoubtedly have a 
+
+43
+00:02:06,720 --> 00:02:10,039
+uniquely informed perspective on
+a highly debated topic. 
+
+44
+00:02:10,560 --> 00:02:12,800
+It might even prompt you to 
+rethink some of your own 
+
+45
+00:02:12,800 --> 00:02:16,800
+assumptions about, well, how we 
+pay for the kind of society we 
+
+46
+00:02:16,800 --> 00:02:19,760
+collectively say we desire. 
+It's a fascinating thought 
+
+47
+00:02:19,760 --> 00:02:23,320
+experiment, really, but he 
+grounds it in a very direct 
+
+48
+00:02:23,400 --> 00:02:25,000
+argument. 
+Definitely. 
+
+49
+00:02:25,200 --> 00:02:27,480
+So let's let's begin to unpack 
+this. 
+
+50
+00:02:27,480 --> 00:02:30,320
+OK, so let's unpack this vision 
+first, as it's described in 
+
+51
+00:02:30,320 --> 00:02:34,680
+Abraham's essay, This American 
+Socialist Utopia, it's truly 
+
+52
+00:02:34,680 --> 00:02:36,920
+comprehensive. 
+I mean, it seems to touch on 
+
+53
+00:02:36,920 --> 00:02:39,880
+almost every facet of life that 
+a citizen might interact with. 
+
+54
+00:02:39,960 --> 00:02:42,040
+It's not just one or two things.
+No, exactly. 
+
+55
+00:02:42,040 --> 00:02:44,800
+We're talking about aspirations 
+like free healthcare, free 
+
+56
+00:02:44,800 --> 00:02:47,640
+college, subsidized childcare, 
+maternity leave, maternity 
+
+57
+00:02:47,640 --> 00:02:50,080
+leave, housing programs, mental 
+health clinics, public 
+
+58
+00:02:50,080 --> 00:02:52,760
+broadcasting, university 
+personal services of any kind. 
+
+59
+00:02:52,880 --> 00:02:55,920
+It's an expansive list, really 
+almost all-encompassing. 
+
+60
+00:02:55,920 --> 00:02:59,440
+It implies a pretty profound 
+societal overhaul for many 
+
+61
+00:02:59,440 --> 00:03:00,400
+people. 
+Absolutely. 
+
+62
+00:03:00,560 --> 00:03:03,800
+But then, inevitably, comes the 
+crucial question, the one that 
+
+63
+00:03:03,800 --> 00:03:07,520
+always emerges right at the 
+forefront of any such ambitious 
+
+64
+00:03:07,520 --> 00:03:09,600
+proposal. 
+Yeah, the practical bit. 
+
+65
+00:03:09,600 --> 00:03:11,640
+The fundamental logistical one, 
+Yeah. 
+
+66
+00:03:11,640 --> 00:03:13,240
+How do you actually pay for all 
+of it? 
+
+67
+00:03:14,160 --> 00:03:17,000
+You know, when you dare to dream
+big about a better world, you 
+
+68
+00:03:17,000 --> 00:03:20,200
+also have to grapple with the 
+very real, very tangible 
+
+69
+00:03:20,200 --> 00:03:23,200
+mechanics of making that world 
+economically sustainable. 
+
+70
+00:03:23,200 --> 00:03:24,600
+Making it possible. 
+Right. 
+
+71
+00:03:24,600 --> 00:03:27,960
+This isn't just about like 
+wishing for a more equitable 
+
+72
+00:03:27,960 --> 00:03:32,080
+society, it's about devising the
+concrete pathways to actually 
+
+73
+00:03:32,080 --> 00:03:34,160
+fund such an ambitious 
+undertaking. 
+
+74
+00:03:34,200 --> 00:03:37,320
+And what's truly fascinating 
+here and really central to 
+
+75
+00:03:37,320 --> 00:03:40,600
+Abraham's whole argument is his 
+assertion that the traditional 
+
+76
+00:03:40,600 --> 00:03:44,040
+ways, you know, high tax rates 
+like those eye watering 80 
+
+77
+00:03:44,160 --> 00:03:47,600
+percent top marginal rates we 
+saw in the US back in the 1950s.
+
+78
+00:03:47,640 --> 00:03:50,760
+Right, the post war era. 
+Exactly, he argues, those are 
+
+79
+00:03:50,760 --> 00:03:53,760
+simply no longer effective for 
+funding these kinds of ambitious
+
+80
+00:03:53,760 --> 00:03:57,280
+programs in our, well, 
+profoundly modern, globalized 
+
+81
+00:03:57,280 --> 00:03:57,920
+economy. 
+Why? 
+
+82
+00:03:57,920 --> 00:03:59,440
+Not what's changed so 
+drastically. 
+
+83
+00:03:59,560 --> 00:04:02,800
+Well, he introduces what he 
+vividly calls the ghost problem.
+
+84
+00:04:02,800 --> 00:04:04,320
+The ghost problem. 
+OK. 
+
+85
+00:04:04,560 --> 00:04:07,200
+Yeah, and it's quite a 
+compelling metaphor, I think, 
+
+86
+00:04:07,200 --> 00:04:09,520
+for the challenges of trying to 
+tax wealth today. 
+
+87
+00:04:09,840 --> 00:04:13,960
+In today's interconnected world,
+he argues, wealthy individuals 
+
+88
+00:04:13,960 --> 00:04:17,640
+in these massive multinational 
+corporations have this, well, 
+
+89
+00:04:17,640 --> 00:04:20,800
+unparalleled ability to, as 
+Abraham colorfully puts it, 
+
+90
+00:04:21,040 --> 00:04:22,840
+teleport their money across 
+borders. 
+
+91
+00:04:22,840 --> 00:04:24,840
+Teleport. 
+OK, Not literally I assume. 
+
+92
+00:04:24,840 --> 00:04:27,280
+No, no, not literally, but it 
+speaks to the speed and the 
+
+93
+00:04:27,280 --> 00:04:29,640
+ease. 
+You know capital can just vanish
+
+94
+00:04:29,640 --> 00:04:32,760
+from 1 jurisdiction and reappear
+in another almost instantly. 
+
+95
+00:04:32,760 --> 00:04:35,440
+So what are we talking about? 
+Like complex accounting tricks. 
+
+96
+00:04:35,440 --> 00:04:37,440
+Exactly. 
+Sophisticated financial 
+
+97
+00:04:37,440 --> 00:04:40,360
+engineering. 
+Establishing complex offshore 
+
+98
+00:04:40,360 --> 00:04:43,760
+holding companies. 
+Strategically transferring 
+
+99
+00:04:43,760 --> 00:04:47,560
+intellectual property rights to 
+low tax places like Ireland or 
+
+100
+00:04:47,560 --> 00:04:48,920
+somewhere. 
+Like we hear about with big tech
+
+101
+00:04:48,920 --> 00:04:51,360
+companies sometimes. 
+Precisely, Or even just using 
+
+102
+00:04:51,360 --> 00:04:54,680
+high frequency trading platforms
+that can shift vast sums across 
+
+103
+00:04:54,680 --> 00:04:58,160
+continents in milliseconds, they
+can quite legally and 
+
+104
+00:04:58,160 --> 00:05:01,160
+efficiently just change their 
+legal address to Dublin or 
+
+105
+00:05:01,160 --> 00:05:04,200
+Luxembourg or you know, whatever
+offers the most favorable tax 
+
+106
+00:05:04,200 --> 00:05:06,680
+environment. 
+Making their wealth effectively 
+
+107
+00:05:06,680 --> 00:05:10,040
+invisible, or at least 
+untouchable to a single 
+
+108
+00:05:10,040 --> 00:05:12,440
+country's tax system. 
+That's the idea. 
+
+109
+00:05:12,640 --> 00:05:15,520
+It becomes elusive. 
+And the core of this contention 
+
+110
+00:05:15,520 --> 00:05:18,160
+is quite stark, really, and 
+uncompromising. 
+
+111
+00:05:18,720 --> 00:05:22,360
+Abraham declares you can't tax 
+ghosts, and billionaires have 
+
+112
+00:05:22,360 --> 00:05:25,160
+already figured out how to 
+become ghosts, so chasing them 
+
+113
+00:05:25,160 --> 00:05:26,880
+is futile. 
+Futile. 
+
+114
+00:05:26,880 --> 00:05:30,160
+Wow, that's a strong word. 
+It is, And he contrasts this 
+
+115
+00:05:30,160 --> 00:05:33,440
+sharply with the economic 
+realities back in the 1950s. 
+
+116
+00:05:33,480 --> 00:05:36,480
+You know, back then, when those 
+extremely high domestic tax 
+
+117
+00:05:36,480 --> 00:05:39,280
+rates were in place, the wealthy
+couldn't just hop on a private 
+
+118
+00:05:39,480 --> 00:05:41,960
+to Monaco at a moment's notice 
+with all their financial 
+
+119
+00:05:41,960 --> 00:05:42,520
+records. 
+Right. 
+
+120
+00:05:42,520 --> 00:05:44,080
+Or move millions with a few 
+clicks. 
+
+121
+00:05:44,080 --> 00:05:45,840
+Exactly. 
+Nor could they move their 
+
+122
+00:05:45,840 --> 00:05:48,600
+immense wealth with a few mere 
+keystrokes from a laptop. 
+
+123
+00:05:49,040 --> 00:05:52,080
+The physical infrastructure, the
+digital infrastructure for that 
+
+124
+00:05:52,080 --> 00:05:55,000
+kind of global financial 
+fluidity just didn't exist like 
+
+125
+00:05:55,000 --> 00:05:57,000
+it does now. 
+So trying to bring back those 
+
+126
+00:05:57,000 --> 00:06:00,600
+80% rates today. 
+Abraham views any attempt to re 
+
+127
+00:06:00,600 --> 00:06:04,360
+implement such high domestic tax
+rates today as fundamentally 
+
+128
+00:06:04,360 --> 00:06:08,560
+quixotic, like chasing 
+windmills, a pursuit of an ever 
+
+129
+00:06:08,560 --> 00:06:11,480
+elusive target that will always 
+remain just out of reach. 
+
+130
+00:06:11,640 --> 00:06:14,200
+Leaving those ambitious social 
+programs perpetually 
+
+131
+00:06:14,200 --> 00:06:16,040
+underfunded. 
+And leaving the people who 
+
+132
+00:06:16,040 --> 00:06:18,320
+advocate for them perpetually 
+frustrated. 
+
+133
+00:06:18,360 --> 00:06:21,400
+That's his take. 
+OK, so if traditional taxation 
+
+134
+00:06:21,600 --> 00:06:24,840
+is basically chasing these 
+financial ghosts through this 
+
+135
+00:06:24,840 --> 00:06:30,280
+increasingly complex globalized 
+maze, what does Abraham propose 
+
+136
+00:06:30,280 --> 00:06:34,320
+as the well, the concrete 
+unavoidable solution? 
+
+137
+00:06:34,440 --> 00:06:37,800
+His answer is tariffs. 
+Tariffs back to Paris. 
+
+138
+00:06:37,800 --> 00:06:39,920
+Back to tariffs. 
+And this is where the argument 
+
+139
+00:06:39,920 --> 00:06:43,040
+really starts to, you know, 
+challenge conventional wisdom 
+
+140
+00:06:43,280 --> 00:06:46,120
+because tariffs are presented as
+the unavoidable answer, the 
+
+141
+00:06:46,120 --> 00:06:49,320
+mechanism that bypasses all 
+those modern financial loopholes
+
+142
+00:06:49,520 --> 00:06:52,080
+that make wealth so incredibly 
+mobile today. 
+
+143
+00:06:52,240 --> 00:06:55,440
+So how are they different? 
+Abraham highlights how tariffs 
+
+144
+00:06:55,440 --> 00:06:58,520
+are fundamentally different 
+from, say, income or corporate 
+
+145
+00:06:58,520 --> 00:07:02,400
+taxes precisely because, as he 
+puts it, they collect at the 
+
+146
+00:07:02,400 --> 00:07:03,920
+border. 
+OK, a physical point. 
+
+147
+00:07:04,080 --> 00:07:06,920
+A physical point of collection. 
+It literally cannot be moved 
+
+148
+00:07:06,920 --> 00:07:08,920
+offshore or it's geographically 
+anchored. 
+
+149
+00:07:09,280 --> 00:07:12,160
+They don't care about your tax 
+lawyer or your offshore shell 
+
+150
+00:07:12,160 --> 00:07:15,400
+companies, Abraham asserts. 
+It just cuts through all those 
+
+151
+00:07:15,400 --> 00:07:17,360
+layers of financial 
+sophistication. 
+
+152
+00:07:17,440 --> 00:07:21,200
+It sounds almost simple. 
+The simplicity of it, as he 
+
+153
+00:07:21,200 --> 00:07:24,760
+describes it, is quite striking.
+You want to sell in the biggest 
+
+154
+00:07:24,760 --> 00:07:27,480
+market in the world, You pay. 
+End of story. 
+
+155
+00:07:27,720 --> 00:07:30,320
+No way around it if you want 
+access to US consumers. 
+
+156
+00:07:30,360 --> 00:07:33,120
+That's the argument. 
+There's no complex accounting to
+
+157
+00:07:33,120 --> 00:07:36,440
+evade them, no legal acrobatics 
+needed to avoid them. 
+
+158
+00:07:36,720 --> 00:07:40,120
+If you want access to the 
+American consumer base, the cost
+
+159
+00:07:40,120 --> 00:07:42,720
+is clear and it's collected 
+right at entry. 
+
+160
+00:07:42,840 --> 00:07:44,600
+And the revenue generated, where
+does that go? 
+
+161
+00:07:45,000 --> 00:07:48,040
+According to Abraham, it flows 
+straight into the state's 
+
+162
+00:07:48,040 --> 00:07:50,400
+coffers. 
+It's direct, it's immediate. 
+
+163
+00:07:50,680 --> 00:07:54,120
+And crucially, he argues, it 
+doesn't bleed the middle class 
+
+164
+00:07:54,120 --> 00:07:56,000
+dry. 
+How does he figure that? 
+
+165
+00:07:56,000 --> 00:07:58,240
+Because that's the usual 
+argument against tariffs, right?
+
+166
+00:07:58,240 --> 00:08:00,880
+That they hurt regular people. 
+Right, but his point is that 
+
+167
+00:08:00,880 --> 00:08:03,920
+because the tax isn't directly 
+levied on domestic income or 
+
+168
+00:08:03,920 --> 00:08:07,760
+consumption in the same way, say
+income tax or sales taxes, the 
+
+169
+00:08:07,760 --> 00:08:10,600
+argument is that it falls 
+primarily on the importer. 
+
+170
+00:08:10,640 --> 00:08:12,040
+The company bringing the goods 
+in. 
+
+171
+00:08:12,240 --> 00:08:14,120
+Yes. 
+And potentially, as we'll 
+
+172
+00:08:14,120 --> 00:08:18,360
+definitely get into on corporate
+profit margins, this also means 
+
+173
+00:08:18,360 --> 00:08:20,960
+it doesn't need to chase the 
+rich because the wealth is 
+
+174
+00:08:20,960 --> 00:08:24,560
+collected at the point of entry 
+of goods, not by trying to track
+
+175
+00:08:24,560 --> 00:08:28,240
+down individual or corporate 
+income that, as we said, can be 
+
+176
+00:08:28,320 --> 00:08:31,080
+hidden or moved. 
+So he sees it as cleaner, 
+
+177
+00:08:31,160 --> 00:08:34,159
+simpler. 
+He describes the system as clean
+
+178
+00:08:34,159 --> 00:08:37,039
+and simple, suggesting it's a 
+direct, efficient and 
+
+179
+00:08:37,039 --> 00:08:41,000
+surprisingly unburdened way to 
+generate the massive, stable 
+
+180
+00:08:41,000 --> 00:08:44,120
+revenue required for 
+comprehensive social services. 
+
+181
+00:08:44,720 --> 00:08:47,680
+It's sort of sidesteps all the 
+complexities and perceived 
+
+182
+00:08:47,680 --> 00:08:49,960
+failures of modern taxation 
+entirely. 
+
+183
+00:08:50,120 --> 00:08:53,240
+OK, now here's where Abraham's 
+argument gets really 
+
+184
+00:08:53,240 --> 00:08:57,080
+interesting, I think, and quite 
+provocative because he tackles 
+
+185
+00:08:57,080 --> 00:09:00,040
+head on that common narrative 
+surrounding tariffs. 
+
+186
+00:09:00,040 --> 00:09:02,760
+The one we hear all the time. 
+Yeah, he points out that the 
+
+187
+00:09:02,760 --> 00:09:05,520
+media can only talk about 
+tariffs as if they're the end of
+
+188
+00:09:05,520 --> 00:09:08,040
+the world, constantly screaming 
+that familiar refrain. 
+
+189
+00:09:08,240 --> 00:09:10,000
+Tariffs are attacks on consumer.
+Right. 
+
+190
+00:09:10,000 --> 00:09:12,000
+Makes everything more expensive 
+for the average person. 
+
+191
+00:09:12,160 --> 00:09:14,320
+That is, of course, the 
+widespread belief, isn't it? 
+
+192
+00:09:14,320 --> 00:09:17,320
+The tariff just hike prices on 
+everything you buy, hitting your
+
+193
+00:09:17,320 --> 00:09:20,880
+wallet directly. 
+But Abraham pushes back hard on 
+
+194
+00:09:20,880 --> 00:09:22,920
+this, well, this oversimplified 
+view. 
+
+195
+00:09:23,000 --> 00:09:25,920
+He suggests it's maybe a 
+narrative perpetuated without a 
+
+196
+00:09:25,920 --> 00:09:30,400
+full understanding, or maybe 
+even without a Full disclosure 
+
+197
+00:09:30,400 --> 00:09:33,920
+of the complex economic 
+realities actually at play. 
+
+198
+00:09:34,280 --> 00:09:36,800
+Implying it serves certain 
+interests maybe, rather than 
+
+199
+00:09:36,800 --> 00:09:39,280
+presenting the whole picture. 
+And Abraham doesn't actually 
+
+200
+00:09:39,280 --> 00:09:42,000
+outright deny the basic truth of
+the media's claim. 
+
+201
+00:09:42,160 --> 00:09:45,920
+He acknowledges that, well, yes,
+tariffs are technically a tax on
+
+202
+00:09:45,920 --> 00:09:47,520
+imports. 
+That's just factual. 
+
+203
+00:09:47,960 --> 00:09:50,800
+And he concedes that they 
+certainly hit the wholesalers 
+
+204
+00:09:50,800 --> 00:09:53,000
+and the importers first, right 
+there at the border. 
+
+205
+00:09:53,320 --> 00:09:56,440
+Some of that cost absolutely can
+be passed on to consumers. 
+
+206
+00:09:56,480 --> 00:09:59,120
+That's a partial truth, an 
+undeniable economic mechanism. 
+
+207
+00:09:59,800 --> 00:10:03,040
+But here's the part Abraham 
+claims nobody bothers to say. 
+
+208
+00:10:03,040 --> 00:10:05,280
+And it's a really crucial 
+counterpoint to the prevailing 
+
+209
+00:10:05,280 --> 00:10:08,080
+narrative. 
+Companies also eat it. 
+
+210
+00:10:08,120 --> 00:10:10,320
+Their profit margins take the 
+hit. 
+
+211
+00:10:11,240 --> 00:10:13,000
+OK, So it's not just consumers 
+paying? 
+
+212
+00:10:13,200 --> 00:10:15,800
+That's his core assertion here. 
+It's a significant 1. 
+
+213
+00:10:16,000 --> 00:10:19,560
+He isn't just talking about some
+minor adjustment, he's implying 
+
+214
+00:10:19,560 --> 00:10:22,840
+A fundamental shift in where the
+actual burden lands. 
+
+215
+00:10:23,040 --> 00:10:25,840
+Does he give examples? 
+He points to very specific 
+
+216
+00:10:25,840 --> 00:10:31,160
+examples asserting that the 
+endless 400% markups on Chinese 
+
+217
+00:10:31,160 --> 00:10:35,280
+junk gone. 400% markups. 
+Wow. 
+
+218
+00:10:35,680 --> 00:10:38,440
+Think about the current business
+model for a lot of importers, 
+
+219
+00:10:38,440 --> 00:10:41,240
+right? 
+They source incredibly cheap 
+
+220
+00:10:41,240 --> 00:10:44,640
+goods from overseas, often from 
+countries with lower labor 
+
+221
+00:10:44,640 --> 00:10:47,920
+costs, maybe less stringent 
+environmental rules than they 
+
+222
+00:10:47,920 --> 00:10:50,480
+sell them in Western markets 
+with these enormous markups. 
+
+223
+00:10:50,480 --> 00:10:53,760
+Which generates huge profits. 
+Huge profits which ultimately 
+
+224
+00:10:53,760 --> 00:10:57,520
+benefit shareholders. 
+Abraham argues that tariffs bite
+
+225
+00:10:57,520 --> 00:11:00,000
+directly into these sacred 
+shareholder returns. 
+
+226
+00:11:00,000 --> 00:11:02,200
+Suddenly the people who have 
+been profiting off your 
+
+227
+00:11:02,200 --> 00:11:04,960
+consumption for decades by 
+importing these cheap goods at 
+
+228
+00:11:04,960 --> 00:11:07,600
+massive markups, they have to 
+bleed a little. 
+
+229
+00:11:07,600 --> 00:11:10,240
+As he puts it, they lose some of
+their inflated margins. 
+
+230
+00:11:10,240 --> 00:11:12,640
+So this wood forest them to 
+either absorb the cost. 
+
+231
+00:11:12,640 --> 00:11:14,400
+Or reduce their profit 
+expectations. 
+
+232
+00:11:14,400 --> 00:11:17,480
+Or maybe find more efficient, 
+perhaps even domestic supply 
+
+233
+00:11:17,480 --> 00:11:19,840
+chains, which is another part of
+his argument we'll get to. 
+
+234
+00:11:20,080 --> 00:11:22,720
+And his reaction to the 
+shareholder complaints? 
+
+235
+00:11:22,760 --> 00:11:25,800
+His dismissal of the common 
+outcry from shareholders is 
+
+236
+00:11:26,280 --> 00:11:28,560
+quite provocative. 
+He just states, Oh no, the 
+
+237
+00:11:28,560 --> 00:11:30,880
+shareholders cry good, cry 
+harder. 
+
+238
+00:11:31,160 --> 00:11:34,360
+OK, so that's pretty blunt. 
+Yeah, it's not just an economic 
+
+239
+00:11:34,360 --> 00:11:37,280
+argument at this point. 
+It's a very direct, almost a 
+
+240
+00:11:37,280 --> 00:11:39,280
+moral challenge to the current 
+system. 
+
+241
+00:11:39,840 --> 00:11:43,400
+He's suggesting that excessive 
+corporate profit has been built 
+
+242
+00:11:43,400 --> 00:11:47,000
+on the back of these cheap 
+imports, and tariffs serve as a 
+
+243
+00:11:47,000 --> 00:11:50,440
+necessary rebalancing agent. 
+Forcing a redistribution of the 
+
+244
+00:11:50,440 --> 00:11:53,920
+economic impact, moving it away 
+from just the consumer, or at 
+
+245
+00:11:53,920 --> 00:11:56,640
+least sharing that impact more 
+directly with corporate profits 
+
+246
+00:11:56,640 --> 00:11:59,360
+and shareholder returns. 
+Exactly, that's the crux of his 
+
+247
+00:11:59,360 --> 00:12:02,440
+counter narrative. 
+So given Abraham's argument for 
+
+248
+00:12:02,440 --> 00:12:05,520
+tariffs as this viable, maybe 
+even necessary funding 
+
+249
+00:12:05,520 --> 00:12:08,840
+mechanism, one that he says 
+primarily hits corporate 
+
+250
+00:12:08,840 --> 00:12:12,120
+profits, not just consumers, he 
+then raises a really pointed 
+
+251
+00:12:12,120 --> 00:12:15,080
+critique. 
+Why aren't American socialists 
+
+252
+00:12:15,080 --> 00:12:18,960
+the very people who ostensibly 
+desire these vast social 
+
+253
+00:12:18,960 --> 00:12:20,640
+programs? 
+Why aren't they embracing 
+
+254
+00:12:20,640 --> 00:12:22,760
+tariffs? 
+Yeah, if it's the solution, why 
+
+255
+00:12:22,760 --> 00:12:24,320
+the resistance? 
+Exactly. 
+
+256
+00:12:24,600 --> 00:12:27,960
+This is where Abraham introduces
+this idea of performance versus 
+
+257
+00:12:27,960 --> 00:12:31,200
+genuine commitment. 
+He claims, First off, that the 
+
+258
+00:12:31,200 --> 00:12:35,000
+very word tariff has been 
+poisoned by politics. 
+
+259
+00:12:35,560 --> 00:12:36,880
+By the political dimension, 
+right. 
+
+260
+00:12:36,880 --> 00:12:39,640
+Particularly due to its strong 
+association with figures like 
+
+261
+00:12:39,640 --> 00:12:43,840
+Donald Trump, it's become so 
+ideologically charged that for 
+
+262
+00:12:43,840 --> 00:12:46,960
+many people, it's just instantly
+dismissed, regardless of its 
+
+263
+00:12:46,960 --> 00:12:49,320
+potential economic or societal 
+merits. 
+
+264
+00:12:49,320 --> 00:12:51,920
+It becomes an automatic 
+rejection based on partisan 
+
+265
+00:12:51,920 --> 00:12:53,200
+affiliation. 
+Almost. 
+
+266
+00:12:53,240 --> 00:12:56,800
+That's what he seems to suggest.
+But beyond just that political 
+
+267
+00:12:56,800 --> 00:13:00,720
+poisoning, Abraham goes deeper. 
+He delves into what he sees as a
+
+268
+00:13:00,720 --> 00:13:04,080
+fundamental contradiction in the
+desires of many who claim to 
+
+269
+00:13:04,080 --> 00:13:08,080
+want this socialist utopia. 
+OK, he argues, that most people 
+
+270
+00:13:08,080 --> 00:13:10,320
+don't actually want the 
+socialist utopia they claim to 
+
+271
+00:13:10,320 --> 00:13:11,560
+want. 
+They want to want. 
+
+272
+00:13:11,560 --> 00:13:13,520
+It they want to want it, what 
+does that mean? 
+
+273
+00:13:13,880 --> 00:13:17,360
+It means, he suggests, they like
+the feeling of wanting it, of 
+
+274
+00:13:17,360 --> 00:13:19,200
+caring, of being on the good 
+team. 
+
+275
+00:13:19,880 --> 00:13:22,520
+It implies this significant 
+disconnect between the 
+
+276
+00:13:22,520 --> 00:13:25,640
+aspiration and the actual 
+willingness to make genuine 
+
+277
+00:13:25,640 --> 00:13:28,480
+sacrifices or accept 
+uncomfortable trade-offs. 
+
+278
+00:13:28,480 --> 00:13:29,560
+Because those trade-offs might 
+be. 
+
+279
+00:13:29,720 --> 00:13:33,000
+Well, because simultaneously, 
+people also profoundly like, 
+
+280
+00:13:33,960 --> 00:13:37,400
+they're cheap Amazon crap. 
+They're $99 homage watches, 
+
+281
+00:13:37,400 --> 00:13:40,440
+they're fast fashion, they're 
+three-year car leases. 
+
+282
+00:13:40,440 --> 00:13:42,480
+The stuff tariffs might make 
+more expensive. 
+
+283
+00:13:42,480 --> 00:13:44,680
+Precisely. 
+And also things like their 401 
+
+284
+00:13:44,680 --> 00:13:47,960
+KS, their stock portfolios and 
+their ever growing personal 
+
+285
+00:13:47,960 --> 00:13:51,000
+investments. 
+So personal wealths tied into 
+
+286
+00:13:51,000 --> 00:13:52,680
+the current system. 
+Exactly. 
+
+287
+00:13:52,680 --> 00:13:55,640
+You know 401K stock portfolios. 
+These are personal retirement 
+
+288
+00:13:55,640 --> 00:13:59,440
+and investment assets, right? 
+They often benefit directly from
+
+289
+00:13:59,440 --> 00:14:02,840
+the existing globalized economic
+model that delivers those cheap 
+
+290
+00:14:02,840 --> 00:14:06,640
+goods and consequently high 
+corporate profits, which boost 
+
+291
+00:14:06,640 --> 00:14:09,560
+stock values. 
+So there's a deep ingrained 
+
+292
+00:14:09,560 --> 00:14:12,800
+attachment to the current 
+consumer driven economy and the 
+
+293
+00:14:12,800 --> 00:14:15,040
+personal wealth and convenience 
+it enables. 
+
+294
+00:14:15,160 --> 00:14:16,680
+Right. 
+So what does this all mean 
+
+295
+00:14:16,680 --> 00:14:19,040
+according to Abraham? 
+He suggests this fundamental 
+
+296
+00:14:19,040 --> 00:14:21,960
+contradiction is at play, a 
+preference for the performance 
+
+297
+00:14:21,960 --> 00:14:24,360
+of caring without the pain of 
+actually changing anything. 
+
+298
+00:14:24,440 --> 00:14:27,080
+Ouch, that's a sharp critique. 
+It is. 
+
+299
+00:14:27,560 --> 00:14:31,800
+It's about wanting the perceived
+moral high ground of advocating 
+
+300
+00:14:31,800 --> 00:14:35,600
+for social programs, but without
+being willing to endure the real
+
+301
+00:14:35,600 --> 00:14:38,640
+World Economic adjustments that 
+might be necessary to fund them.
+
+302
+00:14:39,240 --> 00:14:42,320
+Specifically, adjustments that 
+impact personal consumption 
+
+303
+00:14:42,320 --> 00:14:45,320
+habits or maybe even those 
+investment portfolios. 
+
+304
+00:14:45,720 --> 00:14:48,480
+So it's an uncomfortable 
+observation, perhaps, about the 
+
+305
+00:14:48,480 --> 00:14:52,520
+gap between our rhetoric and the
+tangible realities of policy 
+
+306
+00:14:52,520 --> 00:14:54,640
+implementation. 
+That's exactly how he frames it,
+
+307
+00:14:54,680 --> 00:14:57,880
+a gap between wanting the 
+outcome and accepting the means.
+
+308
+00:14:57,960 --> 00:14:59,720
+OK. 
+So if we connect this argument 
+
+309
+00:14:59,720 --> 00:15:02,480
+now to the bigger picture, 
+Abraham brings in this really 
+
+310
+00:15:02,480 --> 00:15:06,200
+fascinating and I think pivotal 
+concept from someone named Mark 
+
+311
+00:15:06,200 --> 00:15:07,960
+Wayne Harrison. 
+Mark Wayne Harrison, OK. 
+
+312
+00:15:08,320 --> 00:15:11,440
+Yes, and Abraham even has this 
+little aside joking about 
+
+313
+00:15:11,440 --> 00:15:13,920
+Harrison's middle name and his 
+playful aversion to it. 
+
+314
+00:15:13,920 --> 00:15:17,320
+But the point Harrison makes, 
+which Abraham leans on super 
+
+315
+00:15:17,320 --> 00:15:21,040
+heavily, is profound. 
+Harrison states that you can 
+
+316
+00:15:21,040 --> 00:15:24,600
+innovate energy to near 0 cost, 
+but you can't innovate 
+
+317
+00:15:24,600 --> 00:15:26,720
+materials. 
+Energy versus materials. 
+
+318
+00:15:26,840 --> 00:15:30,000
+OK, explain that distinction. 
+This distinction is critical, 
+
+319
+00:15:30,000 --> 00:15:33,440
+really, to understanding 
+Abraham's full argument for why 
+
+320
+00:15:33,440 --> 00:15:37,640
+tariffs aren't just a funding 
+mechanism, but maybe a necessary
+
+321
+00:15:37,640 --> 00:15:39,120
+systemic adjustment. 
+Right? 
+
+322
+00:15:39,920 --> 00:15:42,560
+So when we talk about energy, 
+Abraham explains this through 
+
+323
+00:15:42,560 --> 00:15:46,760
+Harrison's lens, right? 
+Energy can be scaled, hacked, 
+
+324
+00:15:46,960 --> 00:15:49,720
+solared, winded, naked into 
+abundance. 
+
+325
+00:15:49,720 --> 00:15:51,960
+We see that happening, right? 
+Solar getting cheaper, wind 
+
+326
+00:15:51,960 --> 00:15:53,680
+turbines getting bigger. 
+Exactly. 
+
+327
+00:15:53,680 --> 00:15:56,760
+We've seen incredible 
+advancements in renewable energy
+
+328
+00:15:56,760 --> 00:16:00,040
+tech, solar panels becoming 
+exponentially more efficient and
+
+329
+00:16:00,040 --> 00:16:04,480
+cheaper, wind turbines reaching 
+massive scales, and, you know, 
+
+330
+00:16:04,480 --> 00:16:07,080
+the long term potential of 
+advanced nuclear power. 
+
+331
+00:16:07,920 --> 00:16:11,320
+The conceptual possibility for 
+virtually limitless cheap energy
+
+332
+00:16:11,320 --> 00:16:14,280
+seems potentially within our 
+grasp, at least from a 
+
+333
+00:16:14,280 --> 00:16:16,960
+theoretical standpoint, through 
+technological innovation. 
+
+334
+00:16:16,960 --> 00:16:18,520
+OK. 
+So energy can be innovative, 
+
+335
+00:16:18,520 --> 00:16:21,160
+potentially to abundance. 
+What about materials? 
+
+336
+00:16:21,680 --> 00:16:23,320
+Materials. 
+That's the completely different 
+
+337
+00:16:23,320 --> 00:16:25,040
+story. 
+And this is where Abraham 
+
+338
+00:16:25,040 --> 00:16:27,600
+introduces a pretty sobering 
+reality check. 
+
+339
+00:16:27,800 --> 00:16:30,320
+Materials have to be mined, 
+refined, processed. 
+
+340
+00:16:30,320 --> 00:16:33,000
+They're finite. 
+Finite, unlike energy from the 
+
+341
+00:16:33,000 --> 00:16:36,280
+sun or wind. 
+Precisely unlike energy, which 
+
+342
+00:16:36,280 --> 00:16:38,600
+can be harnessed from flow 
+resources, sun, wind or 
+
+343
+00:16:38,600 --> 00:16:42,960
+transformed like nuclear fission
+materials are stock resources. 
+
+344
+00:16:42,960 --> 00:16:45,720
+They are literally embedded in 
+the Earth's crust. 
+
+345
+00:16:45,720 --> 00:16:47,640
+You have to dig them up. 
+You have to dig them up. 
+
+346
+00:16:47,960 --> 00:16:51,200
+The act of extraction itself is 
+energy intensive as 
+
+347
+00:16:51,200 --> 00:16:54,400
+environmental costs. 
+Abraham uses this striking 
+
+348
+00:16:54,400 --> 00:16:57,680
+analogy to drive this home. 
+We're ants crawling on the 
+
+349
+00:16:57,680 --> 00:16:59,560
+surface of a giant asteroid 
+called. 
+
+350
+00:16:59,640 --> 00:17:03,280
+Earth, that's a vivid image, 
+emphasizes our limited resource.
+
+351
+00:17:03,280 --> 00:17:06,359
+Base it really does and the idea
+of solving this problem by you 
+
+352
+00:17:06,359 --> 00:17:09,200
+know, going off world asteroid 
+mining, Mars mining. 
+
+353
+00:17:09,200 --> 00:17:12,400
+They buy solutions. 
+He quickly dismisses those as 
+
+354
+00:17:12,400 --> 00:17:15,040
+absurd. 
+He argues the cost would be 
+
+355
+00:17:15,040 --> 00:17:16,839
+absurd. 
+The resources required to make 
+
+356
+00:17:16,839 --> 00:17:19,200
+it feasible would dwarf anything
+we'd gain. 
+
+357
+00:17:19,520 --> 00:17:20,920
+So we're stuck with what we have
+here. 
+
+358
+00:17:20,920 --> 00:17:23,079
+The core message is clear and 
+unequivocal. 
+
+359
+00:17:23,319 --> 00:17:25,280
+Earth is it. 
+Earth is the mine. 
+
+360
+00:17:25,720 --> 00:17:28,560
+And while sure, we haven't 
+exhausted all resources yet, 
+
+361
+00:17:28,840 --> 00:17:32,840
+every extraction has a cost, not
+just economic but environmental,
+
+362
+00:17:33,120 --> 00:17:36,440
+and in terms of sheer material 
+availability and the increasing 
+
+363
+00:17:36,440 --> 00:17:38,920
+difficulty of accessing the 
+reserves that are left. 
+
+364
+00:17:39,080 --> 00:17:42,000
+This underlying reality of 
+finite materials. 
+
+365
+00:17:42,160 --> 00:17:46,240
+For Abraham, it's a fundamental 
+constraint that our current 
+
+366
+00:17:46,240 --> 00:17:49,640
+economic models, especially 
+those driven by assumptions of 
+
+367
+00:17:49,640 --> 00:17:53,400
+infinite growth and infinite 
+consumption, simply fail to 
+
+368
+00:17:53,440 --> 00:17:56,240
+adequately address. 
+And building on that really 
+
+369
+00:17:56,240 --> 00:17:59,960
+profound point about the finite 
+nature of materials, Abraham 
+
+370
+00:17:59,960 --> 00:18:03,000
+then drives home the 
+unsustainability of infinite 
+
+371
+00:18:03,000 --> 00:18:05,360
+consumption. 
+He connected directly to our 
+
+372
+00:18:05,360 --> 00:18:07,840
+modern consumer habits. 
+How so? 
+
+373
+00:18:07,840 --> 00:18:10,280
+He uses another insightful 
+example from Mark Harrison. 
+
+374
+00:18:10,640 --> 00:18:13,640
+Harrison apparently half 
+jokingly suggested that if 
+
+375
+00:18:13,640 --> 00:18:17,480
+energy became truly free, like 0
+cost right, we could just build 
+
+376
+00:18:17,480 --> 00:18:20,880
+cheap Tyvek houses for everyone 
+and crank the HVAC year round. 
+
+377
+00:18:20,880 --> 00:18:22,520
+You know, enjoy perpetual 
+comfort. 
+
+378
+00:18:22,600 --> 00:18:25,960
+Sounds nice, if a bit wasteful. 
+Maybe a comfortable dream? 
+
+379
+00:18:26,240 --> 00:18:28,800
+It does sound like a fantastic, 
+futuristic, comfortable dream, 
+
+380
+00:18:28,800 --> 00:18:30,680
+doesn't it? 
+But then comes the critical 
+
+381
+00:18:30,680 --> 00:18:33,240
+question, the one designed to 
+puncture that illusion of 
+
+382
+00:18:33,240 --> 00:18:35,720
+limitless material abundance. 
+OK, what's the catch? 
+
+383
+00:18:36,240 --> 00:18:40,360
+The question is, where do the 9 
+billion HVAC units come from? 
+
+384
+00:18:40,760 --> 00:18:43,280
+Where does the copper, the 
+steel, the plastics, the 
+
+385
+00:18:43,280 --> 00:18:46,280
+refrigerants, the infrastructure
+for a global grid come from? 
+
+386
+00:18:47,240 --> 00:18:50,360
+The physical stuff. 
+Exactly this illustrates the 
+
+387
+00:18:50,360 --> 00:18:52,600
+core dilemma. 
+Even if energy became 
+
+388
+00:18:52,600 --> 00:18:55,880
+effectively free, the physical 
+components required for 
+
+389
+00:18:55,880 --> 00:18:58,560
+universal comfort, for 
+widespread technological 
+
+390
+00:18:58,560 --> 00:19:02,320
+advancement, for a truly global 
+standard of living, they still 
+
+391
+00:19:02,320 --> 00:19:06,480
+fundamentally rely on finite 
+physical material resources. 
+
+392
+00:19:06,480 --> 00:19:09,520
+You can't just 3D print more 
+copper out of thin air. 
+
+393
+00:19:09,560 --> 00:19:12,720
+You can't just print more copper
+or manufacture more rare earth 
+
+394
+00:19:12,720 --> 00:19:15,040
+elements. 
+Abraham's conclusion from this 
+
+395
+00:19:15,040 --> 00:19:17,200
+is stark and he argues 
+undeniable. 
+
+396
+00:19:17,840 --> 00:19:20,680
+Energy can be free, but 
+materials never will be. 
+
+397
+00:19:20,800 --> 00:19:22,760
+That's the heart of it. 
+You can't have infinite 
+
+398
+00:19:22,760 --> 00:19:25,560
+consumption. 
+Exactly this directly challenges
+
+399
+00:19:25,560 --> 00:19:28,360
+the very foundation of the 
+current economic paradigm, which
+
+400
+00:19:28,360 --> 00:19:32,280
+often implicitly assumes endless
+growth and endless resource 
+
+401
+00:19:32,280 --> 00:19:35,600
+availability for an ever growing
+global population with ever 
+
+402
+00:19:35,600 --> 00:19:38,480
+increasing consumption demands. 
+And he links this to specific 
+
+403
+00:19:38,480 --> 00:19:41,280
+things. 
+Yeah, Abraham points to very 
+
+404
+00:19:41,280 --> 00:19:45,160
+specific, relatable examples of 
+this infinite crap, as he calls 
+
+405
+00:19:45,160 --> 00:19:48,240
+it, that we're just inundated 
+with infinite T, new orders, 
+
+406
+00:19:48,480 --> 00:19:52,280
+infinite Aliexpress trinkets, 
+infinite Sheen, fast fashion. 
+
+407
+00:19:52,480 --> 00:19:54,560
+Things designed to be cheap and 
+disposable. 
+
+408
+00:19:54,800 --> 00:19:58,400
+Precisely products designed to 
+be cheap, disposable, and 
+
+409
+00:19:58,400 --> 00:20:01,600
+constantly replaced, fueling 
+this relentless cycle of 
+
+410
+00:20:01,600 --> 00:20:04,920
+consumption that, according to 
+Abraham, is fundamentally 
+
+411
+00:20:04,920 --> 00:20:07,880
+unsustainable. 
+Is that the basic math of finite
+
+412
+00:20:07,880 --> 00:20:10,560
+materials just? 
+Doesn't work in the long run. 
+
+413
+00:20:10,720 --> 00:20:13,720
+It's a powerful argument against
+the current global supply chain 
+
+414
+00:20:13,720 --> 00:20:15,960
+model, isn't it? 
+The one that prioritizes rock 
+
+415
+00:20:15,960 --> 00:20:20,400
+bottom costs and high volume 
+over durability, Quality, maybe 
+
+416
+00:20:20,400 --> 00:20:23,600
+long term sustainability. 
+Absolutely highlighting how our 
+
+417
+00:20:23,600 --> 00:20:27,640
+addiction to cheap, disposable 
+goods is in direct, unavoidable 
+
+418
+00:20:27,640 --> 00:20:29,720
+conflict with the planet's 
+material limits. 
+
+419
+00:20:29,720 --> 00:20:32,320
+And this is precisely where 
+tariffs come back into play. 
+
+420
+00:20:32,320 --> 00:20:35,360
+Within Abraham's larger 
+framework, they serve as what he
+
+421
+00:20:35,360 --> 00:20:39,040
+describes as a necessary break 
+on this well, this insanity of 
+
+422
+00:20:39,040 --> 00:20:42,520
+infinite a break. 
+OK, the argument is that Terrace
+
+423
+00:20:42,520 --> 00:20:44,600
+don't just generate revenue for 
+the state. 
+
+424
+00:20:44,600 --> 00:20:47,640
+They fundamentally alter 
+consumer behavior and market 
+
+425
+00:20:47,640 --> 00:20:51,080
+dynamics in a way that he argues
+aligns with the reality of 
+
+426
+00:20:51,080 --> 00:20:53,120
+finite materials. 
+How do they work as a break 
+
+427
+00:20:53,640 --> 00:20:56,520
+specifically? 
+Well, by making imported goods 
+
+428
+00:20:56,520 --> 00:20:59,960
+more expensive because, as 
+Abraham argues, those increased 
+
+429
+00:20:59,960 --> 00:21:03,680
+costs bite into corporate profit
+margins, which in turn might 
+
+430
+00:21:03,680 --> 00:21:06,880
+necessitate some increase in 
+consumer price or at least a re 
+
+431
+00:21:06,880 --> 00:21:11,040
+evaluation of product sourcing. 
+They make you think twice before
+
+432
+00:21:11,040 --> 00:21:13,320
+buying another piece of 
+disposable junk. 
+
+433
+00:21:13,320 --> 00:21:15,200
+So it's not just about 
+collecting duties. 
+
+434
+00:21:15,200 --> 00:21:18,480
+No, it's about discouraging that
+culture of disposability, 
+
+435
+00:21:18,480 --> 00:21:22,320
+planned obsolescence, the 
+endless acquisition of low 
+
+436
+00:21:22,320 --> 00:21:26,280
+quality fleeting trends. 
+And beyond just slowing 
+
+437
+00:21:26,280 --> 00:21:28,520
+consumption. 
+Tariffs, according to Abraham, 
+
+438
+00:21:28,520 --> 00:21:30,840
+also make domestic products 
+competitive. 
+
+439
+00:21:30,840 --> 00:21:32,760
+Again, the protectionist angle. 
+Right. 
+
+440
+00:21:33,000 --> 00:21:36,200
+If imported goods, particularly 
+the cheap ones, become more 
+
+441
+00:21:36,200 --> 00:21:39,560
+expensive due to tariffs, then 
+locally manufactured structured 
+
+442
+00:21:39,560 --> 00:21:41,920
+alternatives become 
+comparatively more attractive, 
+
+443
+00:21:41,920 --> 00:21:44,280
+more economically viable. 
+Which could mean jobs. 
+
+444
+00:21:44,560 --> 00:21:47,520
+Exactly. 
+This fosters the revitalization 
+
+445
+00:21:47,520 --> 00:21:50,480
+of local industries and creates 
+domestic jobs that were often 
+
+446
+00:21:50,480 --> 00:21:53,560
+outsourced precisely to achieve 
+those lower production costs 
+
+447
+00:21:53,560 --> 00:21:56,520
+overseas. 
+This, in turn, Abraham suggests,
+
+448
+00:21:57,240 --> 00:21:59,320
+encourages quality. 
+How does encourage quality? 
+
+449
+00:21:59,480 --> 00:22:02,920
+Well, the idea is when domestic 
+producers are competing in a 
+
+450
+00:22:02,920 --> 00:22:06,280
+market where super cheap imports
+are less dominant, they can 
+
+451
+00:22:06,280 --> 00:22:10,280
+focus on creating more durable, 
+higher value products. 
+
+452
+00:22:10,680 --> 00:22:13,080
+They can differentiate 
+themselves not just on rock 
+
+453
+00:22:13,080 --> 00:22:15,800
+bottom price, but on longevity, 
+on craftsmanship. 
+
+454
+00:22:15,800 --> 00:22:17,640
+Which would then discourage the 
+landfill culture. 
+
+455
+00:22:17,760 --> 00:22:20,040
+Exactly. 
+It naturally discourages 
+
+456
+00:22:20,040 --> 00:22:23,400
+landfill culture by making 
+cheap, throwaway items less 
+
+457
+00:22:23,400 --> 00:22:26,160
+appealing and maybe 
+incentivizing consumers to 
+
+458
+00:22:26,160 --> 00:22:28,200
+invest in goods that actually 
+last longer. 
+
+459
+00:22:28,200 --> 00:22:31,000
+And it still funds the state. 
+And most importantly for the 
+
+460
+00:22:31,000 --> 00:22:35,200
+core argument of funding social 
+services, they fund the state 
+
+461
+00:22:35,200 --> 00:22:37,920
+without touching your paycheck. 
+This circles back to that 
+
+462
+00:22:37,920 --> 00:22:41,440
+earlier point about tariffs 
+being a clean and simple revenue
+
+463
+00:22:41,440 --> 00:22:44,720
+stream, one that avoids the 
+pitfalls of directly taxing 
+
+464
+00:22:44,720 --> 00:22:47,800
+individuals or corporations that
+can easily move their wealth. 
+
+465
+00:22:48,080 --> 00:22:51,120
+So Terrace become this 
+multifaceted solution, in his 
+
+466
+00:22:51,120 --> 00:22:54,240
+view, addressing material 
+limits, promoting sustainable 
+
+467
+00:22:54,240 --> 00:22:57,560
+consumption, supporting domestic
+industries, and funding social 
+
+468
+00:22:57,560 --> 00:23:00,600
+programs all at once. 
+That's the comprehensive picture
+
+469
+00:23:00,600 --> 00:23:02,640
+he paints. 
+Abraham then tries to illustrate
+
+470
+00:23:02,640 --> 00:23:05,720
+this point further right. 
+He shares a personal anecdote 
+
+471
+00:23:05,720 --> 00:23:09,000
+from his time living in Germany,
+an observation that really tries
+
+472
+00:23:09,000 --> 00:23:11,560
+to bring this tariff model to 
+life for you. 
+
+473
+00:23:11,760 --> 00:23:15,720
+Our listener offers a real world
+example, maybe of how these 
+
+474
+00:23:15,720 --> 00:23:17,840
+principles can play out in a 
+developed economy. 
+
+475
+00:23:18,000 --> 00:23:20,680
+Yeah, his experience there. 
+He observes something quite 
+
+476
+00:23:20,680 --> 00:23:24,280
+distinct, he says. 
+Food dirt cheap and locally 
+
+477
+00:23:24,280 --> 00:23:25,800
+sourced. 
+Delicious. 
+
+478
+00:23:25,880 --> 00:23:28,480
+OK, so good affordable local 
+food. 
+
+479
+00:23:28,480 --> 00:23:32,280
+Which strongly suggests a robust
+domestic agricultural sector, 
+
+480
+00:23:32,440 --> 00:23:34,840
+probably protected and 
+prioritized through policy, 
+
+481
+00:23:34,960 --> 00:23:36,840
+right? 
+But then comes the striking 
+
+482
+00:23:36,840 --> 00:23:39,600
+contrast. 
+But everything else, Furniture, 
+
+483
+00:23:39,600 --> 00:23:42,120
+electronics, clothes, was 
+expensive. 
+
+484
+00:23:42,520 --> 00:23:45,320
+So not everything was cheap. 
+No, and this isn't just 
+
+485
+00:23:45,320 --> 00:23:46,960
+presented as a casual 
+observation. 
+
+486
+00:23:47,120 --> 00:23:50,120
+It's framed as a direct, 
+tangible consequence of the 
+
+487
+00:23:50,120 --> 00:23:52,040
+economic policies they had in 
+place. 
+
+488
+00:23:52,200 --> 00:23:54,480
+And why was that the case, 
+According to him? 
+
+489
+00:23:54,680 --> 00:23:58,000
+Abraham explains because of 
+tariffs, because of VAT, because
+
+490
+00:23:58,000 --> 00:24:01,760
+imports were a free for all. 
+VAT remind us what that is 
+
+491
+00:24:01,760 --> 00:24:04,160
+right? 
+VAT is value added tax. 
+
+492
+00:24:04,400 --> 00:24:08,200
+It's a consumption tax common in
+Europe, levied at each stage of 
+
+493
+00:24:08,200 --> 00:24:11,280
+production and distribution. 
+So it's not just import duties 
+
+494
+00:24:11,280 --> 00:24:14,760
+hitting at the border, but a 
+broader tax on consumption that 
+
+495
+00:24:14,760 --> 00:24:17,440
+also discourages disposable 
+goods throughout the chain. 
+
+496
+00:24:17,560 --> 00:24:21,160
+So a deliberate policy choice 
+then, to protect their domestic 
+
+497
+00:24:21,160 --> 00:24:23,800
+markets from a flood of cheap 
+foreign stuff? 
+
+498
+00:24:23,800 --> 00:24:26,800
+That's how he presents it, and 
+it aligns it's perfectly with 
+
+499
+00:24:26,800 --> 00:24:29,320
+his argument about slowing the 
+turn of materials. 
+
+500
+00:24:29,800 --> 00:24:33,600
+And this protection, according 
+to Abraham, is precisely how 
+
+501
+00:24:33,600 --> 00:24:36,240
+they fund their services. 
+That's how they keep domestic 
+
+502
+00:24:36,240 --> 00:24:39,240
+industries alive. 
+It's a strategic, integrated 
+
+503
+00:24:39,240 --> 00:24:41,000
+approach he's describing. 
+Exactly. 
+
+504
+00:24:41,120 --> 00:24:43,680
+Germany, Abraham argues, doesn't
+want wash back. 
+
+505
+00:24:43,920 --> 00:24:47,040
+They want to sell Mercedes and 
+BMW's to the world, not absorb 
+
+506
+00:24:47,040 --> 00:24:48,800
+an endless flood of cheap goods.
+Right. 
+
+507
+00:24:48,800 --> 00:24:51,160
+Export high value stuff, manage 
+the import. 
+
+508
+00:24:51,160 --> 00:24:53,680
+Precisely, they prioritize 
+exporting high value 
+
+509
+00:24:53,680 --> 00:24:57,160
+manufactured goods that command 
+premium prices globally while 
+
+510
+00:24:57,160 --> 00:25:00,320
+carefully managing imports to 
+protect their internal market 
+
+511
+00:25:00,640 --> 00:25:03,240
+and implicitly, their resource 
+base. 
+
+512
+00:25:03,720 --> 00:25:06,360
+And he sees this elsewhere, too.
+Yeah, he extends this 
+
+513
+00:25:06,360 --> 00:25:08,960
+observation to other 
+sophisticated European nations, 
+
+514
+00:25:08,960 --> 00:25:11,080
+stating same with Italy, with 
+France. 
+
+515
+00:25:11,400 --> 00:25:14,920
+They sell wine, cheese, 
+Ferraris, olive oil, and they 
+
+516
+00:25:14,920 --> 00:25:17,240
+protect their markets. 
+They export value. 
+
+517
+00:25:17,360 --> 00:25:20,440
+They don't import junk. 
+And the crucial link back to the
+
+518
+00:25:20,440 --> 00:25:23,080
+main topic. 
+He makes it explicit, and the 
+
+519
+00:25:23,080 --> 00:25:26,080
+revenue from those protective 
+measures underwrites the social 
+
+520
+00:25:26,080 --> 00:25:28,320
+services Americans claim to 
+admire. 
+
+521
+00:25:28,840 --> 00:25:31,240
+He's suggesting a direct 
+correlation between these 
+
+522
+00:25:31,240 --> 00:25:35,000
+protectionist trade policies, 
+tariffs, consumption taxes like 
+
+523
+00:25:35,000 --> 00:25:38,680
+VAT, and the successful funding 
+of comprehensive social safety 
+
+524
+00:25:38,680 --> 00:25:41,240
+Nets and a higher quality of 
+domestic production. 
+
+525
+00:25:41,400 --> 00:25:44,120
+But as Abraham points out, here 
+in the US, the conversation 
+
+526
+00:25:44,120 --> 00:25:46,280
+often just stops. 
+It dies. 
+
+527
+00:25:46,400 --> 00:25:46,920
+Yeah. 
+Why? 
+
+528
+00:25:47,200 --> 00:25:50,160
+He argues it's because a 
+particular political figure, 
+
+529
+00:25:50,160 --> 00:25:54,640
+Trump, said the word tariff 1st 
+and for half the country that 
+
+530
+00:25:54,640 --> 00:25:57,000
+means it's evil. 
+Back to the political. 
+
+531
+00:25:57,000 --> 00:25:57,960
+Poison. 
+Exactly. 
+
+532
+00:25:58,000 --> 00:26:00,400
+It's presented as the 
+significant, almost 
+
+533
+00:26:00,440 --> 00:26:04,280
+insurmountable political hurdle,
+a chilling effect on rational 
+
+534
+00:26:04,280 --> 00:26:07,080
+discourse that prevents A 
+genuine examination of the 
+
+535
+00:26:07,080 --> 00:26:09,640
+policies actual merits. 
+He has a name for this, right? 
+
+536
+00:26:09,840 --> 00:26:11,920
+Yeah, Abraham labels this 
+phenomenon. 
+
+537
+00:26:11,920 --> 00:26:15,600
+The original Trump Derangement 
+Syndrome defined it basically as
+
+538
+00:26:16,160 --> 00:26:18,320
+if he's for it, you must be 
+against it. 
+
+539
+00:26:18,560 --> 00:26:20,000
+Even if it might achieve your 
+goals. 
+
+540
+00:26:20,120 --> 00:26:22,840
+Even if it's the only thing that
+could make your dreams come 
+
+541
+00:26:22,840 --> 00:26:25,160
+true. 
+Now, just to be clear, this 
+
+542
+00:26:25,160 --> 00:26:28,280
+isn't us endorsing that term or 
+any political figure. 
+
+543
+00:26:28,280 --> 00:26:30,480
+No, of course not. 
+We're reporting Abraham's 
+
+544
+00:26:30,480 --> 00:26:31,680
+observation. 
+Right. 
+
+545
+00:26:31,960 --> 00:26:36,000
+It's Abraham's keen observation 
+of how partisan association with
+
+546
+00:26:36,000 --> 00:26:39,960
+a policy can, in his view, 
+automatically disqualify it for 
+
+547
+00:26:39,960 --> 00:26:43,200
+many people, regardless of its 
+inherent efficacy or its 
+
+548
+00:26:43,200 --> 00:26:45,760
+potential to achieve those 
+stated social goals. 
+
+549
+00:26:46,160 --> 00:26:48,960
+See becomes less about its 
+economic impact and more about 
+
+550
+00:26:49,200 --> 00:26:52,440
+like tribal political identity. 
+That's the dynamic he's 
+
+551
+00:26:52,440 --> 00:26:55,000
+describing. 
+And Abraham then presents this 
+
+552
+00:26:55,000 --> 00:26:58,320
+really stark choice that he 
+believes many people are making,
+
+553
+00:26:58,360 --> 00:27:01,320
+maybe unconsciously, perhaps 
+partly due to this political 
+
+554
+00:27:01,320 --> 00:27:02,480
+poisoning. 
+What's the choice? 
+
+555
+00:27:02,760 --> 00:27:05,640
+He claims that people choose 
+their cheap fast fashion over 
+
+556
+00:27:05,640 --> 00:27:07,920
+their free healthcare. 
+They choose their disposable 
+
+557
+00:27:07,920 --> 00:27:11,240
+culture over universal college. 
+They choose to protect their 
+
+558
+00:27:11,240 --> 00:27:14,400
+portfolios instead of actually 
+funding the services they say 
+
+559
+00:27:14,400 --> 00:27:16,920
+they care about. 
+Wow, that's a very direct 
+
+560
+00:27:16,920 --> 00:27:19,240
+accusation. 
+Extremely direct, he's saying 
+
+561
+00:27:19,240 --> 00:27:22,240
+that the perceived convenience 
+and the immediate gratification 
+
+562
+00:27:22,240 --> 00:27:25,440
+of cheap consumer goods, along 
+with, you know, safeguarding 
+
+563
+00:27:25,440 --> 00:27:28,160
+personal financial investments 
+that often thrive in the current
+
+564
+00:27:28,160 --> 00:27:31,720
+globalized system. 
+These things are implicitly 
+
+565
+00:27:31,720 --> 00:27:36,120
+prioritized over the long term 
+structural changes required to 
+
+566
+00:27:36,120 --> 00:27:38,600
+fund comprehensive social 
+services. 
+
+567
+00:27:39,080 --> 00:27:42,560
+Implying a deep seated 
+resistance to discomfort or 
+
+568
+00:27:42,560 --> 00:27:45,040
+change. 
+Even when that change might lead
+
+569
+00:27:45,040 --> 00:27:48,240
+directly to the very societal 
+benefits that are loudly 
+
+570
+00:27:48,240 --> 00:27:51,080
+advocated for. 
+So the political landscape 
+
+571
+00:27:51,080 --> 00:27:54,280
+poisoned by these partisan 
+associations becomes, in his 
+
+572
+00:27:54,280 --> 00:27:57,680
+view, the ultimate barrier to 
+implementing what he sees as the
+
+573
+00:27:57,720 --> 00:28:01,320
+only viable funding mechanism 
+for a genuinely progressive 
+
+574
+00:28:01,320 --> 00:28:04,240
+social agenda. 
+OK, so let's be absolutely clear
+
+575
+00:28:04,240 --> 00:28:06,040
+here. 
+Abraham's not suggesting that 
+
+576
+00:28:06,040 --> 00:28:07,880
+tariffs are some kind of magic 
+bullet, right? 
+
+577
+00:28:07,880 --> 00:28:10,640
+No consequences that they'll 
+make this pursuit of a socialist
+
+578
+00:28:10,680 --> 00:28:13,240
+society totally painless. 
+No, not at all. 
+
+579
+00:28:13,240 --> 00:28:16,000
+Quite the contrary, he's very 
+upfront about the unavoidable 
+
+580
+00:28:16,000 --> 00:28:18,680
+sacrifices that would inevitably
+come with such a policy shift. 
+
+581
+00:28:18,760 --> 00:28:20,920
+How so? 
+Tariffs won't make socialism 
+
+582
+00:28:20,920 --> 00:28:24,720
+painless, he states directly. 
+And you as the consumer would 
+
+583
+00:28:24,720 --> 00:28:26,480
+definitely feel it in your daily
+life. 
+
+584
+00:28:27,040 --> 00:28:29,600
+Prices will rise, he 
+acknowledges without any 
+
+585
+00:28:29,600 --> 00:28:32,400
+equivocation. 
+So that cheap Amazon stuff, the 
+
+586
+00:28:32,400 --> 00:28:34,920
+fast fashion. 
+That incredibly cheap Amazon 
+
+587
+00:28:34,920 --> 00:28:37,480
+trinket or the latest fast 
+fashion outfit you're maybe 
+
+588
+00:28:37,480 --> 00:28:41,320
+accustomed to buying on a whim? 
+That easy, constant acquisition 
+
+589
+00:28:41,320 --> 00:28:44,840
+of new disposable items would 
+likely largely disappear or 
+
+590
+00:28:44,840 --> 00:28:47,920
+become significantly more 
+expensive, Abraham notes. 
+
+591
+00:28:47,920 --> 00:28:50,880
+Very pointedly, you won't be 
+able to fill your house with 
+
+592
+00:28:50,880 --> 00:28:53,880
+disposable junk. 
+That's a direct tangible trade 
+
+593
+00:28:53,880 --> 00:28:56,960
+off then a higher cost for 
+consumer goods, less cheap 
+
+594
+00:28:56,960 --> 00:28:57,360
+stuff. 
+A. 
+
+595
+00:28:57,360 --> 00:29:00,360
+Reduction in the sheer volume of
+cheap material possessions? 
+
+596
+00:29:00,360 --> 00:29:03,440
+Yes, in exchange for something 
+else, namely comprehensive 
+
+597
+00:29:03,440 --> 00:29:06,000
+social services. 
+It's a candid admission that the
+
+598
+00:29:06,000 --> 00:29:10,320
+pathway to this socialist 
+utopia, as he calls it, isn't 
+
+599
+00:29:10,320 --> 00:29:12,160
+some kind of free lunch. 
+Not at all. 
+
+600
+00:29:12,160 --> 00:29:14,960
+It's presented as a fundamental 
+reprioritization of societal 
+
+601
+00:29:14,960 --> 00:29:17,240
+spending and individual 
+consumption habits. 
+
+602
+00:29:17,760 --> 00:29:20,720
+It requires A willingness to 
+actively give up certain current
+
+603
+00:29:20,720 --> 00:29:24,000
+conveniences and immediate 
+gratifications for broader long 
+
+604
+00:29:24,000 --> 00:29:27,360
+term societal benefits. 
+It really forces a choice. 
+
+605
+00:29:27,640 --> 00:29:31,760
+OK, but in exchange for those 
+very real sacrifices, Abraham 
+
+606
+00:29:31,760 --> 00:29:36,000
+clearly reiterates the promised 
+benefits he believes tariffs 
+
+607
+00:29:36,120 --> 00:29:38,160
+would unequivocally deliver. 
+Right. 
+
+608
+00:29:38,160 --> 00:29:41,760
+The upside, he argues simply. 
+You'll have services. 
+
+609
+00:29:41,760 --> 00:29:44,320
+You'll have a safety net. 
+Which speaks directly to that 
+
+610
+00:29:44,320 --> 00:29:47,400
+core vision, right? 
+Healthcare education, childcare 
+
+611
+00:29:47,400 --> 00:29:49,120
+support systems. 
+Exactly. 
+
+612
+00:29:49,160 --> 00:29:52,560
+Providing universal, accessible 
+services, ensuring a baseline of
+
+613
+00:29:52,560 --> 00:29:54,760
+dignity and security for all 
+citizens. 
+
+614
+00:29:55,320 --> 00:29:57,760
+But beyond that, and this is a 
+point Abraham really emphasizes,
+
+615
+00:29:58,000 --> 00:30:00,760
+you'll have dignity in domestic 
+work and products. 
+
+616
+00:30:00,840 --> 00:30:03,440
+Dignity in domestic work? 
+What does that mean practically?
+
+617
+00:30:03,440 --> 00:30:05,480
+Well, it isn't just some vague 
+aspiration. 
+
+618
+00:30:05,480 --> 00:30:08,680
+It points to a very tangible 
+revitalization of local 
+
+619
+00:30:08,680 --> 00:30:12,280
+industries and manufacturing, 
+leading to more stable, maybe 
+
+620
+00:30:12,280 --> 00:30:15,680
+higher quality, potentially 
+better paying jobs right here 
+
+621
+00:30:15,680 --> 00:30:18,200
+within the country. 
+Instead of relying on overseas 
+
+622
+00:30:18,200 --> 00:30:19,160
+production. 
+Right. 
+
+623
+00:30:19,160 --> 00:30:22,040
+Instead of relying on external 
+production that often exploits 
+
+624
+00:30:22,040 --> 00:30:25,160
+cheaper labor and maybe less 
+stringent regulations elsewhere,
+
+625
+00:30:25,440 --> 00:30:28,880
+imagine, he suggests, a return 
+to craftsmanship, to goods built
+
+626
+00:30:28,880 --> 00:30:32,720
+to last, fostering a sense of 
+pride in national production 
+
+627
+00:30:32,720 --> 00:30:35,000
+again. 
+And crucially, from the funding 
+
+628
+00:30:35,000 --> 00:30:36,920
+perspective. 
+From the fundamental funding 
+
+629
+00:30:36,920 --> 00:30:40,160
+perspective, Abraham asserts, 
+you'll have revenue that doesn't
+
+630
+00:30:40,160 --> 00:30:43,360
+bleed workers or chase ghosts. 
+Back to the ghosts. 
+
+631
+00:30:43,360 --> 00:30:45,920
+Back to the ghosts. 
+It circles back to that core 
+
+632
+00:30:45,920 --> 00:30:48,920
+argument about the efficiency 
+and the inevitability of tariff 
+
+633
+00:30:48,920 --> 00:30:53,080
+collection providing a stable, 
+reliable income stream for the 
+
+634
+00:30:53,080 --> 00:30:56,480
+state without, he argues, 
+disproportionately burdening the
+
+635
+00:30:56,480 --> 00:30:59,920
+middle class through direct 
+taxation or attempting that 
+
+636
+00:30:59,920 --> 00:31:03,960
+futile pursuit of taxing the 
+elusive, highly mobile wealth of
+
+637
+00:31:03,960 --> 00:31:07,920
+global billionaires. 
+So it's presented as a pathway 
+
+638
+00:31:08,280 --> 00:31:11,800
+to a more resilient, more 
+self-sufficient, maybe more 
+
+639
+00:31:11,800 --> 00:31:16,000
+materially responsible economy. 
+One that is truly capable, in 
+
+640
+00:31:16,000 --> 00:31:19,960
+his view, of sustaining a broad 
+and comprehensive social welfare
+
+641
+00:31:20,040 --> 00:31:22,520
+state for its citizens. 
+That's the promise laid out. 
+
+642
+00:31:22,600 --> 00:31:25,720
+And this brings us, really, to 
+Abraham's provocative final 
+
+643
+00:31:25,720 --> 00:31:27,680
+judgement. 
+It encapsulates his entire 
+
+644
+00:31:27,680 --> 00:31:30,200
+argument and serves as a pretty 
+challenging summation. 
+
+645
+00:31:30,240 --> 00:31:31,880
+Yeah, he doesn't pull any 
+punches at the end. 
+
+646
+00:31:31,920 --> 00:31:35,080
+No, he makes an ultimate, 
+uncompromising assertion. 
+
+647
+00:31:35,240 --> 00:31:37,640
+In other words, terrorists are 
+the only way to build the high 
+
+648
+00:31:37,640 --> 00:31:40,560
+service, low material society 
+socialists claim to want. 
+
+649
+00:31:40,680 --> 00:31:42,960
+The only way still very 
+definitive. 
+
+650
+00:31:43,120 --> 00:31:45,880
+It's a bold declaration 
+suggesting that without the 
+
+651
+00:31:45,880 --> 00:31:49,080
+mechanism of tariffs, that 
+vision of a comprehensive 
+
+652
+00:31:49,080 --> 00:31:52,360
+welfare state is just 
+economically unfeasible in 
+
+653
+00:31:52,360 --> 00:31:56,280
+today's global landscape. 
+Especially, he stresses, given 
+
+654
+00:31:56,280 --> 00:31:59,320
+the undeniable inherent 
+limitations of finite material 
+
+655
+00:31:59,320 --> 00:32:01,760
+resources on our planet. 
+And then he follows this with 
+
+656
+00:32:01,760 --> 00:32:03,600
+that really challenging 
+conclusion. 
+
+657
+00:32:03,640 --> 00:32:07,200
+Aim squarely at those who 
+advocate for socialist policies 
+
+658
+00:32:07,200 --> 00:32:09,240
+but reject tariffs. 
+Right, he says. 
+
+659
+00:32:09,240 --> 00:32:12,200
+And the fact that they hate 
+tariffs just proves they're not 
+
+660
+00:32:12,200 --> 00:32:15,880
+serious, they're performative. 
+Performative Ouch again. 
+
+661
+00:32:16,040 --> 00:32:19,520
+Yeah, they're capitalists and 
+socialist drag, clinging to 
+
+662
+00:32:19,520 --> 00:32:22,120
+their portfolios while they 
+scream about fairness. 
+
+663
+00:32:22,120 --> 00:32:25,680
+That is a very sharp critique. 
+Extremely sharp, it implies that
+
+664
+00:32:25,680 --> 00:32:28,200
+the resistance to tariffs, 
+despite what he sees as their 
+
+665
+00:32:28,200 --> 00:32:31,960
+logical appeal within his 
+framework, exposes a fundamental
+
+666
+00:32:31,960 --> 00:32:36,040
+hypocrisy, or at the very least,
+a profound lack of true 
+
+667
+00:32:36,040 --> 00:32:39,240
+commitment to the actual 
+economic mechanics required to 
+
+668
+00:32:39,240 --> 00:32:41,160
+build the society they claim to 
+espouse. 
+
+669
+00:32:41,160 --> 00:32:44,040
+So it's not just a policy 
+disagreement in his eyes, it's 
+
+670
+00:32:44,040 --> 00:32:46,720
+almost a character assessment of
+underlying motives and 
+
+671
+00:32:46,720 --> 00:32:48,480
+priorities. 
+That seems to be the 
+
+672
+00:32:48,480 --> 00:32:51,200
+implication. 
+The essay then succinctly 
+
+673
+00:32:51,200 --> 00:32:54,960
+summarizes its core economic and
+philosophical points, really 
+
+674
+00:32:54,960 --> 00:32:56,800
+distilling them for maximum 
+impact. 
+
+675
+00:32:57,360 --> 00:32:59,600
+Energy may one day be almost 
+free materials. 
+
+676
+00:32:59,600 --> 00:33:02,080
+Never will terrorists 
+acknowledge that reality. 
+
+677
+00:33:02,520 --> 00:33:05,240
+Accepting the limits they. 
+Slow the churn, fund the state, 
+
+678
+00:33:05,240 --> 00:33:07,040
+and force us to value what we 
+own. 
+
+679
+00:33:07,440 --> 00:33:10,160
+And the final sentence of 
+Abraham's essay really is hard, 
+
+680
+00:33:10,320 --> 00:33:13,560
+leaving the reader with this 
+powerful critical indictment of 
+
+681
+00:33:13,560 --> 00:33:15,880
+the current political discourse 
+around social programs and 
+
+682
+00:33:15,880 --> 00:33:17,440
+funding. 
+What's the final line? 
+
+683
+00:33:17,920 --> 00:33:20,920
+If American socialists were 
+real, they'd love tariffs. 
+
+684
+00:33:21,520 --> 00:33:24,600
+But they're not, so they don't, 
+and that's why nothing changes. 
+
+685
+00:33:24,680 --> 00:33:28,680
+Wow, OK, that really forces you 
+to confront the gap he sees 
+
+686
+00:33:28,680 --> 00:33:31,400
+between stated desires and 
+practical willingness. 
+
+687
+00:33:31,520 --> 00:33:33,840
+Absolutely. 
+So just to recap this deep dive,
+
+688
+00:33:34,040 --> 00:33:37,080
+we've thoroughly explored Chris 
+Abraham's truly compelling and 
+
+689
+00:33:37,080 --> 00:33:40,040
+for many I'm sure, undoubtedly 
+controversial argument, the idea
+
+690
+00:33:40,040 --> 00:33:43,960
+that tariffs are not just a way,
+but perhaps the only way to fund
+
+691
+00:33:44,000 --> 00:33:47,040
+a comprehensive social welfare 
+state in the modern era. 
+
+692
+00:33:47,280 --> 00:33:50,680
+Right, He posits that 
+traditional taxation just falls 
+
+693
+00:33:50,680 --> 00:33:54,400
+short because wealth is so 
+mobile globally, creating those 
+
+694
+00:33:54,400 --> 00:33:57,680
+ghosts he talks about. 
+And he argues tariffs uniquely 
+
+695
+00:33:57,680 --> 00:34:01,160
+address this by collecting 
+revenue right at the border, by 
+
+696
+00:34:01,160 --> 00:34:04,080
+passing all those complex 
+offshore financial maneuvers. 
+
+697
+00:34:04,120 --> 00:34:07,840
+And beyond just funding, Abraham
+presents Terrace as this 
+
+698
+00:34:07,840 --> 00:34:12,320
+necessary break on what he sees 
+as unsustainable infinite 
+
+699
+00:34:12,320 --> 00:34:16,520
+consumption of finite materials.
+While simultaneously encouraging
+
+700
+00:34:16,520 --> 00:34:20,920
+quality domestic production and 
+a more sustainable, resilient 
+
+701
+00:34:20,920 --> 00:34:23,600
+economy, much like the examples 
+he drew from Germany. 
+
+702
+00:34:23,719 --> 00:34:27,280
+It's a comprehensive vision 
+really, linking economic policy 
+
+703
+00:34:27,280 --> 00:34:30,120
+directly to environmental 
+sustainability and societal 
+
+704
+00:34:30,120 --> 00:34:31,520
+well-being. 
+It really is. 
+
+705
+00:34:31,760 --> 00:34:34,840
+This deep dive certainly raises,
+I think, an important question 
+
+706
+00:34:34,840 --> 00:34:36,960
+for you to consider as you 
+reflect on these insights. 
+
+707
+00:34:36,960 --> 00:34:40,320
+We've discussed if the funding 
+mechanism for really expansive 
+
+708
+00:34:40,320 --> 00:34:43,199
+social services, like the 
+socialist utopia Abraham 
+
+709
+00:34:43,199 --> 00:34:46,719
+describes, truly requires these 
+uncomfortable trade-offs. 
+
+710
+00:34:46,719 --> 00:34:49,920
+You know, like higher consumer 
+prices for many goods and a 
+
+711
+00:34:49,920 --> 00:34:52,960
+significant reduction in the 
+sheer volume and convenience of 
+
+712
+00:34:52,960 --> 00:34:56,320
+cheap imports. 
+Are societies genuinely willing 
+
+713
+00:34:56,320 --> 00:34:58,160
+to make those kinds of 
+sacrifices? 
+
+714
+00:34:59,080 --> 00:35:00,440
+That's the core tension, isn't 
+it? 
+
+715
+00:35:00,760 --> 00:35:05,480
+Or will the enduring, deeply 
+ingrained appeal of readily 
+
+716
+00:35:05,480 --> 00:35:08,800
+available, inexpensive 
+consumption ultimately always 
+
+717
+00:35:08,800 --> 00:35:12,080
+outweigh the desire for that 
+comprehensive social safety net?
+
+718
+00:35:12,880 --> 00:35:15,800
+We've seen how deeply entrenched
+our current consumption habits 
+
+719
+00:35:15,800 --> 00:35:18,520
+are, and Abraham's argument 
+really suggests this is the 
+
+720
+00:35:18,520 --> 00:35:20,040
+central tension we face. 
+Yeah. 
+
+721
+00:35:20,560 --> 00:35:22,560
+And as you ponder that, we 
+definitely encourage you to 
+
+722
+00:35:22,560 --> 00:35:24,800
+consider your own relationship 
+with consumption. 
+
+723
+00:35:25,120 --> 00:35:27,440
+You know what Are you truly 
+willing to trade for the kind of
+
+724
+00:35:27,440 --> 00:35:30,560
+society you envision? 
+What policies do you genuinely 
+
+725
+00:35:30,560 --> 00:35:33,200
+advocate for, and how do they 
+line up with these economic 
+
+726
+00:35:33,200 --> 00:35:35,600
+realities, these finite resource
+constraints? 
+
+727
+00:35:36,200 --> 00:35:39,640
+This deep dive should hopefully 
+give you unique, perhaps even 
+
+728
+00:35:39,640 --> 00:35:42,480
+uncomfortable, but ultimately 
+vital ends through which to 
+
+729
+00:35:42,480 --> 00:35:45,520
+examine these really complex, 
+intertwined issues of economics,
+
+730
+00:35:45,720 --> 00:35:47,720
+sustainability, and societal 
+aspiration.
+

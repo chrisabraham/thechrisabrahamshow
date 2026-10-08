@@ -1,0 +1,6083 @@
+1
+00:00:00,040 --> 00:00:04,000
+This is the brief on session 19,
+so the adventures are pretty 
+
+2
+00:00:04,000 --> 00:00:06,400
+desperate right now. 
+They need to retrieve the body 
+
+3
+00:00:06,400 --> 00:00:10,040
+of their fallen cleric Trexedor 
+from the town of Valachi, but. 
+
+4
+00:00:10,360 --> 00:00:12,240
+Uh oh. 
+The town's controlled by the 
+
+5
+00:00:12,240 --> 00:00:15,480
+villainous Lady Fiona Wachter. 
+Think local tyrant who's also a 
+
+6
+00:00:15,480 --> 00:00:17,400
+cleric of the archdevil 
+Asmodeus. 
+
+7
+00:00:17,600 --> 00:00:19,080
+The goal? 
+Resurrection. 
+
+8
+00:00:19,280 --> 00:00:22,280
+But getting there means stealth,
+violence, and maybe walking 
+
+9
+00:00:22,280 --> 00:00:24,320
+right into a deadly supernatural
+trap. 
+
+10
+00:00:24,560 --> 00:00:26,360
+First, the resurrection plan 
+comes together. 
+
+11
+00:00:26,800 --> 00:00:29,320
+After learning Trek Seder was 
+executed and his body's been put
+
+12
+00:00:29,320 --> 00:00:31,440
+on display. 
+Grimm, the party that's 
+
+13
+00:00:31,440 --> 00:00:35,160
+Yurihorn, Radley and Dermont 
+decide they must get him back. 
+
+14
+00:00:35,600 --> 00:00:38,840
+Their hope rests on this figure,
+the Abbot of Saint Markovia, who
+
+15
+00:00:38,840 --> 00:00:41,400
+they recently discovered is 
+actually a celestial being. 
+
+16
+00:00:41,600 --> 00:00:43,920
+Maybe powerful enough they hope 
+to raise the dead. 
+
+17
+00:00:44,200 --> 00:00:47,240
+Second the retrieval attempt. 
+Yeah, it turns into a brutal 
+
+18
+00:00:47,240 --> 00:00:49,200
+ambush. 
+It's past curfew. 
+
+19
+00:00:49,200 --> 00:00:51,760
+Super dangerous, but they get 
+help from their where Raven 
+
+20
+00:00:51,760 --> 00:00:54,960
+allies, the Martikoffs. 
+So Dermont and Radley managed to
+
+21
+00:00:54,960 --> 00:00:56,840
+trick 4 guards by pretending to 
+be drunk. 
+
+22
+00:00:57,360 --> 00:00:59,160
+The fight that follows is quick 
+and lethal. 
+
+23
+00:00:59,400 --> 00:01:01,960
+One guard gets stabbed, 
+another's battered down hard. 
+
+24
+00:01:02,200 --> 00:01:04,920
+The last two try to make a run 
+for it, but Yuri Horn's arrows 
+
+25
+00:01:04,920 --> 00:01:06,960
+and Radley's fire bolts stop 
+them cold. 
+
+26
+00:01:07,280 --> 00:01:08,920
+One guard even burst into 
+flames. 
+
+27
+00:01:08,960 --> 00:01:11,320
+Pretty intense. 
+Finally, just as they grabbed a 
+
+28
+00:01:11,320 --> 00:01:14,080
+body, victory turns sour. 
+Like really fast. 
+
+29
+00:01:14,480 --> 00:01:16,960
+As Radley cuts Track Seder down,
+an illusion of Lady Walker 
+
+30
+00:01:16,960 --> 00:01:20,720
+appears, looks real but isn't, 
+and summons actual devils from 
+
+31
+00:01:20,720 --> 00:01:24,040
+the 9 Hells. 
+We're talking a big scary barbed
+
+32
+00:01:24,040 --> 00:01:26,720
+devil and these awful flying 
+spiny devils. 
+
+33
+00:01:27,120 --> 00:01:29,800
+And here's the bad news. 
+Radley finds out his fire magic 
+
+34
+00:01:29,880 --> 00:01:31,280
+totally useless against these 
+things. 
+
+35
+00:01:31,800 --> 00:01:34,800
+He gets hit by Hellfire, grabs 
+the corpse which is literally 
+
+36
+00:01:34,800 --> 00:01:37,440
+getting jabbed by double spines 
+as he carries it, and just runs 
+
+37
+00:01:37,440 --> 00:01:39,720
+for it. 
+Yurihorn joins the retreat, 
+
+38
+00:01:39,720 --> 00:01:42,320
+trying to heal Radley as they 
+flee towards the Blue Water Inn,
+
+39
+00:01:42,560 --> 00:01:45,560
+with devils right behind them. 
+They got the body back, yeah, 
+
+40
+00:01:46,040 --> 00:01:48,480
+but escaping devils from the 9 
+Hells? 
+
+41
+00:01:48,800 --> 00:01:51,560
+That's their immediate life or 
+death challenge now. 
+
+42
+00:01:51,920 --> 00:01:54,920
+Welcome back to the Deep Dive. 
+Today we are really getting into
+
+43
+00:01:54,920 --> 00:01:58,720
+something heavy, a narrative arc
+that honestly represents A 
+
+44
+00:01:58,720 --> 00:02:02,920
+catastrophic, almost fundamental
+shift in the campaign we're 
+
+45
+00:02:02,920 --> 00:02:05,440
+following. 
+We're plunging head first into 
+
+46
+00:02:05,440 --> 00:02:08,400
+session 19. 
+This is where the adventurers, 
+
+47
+00:02:08,639 --> 00:02:12,520
+well, they stopped facing just 
+the mundane tyranny of a small 
+
+48
+00:02:12,520 --> 00:02:13,520
+town. 
+Yeah, it gets worse. 
+
+49
+00:02:13,640 --> 00:02:16,240
+Much worse. 
+And discovered their enemy has 
+
+50
+00:02:17,320 --> 00:02:19,480
+literal ties to the 9. 
+Hells yeah. 
+
+51
+00:02:19,960 --> 00:02:22,560
+This is where the stakes stop 
+being, you know, political 
+
+52
+00:02:22,560 --> 00:02:25,040
+intrigue and just become 
+infernal. 
+
+53
+00:02:25,160 --> 00:02:28,200
+That's a perfect way to put it. 
+Our source material details this
+
+54
+00:02:28,800 --> 00:02:32,320
+spectacular failure, A rescue 
+mission just completely gone 
+
+55
+00:02:32,320 --> 00:02:34,840
+sideways, right? 
+And it's immediately followed by
+
+56
+00:02:34,840 --> 00:02:38,000
+this desperate high risk 
+retrieval caper, all in the 
+
+57
+00:02:38,000 --> 00:02:40,480
+hostile town of Awlaki. 
+The environment here is just 
+
+58
+00:02:40,560 --> 00:02:43,760
+thick with like mold fear. 
+And soon enough. 
+
+59
+00:02:43,760 --> 00:02:45,440
+And soon Brimstone. 
+Exactly. 
+
+60
+00:02:45,440 --> 00:02:49,080
+So our party Eurohorn the 
+Beastmaster, Ranger, Radley the 
+
+61
+00:02:49,080 --> 00:02:52,200
+Eldritch Knight, and Dermont the
+Arcane Trickster rogue. 
+
+62
+00:02:52,800 --> 00:02:55,120
+They're fugitives now. 
+They've just fought the town 
+
+63
+00:02:55,120 --> 00:02:59,400
+guard, fought Lady Walker's 
+wardens, and they lost badly. 
+
+64
+00:02:59,680 --> 00:03:02,800
+Their companion tracks the door 
+the cleric was left behind. 
+
+65
+00:03:02,920 --> 00:03:06,400
+Captured and, as we find out, 
+executed. 
+
+66
+00:03:06,680 --> 00:03:10,320
+Their immediate situation is, 
+well, it's basically untenable. 
+
+67
+00:03:10,520 --> 00:03:13,520
+Tactically, they've hit absolute
+rock bottom. 
+
+68
+00:03:13,520 --> 00:03:16,840
+So our mission today in this 
+deep dive is to follow their 
+
+69
+00:03:16,840 --> 00:03:19,160
+desperate plan. 
+We're going to unpack 3 phases. 
+
+70
+00:03:19,480 --> 00:03:23,120
+First, there's the nerve racking
+bit of just hiding in recovery. 
+
+71
+00:03:23,520 --> 00:03:24,560
+The immediate. 
+Aftermath. 
+
+72
+00:03:24,560 --> 00:03:27,040
+Second, the critical planning 
+session with our allies, the 
+
+73
+00:03:27,040 --> 00:03:29,280
+Martakovs, who are absolutely 
+essential here. 
+
+74
+00:03:29,280 --> 00:03:32,400
+Couldn't do it without them. 
+And finally, the explosive 
+
+75
+00:03:32,400 --> 00:03:35,320
+ambush which actually sees in 
+its immediate goal. 
+
+76
+00:03:35,320 --> 00:03:38,200
+It does, yeah, surprisingly. 
+But it culminates in this 
+
+77
+00:03:38,200 --> 00:03:42,240
+terrifying reveal that 
+completely redefines who, or 
+
+78
+00:03:42,240 --> 00:03:45,520
+rather what, the enemy actually.
+Is it really shifts everything. 
+
+79
+00:03:45,680 --> 00:03:48,720
+What's fascinating here is how 
+quickly the narrative just zooms
+
+80
+00:03:48,720 --> 00:03:50,960
+past the standard fantasy 
+tropes. 
+
+81
+00:03:51,160 --> 00:03:52,440
+You know, the political 
+plotting. 
+
+82
+00:03:52,520 --> 00:03:54,640
+Right, like dealing with an 
+oppressive burger mistress that 
+
+83
+00:03:54,640 --> 00:03:56,320
+feels almost manageable in 
+hindsight. 
+
+84
+00:03:56,560 --> 00:03:59,200
+Exactly. 
+We shift from that kind of 
+
+85
+00:03:59,200 --> 00:04:03,040
+problem to something far more 
+ancient, deep, and honestly 
+
+86
+00:04:03,040 --> 00:04:06,400
+cosmically terrifying. 
+So the initial setting really 
+
+87
+00:04:06,400 --> 00:04:08,640
+hammers home the immediate 
+danger and how far the 
+
+88
+00:04:08,640 --> 00:04:11,960
+adventures have fallen. 
+They're literally huddled in the
+
+89
+00:04:11,960 --> 00:04:14,880
+cellar of this vacant, decrepit 
+house. 
+
+90
+00:04:15,440 --> 00:04:19,160
+This is where Danica Martikoff 
+there were Raven Ally basically 
+
+91
+00:04:19,160 --> 00:04:22,600
+stashed them to avoid instant 
+capture right after their failed
+
+92
+00:04:22,600 --> 00:04:25,040
+escape attempt. 
+I think we need to pause on 
+
+93
+00:04:25,040 --> 00:04:28,160
+describing this hiding spot 
+because it sets such a perfect 
+
+94
+00:04:28,160 --> 00:04:31,240
+atmosphere of just dread and 
+failure. 
+
+95
+00:04:31,240 --> 00:04:33,640
+Oh, absolutely. 
+It's not a safe house, not by 
+
+96
+00:04:33,640 --> 00:04:35,160
+any stretch. 
+It's an absolute mess. 
+
+97
+00:04:35,160 --> 00:04:37,560
+Like properly grim. 
+Yeah, cluttered with furniture, 
+
+98
+00:04:37,560 --> 00:04:40,960
+draped in cobwebs, piles of old,
+maybe rotting clothing, 
+
+99
+00:04:40,960 --> 00:04:43,480
+moldering books, just general 
+debris everywhere. 
+
+100
+00:04:43,640 --> 00:04:47,440
+It really emphasizes how quickly
+these, you know, pretty powerful
+
+101
+00:04:47,440 --> 00:04:51,720
+adventures were reduced to just 
+cowering fugitives surrounded by
+
+102
+00:04:51,720 --> 00:04:55,440
+the junk of lives long gone. 
+And that neglect kind of mirrors
+
+103
+00:04:55,440 --> 00:04:57,000
+their own immediate despair, 
+right? 
+
+104
+00:04:57,000 --> 00:04:59,560
+Totally, And that despair was 
+probably compounded by their 
+
+105
+00:04:59,560 --> 00:05:01,920
+physical state to Radley 
+especially. 
+
+106
+00:05:02,120 --> 00:05:05,760
+Right after hours of being 
+unconscious, their first concern
+
+107
+00:05:05,760 --> 00:05:08,760
+when they finally come to isn't 
+even planning the next step. 
+
+108
+00:05:09,040 --> 00:05:13,480
+It's neutralizing the specific, 
+very oppressive restraints they 
+
+109
+00:05:13,480 --> 00:05:16,760
+put on Radley. 
+And this detail is so crucial, 
+
+110
+00:05:16,760 --> 00:05:18,520
+isn't it? 
+Because it says a lot about the 
+
+111
+00:05:18,520 --> 00:05:21,120
+enemy's intelligence network, or
+at least their methods. 
+
+112
+00:05:21,400 --> 00:05:23,680
+Exactly. 
+Radley wasn't just tied up with 
+
+113
+00:05:23,680 --> 00:05:25,240
+ropes or something simple. 
+Oh no. 
+
+114
+00:05:25,360 --> 00:05:28,040
+The authorities fitted him with 
+heavy manacles. 
+
+115
+00:05:28,080 --> 00:05:30,320
+An iron mask. 
+An iron mask. 
+
+116
+00:05:30,320 --> 00:05:32,480
+And a gag. 
+These weren't just general 
+
+117
+00:05:32,480 --> 00:05:34,280
+restraints to stop him fighting 
+back. 
+
+118
+00:05:34,280 --> 00:05:37,920
+That gag feels very specific. 
+It was specifically to prevent 
+
+119
+00:05:37,920 --> 00:05:40,400
+him from casting spells. 
+Verbal components, right? 
+
+120
+00:05:40,480 --> 00:05:43,760
+So they knew or suspected 
+strongly. 
+
+121
+00:05:44,000 --> 00:05:46,600
+It implies the town guard, or 
+maybe washers. 
+
+122
+00:05:46,600 --> 00:05:49,680
+People knew they were dealing 
+with some kind of spellcaster, 
+
+123
+00:05:50,000 --> 00:05:52,680
+maybe even recognize the signs 
+of an Eldritch knight. 
+
+124
+00:05:52,880 --> 00:05:55,040
+They didn't just want him 
+contained, they wanted him 
+
+125
+00:05:55,040 --> 00:05:58,120
+tactically neutralized. 
+Which forces the party right 
+
+126
+00:05:58,120 --> 00:06:01,680
+then and there to rely totally 
+on Derman's specific skill set. 
+
+127
+00:06:02,720 --> 00:06:05,040
+An Eldritch Knight like Radley 
+is usually the armored 
+
+128
+00:06:05,040 --> 00:06:08,880
+frontliner, relying on strength 
+and steel, but in that moment 
+
+129
+00:06:09,160 --> 00:06:12,320
+completely helpless. 
+They're wholly dependent on the 
+
+130
+00:06:12,320 --> 00:06:14,600
+finesse of the Arcane Trickster 
+Dermont. 
+
+131
+00:06:15,560 --> 00:06:18,480
+He had to use his skills, not 
+just picking locks but doing it 
+
+132
+00:06:18,480 --> 00:06:20,440
+in the dark under who knows how 
+much pressure. 
+
+133
+00:06:20,520 --> 00:06:23,800
+Probably shaking, I imagine. 
+Probably to free Radley from 
+
+134
+00:06:23,800 --> 00:06:26,320
+that incredibly restrictive iron
+setup. 
+
+135
+00:06:26,680 --> 00:06:29,640
+It's a great little illustration
+of how every class role is just 
+
+136
+00:06:29,880 --> 00:06:31,920
+essential when things get this 
+desperate. 
+
+137
+00:06:32,080 --> 00:06:35,600
+OK, so dermone gets some free. 
+What's the next immediate move? 
+
+138
+00:06:35,920 --> 00:06:38,880
+Well, once freed, their first 
+instinct is naturally light. 
+
+139
+00:06:39,400 --> 00:06:42,520
+They need to see. 
+So Radley, reclaiming a tiny bit
+
+140
+00:06:42,520 --> 00:06:45,280
+of his power, his identity, uses
+magic. 
+
+141
+00:06:45,280 --> 00:06:47,480
+He casts a light spell onto a 
+small stone. 
+
+142
+00:06:47,640 --> 00:06:50,840
+Simple enough magic, but. 
+But this simple act immediately 
+
+143
+00:06:50,840 --> 00:06:53,440
+highlights just how precarious 
+their position is. 
+
+144
+00:06:53,440 --> 00:06:56,240
+Because any light is basically a
+beacon saying here we are 
+
+145
+00:06:56,480 --> 00:06:59,360
+exactly, visibility is a death 
+sentence. 
+
+146
+00:06:59,920 --> 00:07:03,040
+They instantly realized. 
+That tiny bit of magical light 
+
+147
+00:07:03,040 --> 00:07:06,880
+has to be covered up, shielded 
+somehow, even a faint glow 
+
+148
+00:07:06,880 --> 00:07:09,280
+filtering up through the 
+floorboards or maybe through a 
+
+149
+00:07:09,280 --> 00:07:12,240
+grimy basement window. 
+Would instantly give them away 
+
+150
+00:07:12,240 --> 00:07:14,160
+to the search parties. 
+They know we're patrolling 
+
+151
+00:07:14,160 --> 00:07:16,200
+outside. 
+Who are undoubtedly looking for 
+
+152
+00:07:16,200 --> 00:07:20,920
+any anomaly, any sign of life in
+supposedly vacant buildings. 
+
+153
+00:07:21,040 --> 00:07:23,240
+It's that irony again, isn't it?
+Magic. 
+
+154
+00:07:23,320 --> 00:07:25,880
+Their strength is also a massive
+liability. 
+
+155
+00:07:25,880 --> 00:07:28,280
+No, totally. 
+The light might chase away the 
+
+156
+00:07:28,280 --> 00:07:31,840
+rats and spiders in the cellar, 
+but the real danger, the human 
+
+157
+00:07:31,840 --> 00:07:33,960
+danger outside, that remains 
+paramount. 
+
+158
+00:07:34,240 --> 00:07:36,560
+They're trapped, basically 
+waiting for nightfall, 
+
+159
+00:07:36,560 --> 00:07:38,640
+absolutely unable to risk the 
+streets. 
+
+160
+00:07:38,760 --> 00:07:41,720
+So they wait, and the tension 
+must be building from just 
+
+161
+00:07:41,720 --> 00:07:44,080
+sitting there doing nothing. 
+Right, and you're a horn. 
+
+162
+00:07:44,080 --> 00:07:45,720
+The Beastmaster. 
+He gets restless. 
+
+163
+00:07:45,720 --> 00:07:49,320
+Maybe after the ordeal, maybe 
+just his nature, He uses the 
+
+164
+00:07:49,320 --> 00:07:51,720
+time to search the cellar. 
+Looking for anything useful, 
+
+165
+00:07:51,720 --> 00:07:55,560
+weapons, food. 
+Probably finds nothing of value,
+
+166
+00:07:55,560 --> 00:07:58,880
+apparently, but his searching 
+stirs up this thick cloud of 
+
+167
+00:07:58,880 --> 00:08:01,520
+dust and mold again, just 
+emphasizing the decay of this 
+
+168
+00:08:01,520 --> 00:08:04,200
+place. 
+But more importantly, his poking
+
+169
+00:08:04,200 --> 00:08:07,840
+around reveals A sealed trap 
+door at the back of the cellar. 
+
+170
+00:08:07,840 --> 00:08:11,000
+A. 
+Possible way out or in? 
+
+171
+00:08:11,000 --> 00:08:14,200
+Well, it shakes their focus. 
+They managed to pry it open and 
+
+172
+00:08:14,200 --> 00:08:15,960
+climb up into the house above 
+ground. 
+
+173
+00:08:16,280 --> 00:08:18,760
+They scout the rooms quickly. 
+What do they find? 
+
+174
+00:08:19,080 --> 00:08:22,000
+Main floor is sparsely 
+furnished, everything covered in
+
+175
+00:08:22,000 --> 00:08:25,120
+shrouds confirms the place is 
+truly vacant. 
+
+176
+00:08:25,600 --> 00:08:29,680
+But just as they're maybe trying
+to get their bearings, no, the 
+
+177
+00:08:29,720 --> 00:08:32,640
+outside world reminds them, 
+they're very much being hunted. 
+
+178
+00:08:32,840 --> 00:08:34,640
+The near miss. 
+Tell us about that. 
+
+179
+00:08:34,840 --> 00:08:38,000
+A search party sounds like it's 
+led by a vigilant guard, passes 
+
+180
+00:08:38,000 --> 00:08:40,080
+right outside. 
+They're being thorough, banging 
+
+181
+00:08:40,080 --> 00:08:42,039
+on doors, shouting, checking 
+houses. 
+
+182
+00:08:42,039 --> 00:08:43,840
+Standard procedure for a 
+lockdown I guess. 
+
+183
+00:08:43,840 --> 00:08:46,480
+Yep, and they reached the house 
+the adventurers are in. 
+
+184
+00:08:46,480 --> 00:08:49,400
+They rattled the front door, 
+checking the lock, testing it. 
+
+185
+00:08:49,520 --> 00:08:51,040
+And Radley's still holding the 
+light stone. 
+
+186
+00:08:51,040 --> 00:08:51,640
+He. 
+Is. 
+
+187
+00:08:51,800 --> 00:08:53,720
+And this is where quick thinking
+saves them. 
+
+188
+00:08:54,120 --> 00:08:57,600
+Radley instantly claps his hands
+over the stone, just completely 
+
+189
+00:08:57,600 --> 00:09:01,200
+snuffing the visible light. 
+Wow, that close. 
+
+190
+00:09:01,360 --> 00:09:03,960
+That quick reaction is 
+absolutely the difference 
+
+191
+00:09:03,960 --> 00:09:07,920
+between survival and, well, 
+immediate capture and probably 
+
+192
+00:09:07,920 --> 00:09:10,320
+execution right there. 
+It confirms everything. 
+
+193
+00:09:10,320 --> 00:09:13,640
+Danica warned them about being 
+seen in town before dark. 
+
+194
+00:09:13,720 --> 00:09:16,880
+Yeah, not an option. 
+It's a death sentence. 
+
+195
+00:09:16,880 --> 00:09:19,200
+Absolutely. 
+So after that incredibly tense 
+
+196
+00:09:19,200 --> 00:09:22,720
+few moments, heartbeats pounding
+probably as the searchers move 
+
+197
+00:09:22,720 --> 00:09:25,280
+on down the street, the choice 
+is obvious. 
+
+198
+00:09:25,440 --> 00:09:28,720
+Back to the seller. 
+Immediately retreat back to the 
+
+199
+00:09:29,200 --> 00:09:31,840
+perceived security of the 
+decrepit seller. 
+
+200
+00:09:31,920 --> 00:09:36,000
+Lilo confirms that for now, the 
+only winning move is just to 
+
+201
+00:09:36,000 --> 00:09:38,240
+wait it out. 
+Hashtag, hashtag be the 
+
+202
+00:09:38,240 --> 00:09:40,560
+Martikoff connection and the 
+fatal news. 
+
+203
+00:09:40,800 --> 00:09:43,680
+The narrative really emphasizes 
+just how slowly that time 
+
+204
+00:09:43,680 --> 00:09:45,480
+passes. 
+It must have felt like an 
+
+205
+00:09:45,480 --> 00:09:47,600
+eternity just waiting in the 
+dark and the damn. 
+
+206
+00:09:47,600 --> 00:09:50,200
+Oh, absolutely agonizing. 
+They don't dare move until the 
+
+207
+00:09:50,200 --> 00:09:52,560
+very small hours of the morning.
+You know, when the streets are 
+
+208
+00:09:52,560 --> 00:09:55,200
+absolutely at their quietest. 
+I said they finally emerge. 
+
+209
+00:09:55,280 --> 00:09:58,160
+Yeah, they come out from the 
+bulkhead entrance to the cellar,
+
+210
+00:09:58,160 --> 00:10:00,960
+probably navigating around the 
+debris Danica had left there for
+
+211
+00:10:00,960 --> 00:10:04,520
+cover, and they make their way 
+quickly and stealthily through 
+
+212
+00:10:04,520 --> 00:10:06,480
+the back streets. 
+Heading for the one place they 
+
+213
+00:10:06,480 --> 00:10:08,400
+trust. 
+The single point of relative 
+
+214
+00:10:08,400 --> 00:10:11,040
+safety they know the blue water 
+in. 
+
+215
+00:10:11,400 --> 00:10:13,920
+And this is where that alliance 
+with the Martikoffs, the whole 
+
+216
+00:10:13,920 --> 00:10:17,240
+Brotherhood of the Feather 
+connection, really pays off big 
+
+217
+00:10:17,240 --> 00:10:20,320
+time. 
+Immensely, they find both Danica
+
+218
+00:10:20,440 --> 00:10:23,440
+and Irwin Martikoff waiting for 
+them in human form. 
+
+219
+00:10:23,840 --> 00:10:26,880
+The source notes the genuine 
+relief on Danica's face when 
+
+220
+00:10:26,880 --> 00:10:29,320
+they stumble in. 
+That must have felt good for a 
+
+221
+00:10:29,320 --> 00:10:32,800
+second at least. 
+For a second, Irwin immediately 
+
+222
+00:10:32,800 --> 00:10:35,800
+secures the door behind them, 
+gets them inside properly and 
+
+223
+00:10:35,800 --> 00:10:40,040
+they're given essentials. 
+Cold meat, cheese, bread. 
+
+224
+00:10:40,600 --> 00:10:43,640
+A simple but desperately needed 
+meal after everything they've 
+
+225
+00:10:43,640 --> 00:10:46,960
+been through. 
+But that moment of relief, it 
+
+226
+00:10:46,960 --> 00:10:48,560
+doesn't last, does it? 
+Not at all. 
+
+227
+00:10:48,560 --> 00:10:50,240
+It's shattered almost 
+immediately. 
+
+228
+00:10:50,240 --> 00:10:52,400
+There's really no time for 
+sentimentality here. 
+
+229
+00:10:52,720 --> 00:10:55,560
+Danica, always pragmatic, just 
+delivers the news. 
+
+230
+00:10:55,760 --> 00:10:57,280
+Crushing news. 
+Traxidor. 
+
+231
+00:10:57,280 --> 00:11:00,720
+Traxidor is dead, executed by 
+the Burga mistress Lady Walker, 
+
+232
+00:11:00,840 --> 00:11:02,720
+shortly after their failed 
+rescue attempts. 
+
+233
+00:11:02,880 --> 00:11:04,920
+They were too late. 
+Oh that's brutal, especially 
+
+234
+00:11:04,920 --> 00:11:07,920
+after they risked everything to 
+go back for him and the detail 
+
+235
+00:11:07,920 --> 00:11:09,760
+about the body. 
+Yeah, that's key. 
+
+236
+00:11:09,760 --> 00:11:13,120
+His body wasn't just, you know, 
+disposed of quietly. 
+
+237
+00:11:13,120 --> 00:11:15,080
+It's been publicly hung in the 
+streets. 
+
+238
+00:11:15,200 --> 00:11:18,120
+Not just retribution then it's a
+statement. 
+
+239
+00:11:18,120 --> 00:11:21,680
+It's a profound act of public 
+desecration designed to 
+
+240
+00:11:21,680 --> 00:11:25,240
+demoralize everyone, terrify the
+populace, and send a very clear 
+
+241
+00:11:25,240 --> 00:11:28,080
+message to any other potential 
+troublemakers like them. 
+
+242
+00:11:28,200 --> 00:11:31,840
+So this moves the whole 
+situation from just a tactical 
+
+243
+00:11:31,840 --> 00:11:33,640
+failure. 
+To a moral imperative. 
+
+244
+00:11:33,760 --> 00:11:37,600
+They're exhausted, they're 
+wounded, grieving, but they just
+
+245
+00:11:37,600 --> 00:11:40,360
+cannot leave their friends 
+corpse hanging there like a 
+
+246
+00:11:40,360 --> 00:11:42,320
+public spectacle. 
+Right. 
+
+247
+00:11:42,320 --> 00:11:45,400
+So after maybe getting a little 
+rest until late morning, the 
+
+248
+00:11:45,400 --> 00:11:47,200
+mission completely pivots, 
+doesn't it? 
+
+249
+00:11:47,440 --> 00:11:49,640
+Fundamentally, it's no longer a 
+rescue. 
+
+250
+00:11:49,640 --> 00:11:52,640
+It's now this elaborate, 
+incredibly high risk retrieval 
+
+251
+00:11:52,640 --> 00:11:55,920
+caper, a body snatch. 
+And Derman and Radley, they 
+
+252
+00:11:55,920 --> 00:11:59,120
+immediately fixate on one 
+frankly audacious goal. 
+
+253
+00:11:59,720 --> 00:12:02,480
+Getting Tracidor's body to the 
+Abbot at the Abbey of Saint 
+
+254
+00:12:02,480 --> 00:12:03,320
+Marcovia. 
+Why? 
+
+255
+00:12:03,760 --> 00:12:06,200
+What are they hoping for? 
+They need to find out if the 
+
+256
+00:12:06,200 --> 00:12:09,520
+Abbot actually possesses the 
+power to raise tracidor from the
+
+257
+00:12:09,520 --> 00:12:14,040
+dead resurrection. 
+OK, so deciding to risk 
+
+258
+00:12:14,040 --> 00:12:17,800
+immediate recapture, certain 
+death, probably just for a 
+
+259
+00:12:17,800 --> 00:12:21,280
+corpse that requires some 
+serious justification. 
+
+260
+00:12:21,840 --> 00:12:24,400
+Enormous justification. 
+You have to imagine. 
+
+261
+00:12:24,400 --> 00:12:27,200
+The Martikoffs, even though 
+they're supportive allies, must 
+
+262
+00:12:27,200 --> 00:12:30,960
+have been deeply skeptical of 
+such a frankly suicidal plan, 
+
+263
+00:12:30,960 --> 00:12:32,600
+right? 
+Like you want to do what now? 
+
+264
+00:12:32,600 --> 00:12:36,040
+Exactly. 
+The justification lies entirely 
+
+265
+00:12:36,040 --> 00:12:39,360
+in their previous encounter with
+the Abbot in that memory. 
+
+266
+00:12:39,480 --> 00:12:41,960
+Let's dig into that memory then,
+because like you said, it's the 
+
+267
+00:12:42,000 --> 00:12:45,120
+only thing driving this 
+seemingly insane plan. 
+
+268
+00:12:45,120 --> 00:12:48,680
+They recall for your horn, who 
+maybe wasn't there for the key 
+
+269
+00:12:48,680 --> 00:12:50,600
+reveal. 
+But the Abbot isn't just some 
+
+270
+00:12:50,600 --> 00:12:53,920
+powerful local clear he had 
+previously revealed himself. 
+
+271
+00:12:53,920 --> 00:12:58,400
+As a celestial being, an Angel. 
+An Angel during a past exchange 
+
+272
+00:12:58,400 --> 00:13:01,720
+involving their other slain 
+companion, the paladin Surin 
+
+273
+00:13:01,720 --> 00:13:04,480
+Ironwood. 
+And that specific detail that 
+
+274
+00:13:04,480 --> 00:13:07,120
+he's a celestial is absolutely 
+vital here, isn't? 
+
+275
+00:13:07,120 --> 00:13:10,480
+It it's everything in a domain 
+of dread, like Borovia, which is
+
+276
+00:13:10,480 --> 00:13:13,280
+explicitly designed as a prison 
+plane where hope is 
+
+277
+00:13:13,280 --> 00:13:14,920
+systematically crushed. 
+Yeah. 
+
+278
+00:13:15,120 --> 00:13:20,600
+The presence of a true celestial
+being is incredibly rare and 
+
+279
+00:13:20,600 --> 00:13:25,240
+potentially incredibly powerful.
+It suggests that the really high
+
+280
+00:13:25,240 --> 00:13:28,920
+level, difficult resurrection 
+magic stuff that's typically way
+
+281
+00:13:28,920 --> 00:13:31,640
+beyond the reach of mortal 
+clerics might actually be 
+
+282
+00:13:31,760 --> 00:13:33,760
+possible available via the 
+Abbot. 
+
+283
+00:13:33,800 --> 00:13:36,800
+So it's the ultimate long shot, 
+the ultimate risk reward 
+
+284
+00:13:36,800 --> 00:13:38,080
+calculation. 
+Totally. 
+
+285
+00:13:38,240 --> 00:13:40,960
+They have this circumstantial 
+evidence, this one encounter 
+
+286
+00:13:40,960 --> 00:13:44,880
+that suggests this Abbot can do 
+something genuinely miraculous. 
+
+287
+00:13:44,880 --> 00:13:48,040
+And if tracks the door, their 
+dedicated cleric, Their healer. 
+
+288
+00:13:48,080 --> 00:13:51,240
+If you can be brought back. 
+The party is restored back to 
+
+289
+00:13:51,240 --> 00:13:53,360
+full strength, full 
+effectiveness, which they 
+
+290
+00:13:53,360 --> 00:13:54,920
+desperately need. 
+And there's that other 
+
+291
+00:13:54,920 --> 00:13:57,600
+connection too, isn't there? 
+The original reason they were 
+
+292
+00:13:57,600 --> 00:13:59,640
+even in Valaki. 
+Right, you have to connect those
+
+293
+00:13:59,640 --> 00:14:00,960
+dots. 
+The whole reason they came to 
+
+294
+00:14:00,960 --> 00:14:03,640
+Valaki in the 1st place was to 
+complete a mission for the 
+
+295
+00:14:03,680 --> 00:14:05,560
+Abbot. 
+Finding a wedding dress, wasn't 
+
+296
+00:14:05,560 --> 00:14:07,200
+it? 
+Finding a specific wedding 
+
+297
+00:14:07,200 --> 00:14:09,000
+dress. 
+It was a favor they were doing 
+
+298
+00:14:09,000 --> 00:14:11,360
+for him. 
+Now they're essentially planning
+
+299
+00:14:11,360 --> 00:14:15,280
+to turn up on his doorstep with 
+a corpse and well collect on 
+
+300
+00:14:15,280 --> 00:14:19,160
+that cosmic debt, so to speak. 
+The risk involved is just 
+
+301
+00:14:19,160 --> 00:14:23,240
+immense though, Stealing a body 
+that's being publicly displayed 
+
+302
+00:14:23,240 --> 00:14:26,680
+as a warning and having to 
+somehow crash through a heavily 
+
+303
+00:14:26,680 --> 00:14:29,920
+defended town gate that's 
+basically an open declaration of
+
+304
+00:14:29,920 --> 00:14:34,120
+war against the burger mistress.
+It absolutely is, yet because 
+
+305
+00:14:34,120 --> 00:14:37,320
+the potential reward is the 
+intervention of a celestial 
+
+306
+00:14:37,320 --> 00:14:41,920
+being, a genuine Angel to 
+resurrect their friend, they 
+
+307
+00:14:41,920 --> 00:14:45,880
+deem the cost necessary. 
+It completely overrides tactical
+
+308
+00:14:45,880 --> 00:14:48,200
+common sense survival instinct 
+almost. 
+
+309
+00:14:48,400 --> 00:14:51,440
+It really speaks to the weight 
+of their loss, how much Tracidor
+
+310
+00:14:51,440 --> 00:14:54,880
+meant to them, but also the 
+sheer strategic necessity of 
+
+311
+00:14:54,880 --> 00:14:58,400
+having a dedicated healer and 
+divine caster in their group. 
+
+312
+00:14:58,920 --> 00:15:01,560
+Resurrecting Tracidor isn't just
+emotional for them, it's a 
+
+313
+00:15:01,560 --> 00:15:05,480
+critical strategic need. 
+Hashtag, hashtag be gear, allies
+
+314
+00:15:05,480 --> 00:15:07,960
+and historical weight. 
+OK, So the decision is made. 
+
+315
+00:15:08,120 --> 00:15:10,760
+You're going for it. 
+And the Marticus, seeing their 
+
+316
+00:15:10,760 --> 00:15:12,920
+determination, fully commit to 
+helping. 
+
+317
+00:15:12,960 --> 00:15:15,920
+Yep, their alliance, defined by 
+the secrecy and frankly, the 
+
+318
+00:15:15,920 --> 00:15:18,520
+efficiency of the Brotherhood of
+the Feather, transitions 
+
+319
+00:15:18,520 --> 00:15:21,440
+instantly into providing crucial
+logistical support. 
+
+320
+00:15:21,600 --> 00:15:23,120
+First things first, they need 
+Intel, right? 
+
+321
+00:15:23,120 --> 00:15:25,880
+What are they up against? 
+Exactly, 1st order of business 
+
+322
+00:15:25,880 --> 00:15:29,520
+is intelligence gathering. 
+Danica immediately starts 
+
+323
+00:15:29,520 --> 00:15:31,880
+coordinating using the 
+Brotherhood's network. 
+
+324
+00:15:32,360 --> 00:15:35,240
+They need to know the state of 
+the town gates, their planned 
+
+325
+00:15:35,240 --> 00:15:37,200
+exit. 
+Points and the news isn't good, 
+
+326
+00:15:37,200 --> 00:15:40,280
+I take it. 
+Sobering is the word used. 
+
+327
+00:15:40,360 --> 00:15:43,720
+All the town gates are heavily 
+manned, each one secured with 
+
+328
+00:15:43,720 --> 00:15:45,520
+two or three guards and a 
+warden. 
+
+329
+00:15:45,760 --> 00:15:49,120
+Lady Watchers Elite. 
+So no easy way out, no soft 
+
+330
+00:15:49,120 --> 00:15:51,720
+target, no forgotten back gate. 
+None. 
+
+331
+00:15:51,920 --> 00:15:54,720
+Their plan to just crash a gate 
+is going to be met with 
+
+332
+00:15:54,760 --> 00:15:57,800
+immediate, probably overwhelming
+resistance. 
+
+333
+00:15:57,800 --> 00:16:00,280
+They know that going in. 
+So since they have to wait for 
+
+334
+00:16:00,280 --> 00:16:03,160
+the deepest cover of night 
+anyway, they use the rest of the
+
+335
+00:16:03,160 --> 00:16:06,000
+day to prepare, right? 
+The Mardikov has arranged for a 
+
+336
+00:16:06,000 --> 00:16:08,480
+cart to carry the body, a 
+critical piece of equipment 
+
+337
+00:16:08,480 --> 00:16:11,080
+they'll need after they secure 
+Tracidor's corpse. 
+
+338
+00:16:11,400 --> 00:16:14,200
+They plan to retrieve it later, 
+but we really need to address 
+
+339
+00:16:14,200 --> 00:16:16,080
+Radley's personal preparation 
+here. 
+
+340
+00:16:16,080 --> 00:16:18,520
+Because he lost everything when 
+he was captured, didn't he? 
+
+341
+00:16:18,760 --> 00:16:21,560
+Armor wet. 
+Free thing, so Danica provides 
+
+342
+00:16:21,560 --> 00:16:25,240
+him with essential replacements.
+1st a suit of studded leather 
+
+343
+00:16:25,240 --> 00:16:28,880
+armor, crucial for an Eldritch 
+Knight who needs mobility but 
+
+344
+00:16:28,880 --> 00:16:32,520
+also protection and a shield. 
+But this shield is special, 
+
+345
+00:16:32,520 --> 00:16:34,720
+isn't? 
+It it is, it bears a specific 
+
+346
+00:16:34,720 --> 00:16:37,640
+Raven Crest. 
+Danica explains that this 
+
+347
+00:16:37,640 --> 00:16:41,280
+symbol, this heraldry, is a mark
+of alliance. 
+
+348
+00:16:41,640 --> 00:16:44,880
+It identifies the bearer to the 
+Brotherhood of the Feather. 
+
+349
+00:16:45,280 --> 00:16:49,120
+So it's more than just defense. 
+It's a subtle but potentially 
+
+350
+00:16:49,120 --> 00:16:51,920
+powerful narrative device. 
+In a town where they are 
+
+351
+00:16:51,920 --> 00:16:55,200
+fugitives haunted by the 
+authorities, this shield could 
+
+352
+00:16:55,200 --> 00:16:59,040
+instantly identify Radley as an 
+ally to anyone secretly working 
+
+353
+00:16:59,040 --> 00:17:01,440
+with the Marta coughs. 
+Like a secret handshake put on a
+
+354
+00:17:01,440 --> 00:17:02,720
+shield. 
+Exactly. 
+
+355
+00:17:02,720 --> 00:17:05,680
+It's a tool for social 
+navigation, for signaling 
+
+356
+00:17:05,680 --> 00:17:08,560
+loyalty, disguises ordinary 
+military gear. 
+
+357
+00:17:08,760 --> 00:17:11,119
+Very clever. 
+Danica also offers him a weapon,
+
+358
+00:17:11,200 --> 00:17:12,280
+right? 
+A short sword. 
+
+359
+00:17:12,319 --> 00:17:15,200
+She does, but this leads to a 
+really cool character moment 
+
+360
+00:17:15,200 --> 00:17:18,079
+that highlights Radley's unique 
+abilities as an Eldritch Knight.
+
+361
+00:17:18,400 --> 00:17:20,480
+He actually declines the mundane
+weapon. 
+
+362
+00:17:20,720 --> 00:17:24,040
+He just thrusts out his empty 
+hand and his own long sword. 
+
+363
+00:17:24,040 --> 00:17:26,640
+His favorite weapon, the one he 
+lost, it just appears in his 
+
+364
+00:17:26,640 --> 00:17:28,880
+grip, materializes out of thin 
+air. 
+
+365
+00:17:28,880 --> 00:17:30,440
+Whoa. 
+OK, that's useful. 
+
+366
+00:17:30,640 --> 00:17:34,200
+It's a signature ability the 
+bond and Eldritch Knight has 
+
+367
+00:17:34,200 --> 00:17:37,160
+with their chosen weapon is so 
+deep it actually transcends 
+
+368
+00:17:37,160 --> 00:17:40,280
+physical separation. 
+The Burgo Mistress's Wardens 
+
+369
+00:17:40,280 --> 00:17:43,280
+could strip him of his armor, 
+his pack, everything. 
+
+370
+00:17:43,400 --> 00:17:45,560
+But they couldn't break that 
+metaphysical bond with his 
+
+371
+00:17:45,560 --> 00:17:46,680
+sword. 
+Exactly. 
+
+372
+00:17:46,680 --> 00:17:49,760
+It's a nice moment of subtle 
+empowerment for him, especially 
+
+373
+00:17:49,760 --> 00:17:52,760
+after the complete humiliation 
+of being captured and masked. 
+
+374
+00:17:53,200 --> 00:17:56,280
+Meanwhile, you're a horn, the 
+beast master. 
+
+375
+00:17:56,680 --> 00:17:59,200
+He also contributes something 
+important tactically, doesn't 
+
+376
+00:17:59,200 --> 00:18:00,920
+he? 
+Reminds them about his healing. 
+
+377
+00:18:01,000 --> 00:18:03,280
+Yes, that's a crucial piece of 
+information they might have 
+
+378
+00:18:03,280 --> 00:18:06,600
+forgotten in the chaos. 
+He reminds Dermont specifically 
+
+379
+00:18:06,600 --> 00:18:10,320
+that he can cast healing magic. 
+It might be a lesser used 
+
+380
+00:18:10,320 --> 00:18:13,480
+ability for a Ranger, a Marshall
+character. 
+
+381
+00:18:13,480 --> 00:18:15,600
+But with Traxador gone, their 
+main healer. 
+
+382
+00:18:15,600 --> 00:18:17,880
+It's suddenly vital. 
+Any healing is vital. 
+
+383
+00:18:17,880 --> 00:18:20,960
+And he backs this up by 
+transferring a very specific, 
+
+384
+00:18:20,960 --> 00:18:22,840
+very valuable resource, the 
+potion. 
+
+385
+00:18:22,880 --> 00:18:25,720
+The potion of greater healing 
+that was given to him earlier by
+
+386
+00:18:25,720 --> 00:18:27,840
+the Monster Hunter Rudolf Van 
+Richten. 
+
+387
+00:18:28,320 --> 00:18:30,440
+He passes it to Dermont for 
+safekeeping. 
+
+388
+00:18:30,640 --> 00:18:33,320
+That feels like planning for the
+worst explicitly. 
+
+389
+00:18:33,440 --> 00:18:35,160
+It is. 
+They're acknowledging that this 
+
+390
+00:18:35,160 --> 00:18:37,680
+is going to be violence. 
+Someone will get hurt, probably 
+
+391
+00:18:37,680 --> 00:18:40,600
+badly. 
+They need immediate, powerful 
+
+392
+00:18:40,600 --> 00:18:43,800
+healing on hand, and they have 
+to rely on these limited 
+
+393
+00:18:43,800 --> 00:18:45,800
+resources that aren't easily 
+replaceable. 
+
+394
+00:18:45,800 --> 00:18:48,840
+And before they actually head 
+out, there's a moment of 
+
+395
+00:18:48,840 --> 00:18:52,000
+reflection about the location 
+itself. 
+
+396
+00:18:52,120 --> 00:18:55,280
+Yeah, specifically about the 
+setting for the upcoming action.
+
+397
+00:18:55,520 --> 00:18:57,920
+Radley may be thinking about the
+risks. 
+
+398
+00:18:58,080 --> 00:19:01,880
+Reflects on the really dark 
+history of the execution square 
+
+399
+00:19:01,880 --> 00:19:04,680
+where Tracidor now hangs. 
+Or near it, anyway. 
+
+400
+00:19:04,720 --> 00:19:06,480
+Right, this isn't just some 
+random spot. 
+
+401
+00:19:06,480 --> 00:19:09,840
+No, it's become a focal point 
+for Valaki's recent brutal 
+
+402
+00:19:09,840 --> 00:19:13,000
+history, Radley recalls. 
+The execution that happened just
+
+403
+00:19:13,000 --> 00:19:15,080
+eight days before this. 
+Their elf companion. 
+
+404
+00:19:15,080 --> 00:19:18,040
+The apparition of their elf 
+companion Vallanaire appearing 
+
+405
+00:19:18,040 --> 00:19:21,760
+there, followed by Vallanaire's 
+actual heading the very next day
+
+406
+00:19:21,760 --> 00:19:25,480
+right in that main square, and 
+then just days after that, the 
+
+407
+00:19:25,480 --> 00:19:29,320
+public hanging of the former 
+Baron Vargas Volakovic in the 
+
+408
+00:19:29,320 --> 00:19:31,040
+same area. 
+So it's just steeped in 
+
+409
+00:19:31,040 --> 00:19:33,120
+violence, a lineage of public 
+death. 
+
+410
+00:19:33,400 --> 00:19:36,840
+Exactly the recurring use of 
+this specific area. 
+
+411
+00:19:36,840 --> 00:19:39,280
+Even though tracidor is hung in 
+the smallest square just 
+
+412
+00:19:39,280 --> 00:19:42,880
+opposite the main grounds, it 
+confirms this place as a 
+
+413
+00:19:42,880 --> 00:19:47,920
+monument to oppression, to 
+bloody rapid political change. 
+
+414
+00:19:48,320 --> 00:19:51,440
+It's cursed ground, basically. 
+And that leads Dierman to wonder
+
+415
+00:19:51,720 --> 00:19:54,040
+why the smaller square? 
+Right, that's his initial 
+
+416
+00:19:54,040 --> 00:19:56,480
+puzzle. 
+If the goal is maximum public 
+
+417
+00:19:56,480 --> 00:20:00,760
+terror and display, why not use 
+the main, most visible square? 
+
+418
+00:20:00,760 --> 00:20:02,880
+It feels. 
+Slightly off. 
+
+419
+00:20:02,920 --> 00:20:05,880
+Suggests maybe the new Bergam 
+mistress Lady Watcher might have
+
+420
+00:20:05,880 --> 00:20:08,360
+a specific tactical reason for 
+that placement. 
+
+421
+00:20:08,480 --> 00:20:11,880
+A reason we are about to find 
+out is far, far more sinister 
+
+422
+00:20:11,880 --> 00:20:14,160
+than just simple public display 
+or convenience. 
+
+423
+00:20:14,160 --> 00:20:17,680
+OK, so night falls deep night. 
+The party moves out. 
+
+424
+00:20:17,680 --> 00:20:20,080
+Yep, the corpse is where they 
+expected, displayed in that 
+
+425
+00:20:20,080 --> 00:20:23,240
+small square, illuminated only 
+faintly by the moon, hoisted up 
+
+426
+00:20:23,240 --> 00:20:26,600
+off the ground by the noose. 
+Grim scene and guards 4 
+
+427
+00:20:26,600 --> 00:20:29,160
+centuries stationed around the 
+body, observing the strict 
+
+428
+00:20:29,160 --> 00:20:31,760
+curfew. 
+Probably bored, cold, not 
+
+429
+00:20:31,760 --> 00:20:33,680
+expecting anything. 
+Perfect targets for a bit of 
+
+430
+00:20:33,680 --> 00:20:35,480
+misdirection, then. 
+Exactly. 
+
+431
+00:20:35,480 --> 00:20:38,440
+Deramon, the master of 
+deception, immediately comes up 
+
+432
+00:20:38,440 --> 00:20:40,520
+with the plan. 
+Exploit that boredom, that 
+
+433
+00:20:40,520 --> 00:20:43,920
+complacency. 
+The core gambit is simple. 
+
+434
+00:20:44,560 --> 00:20:47,880
+Use deception to create an 
+opening for a swift, 
+
+435
+00:20:47,880 --> 00:20:50,120
+overwhelming blitz. 
+How do they do it? 
+
+436
+00:20:50,120 --> 00:20:52,360
+Deramon and Radley will pretend 
+to be drunk. 
+
+437
+00:20:52,360 --> 00:20:55,160
+They'll just stumble across the 
+square, making a bit of noise, 
+
+438
+00:20:55,160 --> 00:20:57,080
+hoping to catch the guards off 
+balance. 
+
+439
+00:20:57,160 --> 00:20:59,920
+Betting on the guards arrogance,
+they'll just see a couple of 
+
+440
+00:20:59,920 --> 00:21:03,680
+drunken locals breaking curfew. 
+Precisely assume they're just 
+
+441
+00:21:03,680 --> 00:21:07,320
+useless townspeople. 
+Easy pickings, not highly 
+
+442
+00:21:07,320 --> 00:21:10,320
+skilled, utterly desperate 
+fugitives on a mission. 
+
+443
+00:21:10,440 --> 00:21:12,880
+In Eurohorn. 
+Eurohorn and his Panther 
+
+444
+00:21:12,880 --> 00:21:15,040
+companion take up the critical 
+supporting role. 
+
+445
+00:21:15,360 --> 00:21:18,280
+They get into position on the 
+nearby rooftops to provide 
+
+446
+00:21:18,280 --> 00:21:20,040
+ranged cover with his bow. 
+So. 
+
+447
+00:21:20,280 --> 00:21:23,640
+The plan relies on what stealth 
+to get into position. 
+
+448
+00:21:23,640 --> 00:21:27,080
+And then absolute brutal 
+efficiency once the fight starts
+
+449
+00:21:27,080 --> 00:21:29,840
+and no hesitation. 
+OK, so Derman and Bradley put 
+
+450
+00:21:29,840 --> 00:21:32,680
+the plan into action. 
+They stagger out, maybe slurring
+
+451
+00:21:32,680 --> 00:21:34,480
+insults, making just enough 
+noise. 
+
+452
+00:21:34,720 --> 00:21:37,520
+And it works. 
+The guards probably delighted at
+
+453
+00:21:37,520 --> 00:21:40,280
+the break in monotony, shout at 
+them, start moving in. 
+
+454
+00:21:40,560 --> 00:21:43,240
+They anticipate an easy arrest. 
+Maybe you're roughing them up a 
+
+455
+00:21:43,240 --> 00:21:47,440
+bit, confiscating valuables. 
+Hashtag Tech Tech Tag B The 
+
+456
+00:21:47,440 --> 00:21:50,120
+swift and brutal fight. 
+But they're very, very wrong. 
+
+457
+00:21:50,120 --> 00:21:53,720
+Oh yeah, The tactical success 
+hinges entirely on that first 
+
+458
+00:21:53,720 --> 00:21:56,760
+blow, hitting hard and fast, and
+Dermont delivers it with 
+
+459
+00:21:56,760 --> 00:21:59,240
+shocking, lethal precision. 
+How so? 
+
+460
+00:21:59,720 --> 00:22:02,520
+The first guard basically never 
+even registers the threat. 
+
+461
+00:22:02,840 --> 00:22:05,920
+Dermont moves in close, maybe 
+looking pathetic, then executes 
+
+462
+00:22:05,920 --> 00:22:09,400
+him instantly. 
+A clean, lethal strike, the 
+
+463
+00:22:09,400 --> 00:22:11,000
+source says. 
+Blade up through the belly and 
+
+464
+00:22:11,000 --> 00:22:11,880
+into the heart. 
+Just. 
+
+465
+00:22:12,680 --> 00:22:16,080
+Wow, cold efficiency that 
+immediately eliminates one 
+
+466
+00:22:16,080 --> 00:22:18,240
+threat and the possibility of 
+him raising an alarm. 
+
+467
+00:22:18,240 --> 00:22:20,560
+He then signals to the other 
+guards and to Radley that this 
+
+468
+00:22:20,560 --> 00:22:22,640
+is not a brawl, this is an 
+assassination. 
+
+469
+00:22:22,880 --> 00:22:26,080
+Radley immediately coordinates 
+bringing his summoned long sword
+
+470
+00:22:26,080 --> 00:22:28,280
+up against a second guard, 
+instantly putting him on the 
+
+471
+00:22:28,280 --> 00:22:30,160
+defensive. 
+And you're a horn from the roof.
+
+472
+00:22:30,400 --> 00:22:33,600
+Arrows start raining down. 
+The coordinated assault is just 
+
+473
+00:22:33,880 --> 00:22:37,000
+overwhelming. 
+The remaining 2 guards realize 
+
+474
+00:22:37,000 --> 00:22:40,160
+in a split second that they are 
+facing something way beyond 
+
+475
+00:22:40,160 --> 00:22:42,120
+drunk townsfolk. 
+They panic. 
+
+476
+00:22:42,280 --> 00:22:44,240
+They try to run. 
+Break and flee in separate 
+
+477
+00:22:44,240 --> 00:22:45,880
+directions, desperate to get 
+away. 
+
+478
+00:22:45,880 --> 00:22:48,080
+Raise the alarm. 
+And here we see just how high 
+
+479
+00:22:48,080 --> 00:22:50,680
+the stakes are, how much 
+pressure the adventurers are 
+
+480
+00:22:50,680 --> 00:22:52,920
+under because they don't let 
+them go. 
+
+481
+00:22:52,920 --> 00:22:55,360
+No mercy shown. 
+They absolutely cannot afford 
+
+482
+00:22:55,360 --> 00:22:58,440
+witnesses. 
+Silence is their only chance of 
+
+483
+00:22:58,440 --> 00:23:00,760
+getting that body out of Valaki 
+unseen. 
+
+484
+00:23:00,880 --> 00:23:04,040
+So how do they stop the runners?
+Your horn takes care of one with
+
+485
+00:23:04,040 --> 00:23:06,600
+his bow. 
+Another clean kill from range. 
+
+486
+00:23:06,720 --> 00:23:10,680
+Impressive shooting in the dark 
+and Radley Radley demonstrates 
+
+487
+00:23:10,680 --> 00:23:14,000
+the full brutal power of the 
+Eldritch Night Fire magic. 
+
+488
+00:23:14,000 --> 00:23:17,440
+He unleashes a powerful fire 
+bolt spell at the final fleeing 
+
+489
+00:23:17,440 --> 00:23:19,400
+guard. 
+The source describes the guard 
+
+490
+00:23:19,400 --> 00:23:22,880
+just erupting in flames, 
+staggering frantically for a few
+
+491
+00:23:22,880 --> 00:23:26,120
+steps before collapsing into 
+essentially ash and embers. 
+
+492
+00:23:26,120 --> 00:23:29,080
+OK, that's spectacular violence,
+but effective. 
+
+493
+00:23:29,320 --> 00:23:32,640
+Extremely effective, it clears 
+the square instantly. 
+
+494
+00:23:33,120 --> 00:23:36,600
+In maybe less than a minute 
+they've eliminated 4 trained 
+
+495
+00:23:36,600 --> 00:23:39,160
+guards. 
+They have, yes, committed murder
+
+496
+00:23:39,160 --> 00:23:41,120
+multiple times over in the 
+streets of Awlaki. 
+
+497
+00:23:41,200 --> 00:23:43,320
+But they've secured their 
+immediate objective. 
+
+498
+00:23:43,720 --> 00:23:45,320
+The square is clear. 
+Right. 
+
+499
+00:23:45,560 --> 00:23:49,280
+They turn toward Tracidor's 
+corpse, finally believing the 
+
+500
+00:23:49,280 --> 00:23:50,920
+hardest part. 
+The tactical fight with the 
+
+501
+00:23:50,920 --> 00:23:54,080
+Mortal Guards is over. 
+They just need to cut him down 
+
+502
+00:23:54,080 --> 00:23:56,120
+and get to the cart. 
+But it's never that simple and 
+
+503
+00:23:56,120 --> 00:23:57,680
+Barovia is it? 
+Never. 
+
+504
+00:23:58,040 --> 00:24:00,800
+Just as they approach the 
+corpse, ready to Cut the Rope, 
+
+505
+00:24:00,800 --> 00:24:04,680
+that moment of grim triumph just
+dissolves into profound dread. 
+
+506
+00:24:04,880 --> 00:24:06,280
+What happens? 
+They hear laughter. 
+
+507
+00:24:06,520 --> 00:24:09,360
+Cruel, booming laughter. 
+But it's not normal. 
+
+508
+00:24:09,360 --> 00:24:11,800
+It's not the sound of a human 
+woman laughing nearby. 
+
+509
+00:24:11,800 --> 00:24:14,320
+It's unnaturally amplified, 
+echoed, going across the 
+
+510
+00:24:14,320 --> 00:24:16,600
+otherwise silent square, 
+chilling. 
+
+511
+00:24:16,800 --> 00:24:19,080
+And they see her. 
+They turn, and standing just 
+
+512
+00:24:19,080 --> 00:24:22,040
+feet away, seemingly alone, is 
+the Burgo Mistress herself. 
+
+513
+00:24:22,200 --> 00:24:24,600
+Lady watched her. 
+Standing there after they just 
+
+514
+00:24:24,600 --> 00:24:28,360
+killed four of her guards. 
+Apparently, and she immediately 
+
+515
+00:24:28,360 --> 00:24:32,640
+launches into this contemptuous 
+taunt, calling them inept fools,
+
+516
+00:24:32,960 --> 00:24:35,920
+claiming their retrieval attempt
+was laughably predictable. 
+
+517
+00:24:36,320 --> 00:24:39,960
+Her voice still has that weird 
+amplified quality, ringing with 
+
+518
+00:24:39,960 --> 00:24:43,360
+this cruel confidence that is 
+deeply unnerving. 
+
+519
+00:24:43,360 --> 00:24:46,960
+OK, something's very wrong here.
+Dermont recognizes the immediate
+
+520
+00:24:46,960 --> 00:24:48,880
+danger, the sheer wrongness of 
+it. 
+
+521
+00:24:48,920 --> 00:24:52,440
+He rushes at her sword, ready 
+for a sweeping strike. 
+
+522
+00:24:52,800 --> 00:24:55,800
+Your horn may be thinking 
+faster, or just reacting. 
+
+523
+00:24:55,800 --> 00:24:57,600
+Loses errors at her from the 
+rooftop. 
+
+524
+00:24:58,000 --> 00:25:01,080
+Both attacks pass straight 
+through her harmlessly, like 
+
+525
+00:25:01,080 --> 00:25:02,800
+she's smoke. 
+An illusion. 
+
+526
+00:25:02,800 --> 00:25:05,520
+And this is where Dermont's 
+Arcane Trickster senses his 
+
+527
+00:25:05,520 --> 00:25:07,600
+understanding of basic magic 
+pays off. 
+
+528
+00:25:07,640 --> 00:25:11,080
+He instantly realizes the figure
+is an illusion, a magical 
+
+529
+00:25:11,080 --> 00:25:13,400
+projection. 
+OK, but he also realizes the 
+
+530
+00:25:13,400 --> 00:25:15,800
+incredibly sinister implication 
+that comes with it. 
+
+531
+00:25:16,080 --> 00:25:19,640
+The real Burgo mistress must be 
+nearby, close enough to control 
+
+532
+00:25:19,640 --> 00:25:21,880
+the spell. 
+Watch them, mock them. 
+
+533
+00:25:21,880 --> 00:25:24,520
+From a position of absolute 
+untraceable safety. 
+
+534
+00:25:24,520 --> 00:25:27,960
+Exactly, it's pure psychological
+warfare taunting them while 
+
+535
+00:25:27,960 --> 00:25:31,560
+being completely untouchable. 
+So this tells us 2 huge things. 
+
+536
+00:25:32,040 --> 00:25:34,120
+One Walker knew they were 
+coming. 
+
+537
+00:25:34,400 --> 00:25:36,960
+This is maybe even a trap. 
+Seems likely, doesn't it? 
+
+538
+00:25:37,200 --> 00:25:40,360
+And two, she has sufficient 
+magical prowess to project a 
+
+539
+00:25:40,360 --> 00:25:42,400
+convincing illusion and keep 
+herself hidden. 
+
+540
+00:25:42,800 --> 00:25:45,080
+The illusion isn't a distraction
+from her location. 
+
+541
+00:25:45,120 --> 00:25:47,240
+It's a placeholder. 
+It's a placeholder for what she 
+
+542
+00:25:47,240 --> 00:25:49,920
+is about to unleash. 
+Hashtag tech tag B. 
+
+543
+00:25:50,120 --> 00:25:54,120
+The summoning of the nine hills.
+And this is the moment the pivot
+
+544
+00:25:54,120 --> 00:25:55,800
+point you mentioned earlier. 
+This is it. 
+
+545
+00:25:56,000 --> 00:26:00,240
+The moment the campaign shifts 
+gears entirely, immediately 
+
+546
+00:26:00,240 --> 00:26:02,840
+after the illusion taunts them, 
+maybe even while it's still 
+
+547
+00:26:02,840 --> 00:26:05,760
+speaking. 
+Dermont observes these weird 
+
+548
+00:26:05,760 --> 00:26:08,960
+disturbances in the air around 
+where the illusion stood. 
+
+549
+00:26:09,160 --> 00:26:12,560
+Disturbances like what? 
+Not smoke, not magical energy 
+
+550
+00:26:12,560 --> 00:26:14,520
+flares. 
+The source describes them 
+
+551
+00:26:14,520 --> 00:26:17,840
+vividly as like the rippling of 
+water, like looking through heat
+
+552
+00:26:17,840 --> 00:26:21,160
+haze, but more substantial 
+disturbances indicating 
+
+553
+00:26:21,160 --> 00:26:23,680
+something is pushing through a 
+barrier between planes. 
+
+554
+00:26:23,680 --> 00:26:25,640
+Oh no. 
+And from these rippling points, 
+
+555
+00:26:25,640 --> 00:26:29,000
+creatures begin to emerge. 
+This is the moment the threat 
+
+556
+00:26:29,000 --> 00:26:32,160
+level just skyrockets. 
+Past Valaki town guards, Past 
+
+557
+00:26:32,160 --> 00:26:34,960
+wolves and zombies, Past 
+anything they've likely faced 
+
+558
+00:26:34,960 --> 00:26:37,200
+before. 
+OK, describe these creatures. 
+
+559
+00:26:37,320 --> 00:26:40,480
+What comes out first? 
+1st we see these smaller things,
+
+560
+00:26:40,680 --> 00:26:45,480
+Heffling sized, maybe flapping 
+on leathery bat like wings, and 
+
+561
+00:26:45,480 --> 00:26:49,000
+they're emitting this terrible 
+high pitched wailing screech. 
+
+562
+00:26:49,080 --> 00:26:50,280
+Nasty. 
+What are they? 
+
+563
+00:26:50,360 --> 00:26:53,960
+The source explicitly identifies
+them as spiny devils. 
+
+564
+00:26:54,400 --> 00:26:56,840
+Lesser devils, sure, but devils 
+nonetheless. 
+
+565
+00:26:57,080 --> 00:27:00,440
+Terrible, but clearly 
+subordinate to what comes next. 
+
+566
+00:27:00,440 --> 00:27:01,680
+Because there's something else. 
+Oh. 
+
+567
+00:27:01,760 --> 00:27:05,560
+Yeah, the true horror steps 
+through the main portal, the 
+
+568
+00:27:05,560 --> 00:27:07,760
+biggest ripple right where a 
+washers illusion had just been 
+
+569
+00:27:07,760 --> 00:27:11,320
+standing and laughing. 
+It is a man sized creature, the 
+
+570
+00:27:11,320 --> 00:27:12,760
+Barb Devil. 
+We need details. 
+
+571
+00:27:12,760 --> 00:27:14,840
+What does this thing look like? 
+It's a creature that just 
+
+572
+00:27:14,840 --> 00:27:19,200
+screams violence and malice and 
+has this thick prehensile tail 
+
+573
+00:27:19,200 --> 00:27:23,400
+whipping behind it and wicked 
+sharp barbs protrude 
+
+574
+00:27:23,400 --> 00:27:26,720
+aggressively from its head, its 
+back, its arms, its legs, 
+
+575
+00:27:26,800 --> 00:27:28,960
+everywhere. 
+Sounds painful just to look at. 
+
+576
+00:27:29,040 --> 00:27:32,160
+Its eyes are described as 
+jaundiced yellow, burning with 
+
+577
+00:27:32,160 --> 00:27:34,000
+the slow, malevolent inner 
+light. 
+
+578
+00:27:34,160 --> 00:27:37,000
+And it doesn't roar. 
+It makes this low, harsh 
+
+579
+00:27:37,000 --> 00:27:39,920
+croaking sound, like rocks 
+grinding together. 
+
+580
+00:27:40,040 --> 00:27:43,600
+But the sensory details that 
+absolutely cements its infernal 
+
+581
+00:27:43,600 --> 00:27:47,240
+origin beyond just the look of 
+it is the atmosphere it brings 
+
+582
+00:27:47,240 --> 00:27:50,520
+with it, the smell. 
+It doesn't just look evil, it 
+
+583
+00:27:50,520 --> 00:27:55,120
+feels evil and it smells evil. 
+It emanates this foul miasma 
+
+584
+00:27:55,120 --> 00:27:57,160
+that spreads instantly across 
+the square. 
+
+585
+00:27:57,480 --> 00:28:00,080
+The smell is described as a 
+supernatural stench of 
+
+586
+00:28:00,080 --> 00:28:03,800
+pestilence, decay, sickness. 
+Heavily tinged with. 
+
+587
+00:28:04,120 --> 00:28:07,640
+Brimstone, Sulfur. 
+You can smell the 9 Hells right 
+
+588
+00:28:07,640 --> 00:28:09,920
+there in that town square. 
+OK, that detail is everything, 
+
+589
+00:28:09,920 --> 00:28:12,320
+isn't it? 
+Brimstone, The classic sign. 
+
+590
+00:28:12,400 --> 00:28:16,600
+It's the quintessential sign of 
+infernal origin that sulfur 
+
+591
+00:28:16,600 --> 00:28:19,120
+stench confirms beyond any 
+shadow of a doubt. 
+
+592
+00:28:19,120 --> 00:28:21,560
+These are not weird magical 
+beasts or undead. 
+
+593
+00:28:21,760 --> 00:28:24,920
+They are friends, devils from 
+the Nine Hills. 
+
+594
+00:28:24,920 --> 00:28:27,720
+Which leads to the definitive, 
+terrifying revelation that the 
+
+595
+00:28:27,720 --> 00:28:29,560
+source material drops right 
+here. 
+
+596
+00:28:29,600 --> 00:28:33,160
+Yep, these creatures are 
+summoned devils and Lady Wokter 
+
+597
+00:28:33,160 --> 00:28:36,280
+isn't just a power hungry tyrant
+using guards and politics. 
+
+598
+00:28:36,440 --> 00:28:39,800
+She's a cleric of Asmodeus. 
+A cleric of Asmodeus, Lord of 
+
+599
+00:28:39,800 --> 00:28:42,320
+the 9 Hells. 
+This means she is actively, 
+
+600
+00:28:42,320 --> 00:28:45,640
+knowingly leveraging the power 
+of an Arch Devil to enforce her 
+
+601
+00:28:45,640 --> 00:28:47,400
+political will right here in 
+Valachi. 
+
+602
+00:28:47,480 --> 00:28:50,400
+That completely reframes the 
+entire power structure of the 
+
+603
+00:28:50,400 --> 00:28:53,320
+town, maybe the whole domain. 
+This isn't just a political. 
+
+604
+00:28:53,760 --> 00:28:56,160
+She pulled off. 
+It's backed by a contract with 
+
+605
+00:28:56,240 --> 00:28:59,040
+literal Hell. 
+Watcher has essentially 
+
+606
+00:28:59,040 --> 00:29:02,120
+installed Infernal Creatures as 
+her private law enforcement in 
+
+607
+00:29:02,120 --> 00:29:05,920
+the middle of this otherwise 
+mundane, albeit oppressed town. 
+
+608
+00:29:05,960 --> 00:29:09,120
+It's a frightening display of 
+how deep the corruption can run 
+
+609
+00:29:09,120 --> 00:29:11,880
+in a place like Barovia and her 
+laughter. 
+
+610
+00:29:11,920 --> 00:29:15,360
+Her contemptuous, amplified 
+laughter apparently resumes as 
+
+611
+00:29:15,360 --> 00:29:18,080
+the devils immediately square 
+up, ready to attack the 
+
+612
+00:29:18,080 --> 00:29:20,520
+adventurers. 
+The trap is sprung. 
+
+613
+00:29:20,720 --> 00:29:23,880
+Hashtag tag Tag C The chaos and 
+desperate retreat. 
+
+614
+00:29:24,240 --> 00:29:26,560
+So how does the fight go? 
+Or does it? 
+
+615
+00:29:26,760 --> 00:29:28,840
+The Devil's waste absolutely 
+zero time. 
+
+616
+00:29:29,040 --> 00:29:31,680
+The Barbed Devil, clearly the 
+main threat, immediately 
+
+617
+00:29:31,680 --> 00:29:34,080
+conjures this devastating sphere
+of Hellfire. 
+
+618
+00:29:34,200 --> 00:29:36,680
+It's slams into Dermont, 
+scorching him badly. 
+
+619
+00:29:36,680 --> 00:29:39,280
+He leaps away, already seriously
+wounded. 
+
+620
+00:29:39,360 --> 00:29:42,080
+Ouch. 
+And the little ones, the spiny 
+
+621
+00:29:42,080 --> 00:29:44,160
+devils. 
+They swarm into the air, losing 
+
+622
+00:29:44,160 --> 00:29:46,600
+these clouds of small, red hot 
+darts from their tails. 
+
+623
+00:29:46,600 --> 00:29:48,320
+They target both Dermont and 
+Radley. 
+
+624
+00:29:48,440 --> 00:29:50,360
+It's immediate, overwhelming 
+offense. 
+
+625
+00:29:50,360 --> 00:29:53,000
+Radley tries to fight back with 
+his fire magic. 
+
+626
+00:29:53,240 --> 00:29:56,920
+In a panic, yeah, he tries to 
+counter the threat with his go 
+
+627
+00:29:56,920 --> 00:29:59,680
+to magic, his fire bolt. 
+He manages to hit one of the 
+
+628
+00:29:59,680 --> 00:30:04,240
+flying spiny devils, but the 
+result is instantaneous and just
+
+629
+00:30:04,560 --> 00:30:06,520
+devastating to their morale. 
+What happens? 
+
+630
+00:30:06,520 --> 00:30:09,600
+He realizes instantly his fire 
+magic is useless. 
+
+631
+00:30:09,600 --> 00:30:13,040
+Worse than useless, these 
+creatures are natives of the 9 
+
+632
+00:30:13,040 --> 00:30:14,960
+Hells, a burning hellscape. 
+Right. 
+
+633
+00:30:15,040 --> 00:30:17,760
+Fire doesn't bother them much. 
+They probably just laugh it off,
+
+634
+00:30:17,760 --> 00:30:20,840
+metaphorically speaking. 
+His simple fire spell does next 
+
+635
+00:30:20,840 --> 00:30:23,600
+to nothing. 
+This is a critical tactical 
+
+636
+00:30:23,600 --> 00:30:25,480
+failure born of panic and 
+instinct. 
+
+637
+00:30:25,760 --> 00:30:29,000
+Radley has just confirmed his 
+primary ranged attack option is 
+
+638
+00:30:29,160 --> 00:30:32,880
+utterly ineffective against this
+new terrifying enemy. 
+
+639
+00:30:32,880 --> 00:30:35,360
+OK, so they're facing 
+overwhelming new threats. 
+
+640
+00:30:35,600 --> 00:30:39,000
+Daremones badly hurt. 
+Radley's main magic is useless. 
+
+641
+00:30:39,560 --> 00:30:40,600
+This isn't a fight they can. 
+Win. 
+
+642
+00:30:40,600 --> 00:30:42,960
+Not even close. 
+The realization hits them hard 
+
+643
+00:30:42,960 --> 00:30:44,600
+and fast. 
+The combination of the new 
+
+644
+00:30:44,600 --> 00:30:47,280
+threat level and the immediate 
+ineffectiveness of their magic 
+
+645
+00:30:47,280 --> 00:30:51,400
+forces an instantaneous shift. 
+Forget fighting, it's time to 
+
+646
+00:30:51,400 --> 00:30:54,280
+run flight over fight. 
+Your horn sees this chaos 
+
+647
+00:30:54,280 --> 00:30:56,880
+unfolding. 
+Yeah, your horn, maybe, having 
+
+648
+00:30:56,880 --> 00:30:59,840
+stayed back a bit or just 
+reacting quicker, guides his 
+
+649
+00:30:59,840 --> 00:31:02,480
+Panther down from the rooftops. 
+He doesn't charge in. 
+
+650
+00:31:02,480 --> 00:31:05,600
+He starts to flee along a side 
+street, firing arrows back at a 
+
+651
+00:31:05,600 --> 00:31:08,600
+pursuing spiny devil even as the
+Panther sprints away. 
+
+652
+00:31:08,960 --> 00:31:12,040
+Tactical retreat. 
+But Radley, he's still got the 
+
+653
+00:31:12,040 --> 00:31:15,280
+mission objective in mind. 
+Radley remains focused even in 
+
+654
+00:31:15,280 --> 00:31:18,280
+the chaos. 
+He knows this is it, their only 
+
+655
+00:31:18,280 --> 00:31:21,400
+chance to get the body. 
+He ignores the devils for a 
+
+656
+00:31:21,400 --> 00:31:23,920
+second, rushes to the post where
+tracks the door hangs. 
+
+657
+00:31:24,000 --> 00:31:26,920
+Cuts the rope. 
+Uses a sore, cleaves the rope. 
+
+658
+00:31:27,160 --> 00:31:29,640
+The clerics corpse drops heavily
+to the ground. 
+
+659
+00:31:29,640 --> 00:31:33,360
+He doesn't hesitate, he throws 
+the body, which must be awkward,
+
+660
+00:31:33,360 --> 00:31:37,360
+heavy, stiff, horrible, over his
+shoulder and just runs for his 
+
+661
+00:31:37,360 --> 00:31:39,960
+life, following your horn. 
+And the pursuit is immediate, I 
+
+662
+00:31:39,960 --> 00:31:42,240
+assume. 
+Immediate and horrifying, this 
+
+663
+00:31:42,240 --> 00:31:44,920
+is where the narrative really 
+drills down into the just the 
+
+664
+00:31:44,920 --> 00:31:46,680
+grimness and the emotional 
+stakes. 
+
+665
+00:31:46,680 --> 00:31:49,640
+The spiny devils loose more of 
+those red hot darts. 
+
+666
+00:31:49,760 --> 00:31:52,040
+At Radley. 
+They miss hitting Radley 
+
+667
+00:31:52,040 --> 00:31:54,440
+directly, but the barbs stick 
+into the flesh of the corpse 
+
+668
+00:31:54,440 --> 00:31:56,520
+he's carrying. 
+Oh God, that's vile. 
+
+669
+00:31:56,680 --> 00:31:58,920
+It's a deeply morbid detail, 
+isn't it? 
+
+670
+00:31:58,960 --> 00:32:01,880
+The desecration of Trxador's 
+body even as they're trying to 
+
+671
+00:32:01,880 --> 00:32:04,360
+save it. 
+Pure psychological terror from 
+
+672
+00:32:04,360 --> 00:32:07,120
+the devils. 
+And the big one, the Barb devil.
+
+673
+00:32:07,120 --> 00:32:11,080
+Relentless hits Radley again 
+with another ball of Hellfire, 
+
+674
+00:32:11,080 --> 00:32:14,240
+compounding his injuries. 
+He's staggering, but still 
+
+675
+00:32:14,240 --> 00:32:16,680
+running. 
+The chase is just this 
+
+676
+00:32:16,680 --> 00:32:20,400
+desperate, chaotic flight down 
+the dark streets, focused 
+
+677
+00:32:20,400 --> 00:32:23,560
+entirely on keeping hold of the 
+body and staying alive. 
+
+678
+00:32:23,680 --> 00:32:25,480
+You're a horn still providing 
+cover fire though. 
+
+679
+00:32:25,760 --> 00:32:29,640
+He is the steady hand. 
+Even in retreat, he manages to 
+
+680
+00:32:29,640 --> 00:32:32,600
+hit one of the pursuing spiny 
+devils with an arrow, and this 
+
+681
+00:32:32,600 --> 00:32:35,360
+time it works. 
+It erupts spectacularly in 
+
+682
+00:32:35,360 --> 00:32:38,360
+embers and just falls to the 
+street, leaving nothing but ash 
+
+683
+00:32:38,360 --> 00:32:40,800
+behind. 
+OK, so they can be killed, just 
+
+684
+00:32:40,800 --> 00:32:43,040
+not easily and not with fire. 
+Exactly. 
+
+685
+00:32:43,040 --> 00:32:45,440
+A physical force works. 
+That's crucial information. 
+
+686
+00:32:45,440 --> 00:32:48,240
+Maybe for later. 
+He then catches up to Derriman, 
+
+687
+00:32:48,240 --> 00:32:50,680
+who is already putting their 
+emergency plan into action. 
+
+688
+00:32:50,840 --> 00:32:52,920
+The potion. 
+Derriman is literally pouring 
+
+689
+00:32:52,920 --> 00:32:55,240
+the potion of greater healing, 
+the Precious One from Van 
+
+690
+00:32:55,240 --> 00:32:58,080
+Richten, down the wounded 
+Radley's throat as they run. 
+
+691
+00:32:58,160 --> 00:33:00,480
+Followed up Eurohorn's own 
+magic. 
+
+692
+00:33:01,360 --> 00:33:05,080
+Eurohorn immediately casts Cure 
+Wounds on Radley, apparently 
+
+693
+00:33:05,080 --> 00:33:06,760
+while riding alongside him on 
+the Panther. 
+
+694
+00:33:06,920 --> 00:33:08,760
+Impressive coordination under 
+fire. 
+
+695
+00:33:08,840 --> 00:33:11,880
+That teamwork is flawless, 
+though, focused entirely on 
+
+696
+00:33:11,880 --> 00:33:15,280
+keeping Radley, the guy carrying
+the objective, mobile and alive,
+
+697
+00:33:15,640 --> 00:33:18,400
+trading resources using those 
+less conventional healing 
+
+698
+00:33:18,400 --> 00:33:19,560
+powers. 
+Absolutely. 
+
+699
+00:33:19,560 --> 00:33:22,440
+They're burning through precious
+resources, but it's keeping them
+
+700
+00:33:22,440 --> 00:33:25,160
+going. 
+But the session, the source 
+
+701
+00:33:25,160 --> 00:33:29,600
+material here, ends on this note
+of deep, chilling uncertainty. 
+
+702
+00:33:29,800 --> 00:33:31,400
+They're heading for the Blue 
+Water Inn, right? 
+
+703
+00:33:31,400 --> 00:33:32,480
+They're refugees. 
+They are. 
+
+704
+00:33:32,480 --> 00:33:35,720
+They're only known safe haven, 
+the location of their allies, 
+
+705
+00:33:35,720 --> 00:33:38,480
+the Martikoffs. 
+But the terrible realization is 
+
+706
+00:33:38,480 --> 00:33:41,520
+sinking in even as they run. 
+The devil saw them. 
+
+707
+00:33:41,520 --> 00:33:44,280
+They know where they're going. 
+The devils, and by extension 
+
+708
+00:33:44,280 --> 00:33:47,400
+Lady Water, almost certainly 
+know their destinations, so just
+
+709
+00:33:47,400 --> 00:33:51,760
+reaching the inn, well, it's 
+unlikely to provide true lasting
+
+710
+00:33:51,760 --> 00:33:54,440
+refuge anymore. 
+Oh man, the infernal pursuit 
+
+711
+00:33:54,440 --> 00:33:56,800
+means they're safe harbor. 
+The Blue Water Inn has just 
+
+712
+00:33:56,800 --> 00:33:59,880
+become the likely next target. 
+They might be leading hell right
+
+713
+00:33:59,880 --> 00:34:01,800
+to the Martikoff's doorstep. 
+Wow. 
+
+714
+00:34:01,800 --> 00:34:05,800
+OK, so this deep dive, this 
+session 19, it's provided 
+
+715
+00:34:05,800 --> 00:34:07,960
+several critical pieces of 
+knowledge that just 
+
+716
+00:34:08,080 --> 00:34:11,239
+fundamentally change the outlook
+for the adventurers and frankly 
+
+717
+00:34:11,520 --> 00:34:14,120
+maybe change our understanding 
+of the nature of this entire 
+
+718
+00:34:14,120 --> 00:34:15,480
+domain. 
+Absolutely. 
+
+719
+00:34:15,480 --> 00:34:18,120
+I mean the key piece of 
+information in the bombshell is 
+
+720
+00:34:18,120 --> 00:34:20,320
+confirming Lady Watchers true 
+nature, right? 
+
+721
+00:34:20,480 --> 00:34:23,719
+She is not just some ambitious 
+political rival using mortal 
+
+722
+00:34:23,719 --> 00:34:27,480
+thugs and spies. 
+She is a cleric of Asmodeus, 
+
+723
+00:34:27,960 --> 00:34:32,360
+actively, openly utilizing 
+summoned devils from the 9 Hells
+
+724
+00:34:32,360 --> 00:34:35,480
+as her private enforcement. 
+That's a terrifying escalation. 
+
+725
+00:34:35,800 --> 00:34:38,639
+It means every action she takes 
+now could potentially be backed 
+
+726
+00:34:38,639 --> 00:34:40,679
+by infernal power. 
+Exactly. 
+
+727
+00:34:41,000 --> 00:34:43,400
+And on the flip side, on the 
+side of their allies, the 
+
+728
+00:34:43,400 --> 00:34:46,520
+Brotherhood of the Feather, led 
+by the Martakoffs, they've 
+
+729
+00:34:46,520 --> 00:34:49,080
+proven to be an absolutely 
+essential lifeline. 
+
+730
+00:34:49,080 --> 00:34:51,320
+Providing shelter. 
+Critical intelligence gear. 
+
+731
+00:34:51,320 --> 00:34:54,040
+Yeah, like Radley's Raven 
+crested Shield, which isn't just
+
+732
+00:34:54,040 --> 00:34:56,800
+armor now, it's this beacon of 
+their alliance, a potential way 
+
+733
+00:34:56,800 --> 00:35:01,840
+to find other hidden friends. 
+And we also saw the vital maybe 
+
+734
+00:35:01,840 --> 00:35:05,240
+sometimes overlooks utility of 
+each adventurer when pushed to 
+
+735
+00:35:05,240 --> 00:35:06,800
+the absolute limit. 
+For sure. 
+
+736
+00:35:06,960 --> 00:35:10,040
+Derman's lethal precision and 
+his lock picking getting them 
+
+737
+00:35:10,040 --> 00:35:13,320
+out of that initial jam. 
+Bradley's unique bond with his 
+
+738
+00:35:13,320 --> 00:35:16,200
+weapons saving him from being 
+completely disarmed by the 
+
+739
+00:35:16,200 --> 00:35:18,440
+guards. 
+In your horn, his overlooked 
+
+740
+00:35:18,440 --> 00:35:22,080
+healing capacity, his range to 
+combat effectiveness proving 
+
+741
+00:35:22,160 --> 00:35:25,560
+absolutely essential during that
+chaotic escape. 
+
+742
+00:35:25,600 --> 00:35:29,200
+They needed every single skill 
+they had and the confrontation 
+
+743
+00:35:29,200 --> 00:35:31,840
+itself, it just completely 
+transformed the narrative, 
+
+744
+00:35:31,840 --> 00:35:33,520
+didn't it? 
+From what seemed like a 
+
+745
+00:35:33,520 --> 00:35:37,120
+manageable, if risky stealth 
+heist against mortal guards. 
+
+746
+00:35:37,200 --> 00:35:40,680
+Into a desperate, fiery flight 
+from organized infernal forces. 
+
+747
+00:35:41,040 --> 00:35:43,480
+Actual devils. 
+The stakes are now cosmic. 
+
+748
+00:35:43,480 --> 00:35:46,400
+They've literally put themselves
+in the crosshairs of the 9 LS, 
+
+749
+00:35:46,600 --> 00:35:49,080
+or at least an agent thereof. 
+So thinking about the bigger 
+
+750
+00:35:49,080 --> 00:35:52,080
+picture here, this revelation, 
+it raises a really important, 
+
+751
+00:35:52,080 --> 00:35:54,720
+deeply troubling question for 
+you, the listener, to ponder. 
+
+752
+00:35:54,840 --> 00:35:58,560
+OK, if the burger mistress of 
+Awlaki, A relatively significant
+
+753
+00:35:58,560 --> 00:36:02,160
+tone, is openly using summoned 
+devils as her private police 
+
+754
+00:36:02,160 --> 00:36:05,760
+force, what does that imply 
+about the true power structure 
+
+755
+00:36:05,760 --> 00:36:07,720
+of this entire domain they're 
+trapped in? 
+
+756
+00:36:07,800 --> 00:36:10,240
+Is this just her local 
+operation, or is this kind of 
+
+757
+00:36:10,240 --> 00:36:12,080
+infernal dealing happening 
+elsewhere? 
+
+758
+00:36:12,240 --> 00:36:14,680
+Is Esmodeus's influence more 
+widespread? 
+
+759
+00:36:14,880 --> 00:36:17,400
+We don't know. 
+And maybe even more immediately 
+
+760
+00:36:17,400 --> 00:36:20,160
+worrying, given that the Devil's
+almost certainly know the 
+
+761
+00:36:20,160 --> 00:36:23,720
+Martikoff's Inn is their 
+destination, Can the blue water 
+
+762
+00:36:23,720 --> 00:36:27,160
+in the place that symbolize 
+their last best hope, their only
+
+763
+00:36:27,160 --> 00:36:29,400
+refuge? 
+Can it ever truly be considered 
+
+764
+00:36:29,400 --> 00:36:32,000
+safe again? 
+That's a truly chilling thought.
+
+765
+00:36:32,040 --> 00:36:34,960
+It leaves the Marta cops, the 
+very people who just gave them 
+
+766
+00:36:34,960 --> 00:36:39,200
+refuge and aid in an immediate, 
+potentially lethal infernal 
+
+767
+00:36:39,200 --> 00:36:40,560
+peril, just for helping. 
+Them. 
+
+768
+00:36:40,560 --> 00:36:42,680
+Yeah, the consequences ripple 
+outwards. 
+
+769
+00:36:42,960 --> 00:36:45,560
+OK, that's all the time we have 
+for this deep dive into the 
+
+770
+00:36:45,560 --> 00:36:49,080
+heart of Awlaki's escalating and
+now infernal darkness. 
+
+771
+00:36:49,240 --> 00:36:51,280
+We'll see you next time. 
+Welcome back. 
+
+772
+00:36:51,640 --> 00:36:54,720
+Today we're looking at some 
+really intense session notes. 
+
+773
+00:36:54,880 --> 00:36:58,960
+It's the aftermath of a failed 
+execution rescue in Valaki. 
+
+774
+00:36:59,560 --> 00:37:02,520
+The party's trying to get their 
+companion Traxador's body back 
+
+775
+00:37:02,680 --> 00:37:05,680
+and they end up fighting devils 
+summoned by Lady Walker. 
+
+776
+00:37:05,840 --> 00:37:08,920
+It's quite the scene. 
+Yeah, high drama, Lots 
+
+777
+00:37:08,920 --> 00:37:10,760
+happening. 
+So where should we start? 
+
+778
+00:37:11,040 --> 00:37:13,960
+OK, let's jump right into the 
+first point, focusing on the 
+
+779
+00:37:13,960 --> 00:37:16,800
+emotional core. 
+As I read it, the drive to get 
+
+780
+00:37:16,800 --> 00:37:21,040
+Traxador's body feels very 
+strategic, like it's mostly 
+
+781
+00:37:21,040 --> 00:37:23,040
+about getting him to the Abbot 
+for resurrection. 
+
+782
+00:37:23,160 --> 00:37:25,600
+Exactly. 
+And you know, while that's 
+
+783
+00:37:25,600 --> 00:37:28,440
+logical for the plot, it feels 
+like we might be skipping a 
+
+784
+00:37:28,440 --> 00:37:30,680
+beat. 
+Does rushing to the fix, the 
+
+785
+00:37:30,680 --> 00:37:34,320
+resurrection undercut the sheer 
+weight of their failure? 
+
+786
+00:37:34,360 --> 00:37:36,840
+The actual loss. 
+That's the heart of it. 
+
+787
+00:37:37,200 --> 00:37:40,800
+So, critique 1. 
+While the urgency of the 
+
+788
+00:37:40,800 --> 00:37:44,560
+situation retrieving Trxador's 
+body to be resurrected by the 
+
+789
+00:37:44,560 --> 00:37:48,800
+Abbot is clear, pausing to 
+deepen the emotional investment 
+
+790
+00:37:48,800 --> 00:37:51,800
+of the characters could 
+significantly elevate the stakes
+
+791
+00:37:51,800 --> 00:37:53,440
+of the mission. 
+Right. 
+
+792
+00:37:53,760 --> 00:37:57,560
+The weakness here is how fast it
+moves from shock to solution, 
+
+793
+00:37:57,880 --> 00:38:02,680
+Donica says Trxador's dead boom 
+and almost the next breath is 
+
+794
+00:38:02,840 --> 00:38:04,720
+well. 
+The notes say Dharman and Radley
+
+795
+00:38:04,720 --> 00:38:06,520
+are pondering if the Abbot can 
+raise him. 
+
+796
+00:38:06,680 --> 00:38:08,840
+It's efficient. 
+Maybe too efficient? 
+
+797
+00:38:09,040 --> 00:38:12,040
+Yeah, it kind of short circuits 
+the grief, doesn't it? 
+
+798
+00:38:12,240 --> 00:38:16,040
+The hope of resurrection pops up
+so fast it drains that immediate
+
+799
+00:38:16,040 --> 00:38:18,920
+raw feeling of failure. 
+It makes the retrieval feel a 
+
+800
+00:38:18,920 --> 00:38:23,120
+bit transactional, like an 
+objective marker rather than 
+
+801
+00:38:23,120 --> 00:38:26,400
+this desperate act of loyalty. 
+And we definitely don't want 
+
+802
+00:38:26,400 --> 00:38:27,880
+that. 
+This is a huge moment. 
+
+803
+00:38:28,320 --> 00:38:32,080
+So the suggestion is to really 
+lean into that downtime at the 
+
+804
+00:38:32,080 --> 00:38:35,000
+Blue Water Inn. 
+They're safe for a moment, but 
+
+805
+00:38:35,000 --> 00:38:37,880
+they're broken. 
+Use that space to show us the 
+
+806
+00:38:37,880 --> 00:38:40,640
+psychological fallout. 
+Absolutely. 
+
+807
+00:38:40,640 --> 00:38:43,440
+Show, don't just tell, they 
+pondered. 
+
+808
+00:38:43,720 --> 00:38:46,640
+Let's see that internal 
+struggle, you know, make them 
+
+809
+00:38:46,640 --> 00:38:49,720
+grapple with the cost. 
+Is this even possible? 
+
+810
+00:38:49,880 --> 00:38:53,160
+We just failed spectacularly 
+trying to save him. 
+
+811
+00:38:53,320 --> 00:38:56,520
+Maybe show Radley, specifically 
+Derman, just risked everything 
+
+812
+00:38:56,520 --> 00:38:58,800
+to free him? 
+Does Radley feel guilty, or is 
+
+813
+00:38:58,800 --> 00:39:02,040
+he just fiercely determined? 
+Now let's see that before they 
+
+814
+00:39:02,040 --> 00:39:05,440
+ask Danica to scout. 
+That pause makes the later risks
+
+815
+00:39:05,440 --> 00:39:08,360
+feel earned. 
+That emotional grounding changes
+
+816
+00:39:08,360 --> 00:39:11,040
+everything. 
+It turns it from logistics into 
+
+817
+00:39:11,560 --> 00:39:14,760
+like, sheer desperation. 
+And we can layer that. 
+
+818
+00:39:15,000 --> 00:39:18,360
+What about emphasizing where the
+body is hung in that smaller 
+
+819
+00:39:18,360 --> 00:39:20,000
+square? 
+Dermont's puzzled by the 
+
+820
+00:39:20,000 --> 00:39:21,640
+location, right? 
+That's a perfect hook. 
+
+821
+00:39:22,080 --> 00:39:26,480
+Oh yeah, a chance to reflect, 
+maybe connect it to other losses
+
+822
+00:39:26,480 --> 00:39:29,840
+in Balaki, Valloneer, Vargas. 
+Exactly. 
+
+823
+00:39:30,040 --> 00:39:32,960
+Tie it into the town's whole 
+awful cycle of violence. 
+
+824
+00:39:33,280 --> 00:39:37,400
+Suddenly getting Traxador back 
+isn't just about him, it's about
+
+825
+00:39:37,400 --> 00:39:41,760
+defying Valaki itself, defying 
+the despair that really amps up 
+
+826
+00:39:41,760 --> 00:39:43,600
+their motivation. 
+OK. 
+
+827
+00:39:43,600 --> 00:39:45,840
+I like that. 
+It gives the mission much deeper
+
+828
+00:39:45,840 --> 00:39:47,480
+roots. 
+They're not just fetching a 
+
+829
+00:39:47,480 --> 00:39:50,480
+body, they're fighting back 
+against the town's very full. 
+
+830
+00:39:51,040 --> 00:39:54,800
+So, moving from the why to the 
+how, let's talk about pacing and
+
+831
+00:39:54,800 --> 00:39:56,880
+structure. 
+The notes cover their escape 
+
+832
+00:39:56,960 --> 00:40:00,000
+after the failed rescue and then
+the setup for getting the body 
+
+833
+00:40:00,000 --> 00:40:03,120
+back at night, but the focus 
+feels uneven. 
+
+834
+00:40:04,120 --> 00:40:06,920
+Interesting. 
+Yeah, I see that. 
+
+835
+00:40:07,360 --> 00:40:11,320
+It feels like some parts get 
+lingered on while other high 
+
+836
+00:40:11,320 --> 00:40:14,240
+tension moments are maybe rushed
+through. 
+
+837
+00:40:14,560 --> 00:40:19,560
+So .2, the opening sequence in 
+the dilapidated cellar, contains
+
+838
+00:40:19,560 --> 00:40:24,480
+details that detract from the 
+overall pacing, while later high
+
+839
+00:40:24,480 --> 00:40:27,600
+tension sequences that follow 
+the escape from the inn are 
+
+840
+00:40:27,600 --> 00:40:30,360
+rushed, diminishing the sense of
+danger. 
+
+841
+00:40:30,800 --> 00:40:32,600
+Right. 
+The weakness is where the 
+
+842
+00:40:32,600 --> 00:40:36,200
+narrative camera focuses right 
+after the chaos at the gallows. 
+
+843
+00:40:36,240 --> 00:40:38,960
+They're hiding. 
+The tension should be sky high. 
+
+844
+00:40:39,160 --> 00:40:43,200
+But then we get quite a bit of 
+detail about Erie Horn. 
+
+845
+00:40:43,240 --> 00:40:46,280
+Searching old furniture, 
+mouldering books, finding 
+
+846
+00:40:46,280 --> 00:40:49,280
+nothing. 
+Yeah, and the lock picking on 
+
+847
+00:40:49,280 --> 00:40:51,760
+Radley's restraint, it's very 
+granular. 
+
+848
+00:40:52,000 --> 00:40:53,840
+Exactly. 
+It feels like we're getting 
+
+849
+00:40:53,840 --> 00:40:56,440
+bogged down in inventory 
+management when we should be 
+
+850
+00:40:56,440 --> 00:40:59,160
+feeling their fear, listening 
+for footsteps outside. 
+
+851
+00:40:59,480 --> 00:41:01,760
+It just kind of slows down that 
+frantic recovery beat. 
+
+852
+00:41:02,160 --> 00:41:05,880
+OK, so the suggestion cut back 
+hard on that stuff. 
+
+853
+00:41:06,200 --> 00:41:10,360
+Pretty much compress the non 
+essential descriptions, focus 
+
+854
+00:41:10,360 --> 00:41:14,360
+instead on what they're feeling,
+the fear, the adrenaline crash, 
+
+855
+00:41:14,680 --> 00:41:18,200
+and definitely focus on the 
+sounds outside the threat. 
+
+856
+00:41:18,480 --> 00:41:22,640
+And then flip side, maybe expand
+the bits that are tense like the
+
+857
+00:41:22,640 --> 00:41:26,400
+actual sneaking around later. 
+Yes, let's take that seller 
+
+858
+00:41:26,400 --> 00:41:29,040
+search instead of listing dusty 
+items. 
+
+859
+00:41:29,200 --> 00:41:31,440
+Maybe it's just a quick nervous 
+action. 
+
+860
+00:41:31,600 --> 00:41:35,160
+Or cut it, but definitely 
+amplify that moment when the 
+
+861
+00:41:35,160 --> 00:41:39,280
+search party rattles the door. 
+Yeah, the bit where Radley 
+
+862
+00:41:39,280 --> 00:41:41,240
+covers the light spell. 
+That's it. 
+
+863
+00:41:41,480 --> 00:41:45,240
+That's pure tension. 
+Focus on that specific sharp 
+
+864
+00:41:45,240 --> 00:41:47,880
+action. 
+It instantly reminds us they're 
+
+865
+00:41:47,880 --> 00:41:50,760
+trapped, haunted. 
+That's way more effective than 
+
+866
+00:41:50,760 --> 00:41:52,680
+describing mold. 
+OK, got it. 
+
+867
+00:41:53,040 --> 00:41:55,640
+Less inventory, more immediate 
+danger. 
+
+868
+00:41:56,000 --> 00:41:58,800
+And then apply that detail when 
+they actually leave the inn 
+
+869
+00:41:58,800 --> 00:42:00,320
+later. 
+Exactly. 
+
+870
+00:42:00,680 --> 00:42:04,400
+Day 15 Instead of just saying 
+they pushed through debris, 
+
+871
+00:42:04,400 --> 00:42:06,440
+Danica piled up. 
+Describe it. 
+
+872
+00:42:06,760 --> 00:42:08,760
+What does it sound like? 
+Scraping wood? 
+
+873
+00:42:09,080 --> 00:42:12,960
+Heavy breathing in the silence. 
+Make that escape feel difficult 
+
+874
+00:42:12,960 --> 00:42:15,200
+and risky. 
+The sound of moving that 
+
+875
+00:42:15,200 --> 00:42:18,520
+bulkhead could echo instantly, 
+setting the mood for the whole 
+
+876
+00:42:18,520 --> 00:42:21,520
+night operation. 
+It underlines the curfew, the 
+
+877
+00:42:21,520 --> 00:42:25,840
+danger before any devil show up.
+That small bit of sensory detail
+
+878
+00:42:25,920 --> 00:42:29,320
+totally changes the atmosphere. 
+It's not just they left, it's 
+
+879
+00:42:29,360 --> 00:42:31,600
+they risked everything just to 
+get out the door. 
+
+880
+00:42:31,800 --> 00:42:35,160
+OK, that makes sense. 
+Sharpen the focus, basically. 
+
+881
+00:42:35,440 --> 00:42:37,960
+Good. 
+So that brings us to the climax,
+
+882
+00:42:37,960 --> 00:42:39,560
+right? 
+The Square. 
+
+883
+00:42:39,640 --> 00:42:44,000
+The Devil's Lady Walker. 
+Yeah, the big confrontation, 
+
+884
+00:42:44,360 --> 00:42:46,800
+this is peak desperation, and 
+it's good. 
+
+885
+00:42:46,960 --> 00:42:50,080
+But I think we can push the 
+horror aspect even further, make
+
+886
+00:42:50,080 --> 00:42:54,280
+it truly unsettling. 
+Right, it's Borovia. 
+
+887
+00:42:54,880 --> 00:42:58,160
+It should be unsettling, but the
+notes seem to jump to the 
+
+888
+00:42:58,160 --> 00:43:01,880
+mechanics pretty fast, like 
+resistances and immunities. 
+
+889
+00:43:02,040 --> 00:43:05,760
+That's the potential issue, so 
+Critique 3, the final 
+
+890
+00:43:05,760 --> 00:43:09,520
+confrontation with Lady Walker's
+Summon Devils, is excellent, but
+
+891
+00:43:09,520 --> 00:43:12,600
+shifting the focus from the 
+creatures mechanical immunities 
+
+892
+00:43:12,760 --> 00:43:16,520
+to the raw supernatural horror 
+they inflict would maximize the 
+
+893
+00:43:16,520 --> 00:43:18,720
+dramatic impact of the climax. 
+OK. 
+
+894
+00:43:18,720 --> 00:43:22,680
+So the weakness is that 
+Analytical Jump devils appear 
+
+895
+00:43:22,680 --> 00:43:25,240
+and Bam Darman figures out the 
+illusion. 
+
+896
+00:43:25,240 --> 00:43:28,520
+Radley tests his fire spell and 
+notes it's ineffective. 
+
+897
+00:43:29,160 --> 00:43:33,280
+Which is useful game info, sure,
+but in the narrative it pulls us
+
+898
+00:43:33,280 --> 00:43:36,440
+out of the sheer terror. 
+It shifts from what are those 
+
+899
+00:43:36,440 --> 00:43:39,000
+things to OK fire resistance 
+noted. 
+
+900
+00:43:39,040 --> 00:43:41,800
+Yeah, it feels a bit like 
+reading a stat block instead of 
+
+901
+00:43:41,800 --> 00:43:45,480
+experiencing the fight. 
+So the suggestion is delay that 
+
+902
+00:43:45,480 --> 00:43:48,160
+analysis. 
+Dwell on the sensory horror 
+
+903
+00:43:48,160 --> 00:43:50,480
+first. 
+What does it feel like, sound 
+
+904
+00:43:50,480 --> 00:43:54,000
+like, even smell like? 
+To face these things, especially
+
+905
+00:43:54,000 --> 00:43:57,760
+that barbed devil, make the 
+dread feel physical, alien. 
+
+906
+00:43:57,960 --> 00:44:00,440
+Make it about the feeling of 
+fighting something infernal, not
+
+907
+00:44:00,440 --> 00:44:03,000
+just the tactics. 
+How do we do that? 
+
+908
+00:44:03,240 --> 00:44:06,760
+Well, concrete examples. 
+The notes mention a foul miasma.
+
+909
+00:44:07,120 --> 00:44:09,360
+Let's really expand on that. 
+Make it oppressive. 
+
+910
+00:44:09,600 --> 00:44:12,120
+Does it sting their eyes? 
+Burn their lungs? 
+
+911
+00:44:12,440 --> 00:44:14,960
+Make it hard to breathe? 
+Hard to concentrate. 
+
+912
+00:44:15,560 --> 00:44:19,000
+The air itself is hostile. 
+Maybe Radley tries the fire 
+
+913
+00:44:19,000 --> 00:44:22,680
+spell, and while he's choking on
+brimstone, he realizes it did 
+
+914
+00:44:22,680 --> 00:44:25,160
+nothing. 
+The environment reinforces the 
+
+915
+00:44:25,160 --> 00:44:28,960
+horror. 
+OK, yeah, layer the sensory 
+
+916
+00:44:28,960 --> 00:44:31,520
+details onto the actions. 
+I like that. 
+
+917
+00:44:32,600 --> 00:44:34,400
+And what about the body itself 
+during the fight? 
+
+918
+00:44:34,920 --> 00:44:38,920
+Ah yes, that detail about tracks
+of Doors corpse taking the hits,
+
+919
+00:44:39,240 --> 00:44:42,280
+That's gold. 
+Radley has spared their barbs as
+
+920
+00:44:42,280 --> 00:44:45,320
+their spines miss him and stick 
+into the flesh of the corpse he 
+
+921
+00:44:45,320 --> 00:44:48,760
+carries. 
+That's incredibly grim and 
+
+922
+00:44:48,760 --> 00:44:52,000
+powerful. 
+It's perfect for the tone, so 
+
+923
+00:44:52,160 --> 00:44:55,800
+slow, that moment down. 
+Focus on the sound, that awful 
+
+924
+00:44:55,800 --> 00:44:58,720
+thud or squelch of spines 
+hitting dead flesh. 
+
+925
+00:44:59,040 --> 00:45:03,000
+Focus on Radley's reaction, the 
+horror, the grim realization his
+
+926
+00:45:03,000 --> 00:45:05,080
+dead friend is literally 
+shielding him. 
+
+927
+00:45:05,720 --> 00:45:09,160
+Oh man, yeah, that makes it so 
+much more desperate. 
+
+928
+00:45:09,400 --> 00:45:12,080
+It's not just carrying a body, 
+it's carrying this. 
+
+929
+00:45:12,440 --> 00:45:15,400
+This macabre shield made of 
+sacrifice. 
+
+930
+00:45:15,600 --> 00:45:20,000
+Exactly that image, combined 
+with the stench, the struggle 
+
+931
+00:45:20,040 --> 00:45:22,760
+that tells the story of what 
+this retrieval cost them. 
+
+932
+00:45:23,000 --> 00:45:25,680
+It hammers home the horror and 
+their desperate commitment. 
+
+933
+00:45:25,880 --> 00:45:29,400
+Right, OK, that really lands the
+climax in a much more visceral 
+
+934
+00:45:29,400 --> 00:45:32,880
+place. 
+So wrapping up, we've hit three 
+
+935
+00:45:32,880 --> 00:45:35,560
+key areas. 
+This is strong stuff already, 
+
+936
+00:45:35,800 --> 00:45:38,440
+but these tweaks could really 
+push it over the top. 
+
+937
+00:45:38,920 --> 00:45:41,080
+Agreed. 
+So first point was about the 
+
+938
+00:45:41,080 --> 00:45:44,200
+emotional core really digging 
+into the grief before the 
+
+939
+00:45:44,200 --> 00:45:46,480
+solution. 
+Don't rush past the impact of 
+
+940
+00:45:46,480 --> 00:45:49,240
+Tracidor's death. 
+Use that downtime to show their 
+
+941
+00:45:49,240 --> 00:45:53,240
+resolve, their desperation that 
+justifies the risks they take. 
+
+942
+00:45:53,480 --> 00:45:56,960
+Yep. 
+Second, structure and pacing cut
+
+943
+00:45:56,960 --> 00:45:59,760
+the clutter and low tension 
+moments like the seller 
+
+944
+00:45:59,760 --> 00:46:03,360
+inventory beef up the 
+description and sensory details 
+
+945
+00:46:03,360 --> 00:46:06,760
+during high tension transitions 
+like sneaking out of the inn 
+
+946
+00:46:06,960 --> 00:46:09,640
+make the act of moving feel 
+dangerous. 
+
+947
+00:46:09,920 --> 00:46:14,120
+And 3rd, the climax. 
+Lean into the sensory horror of 
+
+948
+00:46:14,120 --> 00:46:16,800
+the Devil's Delay. 
+The mechanical analysis. 
+
+949
+00:46:17,040 --> 00:46:21,240
+Use the environment, the miosma,
+the sounds, and really maximize 
+
+950
+00:46:21,240 --> 00:46:24,720
+that incredibly dark, potent 
+image of Tracidor's corpse 
+
+951
+00:46:24,720 --> 00:46:27,680
+acting as a shield. 
+Make the reader feel the dread. 
+
+952
+00:46:27,920 --> 00:46:33,280
+Absolutely focus on the feeling,
+the sounds, the smells, the 
+
+953
+00:46:33,280 --> 00:46:36,760
+sheer awfulness of it. 
+Implement those changes deep in 
+
+954
+00:46:36,760 --> 00:46:40,800
+the emotion, sharpen the pacing,
+focus, amplify the sensory 
+
+955
+00:46:40,800 --> 00:46:43,560
+horror, and this already 
+dramatic sequence will hit even 
+
+956
+00:46:43,560 --> 00:46:45,560
+harder. 
+It'll make the retrieval feel 
+
+957
+00:46:45,560 --> 00:46:49,640
+incredibly earned and costly. 
+Exactly, we think these 
+
+958
+00:46:49,640 --> 00:46:52,000
+adjustments will really elevate 
+the material. 
+
+959
+00:46:52,600 --> 00:46:55,600
+Feel free to work on these 
+suggestions and definitely send 
+
+960
+00:46:55,600 --> 00:46:57,520
+it back our way when you're 
+ready for another look. 
+
+961
+00:46:58,000 --> 00:47:00,640
+Welcome to the debate. 
+We're diving back into Valaki 
+
+962
+00:47:00,640 --> 00:47:04,400
+today, looking at those really 
+tense moments right after Lady 
+
+963
+00:47:04,400 --> 00:47:07,720
+Watch to seize control. 
+Specifically, we're focused on 
+
+964
+00:47:07,720 --> 00:47:10,200
+that mission by Yuri, Horn, 
+Radley and Dermont. 
+
+965
+00:47:10,200 --> 00:47:12,520
+You know, when they tried to get
+Traxadora's body back. 
+
+966
+00:47:12,800 --> 00:47:15,320
+Now, Lady Walker clearly 
+expected them. 
+
+967
+00:47:15,320 --> 00:47:18,360
+She set quite the scene. 
+So the big question for us, 
+
+968
+00:47:18,440 --> 00:47:21,440
+pulling directly from what 
+happened that night, is really 
+
+969
+00:47:21,440 --> 00:47:25,080
+about her intent. 
+Was this whole set up, choosing 
+
+970
+00:47:25,080 --> 00:47:28,200
+that specific spot the the 
+taunting with the illusion, 
+
+971
+00:47:28,200 --> 00:47:32,200
+bringing in those devils, was it
+fundamentally a cold, calculated
+
+972
+00:47:32,200 --> 00:47:34,960
+tactical maneuver to wipe out 
+these fugitives? 
+
+973
+00:47:35,440 --> 00:47:38,240
+Or was it primarily A 
+performative act, a way to 
+
+974
+00:47:38,240 --> 00:47:40,880
+really hammer home her spiritual
+authority as a cleric of 
+
+975
+00:47:40,880 --> 00:47:43,960
+Asthmadeus? 
+My view, I lean towards the 
+
+976
+00:47:43,960 --> 00:47:46,040
+tactical objective being the 
+main thing here. 
+
+977
+00:47:47,720 --> 00:47:51,160
+See, I disagree with putting 
+tactical first there. 
+
+978
+00:47:51,560 --> 00:47:54,280
+I think to really get Walker's 
+actions, you've got to look 
+
+979
+00:47:54,280 --> 00:47:57,040
+bigger picture beyond just this 
+one fight. 
+
+980
+00:47:57,440 --> 00:47:59,360
+Think about the display she 
+created. 
+
+981
+00:47:59,600 --> 00:48:02,760
+Her whole rise to power was 
+marked by public violence. 
+
+982
+00:48:03,000 --> 00:48:05,640
+Remember, Volunteer? 
+Remember the former Baron Vargas
+
+983
+00:48:05,640 --> 00:48:08,120
+Volakovic? 
+Both hanged publicly. 
+
+984
+00:48:08,440 --> 00:48:10,800
+This showdown with the 
+fugitives, I believe, was 
+
+985
+00:48:10,800 --> 00:48:13,040
+staged. 
+It was like a ritual to 
+
+986
+00:48:13,040 --> 00:48:15,800
+reinforce her dominance after 
+all that turmoil. 
+
+987
+00:48:16,200 --> 00:48:19,520
+So I'm arguing that her actions 
+were fundamentally driven by 
+
+988
+00:48:19,520 --> 00:48:23,040
+this need for a very public, 
+very dramatic performance of 
+
+989
+00:48:23,040 --> 00:48:24,960
+her, well, her fiendish 
+authority. 
+
+990
+00:48:25,400 --> 00:48:27,840
+Sure, getting rid of the 
+adventures was probably 
+
+991
+00:48:27,840 --> 00:48:30,880
+something she wanted, but I 
+think it was secondary to just 
+
+992
+00:48:30,880 --> 00:48:34,800
+making this grand statement 
+about her power, her role as the
+
+993
+00:48:35,600 --> 00:48:38,040
+the spiritual fist of the 
+Nouvellaki. 
+
+994
+00:48:38,440 --> 00:48:41,600
+OK, I understand the context, 
+the political backdrop, but for 
+
+995
+00:48:41,600 --> 00:48:45,120
+me, the evidence for careful 
+clinical preparation is just, 
+
+996
+00:48:45,440 --> 00:48:48,800
+well, it's undeniable. 
+Lady Walker didn't just luck 
+
+997
+00:48:48,800 --> 00:48:52,720
+into this, the text explicitly 
+says she was ready for it. 
+
+998
+00:48:52,840 --> 00:48:56,000
+Even called their attempt 
+laughably predictable. 
+
+999
+00:48:56,480 --> 00:48:58,960
+Now that doesn't sound like 
+someone just setting up a stage 
+
+1000
+00:48:58,960 --> 00:49:00,880
+play, does it? 
+That's the language of a 
+
+1001
+00:49:00,880 --> 00:49:02,920
+planner, someone setting an 
+ambush. 
+
+1002
+00:49:03,360 --> 00:49:06,080
+And if your main goal is 
+elimination, then efficiency, 
+
+1003
+00:49:06,080 --> 00:49:08,120
+controlling the terrain, those 
+are crucial. 
+
+1004
+00:49:08,560 --> 00:49:10,880
+Think about it. 
+The fugitives had tangled with 
+
+1005
+00:49:10,880 --> 00:49:13,480
+guards before in the main town 
+square, right? 
+
+1006
+00:49:13,680 --> 00:49:15,920
+Very public, very political 
+space. 
+
+1007
+00:49:16,520 --> 00:49:20,120
+But Wachter specifically put 
+Trexidor's body in this small 
+
+1008
+00:49:20,120 --> 00:49:22,800
+square, which is opposite the 
+execution site. 
+
+1009
+00:49:23,200 --> 00:49:25,960
+That feels like a very 
+deliberate tactical move. 
+
+1010
+00:49:26,200 --> 00:49:29,200
+It diverts them to ground. 
+She controls ground optimized 
+
+1011
+00:49:29,200 --> 00:49:32,560
+for an ambush, keeps them away 
+from, you know, potential crowds
+
+1012
+00:49:32,560 --> 00:49:35,840
+or wider guard involvement. 
+And then look at how she 
+
+1013
+00:49:35,840 --> 00:49:39,400
+ambushed them immediately 
+summoning devils, A barbed 
+
+1014
+00:49:39,400 --> 00:49:42,400
+devil, spiny devils. 
+That's overwhelming force. 
+
+1015
+00:49:42,560 --> 00:49:45,600
+Lethal force. 
+It screams elimination, 
+
+1016
+00:49:45,760 --> 00:49:48,440
+finality, not just trying to 
+scare them off. 
+
+1017
+00:49:48,840 --> 00:49:52,120
+But isn't the nature of that 
+force the very thing that points
+
+1018
+00:49:52,120 --> 00:49:54,800
+to performance? 
+You call it lethal, efficient, 
+
+1019
+00:49:55,200 --> 00:49:58,440
+and OK, it is lethal, but it's 
+explicitly fiendish. 
+
+1020
+00:49:58,640 --> 00:50:01,320
+Lady Walker is a cleric of 
+Asthmadeus, right? 
+
+1021
+00:50:01,920 --> 00:50:04,280
+And when that barbed devil 
+showed up, it wasn't just some 
+
+1022
+00:50:04,280 --> 00:50:07,440
+monster it brought. 
+And I quote the supernatural 
+
+1023
+00:50:07,440 --> 00:50:10,040
+stench of pestilence tinged with
+brimstone. 
+
+1024
+00:50:10,360 --> 00:50:12,960
+That's not just hiring some 
+effective muscle, that's a 
+
+1025
+00:50:12,960 --> 00:50:16,720
+direct manifestation of the 9 
+Hells She's publicly cementing 
+
+1026
+00:50:16,720 --> 00:50:19,760
+her connection, her allegiance. 
+She's basically telling 
+
+1027
+00:50:19,760 --> 00:50:22,800
+everyone, defy me and you're 
+defying Asmodeus himself. 
+
+1028
+00:50:23,240 --> 00:50:25,760
+That takes fear beyond just, you
+know, getting arrested. 
+
+1029
+00:50:25,960 --> 00:50:29,480
+It makes it about eternal 
+damnation, and that requires 
+
+1030
+00:50:29,480 --> 00:50:31,400
+spectacle. 
+The whole thing starts with 
+
+1031
+00:50:31,400 --> 00:50:33,640
+spectacle, doesn't it? 
+The illusion, the voice, 
+
+1032
+00:50:33,640 --> 00:50:36,040
+unnaturally amplified, echoing 
+everywhere. 
+
+1033
+00:50:36,120 --> 00:50:39,040
+Her contemptuously berating them
+as inept fools. 
+
+1034
+00:50:39,360 --> 00:50:43,080
+That's pure theater, pure 
+psychological warfare. 
+
+1035
+00:50:43,440 --> 00:50:47,080
+It reinforces the idea that she 
+doesn't just control the guards,
+
+1036
+00:50:47,360 --> 00:50:51,760
+she controls reality itself. 
+The location, the corpse, it's 
+
+1037
+00:50:51,760 --> 00:50:54,840
+all part of this grand public 
+story she's telling. 
+
+1038
+00:50:55,320 --> 00:50:58,120
+OK, let's push on the tactical 
+staging a bit more, because I 
+
+1039
+00:50:58,120 --> 00:51:00,520
+think that's where the 
+performance idea starts to fray.
+
+1040
+00:51:00,920 --> 00:51:04,000
+If her main goal was 
+performative, you know, making a
+
+1041
+00:51:04,000 --> 00:51:07,680
+big symbolic impact for the 
+whole town, why not use the 
+
+1042
+00:51:07,680 --> 00:51:12,160
+mainstage, the town square? 
+That's the center of power where
+
+1043
+00:51:12,160 --> 00:51:15,480
+the other hangings happened. 
+Why confuse your targets by 
+
+1044
+00:51:15,480 --> 00:51:17,160
+putting the body somewhere 
+secondary? 
+
+1045
+00:51:17,640 --> 00:51:19,720
+And why do it at night during 
+curfew? 
+
+1046
+00:51:20,000 --> 00:51:21,800
+That minimizes the audience, 
+doesn't it? 
+
+1047
+00:51:22,080 --> 00:51:25,840
+If the show is the main weapon, 
+she kind of while she ditched 
+
+1048
+00:51:25,840 --> 00:51:29,200
+most of her audience. 
+I'm not sure she did ditch her 
+
+1049
+00:51:29,200 --> 00:51:31,880
+audience. 
+Maybe the audience wasn't meant 
+
+1050
+00:51:31,880 --> 00:51:34,920
+to be the whole town peering out
+their windows. 
+
+1051
+00:51:35,280 --> 00:51:39,440
+Maybe the primary audience was 
+the fugitives themselves, and 
+
+1052
+00:51:39,440 --> 00:51:41,720
+through them any other hidden 
+rebels. 
+
+1053
+00:51:42,160 --> 00:51:45,200
+The strangeness of the small 
+square location could actually 
+
+1054
+00:51:45,200 --> 00:51:49,200
+serve the performative goal. 
+It shows her power isn't just 
+
+1055
+00:51:49,200 --> 00:51:51,440
+tied to the official spots like 
+the gallows. 
+
+1056
+00:51:51,640 --> 00:51:54,920
+It's everywhere. 
+Death can find you anywhere she 
+
+1057
+00:51:54,920 --> 00:51:57,960
+wants it to. 
+And you know the small square 
+
+1058
+00:51:57,960 --> 00:52:01,600
+with streets converging. 
+It might offer a more dramatic 
+
+1059
+00:52:02,440 --> 00:52:06,360
+visual frame for that single 
+hanging body, a symbol of death 
+
+1060
+00:52:06,360 --> 00:52:10,320
+that feels more pervasive, maybe
+because it's outside the usual 
+
+1061
+00:52:10,320 --> 00:52:12,560
+political stage. 
+If it were just a 
+
+1062
+00:52:12,560 --> 00:52:15,880
+straightforward trap, wouldn't 
+the setup have been clearer, 
+
+1063
+00:52:16,120 --> 00:52:18,800
+more direct, less room for 
+confusion? 
+
+1064
+00:52:19,000 --> 00:52:21,400
+See, I think you're maybe 
+overthinking the symbolism 
+
+1065
+00:52:21,400 --> 00:52:23,840
+there. 
+That ambiguity, that confusion, 
+
+1066
+00:52:24,040 --> 00:52:27,840
+that is the tactical advantage. 
+It isolates the target. 
+
+1067
+00:52:27,840 --> 00:52:31,440
+It minimizes Walker's own risk. 
+The small square was an 
+
+1068
+00:52:31,440 --> 00:52:35,200
+efficient kill zone, perfect for
+a quick, devastating hit. 
+
+1069
+00:52:35,480 --> 00:52:37,920
+Remember, the adventurers were 
+already sneaking around after 
+
+1070
+00:52:37,920 --> 00:52:39,720
+curfew. 
+Drawing them somewhere 
+
+1071
+00:52:39,720 --> 00:52:42,600
+secondary, somewhere less 
+obviously guarded, meant they 
+
+1072
+00:52:42,600 --> 00:52:44,920
+wouldn't attract attention until
+it was too late. 
+
+1073
+00:52:45,400 --> 00:52:48,160
+And the fact that the initial 
+guards those 4 centuries were, 
+
+1074
+00:52:48,160 --> 00:52:50,760
+quote, easily overcome by the 
+drunken ruse? 
+
+1075
+00:52:51,080 --> 00:52:54,480
+That's a key tactical element. 
+Walker probably expected them to
+
+1076
+00:52:54,480 --> 00:52:57,360
+get past the first line, making 
+them feel secure right before 
+
+1077
+00:52:57,360 --> 00:53:00,680
+the real trap sprung, putting 
+this in the main square that 
+
+1078
+00:53:00,680 --> 00:53:03,400
+would have needed a lot more 
+visible security, potentially 
+
+1079
+00:53:03,400 --> 00:53:05,720
+tipping them off or just causing
+a bigger mess. 
+
+1080
+00:53:06,160 --> 00:53:09,440
+The small square delivered high 
+lethality with low initial 
+
+1081
+00:53:09,440 --> 00:53:13,040
+setup, letting the devil's pop 
+in right on top of them and see 
+
+1082
+00:53:13,040 --> 00:53:16,040
+aimed at elimination. 
+OK but if efficiency was truly 
+
+1083
+00:53:16,040 --> 00:53:18,840
+the name of the game, why bother
+with the illusion at all? 
+
+1084
+00:53:19,040 --> 00:53:22,320
+If the plan is just devils 
+appear, kill everyone, the 
+
+1085
+00:53:22,320 --> 00:53:26,240
+illusion seems like, well, an 
+unnecessary flourish, doesn't 
+
+1086
+00:53:26,240 --> 00:53:28,200
+it? 
+A waste of time and maybe 
+
+1087
+00:53:28,200 --> 00:53:31,320
+magical resources. 
+I don't think it was a waste. 
+
+1088
+00:53:31,440 --> 00:53:34,880
+I think it was a primer, A 
+psychological trigger perfectly 
+
+1089
+00:53:34,880 --> 00:53:36,680
+timed for deploying the main 
+weapons. 
+
+1090
+00:53:37,200 --> 00:53:39,440
+The illusion. 
+It only lasted a moment, right? 
+
+1091
+00:53:39,600 --> 00:53:41,920
+Just long enough to stun them, 
+misdirect them. 
+
+1092
+00:53:42,360 --> 00:53:45,120
+Think about how it played out. 
+The booming voice taunts. 
+
+1093
+00:53:45,200 --> 00:53:48,480
+Derman charges in, thinking he's
+hitting Wachter, and poof, 
+
+1094
+00:53:48,640 --> 00:53:51,080
+nothing. 
+That split second of shock, of 
+
+1095
+00:53:51,080 --> 00:53:53,160
+realizing it's fake, That's the 
+window. 
+
+1096
+00:53:53,200 --> 00:53:55,520
+That's the time bod for the 
+rippling portals to open up 
+
+1097
+00:53:55,920 --> 00:53:57,080
+those creatures. 
+The devil's. 
+
+1098
+00:53:57,080 --> 00:53:59,120
+They needed a moment to 
+materialize, right? 
+
+1099
+00:53:59,240 --> 00:54:01,120
+The illusion was essentially 
+covering fire. 
+
+1100
+00:54:01,200 --> 00:54:05,600
+It occupied the adventurers 
+attention just long enough for 
+
+1101
+00:54:05,600 --> 00:54:08,360
+the real threat to deploy 
+without being immediately 
+
+1102
+00:54:08,360 --> 00:54:10,440
+targeted while they were 
+forming. 
+
+1103
+00:54:11,560 --> 00:54:14,360
+I'd frame that differently. 
+I think the psychological impact
+
+1104
+00:54:14,360 --> 00:54:17,160
+was the main point. 
+The illusion set the stage, 
+
+1105
+00:54:17,160 --> 00:54:20,800
+sure, but the taunting, The 
+voice booming with cruel 
+
+1106
+00:54:20,800 --> 00:54:24,360
+laughter that continued even 
+after the visual trick failed. 
+
+1107
+00:54:24,360 --> 00:54:27,840
+Right as the portals opened, 
+Watcher wasn't just creating 
+
+1108
+00:54:27,840 --> 00:54:32,040
+tactical cover, she was rubbing 
+their noses in it, asserting her
+
+1109
+00:54:32,040 --> 00:54:35,480
+total dominance, her superior 
+knowledge, right up to the 
+
+1110
+00:54:35,480 --> 00:54:38,600
+moment of violence. 
+She wanted them to feel 
+
+1111
+00:54:38,720 --> 00:54:43,120
+humiliated, manipulated, utterly
+scorned by this distant cleric 
+
+1112
+00:54:43,120 --> 00:54:46,120
+pulling the strings. 
+The spectacle wasn't just cover 
+
+1113
+00:54:46,120 --> 00:54:49,360
+for the portals, it was designed
+to break them mentally before 
+
+1114
+00:54:49,360 --> 00:54:50,960
+the physical attack even 
+started. 
+
+1115
+00:54:51,600 --> 00:54:54,600
+The spectacle was a weapon, and 
+the devils were just the, you 
+
+1116
+00:54:54,600 --> 00:54:56,920
+know, the enforcement mechanism 
+for that message. 
+
+1117
+00:54:57,400 --> 00:55:02,040
+OK, well, if we're assessing the
+trap, whether it's performative 
+
+1118
+00:55:02,040 --> 00:55:06,000
+or tactical, we have to look at 
+the outcome, right? 
+
+1119
+00:55:06,480 --> 00:55:10,240
+If this was this brilliant 
+tactical trap designed purely to
+
+1120
+00:55:10,240 --> 00:55:14,280
+eliminate the fugitives, why did
+they actually managed to get 
+
+1121
+00:55:14,280 --> 00:55:18,120
+Traxador's body back? 
+Radley cuts the rope, grabs the 
+
+1122
+00:55:18,120 --> 00:55:20,000
+corpse, and they managed to 
+retreat. 
+
+1123
+00:55:20,240 --> 00:55:23,480
+He even uses the body as a 
+shield against the Spiny Devils,
+
+1124
+00:55:23,800 --> 00:55:26,520
+using the very symbol of 
+Walker's supposed victory 
+
+1125
+00:55:26,520 --> 00:55:29,480
+against her forces. 
+Doesn't retrieving the body 
+
+1126
+00:55:29,480 --> 00:55:32,840
+suggest the trap wasn't, 
+tactically speaking, completely 
+
+1127
+00:55:32,840 --> 00:55:34,800
+successful? 
+I don't think retrieving the 
+
+1128
+00:55:34,800 --> 00:55:36,720
+body means it was a tactical 
+failure. 
+
+1129
+00:55:37,360 --> 00:55:39,880
+I'd argue elimination was 
+prioritized over keeping the 
+
+1130
+00:55:39,880 --> 00:55:41,960
+corpse. 
+And while yeah, they got away 
+
+1131
+00:55:41,960 --> 00:55:44,680
+with the body, the trap was 
+still incredibly successful in 
+
+1132
+00:55:44,680 --> 00:55:47,720
+its broader tactical aims. 
+The barbed Devil immediately 
+
+1133
+00:55:47,720 --> 00:55:50,640
+went after Damron and Radley 
+with Hellfire, causing massive 
+
+1134
+00:55:50,640 --> 00:55:52,600
+damage. 
+The Devil's didn't just give up,
+
+1135
+00:55:52,600 --> 00:55:55,800
+they chased them relentlessly. 
+And this is the key part. 
+
+1136
+00:55:56,280 --> 00:55:58,680
+They drove them towards a 
+compromised location. 
+
+1137
+00:55:58,920 --> 00:56:01,640
+They forced them back towards 
+the blue water end, which was 
+
+1138
+00:56:01,640 --> 00:56:03,800
+supposed to be their safe house.
+Exactly. 
+
+1139
+00:56:04,080 --> 00:56:06,840
+And forcing their hand like that
+had huge tactical ripple 
+
+1140
+00:56:06,840 --> 00:56:08,960
+effects. 
+Urihorn had to burn through 
+
+1141
+00:56:08,960 --> 00:56:11,640
+critical limited resources. 
+Not just his own healing spells,
+
+1142
+00:56:11,640 --> 00:56:14,520
+but that potion of greater 
+healing from Van Richten that 
+
+1143
+00:56:14,520 --> 00:56:17,160
+confirms the trap inflicted 
+serious intended damage. 
+
+1144
+00:56:17,360 --> 00:56:19,480
+It was designed to leave them 
+crippled, vulnerable. 
+
+1145
+00:56:19,680 --> 00:56:22,280
+So yes, they escaped 
+technically, but they were 
+
+1146
+00:56:22,280 --> 00:56:24,520
+forced to reveal their safe 
+house, use up their best 
+
+1147
+00:56:24,520 --> 00:56:26,320
+healing, and basically run for 
+their lives. 
+
+1148
+00:56:26,720 --> 00:56:28,400
+That sounds like a strategic 
+wind to me. 
+
+1149
+00:56:28,600 --> 00:56:31,440
+Even if they managed to carry 
+the corpse out, the operation 
+
+1150
+00:56:31,440 --> 00:56:34,400
+achieved threat neutralization 
+by making them wounded, exposed,
+
+1151
+00:56:34,400 --> 00:56:36,080
+and ineffective, at least for 
+the moment. 
+
+1152
+00:56:36,640 --> 00:56:38,400
+But what enabled that 
+neutralization? 
+
+1153
+00:56:38,600 --> 00:56:42,120
+It was the display of power. 
+Yes, the damage was tactically 
+
+1154
+00:56:42,120 --> 00:56:44,960
+useful, but I still think it was
+secondary to the statement 
+
+1155
+00:56:44,960 --> 00:56:48,040
+Walker was making. 
+She used a public, ritualistic 
+
+1156
+00:56:48,040 --> 00:56:50,400
+form of violence, the hanging, 
+as the bait. 
+
+1157
+00:56:50,720 --> 00:56:52,960
+She chose summoned friends when 
+she could have just used more 
+
+1158
+00:56:52,960 --> 00:56:54,080
+town guards. 
+Why? 
+
+1159
+00:56:54,360 --> 00:56:56,960
+Because devils aren't just 
+fighters, they are living proof 
+
+1160
+00:56:56,960 --> 00:56:59,920
+of her unholy power, shown off 
+publicly to reinforce the 
+
+1161
+00:56:59,920 --> 00:57:02,240
+message. 
+Challenge me, you challenge hell
+
+1162
+00:57:02,240 --> 00:57:04,480
+itself. 
+The success wasn't measured by 
+
+1163
+00:57:04,480 --> 00:57:06,760
+whether they kept the corpse, 
+but whether the living were 
+
+1164
+00:57:06,760 --> 00:57:09,400
+utterly crushed in spirit, 
+forced to flee in terror from 
+
+1165
+00:57:09,400 --> 00:57:11,080
+this manifestation of a dark 
+magic. 
+
+1166
+00:57:11,520 --> 00:57:13,280
+Look, the new regime needs 
+control. 
+
+1167
+00:57:13,520 --> 00:57:15,240
+Control demands stamping out 
+dissent. 
+
+1168
+00:57:15,480 --> 00:57:17,720
+The fact that she ambushed them 
+precisely when they were most 
+
+1169
+00:57:17,720 --> 00:57:20,600
+vulnerable at night, focused on 
+getting a body not fighting, 
+
+1170
+00:57:20,880 --> 00:57:23,760
+that shows cold calculation. 
+It was about hitting a known 
+
+1171
+00:57:23,760 --> 00:57:26,280
+threat group hard, when they 
+least expected that level of 
+
+1172
+00:57:26,280 --> 00:57:29,400
+force. 
+The brimstone, the booming voice
+
+1173
+00:57:29,800 --> 00:57:33,040
+that was just window dressing, 
+adding fear factor to an 
+
+1174
+00:57:33,040 --> 00:57:36,480
+operation that was fundamentally
+about efficient elimination. 
+
+1175
+00:57:36,560 --> 00:57:39,440
+And yet, that same window 
+dressing works perfectly to 
+
+1176
+00:57:39,440 --> 00:57:41,720
+solidify her political grip on 
+Valaki. 
+
+1177
+00:57:42,040 --> 00:57:45,680
+After the chaos of the recent 
+hangings, she needed a powerful,
+
+1178
+00:57:45,760 --> 00:57:49,560
+undeniable show of force. 
+This encounter tells any would 
+
+1179
+00:57:49,560 --> 00:57:52,480
+be rebels that fighting back 
+isn't just risky, it's 
+
+1180
+00:57:52,480 --> 00:57:55,680
+cosmically stupid. 
+Using her cleric powers to 
+
+1181
+00:57:55,680 --> 00:57:58,320
+summon devils in the town square
+or near it. 
+
+1182
+00:57:58,520 --> 00:58:01,040
+That's political theater 
+designed to establish a 
+
+1183
+00:58:01,040 --> 00:58:05,160
+terrifying new status quo. 
+The tactical result was achieved
+
+1184
+00:58:05,160 --> 00:58:06,680
+through the ritualistic 
+summoning. 
+
+1185
+00:58:06,960 --> 00:58:11,120
+So to wrap up my position, while
+Lady Walker definitely used 
+
+1186
+00:58:11,120 --> 00:58:14,680
+spectacle, I believe a primary 
+goal here was operational 
+
+1187
+00:58:15,000 --> 00:58:17,480
+neutralized the known immediate 
+threat. 
+
+1188
+00:58:17,480 --> 00:58:20,400
+These fugitives represented the 
+the fact that she anticipated 
+
+1189
+00:58:20,400 --> 00:58:23,640
+their move, used diversionary 
+tactics with the location, and 
+
+1190
+00:58:23,640 --> 00:58:26,360
+deployed overwhelming targeted 
+lethal force. 
+
+1191
+00:58:26,720 --> 00:58:30,280
+It all points to a sophisticated
+tactical operation aimed 
+
+1192
+00:58:30,280 --> 00:58:34,360
+squarely at elimination, even if
+it was dressed up in fiendish 
+
+1193
+00:58:34,360 --> 00:58:37,680
+theatrics. 
+And I'll stand by the idea that 
+
+1194
+00:58:37,680 --> 00:58:42,080
+the whole confrontation was 
+fundamentally framed by these 
+
+1195
+00:58:42,080 --> 00:58:47,360
+displays of immense spiritual, 
+almost ritualistic authority. 
+
+1196
+00:58:48,080 --> 00:58:51,600
+The careful choice of where to 
+hang the body, the over the top 
+
+1197
+00:58:51,600 --> 00:58:56,040
+taunting, summoning actual 
+devils as proof of her power as 
+
+1198
+00:58:56,040 --> 00:58:59,360
+an Asmodean cleric. 
+For me, all of this points to 
+
+1199
+00:58:59,360 --> 00:59:02,720
+the overarching purpose being 
+performative control. 
+
+1200
+00:59:03,000 --> 00:59:06,480
+She was stamping her spiritual 
+dominance onto Valaki. 
+
+1201
+00:59:06,840 --> 00:59:09,160
+Defeating the adventurers 
+tactically was certainly a 
+
+1202
+00:59:09,160 --> 00:59:12,840
+bonus, maybe even expected, but 
+it served that larger 
+
+1203
+00:59:12,840 --> 00:59:15,640
+performance. 
+It really seems the specific 
+
+1204
+00:59:15,640 --> 00:59:19,800
+details we have, the the 
+confusion over the location, the
+
+1205
+00:59:19,800 --> 00:59:22,840
+exact timing of that illusion, 
+the Hellfire. 
+
+1206
+00:59:23,120 --> 00:59:25,200
+They show this complex mix, 
+don't they? 
+
+1207
+00:59:25,200 --> 00:59:29,480
+The very real security needs of 
+a new, shaky regime tangled up 
+
+1208
+00:59:29,480 --> 00:59:32,520
+with the leaders, deep spiritual
+commitments. 
+
+1209
+00:59:32,840 --> 00:59:34,840
+It feels like walked around a 
+suit that in a place like 
+
+1210
+00:59:34,840 --> 00:59:38,200
+Valaki, sometimes the smartest 
+tactical move requires the 
+
+1211
+00:59:38,200 --> 00:59:42,640
+biggest, scariest show. 
+A show which, importantly, also 
+
+1212
+00:59:42,640 --> 00:59:44,520
+broadcast the source of her 
+power. 
+
+1213
+00:59:45,080 --> 00:59:48,600
+So we're left asking, does she 
+rule through Hell's military 
+
+1214
+00:59:48,600 --> 00:59:52,440
+might, or does the military 
+action just serve to confirm the
+
+1215
+00:59:52,440 --> 00:59:54,800
+power of the dark God she 
+represents? 
+
+1216
+00:59:55,320 --> 00:59:58,520
+Definitely more to unpack there 
+and how she manages to blend 
+
+1217
+00:59:58,520 --> 00:59:59,320
+those two things.

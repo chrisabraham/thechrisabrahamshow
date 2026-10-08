@@ -1,0 +1,1055 @@
+1
+00:00:00,040 --> 00:00:02,960
+Welcome to the deep dive. 
+This is where we take your 
+
+2
+00:00:02,960 --> 00:00:06,400
+curiosity, combine it with our 
+research, sift through some 
+
+3
+00:00:06,400 --> 00:00:10,720
+really fascinating sources, and 
+well, try to distill the most 
+
+4
+00:00:10,720 --> 00:00:13,440
+potent insights we can just for 
+you. 
+
+5
+00:00:14,360 --> 00:00:17,160
+Today we're doing a deep dive 
+into a pretty insightful 
+
+6
+00:00:17,160 --> 00:00:21,160
+analysis by Chris Abraham. 
+It's called WAG, the Vanguard 
+
+7
+00:00:21,360 --> 00:00:24,640
+Spectacle, Power and the Death 
+of the one who asks for Credit. 
+
+8
+00:00:26,080 --> 00:00:29,320
+OK, so our mission today really 
+is to try and unravel this core 
+
+9
+00:00:29,320 --> 00:00:32,280
+paradox. 
+Why do the grandest visions for 
+
+10
+00:00:32,280 --> 00:00:34,920
+the future, you know, the big 
+plans, so often seem to fall 
+
+11
+00:00:34,920 --> 00:00:38,280
+apart, while at the same time 
+the most profound changes, the 
+
+12
+00:00:38,280 --> 00:00:41,040
+ones that really stick, often 
+unfold almost invisibly? 
+
+13
+00:00:41,480 --> 00:00:44,720
+We're going to explore that, 
+that intriguing tension between 
+
+14
+00:00:44,720 --> 00:00:46,920
+the designers and the people 
+actually living within those 
+
+15
+00:00:46,920 --> 00:00:49,600
+designs, and hopefully uncover 
+some surprising truths about how
+
+16
+00:00:49,600 --> 00:00:51,200
+really impact happens in the 
+world. 
+
+17
+00:00:51,360 --> 00:00:53,320
+Maybe a few aha moments along 
+the way. 
+
+18
+00:00:53,600 --> 00:00:55,160
+Yeah. 
+And what's particularly striking
+
+19
+00:00:55,160 --> 00:00:57,360
+in Abraham's piece is how he 
+uses these really vivid 
+
+20
+00:00:57,360 --> 00:01:00,000
+analogies, you know, from that 
+psychological parable with the 
+
+21
+00:01:00,000 --> 00:01:02,760
+marshmallows, the marshmallow 
+test, exactly, all the way to 
+
+22
+00:01:02,760 --> 00:01:06,080
+the quiet resilience of, like, a
+local grocery store. 
+
+23
+00:01:06,600 --> 00:01:08,920
+We'll try to connect these 
+illustrations to the bigger 
+
+24
+00:01:08,920 --> 00:01:12,880
+picture, the dynamics of social 
+reform, political strategy, and 
+
+25
+00:01:12,880 --> 00:01:15,400
+hopefully encourage you to 
+question some common assumptions
+
+26
+00:01:15,400 --> 00:01:18,720
+about power and influence. 
+And we'll really think about 
+
+27
+00:01:18,720 --> 00:01:23,120
+where true agency actually lies.
+So Abraham kicks things off by 
+
+28
+00:01:23,120 --> 00:01:26,200
+highlighting what he calls a 
+structural tension in modern 
+
+29
+00:01:26,200 --> 00:01:29,720
+cultural discourse. 
+It's this fundamental, often 
+
+30
+00:01:29,720 --> 00:01:33,320
+unseen tug of war. 
+On one side, you've got the 
+
+31
+00:01:33,360 --> 00:01:36,000
+conceptual vanguard. 
+Think of them as the architects 
+
+32
+00:01:36,000 --> 00:01:37,720
+of ideas, right? 
+The system builders. 
+
+33
+00:01:37,720 --> 00:01:39,880
+The theorists. 
+The ones publicly pushing for 
+
+34
+00:01:39,880 --> 00:01:43,000
+these grand, sometimes utopian 
+possibility. 
+
+35
+00:01:43,760 --> 00:01:46,320
+And then on the other side, you 
+find the people whose lives are,
+
+36
+00:01:46,360 --> 00:01:49,640
+well, supposed to inhabit these 
+structures that have been so 
+
+37
+00:01:49,640 --> 00:01:52,440
+meticulously designed. 
+The author notes they often get 
+
+38
+00:01:52,440 --> 00:01:55,920
+simplistically labeled the 
+masses, but he sees them as less
+
+39
+00:01:55,920 --> 00:01:59,720
+abstract, more kinetic and, 
+crucially, far more resistant to
+
+40
+00:01:59,720 --> 00:02:02,920
+just being shaped or molded. 
+This isn't exactly a new 
+
+41
+00:02:02,920 --> 00:02:05,000
+dynamic, is it? 
+It's a pattern we've seen play 
+
+42
+00:02:05,000 --> 00:02:07,320
+out again and again from 
+intellectual salons to, you 
+
+43
+00:02:07,840 --> 00:02:09,919
+know, academic institutions 
+throughout history. 
+
+44
+00:02:09,960 --> 00:02:12,120
+Definitely. 
+And this is where what he calls 
+
+45
+00:02:12,120 --> 00:02:14,480
+the friction of handoff really 
+comes into play. 
+
+46
+00:02:14,840 --> 00:02:17,680
+Every idealistic project, 
+doesn't matter how perfectly 
+
+47
+00:02:17,680 --> 00:02:21,680
+it's conceived on paper, 
+eventually hits this this 
+
+48
+00:02:21,680 --> 00:02:24,360
+critical moment. 
+It's like going from that clean 
+
+49
+00:02:24,360 --> 00:02:27,760
+architectural sketch to the 
+messy reality of a construction 
+
+50
+00:02:27,760 --> 00:02:29,840
+site. 
+The vision is born in these 
+
+51
+00:02:29,840 --> 00:02:33,160
+rooms, maybe with whiteboards 
+and specialized jargon, and then
+
+52
+00:02:33,160 --> 00:02:35,800
+it gets delivered to a reality 
+that frankly didn't ask for it 
+
+53
+00:02:35,800 --> 00:02:37,440
+and doesn't necessarily play by 
+its rules. 
+
+54
+00:02:37,440 --> 00:02:39,920
+And the implication there is 
+about what gets lost in that 
+
+55
+00:02:39,920 --> 00:02:42,320
+handoff. 
+Abraham argued that something 
+
+56
+00:02:42,320 --> 00:02:44,920
+invariably gets lost, or maybe 
+burned or just casually 
+
+57
+00:02:44,920 --> 00:02:47,120
+discarded. 
+It's not necessarily presented 
+
+58
+00:02:47,120 --> 00:02:49,520
+as a moral failing on anyone's 
+part. 
+
+59
+00:02:49,520 --> 00:02:53,200
+He frames it almost like like a 
+function of thermodynamics. 
+
+60
+00:02:53,200 --> 00:02:55,400
+You know, heat escapes precision
+and blurs. 
+
+61
+00:02:55,720 --> 00:02:58,480
+And the people the structure was
+supposedly built for start using
+
+62
+00:02:58,480 --> 00:03:01,360
+it in ways the architects never 
+could have foreseen, sometimes 
+
+63
+00:03:01,360 --> 00:03:03,600
+even completely subverting the 
+original intent. 
+
+64
+00:03:03,680 --> 00:03:07,760
+He uses the classic marshmallow 
+test, that psychological parable
+
+65
+00:03:07,760 --> 00:03:11,560
+about delayed gratification, to 
+brilliantly illustrate this 
+
+66
+00:03:11,840 --> 00:03:17,120
+difference in sort of temporal 
+logic, the conceptual vanguard 
+
+67
+00:03:17,240 --> 00:03:20,520
+who've often spent years devoted
+to these long term deferred 
+
+68
+00:03:20,520 --> 00:03:22,800
+outcomes. 
+They design these elaborate 
+
+69
+00:03:22,800 --> 00:03:26,040
+systems that demand patience, 
+incremental progress. 
+
+70
+00:03:26,160 --> 00:03:28,760
+Right. 
+But the recipients, often 
+
+71
+00:03:28,760 --> 00:03:31,400
+they've experienced a lifetime 
+of systemic neglect, maybe 
+
+72
+00:03:31,400 --> 00:03:33,600
+broken promises. 
+So they operate on a completely 
+
+73
+00:03:33,600 --> 00:03:35,720
+different logic. 
+It's about immediate survival. 
+
+74
+00:03:36,000 --> 00:03:38,520
+They might eat the marshmallow 
+before the test even starts. 
+
+75
+00:03:38,800 --> 00:03:41,640
+Or, as the author puts it quite 
+starkly, they might find the 
+
+76
+00:03:41,640 --> 00:03:44,320
+whole bag or even eat the 
+experimenter. 
+
+77
+00:03:44,360 --> 00:03:46,080
+Wow. 
+And he stresses, this isn't a 
+
+78
+00:03:46,080 --> 00:03:48,040
+deficiency on their part. 
+It's just a different way of 
+
+79
+00:03:48,040 --> 00:03:50,600
+existing, of surviving in a 
+world that hasn't really offered
+
+80
+00:03:50,600 --> 00:03:53,000
+them much predictability or 
+security for the future. 
+
+81
+00:03:53,160 --> 00:03:56,760
+And this fascinating disconnect,
+this gap between the Vanguard's 
+
+82
+00:03:56,760 --> 00:03:59,200
+long term planning and the 
+recipient's immediate survival 
+
+83
+00:03:59,200 --> 00:04:03,520
+needs plays out, Abraham argues,
+not just in psych experiments 
+
+84
+00:04:03,680 --> 00:04:05,960
+but in real world social 
+initiatives. 
+
+85
+00:04:05,960 --> 00:04:09,040
+You see it really clearly, he 
+contends, in these well meaning 
+
+86
+00:04:09,040 --> 00:04:12,760
+attempts to, say, fill food 
+deserts or bring some kind of 
+
+87
+00:04:12,760 --> 00:04:15,000
+corporate mercy into neglected 
+neighborhoods. 
+
+88
+00:04:15,240 --> 00:04:17,600
+It's almost mythological how 
+often it repeats, right? 
+
+89
+00:04:18,120 --> 00:04:21,440
+Elite policy grads write white 
+papers, socially conscious 
+
+90
+00:04:21,440 --> 00:04:24,120
+corporations open a big flagship
+store. 
+
+91
+00:04:24,640 --> 00:04:27,760
+And then, maybe within a decade,
+the whole experiment retreats. 
+
+92
+00:04:28,360 --> 00:04:31,240
+And the stated reasons are 
+always framed very delicately. 
+
+93
+00:04:31,400 --> 00:04:34,160
+You hear things like 
+unsustainable margins or 
+
+94
+00:04:34,160 --> 00:04:38,120
+security concerns, maybe 
+community misalignment, but the 
+
+95
+00:04:38,120 --> 00:04:40,880
+quiet truth, as the author puts 
+it, is that the Organism just 
+
+96
+00:04:40,880 --> 00:04:43,680
+rejected the transplant. 
+What actually survives in these 
+
+97
+00:04:43,680 --> 00:04:45,240
+places? 
+It isn't the Whole Foods or the 
+
+98
+00:04:45,240 --> 00:04:47,720
+big branded chain stores that 
+were supposed to arrive. 
+
+99
+00:04:47,720 --> 00:04:49,520
+OK, so this is where it gets 
+really interesting. 
+
+100
+00:04:49,520 --> 00:04:50,920
+What does survive? 
+Yeah. 
+
+101
+00:04:51,000 --> 00:04:53,680
+According to him, well, the 
+Korean groceries, the fortified 
+
+102
+00:04:53,680 --> 00:04:57,240
+bodegas, the Chinese take out 
+places with those thick lexan 
+
+103
+00:04:57,240 --> 00:05:00,840
+windows, these aren't monuments 
+to some grand utopian vision, 
+
+104
+00:05:00,840 --> 00:05:02,280
+Not at all. 
+They're adaptable. 
+
+105
+00:05:02,280 --> 00:05:05,960
+They're defensive architectures,
+and they thrive not because of 
+
+106
+00:05:05,960 --> 00:05:08,360
+some top down plan or systemic 
+alignment. 
+
+107
+00:05:08,640 --> 00:05:12,640
+They thrive because they evolved
+to survive distrust, theft, 
+
+108
+00:05:12,800 --> 00:05:16,920
+economic pressure, even the 
+necessary moral ambiguities, as 
+
+109
+00:05:16,920 --> 00:05:20,040
+he puts it, of serving a 
+community that often operates by
+
+110
+00:05:20,040 --> 00:05:22,280
+different rules than the one set
+by the vanguard. 
+
+111
+00:05:22,280 --> 00:05:25,920
+He calls them commercial Gray 
+Man, invisible, unflashy, but 
+
+112
+00:05:25,920 --> 00:05:27,760
+incredibly resilient. 
+Exactly. 
+
+113
+00:05:28,080 --> 00:05:31,040
+And this leads us straight into 
+Abraham's broader Gray man 
+
+114
+00:05:31,040 --> 00:05:33,440
+archetype. 
+He suggests this is an archetype
+
+115
+00:05:33,440 --> 00:05:35,520
+he knows personally, having 
+survive some challenging 
+
+116
+00:05:35,520 --> 00:05:37,960
+situations himself, not through 
+dominance, but through 
+
+117
+00:05:37,960 --> 00:05:41,960
+calculated invisibility, by de 
+escalating threats, and even 
+
+118
+00:05:42,000 --> 00:05:44,320
+quite provocatively, by 
+sometimes weaponizing the 
+
+119
+00:05:44,320 --> 00:05:46,560
+performance of cowardice. 
+Performing cowardice? 
+
+120
+00:05:46,560 --> 00:05:48,920
+How does that work? 
+Well, the idea is that appearing
+
+121
+00:05:48,920 --> 00:05:52,680
+weak or deferential can actually
+be camouflage for immense latent
+
+122
+00:05:52,680 --> 00:05:55,440
+capability. 
+It's like his analogy of hiding 
+
+123
+00:05:55,440 --> 00:05:58,120
+a bear in a windbreaker. 
+You think you're dealing with 
+
+124
+00:05:58,120 --> 00:06:00,400
+something harmless, but 
+underneath there's this powerful
+
+125
+00:06:00,400 --> 00:06:02,760
+force just waiting. 
+OK, I see. 
+
+126
+00:06:03,040 --> 00:06:06,760
+And this is where Abraham takes 
+that Gray man concept into some 
+
+127
+00:06:06,760 --> 00:06:09,600
+really provocative territory. 
+Applying at the political 
+
+128
+00:06:09,600 --> 00:06:13,240
+strategy, he asserts that 
+regardless of its narrative 
+
+129
+00:06:13,240 --> 00:06:17,520
+flaws, one political side, the 
+right, has actually been 
+
+130
+00:06:17,520 --> 00:06:21,640
+training this Gray man class, as
+he calls it, in silence and long
+
+131
+00:06:21,640 --> 00:06:23,720
+term strategy for quite some 
+time now. 
+
+132
+00:06:24,560 --> 00:06:26,760
+His argument is that while the 
+left might have been more 
+
+133
+00:06:26,760 --> 00:06:30,040
+focused on, say, symbolic 
+protest and spectacle, the right
+
+134
+00:06:30,040 --> 00:06:32,600
+was quietly graduating 
+generations of operatives, 
+
+135
+00:06:32,840 --> 00:06:34,840
+operatives coming out of 
+leadership institutes that 
+
+136
+00:06:34,840 --> 00:06:37,600
+specialize not in street theater
+but in things like appellate 
+
+137
+00:06:37,600 --> 00:06:41,200
+law, regulatory chess, the 
+really long game of what Abraham
+
+138
+00:06:41,200 --> 00:06:43,760
+calls cultural terraforming. 
+Terraforming. 
+
+139
+00:06:43,760 --> 00:06:46,200
+Yeah, essentially slowly, 
+deliberately reshaping the 
+
+140
+00:06:46,200 --> 00:06:49,160
+fundamental landscape of 
+societal beliefs and norms over 
+
+141
+00:06:49,160 --> 00:06:51,200
+time. 
+So if we connect this to the 
+
+142
+00:06:51,200 --> 00:06:54,760
+bigger picture, think about the 
+example Abraham uses, Roe V 
+
+143
+00:06:54,760 --> 00:06:58,440
+Wade, he points out. 
+It wasn't undone in the streets 
+
+144
+00:06:58,480 --> 00:07:02,120
+through massive protests, right?
+It was undone, he argues, in the
+
+145
+00:07:02,120 --> 00:07:04,960
+filing cabinets of forgotten 
+NGOs and legal foundations, 
+
+146
+00:07:05,400 --> 00:07:07,480
+where yesterday's interns are 
+now today's judges. 
+
+147
+00:07:07,520 --> 00:07:11,480
+The Gray men, in this view, won 
+that particular long game, and 
+
+148
+00:07:11,480 --> 00:07:15,120
+Abraham observes, kind of 
+chillingly, no one even noticed,
+
+149
+00:07:15,280 --> 00:07:16,920
+which really challenges that 
+common idea. 
+
+150
+00:07:16,920 --> 00:07:19,000
+That impact has to be loud and 
+visible, doesn't it? 
+
+151
+00:07:19,080 --> 00:07:21,360
+It really does. 
+And in its stark contrast, he 
+
+152
+00:07:21,360 --> 00:07:25,600
+argues, the left's vanguard 
+often insists on spectacle, on 
+
+153
+00:07:25,600 --> 00:07:28,320
+being seen. 
+And spectacle, he warns, well, 
+
+154
+00:07:28,320 --> 00:07:29,680
+it's like shouting at a 
+crocodile. 
+
+155
+00:07:29,680 --> 00:07:32,320
+It just draws heat. 
+Every generation, he suggests, 
+
+156
+00:07:32,520 --> 00:07:36,320
+has its stage moms of ideology. 
+It's showrunners of justice 
+
+157
+00:07:36,320 --> 00:07:38,840
+directors who just can't resist 
+putting themselves in the 
+
+158
+00:07:38,840 --> 00:07:40,720
+credits. 
+But then you have to ask, what's
+
+159
+00:07:40,720 --> 00:07:42,240
+the cost of being in that 
+spotlight? 
+
+160
+00:07:42,240 --> 00:07:45,000
+Like in the film Wag the Dog, 
+the author notes it's often the 
+
+161
+00:07:45,000 --> 00:07:47,720
+one who seeks the credit who 
+ultimately gets, well, 
+
+162
+00:07:47,800 --> 00:07:50,880
+eliminated. 
+The lesson, he says, is ancient.
+
+163
+00:07:50,880 --> 00:07:53,120
+Stay small. 
+Do your work disappear? 
+
+164
+00:07:53,320 --> 00:07:56,000
+He then offers another metaphor,
+maybe even better than the 
+
+165
+00:07:56,000 --> 00:08:00,080
+marshmallow test or wag the dog,
+the airlock, the conceptual 
+
+166
+00:08:00,080 --> 00:08:01,760
+Vanguard. 
+They believe they're entering 
+
+167
+00:08:01,760 --> 00:08:05,040
+the ship right, participating in
+the mission, contributing to the
+
+168
+00:08:05,040 --> 00:08:07,560
+great experiment. 
+But they're actually still in 
+
+169
+00:08:07,560 --> 00:08:10,120
+the transition chamber, being 
+monitored, pressure tested, 
+
+170
+00:08:10,120 --> 00:08:13,080
+filtered. 
+Very few, he suggests, ever 
+
+171
+00:08:13,080 --> 00:08:14,680
+actually make it onto the ship 
+proper. 
+
+172
+00:08:15,240 --> 00:08:18,400
+Many are just left suspended 
+indefinitely in this sort of 
+
+173
+00:08:18,400 --> 00:08:21,800
+sealed waiting room filled with 
+narratives about progress. 
+
+174
+00:08:22,360 --> 00:08:26,520
+So the wisest course, Abraham 
+seems to imply, might not be to 
+
+175
+00:08:26,520 --> 00:08:29,800
+bang on that airlock door, 
+demanding access or recognition.
+
+176
+00:08:29,920 --> 00:08:32,240
+Instead, maybe it's about 
+studying the structure itself, 
+
+177
+00:08:32,240 --> 00:08:35,360
+learning its rhythms, figuring 
+out ways to breathe within it. 
+
+178
+00:08:35,520 --> 00:08:38,440
+Because for all the high theory 
+and performative justice we see 
+
+179
+00:08:38,440 --> 00:08:42,280
+today, the quiet truth might 
+still be that survival and real 
+
+180
+00:08:42,280 --> 00:08:45,600
+profound change often belong to 
+those who are under estimated 
+
+181
+00:08:45,600 --> 00:08:48,640
+just long enough to actually 
+finish their work, often 
+
+182
+00:08:48,640 --> 00:08:51,320
+completely out of sight. 
+So what does this all mean for 
+
+183
+00:08:51,320 --> 00:08:53,560
+you? 
+Listening, We've explored this 
+
+184
+00:08:53,560 --> 00:08:57,440
+really powerful idea that true 
+survival deep impact. 
+
+185
+00:08:57,840 --> 00:09:01,440
+It often belongs not to the 
+loud, credit seeking vanguard, 
+
+186
+00:09:01,720 --> 00:09:05,960
+but to these Gray men, those who
+work silently, adapt 
+
+187
+00:09:05,960 --> 00:09:09,120
+defensively, and crucially, 
+finish their work while being 
+
+188
+00:09:09,120 --> 00:09:10,880
+underestimated. 
+It really makes you wonder, 
+
+189
+00:09:10,880 --> 00:09:13,000
+doesn't it? 
+What other invisible successes 
+
+190
+00:09:13,000 --> 00:09:15,440
+are we overlooking just because 
+they don't fit our grand 
+
+191
+00:09:15,440 --> 00:09:17,400
+narratives? 
+And if we connect this to the 
+
+192
+00:09:17,400 --> 00:09:20,080
+bigger picture, it raises a 
+really important question, I 
+
+193
+00:09:20,080 --> 00:09:22,360
+think. 
+In a world that seems obsessed 
+
+194
+00:09:22,360 --> 00:09:26,280
+with spectacle, with immediate 
+recognition, what if the most 
+
+195
+00:09:26,280 --> 00:09:28,960
+profound changes are actually 
+happening just out of sight? 
+
+196
+00:09:29,600 --> 00:09:33,200
+What if the real broadsword, as 
+he puts it, the one that cleaves
+
+197
+00:09:33,200 --> 00:09:35,840
+the world in 2, is the one you 
+never see swung? 
+
+198
+00:09:35,840 --> 00:09:37,360
+It's a. 
+Powerful lesson, Almost an 
+
+199
+00:09:37,360 --> 00:09:39,800
+ancient 1, isn't it? 
+Stay small, do your work, 
+
+200
+00:09:39,880 --> 00:09:42,360
+disappear. 
+And as the author reminds us, 
+
+201
+00:09:42,520 --> 00:09:45,400
+echoing those themes from Wag 
+the Dog, the director who 
+
+202
+00:09:45,400 --> 00:09:48,640
+demands applause rarely gets to 
+see the credits roll. 
+
+203
+00:09:48,880 --> 00:09:52,000
+So for you, we'll leave you with
+this to Mull over. 
+
+204
+00:09:52,640 --> 00:09:56,680
+Maybe consider the value of 
+quiet persistence, of strategic 
+
+205
+00:09:56,680 --> 00:09:58,960
+invisibility in your own 
+endeavors, whatever they might 
+
+206
+00:09:58,960 --> 00:10:00,960
+be. 
+What work could you potentially 
+
+207
+00:10:00,960 --> 00:10:03,200
+accomplish if you weren't so 
+concerned with getting the 
+
+208
+00:10:03,200 --> 00:10:06,240
+credit or the fanfare? 
+Thank you for joining us on this
+
+209
+00:10:06,240 --> 00:10:08,680
+deep dive. 
+Until next time, keep thinking, 
+
+210
+00:10:08,680 --> 00:10:12,320
+keep questioning, and maybe, 
+just maybe, try being a little 
+
+211
+00:10:12,320 --> 00:10:13,480
+more like that Baron, a 
+windbreaker.
+

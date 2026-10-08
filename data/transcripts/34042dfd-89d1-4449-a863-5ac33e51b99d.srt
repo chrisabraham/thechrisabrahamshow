@@ -1,0 +1,3345 @@
+1
+00:00:00,040 --> 00:00:03,480
+Imagine stepping into a world 
+right the mists. 
+
+2
+00:00:03,720 --> 00:00:06,440
+They just never lift. 
+There's this ancient evil 
+
+3
+00:00:06,440 --> 00:00:10,240
+running the show, and every 
+single choice you make could be 
+
+4
+00:00:10,240 --> 00:00:14,240
+the difference between, well, 
+life and something arguably much
+
+5
+00:00:14,240 --> 00:00:16,800
+worse. 
+Yeah, undeath and Borovia isn't 
+
+6
+00:00:16,800 --> 00:00:19,280
+exactly peaceful retirement. 
+Exactly. 
+
+7
+00:00:19,400 --> 00:00:20,520
+That's the world we're talking 
+about. 
+
+8
+00:00:20,520 --> 00:00:23,400
+Borovia's pure gothic horror, 
+constant dread. 
+
+9
+00:00:23,760 --> 00:00:26,360
+Hope is well. 
+Hope is thin on the ground 
+
+10
+00:00:26,360 --> 00:00:27,480
+there. 
+Very thin. 
+
+11
+00:00:27,760 --> 00:00:31,120
+And we're zooming in today on 
+one particular town, Valaki, 
+
+12
+00:00:31,120 --> 00:00:34,240
+which has just gone through 
+something pretty intense. 
+
+13
+00:00:34,240 --> 00:00:36,320
+It really has. 
+It's like a microcosm of the 
+
+14
+00:00:36,320 --> 00:00:37,720
+whole realms. 
+Despair, isn't it? 
+
+15
+00:00:37,720 --> 00:00:40,560
+You're about to see just how 
+fast the town can fall, how its 
+
+16
+00:00:40,560 --> 00:00:44,040
+freedoms just evaporate, and how
+people get, well, broken. 
+
+17
+00:00:45,240 --> 00:00:48,520
+So today we're doing a deep dive
+into a really specific, really 
+
+18
+00:00:48,520 --> 00:00:50,920
+rich set of sources. 
+We've got detailed accounts from
+
+19
+00:00:50,920 --> 00:00:53,000
+session 13. 
+This is from a group of 
+
+20
+00:00:53,000 --> 00:00:55,640
+adventurers trying to navigate 
+this bleak landscape. 
+
+21
+00:00:55,880 --> 00:00:57,240
+And these aren't just scribbled 
+notes. 
+
+22
+00:00:57,240 --> 00:01:00,520
+We have their full session 
+reports, like the raw visceral 
+
+23
+00:01:00,520 --> 00:01:03,760
+details and even verbatim logs 
+from their game master. 
+
+24
+00:01:04,000 --> 00:01:07,080
+It gives us this unfiltered look
+right into the story as it's 
+
+25
+00:01:07,080 --> 00:01:09,240
+happening. 
+Yeah, it's like a window, isn't 
+
+26
+00:01:09,240 --> 00:01:11,520
+it? 
+Full of desperate choices, 
+
+27
+00:01:11,520 --> 00:01:15,160
+chilling stuff, encounters with 
+some truly nasty creatures. 
+
+28
+00:01:15,360 --> 00:01:19,360
+So our mission for this deep 
+dive is basically to pull out 
+
+29
+00:01:19,680 --> 00:01:23,160
+the biggest moments, the most 
+unsettling details, and what it 
+
+30
+00:01:23,160 --> 00:01:24,160
+all means. 
+Right. 
+
+31
+00:01:24,160 --> 00:01:27,240
+We want you to get a quick but, 
+you know, thorough understanding
+
+32
+00:01:27,240 --> 00:01:30,400
+of the dark forces moving the 
+pieces, how these heroes are 
+
+33
+00:01:30,400 --> 00:01:34,840
+pushing back, and the grip that 
+Strad von Zarevich has on 
+
+34
+00:01:34,840 --> 00:01:36,720
+everything. 
+It just keeps tightening it, 
+
+35
+00:01:36,720 --> 00:01:38,440
+really. 
+Does It's about more than just 
+
+36
+00:01:38,440 --> 00:01:40,320
+the play by play, It's about the
+implications. 
+
+37
+00:01:40,320 --> 00:01:43,120
+What does it all signify for 
+this cursed place and everyone 
+
+38
+00:01:43,120 --> 00:01:45,720
+stuck there? 
+OK, so let's start where things 
+
+39
+00:01:45,720 --> 00:01:49,520
+often start in Borovia, with 
+Strad making a move, an 
+
+40
+00:01:49,520 --> 00:01:52,400
+unwelcome invitation. 
+Yeah, and what's fascinating 
+
+41
+00:01:52,400 --> 00:01:53,680
+here is how he does it. 
+Strad. 
+
+42
+00:01:53,880 --> 00:01:57,400
+He's the apex predator, right? 
+He doesn't need to roar a 
+
+43
+00:01:57,400 --> 00:02:00,400
+whisper, a polite note. 
+That's enough to show he's in 
+
+44
+00:02:00,400 --> 00:02:02,520
+charge. 
+He sets the stage, lays out the 
+
+45
+00:02:02,520 --> 00:02:05,080
+terms, and just lets the 
+psychological pressure cook. 
+
+46
+00:02:05,080 --> 00:02:08,199
+That's a great way to put it. 
+So our adventurers, they're kind
+
+47
+00:02:08,199 --> 00:02:10,320
+of holed up in the Blue Water 
+Inn in Valaki. 
+
+48
+00:02:10,320 --> 00:02:12,840
+They think of it as their 
+borrowed sanctuary. 
+
+49
+00:02:13,040 --> 00:02:15,680
+A borrowed sanctuary. 
+I like the description, it 
+
+50
+00:02:15,680 --> 00:02:19,280
+sounds safe, but it's really 
+just a cage with slightly nicer 
+
+51
+00:02:19,280 --> 00:02:22,240
+furniture offering this illusion
+of security. 
+
+52
+00:02:22,400 --> 00:02:25,880
+Right. 
+And then BAM, a messenger shows 
+
+53
+00:02:25,880 --> 00:02:27,720
+up. 
+The sources say this guy has a 
+
+54
+00:02:27,720 --> 00:02:32,640
+face pale as the mists like a 
+ghost delivering bad news. 
+
+55
+00:02:32,680 --> 00:02:35,080
+Or, worse than bad news, 
+something insidious. 
+
+56
+00:02:35,720 --> 00:02:39,800
+And it's a letter sealed with 
+Strad's own sigil, no mistaking 
+
+57
+00:02:39,800 --> 00:02:42,280
+who it's from. 
+And the letter itself, Oh, it's 
+
+58
+00:02:42,280 --> 00:02:44,400
+a piece of work. 
+The notes call it honeyed words,
+
+59
+00:02:44,600 --> 00:02:47,120
+but you can feel this chill of 
+civility coming off. 
+
+60
+00:02:47,120 --> 00:02:49,080
+It like cold metal wrapped in 
+velvet. 
+
+61
+00:02:49,480 --> 00:02:52,160
+It's polite, Technically a 
+summons, but it's coming from 
+
+62
+00:02:52,160 --> 00:02:54,200
+the devil himself. 
+That's not just dinner, is it? 
+
+63
+00:02:54,240 --> 00:02:56,400
+It's a test. 
+Absolutely, and the source is 
+
+64
+00:02:56,400 --> 00:02:58,920
+quoted directly. 
+It's worth hearing, my friends, 
+
+65
+00:02:58,920 --> 00:03:01,320
+know that it is I who have 
+brought you to this land, my 
+
+66
+00:03:01,320 --> 00:03:04,320
+home, and know that I alone can 
+release you from it. 
+
+67
+00:03:04,320 --> 00:03:06,120
+Oof. 
+Straight out of the gate, I own 
+
+68
+00:03:06,120 --> 00:03:08,080
+you. 
+Pretty much, it continues. 
+
+69
+00:03:08,160 --> 00:03:10,960
+I bid you dine at my castle so 
+that we can meet and civilize 
+
+70
+00:03:10,960 --> 00:03:13,160
+surroundings. 
+Your passage here will be a safe
+
+71
+00:03:13,160 --> 00:03:15,200
+one. 
+I await your arrival and it's 
+
+72
+00:03:15,200 --> 00:03:17,720
+signed your host, Srod von 
+Zarevich. 
+
+73
+00:03:17,760 --> 00:03:20,120
+Your host. 
+The sheer arrogance. 
+
+74
+00:03:20,320 --> 00:03:22,880
+It's calculated, isn't it? 
+This isn't just him showing off 
+
+75
+00:03:22,880 --> 00:03:26,720
+his power, it's it's that 
+psychological mastery you 
+
+76
+00:03:26,720 --> 00:03:28,200
+mentioned. 
+Yeah, he's not demanding. 
+
+77
+00:03:28,200 --> 00:03:32,760
+He's inviting them into a trap. 
+He's asserting control through 
+
+78
+00:03:32,760 --> 00:03:35,600
+this terrifying politeness. 
+Basically screaming you have 
+
+79
+00:03:35,720 --> 00:03:36,960
+your choice. 
+Exactly. 
+
+80
+00:03:36,960 --> 00:03:40,200
+He makes it crystal clear. 
+I brought you here, only I can 
+
+81
+00:03:40,200 --> 00:03:42,640
+let you go. 
+So right away, he's positioned 
+
+82
+00:03:42,640 --> 00:03:46,760
+himself as both their jailer and
+their only, like, potential 
+
+83
+00:03:46,760 --> 00:03:49,360
+Liberator. 
+That's a horrible paradox, isn't
+
+84
+00:03:49,560 --> 00:03:51,280
+it? 
+Designed to just break their 
+
+85
+00:03:51,280 --> 00:03:53,040
+spirits before they even get to 
+the castle. 
+
+86
+00:03:53,040 --> 00:03:54,920
+It tells you right away this 
+isn't just going to be about 
+
+87
+00:03:54,920 --> 00:03:57,760
+swords and spells. 
+It's a battle for their minds, 
+
+88
+00:03:57,760 --> 00:04:01,680
+their wills, maybe their souls, 
+orchestrated by someone who 
+
+89
+00:04:01,680 --> 00:04:03,680
+genuinely seems to enjoy the 
+torment. 
+
+90
+00:04:04,200 --> 00:04:06,960
+So this invitation lands a test,
+as you said. 
+
+91
+00:04:06,960 --> 00:04:08,960
+How do they handle it? 
+Stuck in their sanctuary, 
+
+92
+00:04:08,960 --> 00:04:10,720
+getting a dinner invite from the
+devil? 
+
+93
+00:04:11,160 --> 00:04:13,520
+Do they just crumble? 
+Well, that's the surprising 
+
+94
+00:04:13,520 --> 00:04:15,880
+part. 
+Their response was defiant. 
+
+95
+00:04:16,040 --> 00:04:17,839
+A collective? 
+Not yet. 
+
+96
+00:04:18,120 --> 00:04:20,320
+Not yet. 
+I like that it's not a never, 
+
+97
+00:04:20,440 --> 00:04:23,720
+but it's a not on your terms, 
+but OK, let's dig into that. 
+
+98
+00:04:24,000 --> 00:04:26,000
+The session notes must have more
+in the debate, right? 
+
+99
+00:04:26,000 --> 00:04:27,640
+How did each of them react 
+individually? 
+
+100
+00:04:27,640 --> 00:04:29,480
+Oh yeah, the notes are great 
+here. 
+
+101
+00:04:29,680 --> 00:04:31,320
+They capture the internal 
+struggle. 
+
+102
+00:04:31,520 --> 00:04:34,960
+So you have Traxidor, he's the 
+half off cleric life domain. 
+
+103
+00:04:35,040 --> 00:04:39,960
+His whole thing is life healing 
+and he immediately flashes back 
+
+104
+00:04:39,960 --> 00:04:42,400
+to Yester Hill, remembering 
+Straud's presence there. 
+
+105
+00:04:42,400 --> 00:04:45,680
+Yester Hill, Yeah, that was bad,
+wasn't it, with the tree 
+
+106
+00:04:45,680 --> 00:04:48,680
+monster? 
+Horrific, and Traxidor describes
+
+107
+00:04:48,680 --> 00:04:52,960
+Struds involvement not as a 
+fight, but as cold amusement. 
+
+108
+00:04:53,120 --> 00:04:56,120
+Like Strud was just toying with 
+them like cats with mice. 
+
+109
+00:04:56,560 --> 00:04:59,600
+So for Traxidor, facing this 
+power that could just snuff out 
+
+110
+00:04:59,600 --> 00:05:03,000
+life, it was a deep threat to 
+his whole purpose, his faith, 
+
+111
+00:05:03,000 --> 00:05:06,320
+His caution was real, born from 
+seeing Straud's power first. 
+
+112
+00:05:06,360 --> 00:05:07,760
+Hand makes sense. 
+Who else? 
+
+113
+00:05:07,920 --> 00:05:10,520
+And there's Radley Fulthorne, 
+human fighter but an Eldritch 
+
+114
+00:05:10,520 --> 00:05:13,240
+Knight, so he's got that mix of 
+muscle and magic. 
+
+115
+00:05:13,240 --> 00:05:15,880
+Right, the pragmatic 1. 
+Yeah, and true to form, he 
+
+116
+00:05:15,880 --> 00:05:19,560
+throws in some dark humor, 
+starts joking about the wine 
+
+117
+00:05:19,560 --> 00:05:22,320
+selection at Castle Ravenlock. 
+You know, facing down this 
+
+118
+00:05:22,440 --> 00:05:26,160
+absolute dread with sarcasm. 
+It's a coping mechanism, I 
+
+119
+00:05:26,160 --> 00:05:27,520
+guess. 
+Yeah, maybe just grim 
+
+120
+00:05:27,520 --> 00:05:29,360
+acceptance. 
+Could be either, it's how he 
+
+121
+00:05:29,360 --> 00:05:32,520
+deals. 
+Then you've got Diamond Cobain, 
+
+122
+00:05:32,880 --> 00:05:36,200
+the half elf rogue swashbuckler.
+The notes say. 
+
+123
+00:05:36,200 --> 00:05:40,080
+He was unreadable as ever, just 
+stood near the window, quietly 
+
+124
+00:05:40,080 --> 00:05:42,480
+flicking a silver coin. 
+Ah, the rogue. 
+
+125
+00:05:42,760 --> 00:05:46,840
+Always watching, assessing his 
+silence probably speaks volumes.
+
+126
+00:05:47,280 --> 00:05:50,280
+Calculating the odds maybe? 
+Exactly, he's not showing his 
+
+127
+00:05:50,280 --> 00:05:51,840
+hand. 
+But then there's Sir and 
+
+128
+00:05:51,840 --> 00:05:54,080
+Ironwood. 
+He's the awesome art paladin. 
+
+129
+00:05:54,120 --> 00:05:56,520
+Oath of Vengeance. 
+Radiant Vengeance is literally 
+
+130
+00:05:56,520 --> 00:05:58,800
+in his description. 
+OK, so I'm guessing he wasn't 
+
+131
+00:05:58,800 --> 00:06:00,680
+keen on dinner. 
+Keen is not the word. 
+
+132
+00:06:00,680 --> 00:06:02,440
+He basically scoffed at the 
+idea. 
+
+133
+00:06:02,520 --> 00:06:06,720
+Pure righteous indignation. 
+Said something like if the Count
+
+134
+00:06:06,720 --> 00:06:09,680
+wants to eat with them, he 
+should descend from his rotting 
+
+135
+00:06:09,680 --> 00:06:11,160
+throne and come to them. 
+Wow. 
+
+136
+00:06:11,280 --> 00:06:14,520
+OK, so fiery defiance there. 
+That's his oath talking. 
+
+137
+00:06:14,560 --> 00:06:16,920
+No intimidation, no playing by 
+Stroud's rules. 
+
+138
+00:06:16,920 --> 00:06:18,520
+He's the direct confrontation 
+guy. 
+
+139
+00:06:18,520 --> 00:06:21,480
+But despite these, you know, 
+different personal takes, the 
+
+140
+00:06:21,480 --> 00:06:23,280
+caution, the sarcasm, the 
+silence, the fury. 
+
+141
+00:06:23,280 --> 00:06:25,440
+So they all landed on the same 
+page. 
+
+142
+00:06:25,440 --> 00:06:27,640
+Not yet, not yet. 
+They refused. 
+
+143
+00:06:28,240 --> 00:06:31,800
+The notes mention the taste of 
+winter splinters Bark, that 
+
+144
+00:06:31,800 --> 00:06:35,040
+giant, horrible tree creature 
+from Yester Hill was still on 
+
+145
+00:06:35,040 --> 00:06:37,360
+their blades. 
+That fight was fresh. 
+
+146
+00:06:37,520 --> 00:06:41,560
+A victory, but a brutal 1. 
+So this refusal, it's not just 
+
+147
+00:06:41,560 --> 00:06:43,240
+saying no to dinner, it's a 
+statement. 
+
+148
+00:06:43,240 --> 00:06:45,120
+We're not your pawn. 
+Exactly. 
+
+149
+00:06:45,160 --> 00:06:48,800
+And probably, almost definitely.
+It ramps up Strawd's interest in
+
+150
+00:06:48,800 --> 00:06:50,560
+them. 
+They're not just new toys 
+
+151
+00:06:50,560 --> 00:06:52,520
+anymore, They're toys that talk 
+back. 
+
+152
+00:06:52,520 --> 00:06:54,320
+Which leads to the chilling 
+question. 
+
+153
+00:06:54,960 --> 00:06:56,760
+What happens when you poke the 
+bear? 
+
+154
+00:06:57,400 --> 00:07:01,680
+Especially when the bear owns 
+the forest, The Cave, and, well,
+
+155
+00:07:01,800 --> 00:07:03,640
+your soul? 
+The consequences? 
+
+156
+00:07:03,880 --> 00:07:05,720
+They come fast and they're 
+brutal. 
+
+157
+00:07:05,720 --> 00:07:07,400
+Valaki, they're supposed safe 
+haven. 
+
+158
+00:07:07,400 --> 00:07:09,960
+It starts at slide Into Darkness
+almost immediately. 
+
+159
+00:07:10,040 --> 00:07:13,240
+Right the morning after the 
+invitation, the sources describe
+
+160
+00:07:13,240 --> 00:07:15,880
+the dawn as dull and thin as a 
+blade. 
+
+161
+00:07:16,320 --> 00:07:20,320
+No real sun, just that perpetual
+Barovian gloom grayed on. 
+
+162
+00:07:20,320 --> 00:07:22,560
+Filtering through mist. 
+Sets the mood perfectly. 
+
+163
+00:07:22,560 --> 00:07:24,120
+Doesn't. 
+It it does, and then they hear 
+
+164
+00:07:24,120 --> 00:07:25,960
+it. 
+The sound of hammers outside the
+
+165
+00:07:25,960 --> 00:07:29,640
+Blue Water Inn, hammers nailing 
+on wood, echoed like a funeral 
+
+166
+00:07:29,640 --> 00:07:31,040
+drum. 
+OK, that's ominous. 
+
+167
+00:07:31,040 --> 00:07:34,120
+What were they nailing up? 
+Proclamations and worse. 
+
+168
+00:07:34,120 --> 00:07:37,440
+They were being read aloud by 
+townsfolk described as cowed and
+
+169
+00:07:37,440 --> 00:07:40,720
+bloodied, still reeling from the
+massacre at the Festival of the 
+
+170
+00:07:40,720 --> 00:07:43,840
+Blazing Sun. 
+The festival that was another 
+
+171
+00:07:43,840 --> 00:07:45,360
+disaster. 
+So the town's already 
+
+172
+00:07:45,360 --> 00:07:47,600
+traumatized vulnerable. 
+Precisely. 
+
+173
+00:07:47,680 --> 00:07:49,720
+And who's issuing these 
+proclamations? 
+
+174
+00:07:49,720 --> 00:07:51,720
+Lady Fiona walked her. 
+Remember her? 
+
+175
+00:07:51,800 --> 00:07:54,000
+The conspirator lurking in the 
+background. 
+
+176
+00:07:54,000 --> 00:07:56,040
+Yeah, playing a long game. 
+Well, game over. 
+
+177
+00:07:56,600 --> 00:08:00,320
+She's now openly assumed the 
+office of Burgamaster and get 
+
+178
+00:08:00,320 --> 00:08:02,760
+this, an open fealty to Count 
+Strad. 
+
+179
+00:08:02,800 --> 00:08:05,680
+Oh wow, so no more pretense? 
+It's not just a power shift, 
+
+180
+00:08:05,680 --> 00:08:08,120
+it's Valaki openly bending the 
+knee to Strad. 
+
+181
+00:08:08,120 --> 00:08:12,040
+And she claims she took office 
+by the will of the people who 
+
+182
+00:08:12,040 --> 00:08:15,320
+threw off the yoke of the inept 
+Baron Vargas Vlakovic. 
+
+183
+00:08:15,320 --> 00:08:18,480
+It's such a twisted narrative, 
+blaming the victims of Strad's 
+
+184
+00:08:18,480 --> 00:08:21,840
+terror for their own quote UN 
+quote liberation into something 
+
+185
+00:08:21,840 --> 00:08:24,040
+even worse. 
+A darker servitude. 
+
+186
+00:08:24,520 --> 00:08:26,720
+So what were these edicts? 
+How bad did it get? 
+
+187
+00:08:26,720 --> 00:08:29,400
+How quickly? 
+It's a chilling list, a spiral 
+
+188
+00:08:29,400 --> 00:08:32,120
+into tyranny First, and this one
+hits hard. 
+
+189
+00:08:32,760 --> 00:08:35,000
+The further worship of the 
+Morning Lord is declared 
+
+190
+00:08:35,000 --> 00:08:37,159
+heretical and is prohibited. 
+No. 
+
+191
+00:08:37,440 --> 00:08:40,320
+Wow, the morning Lord is like 
+the only symbol of light they 
+
+192
+00:08:40,320 --> 00:08:42,159
+have left, isn't it? 
+Pretty much. 
+
+193
+00:08:42,679 --> 00:08:45,920
+The sources call it the last 
+fragile bulwark against the 
+
+194
+00:08:45,920 --> 00:08:49,000
+darkness. 
+So this decree, it just crushes 
+
+195
+00:08:49,000 --> 00:08:52,640
+spiritual hope, isolates people 
+completely in their despair. 
+
+196
+00:08:52,640 --> 00:08:54,440
+It's a blow right to the soul of
+the town. 
+
+197
+00:08:54,440 --> 00:08:55,640
+OK, that's bad. 
+What else? 
+
+198
+00:08:55,760 --> 00:08:57,840
+She immediately militarizes 
+things. 
+
+199
+00:08:57,920 --> 00:09:00,000
+Her loyal retainer, Ernst 
+Larnac. 
+
+200
+00:09:00,000 --> 00:09:03,080
+He's now the reef, commanding 
+all the surviving town militia. 
+
+201
+00:09:03,120 --> 00:09:06,800
+So the town guard now works for 
+her and by extension Strawd? 
+
+202
+00:09:06,800 --> 00:09:08,520
+Yep. 
+Not protection. 
+
+203
+00:09:08,520 --> 00:09:11,560
+It's control, turning defenders 
+into oppressors. 
+
+204
+00:09:11,600 --> 00:09:12,920
+And then there's the secret 
+police. 
+
+205
+00:09:13,600 --> 00:09:17,560
+Establishes an anonymous order 
+of protectors, basically Valaki 
+
+206
+00:09:17,560 --> 00:09:20,680
+civic wardens and spiritual 
+inquisitors demanding 
+
+207
+00:09:20,680 --> 00:09:23,400
+unquestioning obedience. 
+Instant paranoia. 
+
+208
+00:09:23,560 --> 00:09:27,200
+Neighbors suspecting neighbors. 
+Total breakdown of trust. 
+
+209
+00:09:27,200 --> 00:09:29,680
+So you can't worship freely, the
+guards are against you and there
+
+210
+00:09:29,680 --> 00:09:31,320
+are skies everywhere. 
+Sounds lovely. 
+
+211
+00:09:31,400 --> 00:09:34,040
+And it gets grimmer. 
+Dignity stripped away, the 
+
+212
+00:09:34,040 --> 00:09:37,320
+bodies of all slain townsfolk 
+are to be brought to a mass 
+
+213
+00:09:37,320 --> 00:09:40,640
+grave north of town, piled up 
+like so much refuse. 
+
+214
+00:09:40,800 --> 00:09:43,920
+Dehumanizing. 
+No proper mourning, just 
+
+215
+00:09:44,280 --> 00:09:47,120
+disposal. 
+Shows utter contempt for life. 
+
+216
+00:09:47,240 --> 00:09:49,320
+Absolutely. 
+Then restrictions. 
+
+217
+00:09:49,880 --> 00:09:52,680
+All persons must obtain 
+permission from the Reeve before
+
+218
+00:09:52,680 --> 00:09:56,080
+leaving Valaki. 
+Trapped, Valaki's now a prison. 
+
+219
+00:09:56,280 --> 00:09:59,240
+A prison with a curfew, everyone
+inside before dark. 
+
+220
+00:09:59,240 --> 00:10:01,680
+The night belongs to Strad's 
+regime now. 
+
+221
+00:10:01,680 --> 00:10:04,120
+OK, this is a complete lockdown.
+Is there anything else? 
+
+222
+00:10:04,200 --> 00:10:05,720
+Because this is already 
+terrifying. 
+
+223
+00:10:05,760 --> 00:10:09,520
+One more and it's perhaps the 
+most sinister the Society of 
+
+224
+00:10:09,520 --> 00:10:13,560
+Valaki's maidens. 
+That sounds deceptively quaint. 
+
+225
+00:10:13,560 --> 00:10:16,320
+Deceptively is the word. 
+Every eligible young woman is 
+
+226
+00:10:16,320 --> 00:10:19,440
+forcibly inducted under watchers
+watchful matronly eye. 
+
+227
+00:10:19,920 --> 00:10:23,280
+The notes call it a mockery of 
+protection, more like cattle 
+
+228
+00:10:23,280 --> 00:10:24,520
+counted before slaughter. 
+Oh. 
+
+229
+00:10:24,920 --> 00:10:27,520
+God for Strad, is that the 
+implication? 
+
+230
+00:10:27,520 --> 00:10:29,680
+It heavily hints at a sinister 
+purpose. 
+
+231
+00:10:29,680 --> 00:10:30,640
+Maybe for Strad. 
+Yeah. 
+
+232
+00:10:31,480 --> 00:10:34,480
+The edict says all marriageable 
+young women will attend the 
+
+233
+00:10:34,480 --> 00:10:37,200
+society's inaugural meeting to 
+affirm their suitability. 
+
+234
+00:10:37,880 --> 00:10:39,800
+Suitability for what? 
+It hangs there. 
+
+235
+00:10:39,800 --> 00:10:42,080
+Really ominous. 
+A fate worse than servitude 
+
+236
+00:10:42,080 --> 00:10:44,840
+seems likely. 
+This is chilling, a complete 
+
+237
+00:10:44,840 --> 00:10:49,080
+takeover, spiritual, physical, 
+social, even down to controlling
+
+238
+00:10:49,080 --> 00:10:51,520
+young women's lives for some 
+dark purpose. 
+
+239
+00:10:51,520 --> 00:10:53,880
+And just a hammer. 
+At home, Radley sees a wanted 
+
+240
+00:10:53,880 --> 00:10:55,960
+poster for Victor, the old Baron
+son. 
+
+241
+00:10:55,960 --> 00:10:58,680
+He rips it down. 
+Victor's a fugitive now. 
+
+242
+00:10:59,000 --> 00:11:01,880
+Isaac Strozny, the baron's 
+monstrous enforcer, also 
+
+243
+00:11:01,880 --> 00:11:04,080
+haunted. 
+The old regime is being actively
+
+244
+00:11:04,080 --> 00:11:06,080
+erased. 
+Only Watchers and Straud's dark 
+
+245
+00:11:06,080 --> 00:11:08,760
+future is allowed. 
+So the party witnesses all this.
+
+246
+00:11:09,120 --> 00:11:11,480
+How do they react? 
+What do they see walking through
+
+247
+00:11:11,480 --> 00:11:14,880
+this newly oppressed town? 
+They walk through what the notes
+
+248
+00:11:14,880 --> 00:11:18,560
+call Valaki's burned veins, 
+scorched houses where Straud's 
+
+249
+00:11:18,560 --> 00:11:21,520
+minions literally drove families
+out into the streets. 
+
+250
+00:11:21,520 --> 00:11:24,600
+Deliberate terror tactics 
+confirmed by townsfolk. 
+
+251
+00:11:24,640 --> 00:11:27,440
+Yep, townsfolk confirms some 
+fires were set just to flush 
+
+252
+00:11:27,440 --> 00:11:29,400
+people out. 
+The charred wood, the smell of 
+
+253
+00:11:29,400 --> 00:11:32,920
+smoke, constant reminders of the
+violence and the cost of 
+
+254
+00:11:32,920 --> 00:11:35,040
+defiance. 
+And the mass grave, do they see 
+
+255
+00:11:35,040 --> 00:11:35,880
+that? 
+They did. 
+
+256
+00:11:35,960 --> 00:11:39,520
+At the North End of town, a 
+great pyre burned, a pillar of 
+
+257
+00:11:39,520 --> 00:11:43,680
+greasy black smoke, consuming 
+bodies into cinder and whispers.
+
+258
+00:11:44,280 --> 00:11:47,480
+The imagery. 
+It's stark children staring into
+
+259
+00:11:47,480 --> 00:11:50,880
+the flames, fathers pushing 
+carts with wrapped bodies, 
+
+260
+00:11:51,000 --> 00:11:54,160
+widespread devastation, 
+unceremoniousied death. 
+
+261
+00:11:54,880 --> 00:11:57,600
+Life is cheap. 
+Death is meaningless under this 
+
+262
+00:11:57,600 --> 00:11:59,720
+new rule. 
+It makes you think, doesn't it? 
+
+263
+00:12:00,160 --> 00:12:04,360
+How fast an entire town, social 
+fabric, its freedoms can just 
+
+264
+00:12:04,360 --> 00:12:06,840
+unravel, How quickly tyranny 
+takes root? 
+
+265
+00:12:07,240 --> 00:12:09,880
+What would you do in that kind 
+of suffocating environment? 
+
+266
+00:12:10,280 --> 00:12:12,720
+It's terrifying to consider. 
+Absolutely terrifying. 
+
+267
+00:12:12,960 --> 00:12:16,320
+And amidst all this grim 
+reality, this desolation, the 
+
+268
+00:12:16,320 --> 00:12:18,720
+adventurers are looking for 
+answers, trying to understand 
+
+269
+00:12:18,720 --> 00:12:21,560
+what's happening. 
+And they stumble into, well, 
+
+270
+00:12:21,680 --> 00:12:24,280
+Blinsky's toys. 
+Blinsky's Toys Right, described 
+
+271
+00:12:24,280 --> 00:12:27,320
+as an unlikely Crucible of 
+secrets and mockery, sounds 
+
+272
+00:12:27,320 --> 00:12:29,120
+about right for Borovia. 
+It really is. 
+
+273
+00:12:29,120 --> 00:12:31,520
+It's this place where childhood 
+innocence gets twisted into 
+
+274
+00:12:31,520 --> 00:12:34,360
+something. 
+And they meet the man himself 
+
+275
+00:12:34,800 --> 00:12:36,520
+get off Blinski. 
+They do. 
+
+276
+00:12:36,840 --> 00:12:40,240
+The Wizard of Tiny Wonders 
+greets them with manic Glee, 
+
+277
+00:12:40,240 --> 00:12:42,640
+wearing a jester's cap. 
+He's got a monkey named Piccolo 
+
+278
+00:12:42,640 --> 00:12:46,200
+on his shoulder and his tagline.
+Is no fun, Is no Blinski. 
+
+279
+00:12:46,200 --> 00:12:48,760
+Yeah, yeah, I remember that. 
+It perfectly captures that 
+
+280
+00:12:49,080 --> 00:12:51,840
+forced, slightly insane 
+cheerfulness you find in 
+
+281
+00:12:51,840 --> 00:12:54,920
+Borovia, like finding joy in the
+morbid because there's nothing 
+
+282
+00:12:54,920 --> 00:12:56,120
+else. 
+Exactly. 
+
+283
+00:12:56,360 --> 00:12:59,200
+He's a living example of the 
+Barovian psyche under pressure. 
+
+284
+00:12:59,200 --> 00:13:02,560
+So they're looking around his 
+shop shelves full of sad eyed 
+
+285
+00:13:02,560 --> 00:13:06,360
+marionettes and morbid dioramas,
+and then Soren sees something. 
+
+286
+00:13:06,360 --> 00:13:07,920
+What is it? 
+Something that makes his 
+
+287
+00:13:08,000 --> 00:13:12,320
+celestial blood run cold. 
+It's a doll, the spitting image 
+
+288
+00:13:12,320 --> 00:13:16,800
+of Irena Kuleana. 
+Oh wow, OK, for Soren the 
+
+289
+00:13:16,800 --> 00:13:20,040
+paladin trying to protect her, 
+that must have been a shock 
+
+290
+00:13:20,440 --> 00:13:23,240
+seeing her likeness as this 
+lifeless toy. 
+
+291
+00:13:23,480 --> 00:13:26,200
+A really chilling moment, like a
+premonition, maybe. 
+
+292
+00:13:26,200 --> 00:13:29,640
+I hint that Stroud's obsession, 
+his reach, gets everywhere, even
+
+293
+00:13:29,640 --> 00:13:31,800
+into a toy shop. 
+So what does Blinsky say? 
+
+294
+00:13:31,920 --> 00:13:34,160
+How does he explain having Irena
+dolls? 
+
+295
+00:13:34,200 --> 00:13:37,080
+He kind of half giggles, half 
+sobs, which says a lot about his
+
+296
+00:13:37,080 --> 00:13:39,720
+mental state and reveals they 
+were commissions from Isaac 
+
+297
+00:13:39,720 --> 00:13:41,400
+Strozny. 
+Isaac the Baron's former 
+
+298
+00:13:41,400 --> 00:13:43,040
+enforcer, the one with the 
+monster arm. 
+
+299
+00:13:43,160 --> 00:13:45,760
+That's the one, apparently. 
+Isaac kept coming back, 
+
+300
+00:13:45,760 --> 00:13:49,240
+demanding more dolls, but each 
+one was never quite right. 
+
+301
+00:13:49,600 --> 00:13:52,320
+This was Isaac's price for 
+letting Blinsky live, a 
+
+302
+00:13:52,320 --> 00:13:54,680
+grotesque payment for a 
+grotesque obsession. 
+
+303
+00:13:54,680 --> 00:13:56,800
+So it wasn't Stride 
+commissioning them, it was 
+
+304
+00:13:56,800 --> 00:13:59,800
+Isaac, but still focused on 
+Irina. 
+
+305
+00:14:00,080 --> 00:14:02,360
+Right, which is disturbing in 
+its own way. 
+
+306
+00:14:02,680 --> 00:14:07,000
+Radley, being Radley, actually 
+buys the doll, trades coin for 
+
+307
+00:14:07,000 --> 00:14:09,680
+it. 
+Prioritizing Intel over comfort,
+
+308
+00:14:09,880 --> 00:14:11,080
+you know? 
+Yeah, that sounds like him 
+
+309
+00:14:11,200 --> 00:14:14,480
+getting grimly practical. 
+And Blinsky says he made dozens 
+
+310
+00:14:14,480 --> 00:14:16,640
+of them for Isaac. 
+Always imperfect. 
+
+311
+00:14:16,920 --> 00:14:20,880
+It just highlights this deep, 
+disturbing fixation Isaac had, 
+
+312
+00:14:20,960 --> 00:14:24,400
+which is horrifyingly similar to
+Strad's own obsession with 
+
+313
+00:14:24,400 --> 00:14:26,360
+Irena. 
+It's like this malevolent theme 
+
+314
+00:14:26,640 --> 00:14:29,240
+echoing through the town. 
+A shared madness, almost. 
+
+315
+00:14:29,280 --> 00:14:30,440
+What else did they notice in the
+shop? 
+
+316
+00:14:30,600 --> 00:14:32,520
+They saw a puppet that looked 
+like Strad of. 
+
+317
+00:14:32,640 --> 00:14:34,280
+Course he has a strad puppet. 
+Right. 
+
+318
+00:14:34,360 --> 00:14:37,360
+And when they asked, Blinsky 
+just casually says he makes toys
+
+319
+00:14:37,360 --> 00:14:40,040
+for every child's proclivities. 
+Like, Oh yeah, some kids like 
+
+320
+00:14:40,040 --> 00:14:41,240
+vampires. 
+What's the big deal? 
+
+321
+00:14:41,560 --> 00:14:45,280
+It shows how normalized Strad's 
+evil presence is, even in kids 
+
+322
+00:14:45,280 --> 00:14:47,560
+toys. 
+That's deeply unsettling. 
+
+323
+00:14:47,960 --> 00:14:50,960
+Did Blinsky offer or anything 
+else any useful info amidst the 
+
+324
+00:14:50,960 --> 00:14:53,000
+creepy toys? 
+Actually, yes. 
+
+325
+00:14:53,240 --> 00:14:56,480
+He starts babbling about Lydia 
+Petrovna, the Baroness who was 
+
+326
+00:14:56,480 --> 00:14:58,760
+hanged. 
+Turns out he knew her as a child
+
+327
+00:14:59,160 --> 00:15:02,200
+and she was the sister of Father
+Lucian Petrovich, the priest at 
+
+328
+00:15:02,200 --> 00:15:04,680
+Saint Andrews Church. 
+Okay, a connection there, Does 
+
+329
+00:15:04,680 --> 00:15:06,840
+it lead anywhere? 
+It might, Bolinsky says. 
+
+330
+00:15:06,840 --> 00:15:11,520
+Their family line goes way back 
+to Tasha Petrovna, a priestess 
+
+331
+00:15:11,520 --> 00:15:14,560
+of the Morning Lord before Strad
+even became a vampire. 
+
+332
+00:15:14,800 --> 00:15:17,640
+Whoa, OK, that's interesting. 
+Pre Strad history. 
+
+333
+00:15:17,760 --> 00:15:20,920
+And here's the kicker. 
+Rumor has it Tasha Petrovna's 
+
+334
+00:15:20,920 --> 00:15:23,280
+tomb is in Castle Raven loft 
+itself. 
+
+335
+00:15:23,600 --> 00:15:25,960
+Seriously. 
+In the belly of the beast? 
+
+336
+00:15:26,000 --> 00:15:28,520
+Yep. 
+So this little tidbit dropped by
+
+337
+00:15:28,520 --> 00:15:31,920
+1/2 Mad Toy Maker. 
+It's this potential sliver of 
+
+338
+00:15:31,920 --> 00:15:35,080
+hope, A connection to ancient 
+history, maybe forgotten 
+
+339
+00:15:35,080 --> 00:15:37,120
+knowledge. 
+Something that could help them 
+
+340
+00:15:37,120 --> 00:15:39,600
+fight Strad. 
+Or it could be just it's another
+
+341
+00:15:39,600 --> 00:15:41,720
+lure, another trap. 
+Come into my castle, 
+
+342
+00:15:41,720 --> 00:15:43,120
+adventurers. 
+Exactly. 
+
+343
+00:15:43,120 --> 00:15:45,840
+Or just another grave waiting to
+swallow them whole. 
+
+344
+00:15:46,400 --> 00:15:48,680
+Hope and Barovia always comes 
+with teeth, doesn't it? 
+
+345
+00:15:48,800 --> 00:15:50,760
+Seems like it. 
+How did the encounter end? 
+
+346
+00:15:50,960 --> 00:15:53,760
+Blinsky just waves them out. 
+His usual creepy squeal is no 
+
+347
+00:15:53,760 --> 00:15:56,760
+fun is no Brinsky. 
+Leaving them with dolls, 
+
+348
+00:15:56,760 --> 00:15:58,640
+secrets, and a lot more 
+questions. 
+
+349
+00:15:59,480 --> 00:16:02,800
+That shop really is a microcosm 
+of Borovia, isn't it? 
+
+350
+00:16:03,120 --> 00:16:05,480
+Innocence, twisted obsession 
+made manifest. 
+
+351
+00:16:05,720 --> 00:16:08,080
+Hope tangled up with death. 
+Perfectly put. 
+
+352
+00:16:08,320 --> 00:16:11,920
+And the Irena dolls, especially 
+that thread connecting Isaac and
+
+353
+00:16:11,920 --> 00:16:14,840
+Strawd. 
+It just paints this grim picture
+
+354
+00:16:14,840 --> 00:16:17,280
+of pervasive malevolent 
+influence. 
+
+355
+00:16:17,280 --> 00:16:20,120
+So after that dose of creepy, 
+where do they head next? 
+
+356
+00:16:20,240 --> 00:16:24,200
+Still digging into Valaki's rot.
+Yep, they head to the manner of 
+
+357
+00:16:24,200 --> 00:16:27,600
+the dead Baron Vargas Volakovic,
+and it's exactly what you'd 
+
+358
+00:16:27,600 --> 00:16:30,320
+expect. 
+Looted, defiled, vandalized, 
+
+359
+00:16:30,480 --> 00:16:32,840
+fine things already picked over 
+by scavengers. 
+
+360
+00:16:33,040 --> 00:16:34,960
+Shows how fast order breaks 
+down. 
+
+361
+00:16:34,960 --> 00:16:36,440
+How the mighty. 
+And clues left them. 
+
+362
+00:16:36,440 --> 00:16:38,240
+It's wreckage. 
+Well, they find one locked 
+
+363
+00:16:38,240 --> 00:16:40,480
+bedroom upstairs. 
+Everything else is trash but 
+
+364
+00:16:40,480 --> 00:16:43,240
+this one room is locked tight. 
+Interesting, how do they get in?
+
+365
+00:16:43,360 --> 00:16:45,640
+Radley armored shoulder meets 
+locked door. 
+
+366
+00:16:45,640 --> 00:16:48,320
+He just batters it open. 
+No time for finesse, I guess. 
+
+367
+00:16:48,320 --> 00:16:50,000
+Getting things done. 
+What's inside? 
+
+368
+00:16:50,240 --> 00:16:54,080
+It's described as mostly 
+Spartan, but there are empty 
+
+369
+00:16:54,080 --> 00:16:58,000
+wine bottle scattered around and
+more Irena dolls just like the 
+
+370
+00:16:58,000 --> 00:17:00,000
+ones from Blinski's. 
+No way. 
+
+371
+00:17:00,360 --> 00:17:03,240
+So Victor, the Baron's son, he 
+was obsessed too. 
+
+372
+00:17:03,240 --> 00:17:05,800
+Scenes like it It's not just a 
+room. 
+
+373
+00:17:05,839 --> 00:17:08,839
+The notes call it a shrine to 
+obsession and failure. 
+
+374
+00:17:09,079 --> 00:17:13,359
+It echoes Isaac's fixation. 
+This repetition of the dolls is 
+
+375
+00:17:13,359 --> 00:17:16,000
+really chilling, like a late 
+motif, underscoring this 
+
+376
+00:17:16,000 --> 00:17:20,359
+pervasive darkness, this creepy 
+fixation linked to Strawd. 
+
+377
+00:17:20,520 --> 00:17:23,280
+OK, that's deeply messed up. 
+Did they find anything else in 
+
+378
+00:17:23,280 --> 00:17:24,880
+the manner? 
+Yeah, the attic. 
+
+379
+00:17:24,880 --> 00:17:26,960
+Surprisingly, it looked like 
+looters had skipped it. 
+
+380
+00:17:27,040 --> 00:17:30,800
+Maybe seemed too mundane, but 
+the notes say it was worse than 
+
+381
+00:17:30,800 --> 00:17:33,120
+the chaos downstairs. 
+Worse how? 
+
+382
+00:17:33,240 --> 00:17:36,400
+Family heirlooms, portraits just
+rotting in the rafters, a 
+
+383
+00:17:36,400 --> 00:17:39,440
+family's history decaying. 
+And there's this narrow path 
+
+384
+00:17:39,440 --> 00:17:42,560
+through the junk leading to a 
+heavy wooden door marked with a 
+
+385
+00:17:42,560 --> 00:17:44,320
+crude skull. 
+Subtle. 
+
+386
+00:17:44,360 --> 00:17:47,240
+And a scratched warning. 
+All is not well. 
+
+387
+00:17:47,240 --> 00:17:50,280
+OK, Yeah, that's usually a bad 
+sign, especially in Borovia. 
+
+388
+00:17:50,280 --> 00:17:52,120
+Definitely. 
+It signals something more 
+
+389
+00:17:52,120 --> 00:17:56,080
+personal, more dangerous. 
+Forbidden secrets maybe? 
+
+390
+00:17:56,120 --> 00:17:57,920
+So who tries the door? 
+CERN again? 
+
+391
+00:17:58,160 --> 00:17:59,840
+He seems like the type. 
+Good guess. 
+
+392
+00:18:00,000 --> 00:18:04,440
+Soren steps up, tries the door, 
+and bam, Glyph of Warding. 
+
+393
+00:18:04,560 --> 00:18:06,760
+Arcane lightning slams into his 
+chest. 
+
+394
+00:18:06,920 --> 00:18:08,720
+Ouch. 
+Did it stop him? 
+
+395
+00:18:08,840 --> 00:18:11,120
+Not Soren. 
+The notes say he just gritted 
+
+396
+00:18:11,120 --> 00:18:14,040
+his teeth against the pain, 
+showed that paladin resolve and 
+
+397
+00:18:14,040 --> 00:18:16,040
+tried again. 
+Successfully opens it on the 
+
+398
+00:18:16,040 --> 00:18:17,440
+second go. 
+Tough guy. 
+
+399
+00:18:18,040 --> 00:18:22,040
+OK, so what's behind door #2 
+what was Victor hiding? 
+
+400
+00:18:22,320 --> 00:18:25,720
+Victor's Secret, a haphazard 
+Wizards workshop. 
+
+401
+00:18:25,720 --> 00:18:28,240
+It's clearly amateur hour, not a
+pro setup. 
+
+402
+00:18:28,320 --> 00:18:30,480
+What kind of stuff was in there?
+Weird experiments. 
+
+403
+00:18:30,480 --> 00:18:34,040
+Pretty weird. 6 animated cat 
+skeletons prowling the rafters, 
+
+404
+00:18:34,200 --> 00:18:36,840
+empty eye sockets gleaming. 
+Creepy. 
+
+405
+00:18:36,840 --> 00:18:39,040
+Animated cat skeletons. 
+Normal hobbies. 
+
+406
+00:18:39,040 --> 00:18:41,840
+And three small mannequins 
+turned facing the wall like 
+
+407
+00:18:41,840 --> 00:18:44,640
+scolded children. 
+Just bizarre, macabre and 
+
+408
+00:18:44,640 --> 00:18:47,760
+childish at the same time. 
+They also find this incomplete, 
+
+409
+00:18:47,760 --> 00:18:50,240
+badly sewn wizard's robe in a 
+trunk. 
+
+410
+00:18:50,280 --> 00:18:53,360
+So he was really trying to be a 
+wizard, maybe try to find a way 
+
+411
+00:18:53,360 --> 00:18:54,280
+out. 
+That seems to be the 
+
+412
+00:18:54,280 --> 00:18:57,120
+implication, especially given 
+the biggest discovery. 
+
+413
+00:18:57,400 --> 00:19:00,320
+Under a scorched rug, they find 
+a teleportation circle. 
+
+414
+00:19:00,360 --> 00:19:02,880
+A way out, fine. 
+Not so fast. 
+
+415
+00:19:03,800 --> 00:19:06,680
+Radley, with his eldritch night 
+training, takes one look and 
+
+416
+00:19:06,680 --> 00:19:10,560
+knows it's bad news. 
+The runes are jagged, broken. 
+
+417
+00:19:10,560 --> 00:19:15,360
+He calls it a death sentence. 
+So not a way out, but a trap or 
+
+418
+00:19:15,360 --> 00:19:18,840
+just incompetent magic. 
+Lethally incompetent it seems. 
+
+419
+00:19:19,160 --> 00:19:21,320
+The notes say there are 
+footprints and soot and 
+
+420
+00:19:21,320 --> 00:19:23,720
+scorching around it, indicating 
+someone else had already tried 
+
+421
+00:19:23,720 --> 00:19:26,440
+to use it with catastrophic 
+results. 
+
+422
+00:19:26,440 --> 00:19:28,240
+You mean like? 
+They exploded. 
+
+423
+00:19:28,880 --> 00:19:30,960
+Or worse, the notes don't 
+explicitly say. 
+
+424
+00:19:30,960 --> 00:19:34,000
+But yeah, the implication is a 
+terrible, messy end for anyone 
+
+425
+00:19:34,000 --> 00:19:36,040
+desperate enough to try this 
+flawed circle. 
+
+426
+00:19:36,160 --> 00:19:39,080
+A chilling reminder of how 
+dangerous untrained magic is 
+
+427
+00:19:39,080 --> 00:19:40,800
+here. 
+So the implications? 
+
+428
+00:19:40,920 --> 00:19:44,080
+Victor, the privileged son, was 
+into some seriously dark, 
+
+429
+00:19:44,080 --> 00:19:47,040
+dangerous magic, desperate to 
+escape Barovia. 
+
+430
+00:19:47,040 --> 00:19:49,400
+Seems very likely. 
+It shows the depth of despair 
+
+431
+00:19:49,400 --> 00:19:52,640
+that pushes even the elite to 
+such reckless acts, and his 
+
+432
+00:19:52,640 --> 00:19:55,640
+obsession with Irina mirroring 
+Isaacs, It paints this picture 
+
+433
+00:19:55,640 --> 00:19:58,800
+of a town drowning in these dark
+fixations may be seated by straw
+
+434
+00:19:58,880 --> 00:20:00,800
+about himself. 
+Victor's just this tragic 
+
+435
+00:20:00,800 --> 00:20:03,360
+figure, driven to extremes by 
+the sheer hopelessness of it 
+
+436
+00:20:03,360 --> 00:20:05,800
+all. 
+OK so Valaki is just layers upon
+
+437
+00:20:05,800 --> 00:20:08,520
+layers of grim. 
+With the immediate crisis of 
+
+438
+00:20:08,520 --> 00:20:11,440
+Watchers rule established and 
+the disturbing secrets of the 
+
+439
+00:20:11,440 --> 00:20:15,800
+Barons family uncovered, did 
+they shift focus back to the 
+
+440
+00:20:15,800 --> 00:20:18,240
+other big mystery, The Bones of 
+Saint Andrew? 
+
+441
+00:20:18,320 --> 00:20:20,680
+They did. 
+Those relics were still missing,
+
+442
+00:20:20,680 --> 00:20:23,400
+and they were crucial for, you 
+know, maybe restoring some 
+
+443
+00:20:23,400 --> 00:20:25,480
+sanctity to the church or at 
+least protecting it. 
+
+444
+00:20:25,960 --> 00:20:28,320
+So they head back to the 
+graveyard next to the ruined 
+
+445
+00:20:28,320 --> 00:20:30,920
+Church of Saint Andrew. 
+And how do they plan to find 
+
+446
+00:20:30,920 --> 00:20:33,120
+clues in a graveyard? 
+Talk to the residents. 
+
+447
+00:20:33,240 --> 00:20:36,480
+Sort of. 
+Traxidor uses his divine magic. 
+
+448
+00:20:36,600 --> 00:20:39,680
+Speak with dead. 
+Classic cleric move. 
+
+449
+00:20:39,720 --> 00:20:42,520
+Who do they talk to? 
+They find the body of Myloy, 
+
+450
+00:20:42,960 --> 00:20:46,720
+remember him, the grave rubber. 
+The notes describe him as barely
+
+451
+00:20:46,720 --> 00:20:48,600
+out of boyhood. 
+Just a kid, really. 
+
+452
+00:20:48,600 --> 00:20:49,360
+Yeah. 
+Tragic. 
+
+453
+00:20:49,520 --> 00:20:50,880
+What does Mylogious Spirit tell 
+him? 
+
+454
+00:20:51,080 --> 00:20:54,640
+He confesses whispers via 
+tracidor that Henrik Vander 
+
+455
+00:20:54,640 --> 00:20:56,880
+Fort, the coffin maker, paid him
+to steal the bones. 
+
+456
+00:20:57,000 --> 00:20:59,480
+Henrik, the coffin maker. 
+OK, a solid lead. 
+
+457
+00:20:59,520 --> 00:21:02,640
+Why did Milo's do it? 
+To feed his starving siblings he
+
+458
+00:21:02,640 --> 00:21:05,280
+use the money for food. 
+It just underlines the 
+
+459
+00:21:05,280 --> 00:21:07,120
+desperation in the lucky doesn't
+it? 
+
+460
+00:21:07,120 --> 00:21:10,920
+Kids robbing graves just to 
+survive makes you question who 
+
+461
+00:21:10,920 --> 00:21:13,240
+the real villains are sometimes.
+It really does. 
+
+462
+00:21:13,440 --> 00:21:15,720
+Even sacrilege becomes an act of
+survival. 
+
+463
+00:21:16,240 --> 00:21:19,200
+So they have their lid. 
+Henrik, the coffin maker. 
+
+464
+00:21:19,760 --> 00:21:21,320
+What happens when they pay him a
+visit? 
+
+465
+00:21:21,720 --> 00:21:25,120
+They arrive at the coffin shop 
+front doors, a jar already a bad
+
+466
+00:21:25,120 --> 00:21:26,800
+sign. 
+Never a good sign. 
+
+467
+00:21:26,920 --> 00:21:31,120
+Downstairs is just filled with 
+coffins stacked like cord wood. 
+
+468
+00:21:31,360 --> 00:21:34,920
+More big foreshadowing, Maybe 
+the air smells like sawdust, but
+
+469
+00:21:34,960 --> 00:21:38,040
+also something else, something 
+rank. 
+
+470
+00:21:38,120 --> 00:21:40,560
+Uh oh. 
+Where do they find Henrik or 
+
+471
+00:21:40,560 --> 00:21:43,160
+what's left of him? 
+Well, Dermont, being the sneaky 
+
+472
+00:21:43,160 --> 00:21:46,640
+one, checks upstairs first, 
+finds a storeroom, lumber, 
+
+473
+00:21:46,640 --> 00:21:48,760
+tools, and half a dozen crates. 
+Crates. 
+
+474
+00:21:48,760 --> 00:21:51,240
+Anything weird about them? 
+Yeah, the crates have soil in 
+
+475
+00:21:51,240 --> 00:21:54,240
+them, and they've been burst 
+open from within, dirt scattered
+
+476
+00:21:54,240 --> 00:21:56,320
+everywhere. 
+Burst open from within like 
+
+477
+00:21:56,320 --> 00:21:58,440
+something hatched. 
+Exactly, that's the chilling 
+
+478
+00:21:58,440 --> 00:22:00,080
+implications. 
+Something non human. 
+
+479
+00:22:00,080 --> 00:22:03,640
+Use these crates like, well, 
+like coffins, but in reverse, 
+
+480
+00:22:03,880 --> 00:22:05,920
+like a grotesque nursery. 
+OK, that's disturbing. 
+
+481
+00:22:06,000 --> 00:22:08,760
+What about Henrik? 
+The smell leads the rest of the 
+
+482
+00:22:08,760 --> 00:22:12,160
+party. 
+That rank decay smell leads them
+
+483
+00:22:12,160 --> 00:22:15,600
+to a back bedroom where, as the 
+notes put it, horror had 
+
+484
+00:22:15,600 --> 00:22:17,720
+bloomed. 
+Oh boy, how bad. 
+
+485
+00:22:17,840 --> 00:22:21,760
+Bad Henriks corpse is there, 
+crumpled, eviscerated. 
+
+486
+00:22:21,760 --> 00:22:26,040
+His guts are described as being 
+scrawled across the walls and 
+
+487
+00:22:26,040 --> 00:22:28,240
+ceiling like some kind of 
+horrible finger painting. 
+
+488
+00:22:28,440 --> 00:22:30,720
+Jesus. 
+OK, that's graphic. 
+
+489
+00:22:30,760 --> 00:22:34,360
+The air is thick with flies just
+buzzing over the scene, and 
+
+490
+00:22:34,360 --> 00:22:37,120
+there are bloody handprints and 
+footprints on the walls, even 
+
+491
+00:22:37,120 --> 00:22:38,080
+the ceiling. 
+A. 
+
+492
+00:22:38,120 --> 00:22:40,520
+Ceiling how? 
+That's the clue, isn't it? 
+
+493
+00:22:40,680 --> 00:22:44,080
+Indicating his killers seem to 
+defy gravity, points straight to
+
+494
+00:22:44,080 --> 00:22:46,720
+something nonhuman, something 
+that can climb walls, stick to 
+
+495
+00:22:46,720 --> 00:22:49,120
+ceiling. 
+Vampire spawn had to be the 
+
+496
+00:22:49,120 --> 00:22:50,400
+things that hatch from the 
+crates. 
+
+497
+00:22:50,400 --> 00:22:53,400
+Seems incredibly likely they 
+hatched, killed Henrik, and 
+
+498
+00:22:53,680 --> 00:22:56,080
+presumably flew off. 
+Back to their master, maybe. 
+
+499
+00:22:56,080 --> 00:22:57,400
+And the bones, were they there? 
+Nope. 
+
+500
+00:22:57,800 --> 00:23:00,840
+Bones are gone, only thing left 
+is a bag of coins near the body.
+
+501
+00:23:00,960 --> 00:23:04,480
+Henrik's payment, presumably for
+his betrayal, his life, his 
+
+502
+00:23:04,480 --> 00:23:06,560
+soul. 
+So the spawn hatched, killed 
+
+503
+00:23:06,560 --> 00:23:08,920
+their helper, took the bones and
+vanished. 
+
+504
+00:23:08,920 --> 00:23:12,000
+A deliberate, calculated horror 
+show. 
+
+505
+00:23:12,200 --> 00:23:15,640
+Yeah, a very disturbing 
+birthplace for these creatures, 
+
+506
+00:23:15,640 --> 00:23:17,960
+hidden inside a mundane coffin 
+shop. 
+
+507
+00:23:17,960 --> 00:23:20,480
+It just shows the kind of hidden
+evils operating beneath the 
+
+508
+00:23:20,480 --> 00:23:23,440
+surface. 
+And then there's Radley's 
+
+509
+00:23:23,440 --> 00:23:25,400
+reaction, isn't there? 
+The notes mentioned something 
+
+510
+00:23:25,400 --> 00:23:28,360
+pretty stark. 
+Yeah, this is a moment. 
+
+511
+00:23:28,360 --> 00:23:32,080
+Radley, apparently without much 
+hesitation, bent down, sawed the
+
+512
+00:23:32,080 --> 00:23:35,360
+head from Henrik's neck, and 
+tossed it over her shoulder like
+
+513
+00:23:35,360 --> 00:23:36,720
+a sack of potatoes. 
+Whoa. 
+
+514
+00:23:37,280 --> 00:23:41,160
+OK, just took his head. 
+Why? 
+
+515
+00:23:41,320 --> 00:23:44,520
+The notes describe it as having 
+no reverence for traitors, just 
+
+516
+00:23:44,520 --> 00:23:47,440
+grim trophies. 
+It's his moment of stark, maybe 
+
+517
+00:23:47,440 --> 00:23:50,320
+horrifying brutality. 
+Feels like a shift, doesn't it? 
+
+518
+00:23:50,520 --> 00:23:52,680
+For Radley, maybe. 
+For the whole party, yeah. 
+
+519
+00:23:52,840 --> 00:23:55,920
+Taking a head as a trophy? 
+That's not standard hero 
+
+520
+00:23:55,920 --> 00:23:57,040
+behavior. 
+Not at all. 
+
+521
+00:23:57,040 --> 00:24:01,520
+It shows how Borovia is maybe 
+coroting them, hardening them. 
+
+522
+00:24:01,520 --> 00:24:03,640
+They're adapting, but the 
+adaptation itself is brutal, 
+
+523
+00:24:03,920 --> 00:24:06,680
+cold pragmatism taking over. 
+And the notes say they left the 
+
+524
+00:24:06,680 --> 00:24:08,040
+body and told no one. 
+Yep. 
+
+525
+00:24:08,440 --> 00:24:10,520
+Left the corpse to Moulder. 
+Kept the head head, kept it 
+
+526
+00:24:10,520 --> 00:24:12,560
+secret. 
+They're operating outside normal
+
+527
+00:24:12,560 --> 00:24:16,400
+morality now, embracing the grim
+reality of the place, sharing 
+
+528
+00:24:16,400 --> 00:24:19,480
+this dark secret, this burden. 
+It really makes you ask, what's 
+
+529
+00:24:19,480 --> 00:24:22,760
+the psychological toll? 
+How much of their humanity are 
+
+530
+00:24:22,760 --> 00:24:26,080
+they sacrificing just to 
+survive, let alone win? 
+
+531
+00:24:26,640 --> 00:24:29,240
+When do the heroes start looking
+like the monsters they fight? 
+
+532
+00:24:29,320 --> 00:24:32,080
+That's the million gold piece 
+question in Barovia, isn't it? 
+
+533
+00:24:32,080 --> 00:24:34,320
+So they get back to the Blue 
+Water Inn and now they have a 
+
+534
+00:24:34,320 --> 00:24:36,440
+new problem. 
+Hiding a severed head, right? 
+
+535
+00:24:36,480 --> 00:24:38,680
+Can't exactly leave that lying 
+around the tap room. 
+
+536
+00:24:38,800 --> 00:24:40,560
+Exactly. 
+The notes are clear. 
+
+537
+00:24:40,840 --> 00:24:44,400
+Danica Martikoff, the innkeeper.
+She's tough, but fair. 
+
+538
+00:24:44,680 --> 00:24:47,160
+She would have pitched them into
+the street if she knew. 
+
+539
+00:24:47,680 --> 00:24:50,400
+So even as they get harder, 
+darker, there are still lines 
+
+540
+00:24:50,400 --> 00:24:53,280
+they can't cross openly. 
+Not if they want to keep their 
+
+541
+00:24:53,280 --> 00:24:55,200
+allies. 
+So what's the vibe at the inn 
+
+542
+00:24:55,200 --> 00:24:58,760
+now under washers? 
+It's unusually quiet. 
+
+543
+00:24:59,320 --> 00:25:02,240
+People are obeying the curfew. 
+They're scared of the new civic 
+
+544
+00:25:02,240 --> 00:25:04,520
+wardens and Inquisitors. 
+Watchers. 
+
+545
+00:25:04,520 --> 00:25:07,280
+Fear tactics are working. 
+The oppression has settled in 
+
+546
+00:25:07,280 --> 00:25:07,920
+quickly. 
+Did. 
+
+547
+00:25:08,080 --> 00:25:11,560
+They learn anything else there. 
+Soren asks Danica about Victor, 
+
+548
+00:25:11,560 --> 00:25:13,720
+the baron's son they just 
+investigated. 
+
+549
+00:25:13,920 --> 00:25:16,920
+She doesn't know much, calls him
+peculiar and reclusive, 
+
+550
+00:25:17,160 --> 00:25:21,400
+demanding and narcissistic. 
+But her eyes, the notes say, 
+
+551
+00:25:21,400 --> 00:25:23,880
+suggested she wished she knew 
+even less. 
+
+552
+00:25:24,040 --> 00:25:26,320
+Yeah, Victor sounds like the 
+kind of creepy nobody wants to 
+
+553
+00:25:26,320 --> 00:25:27,920
+know too much about. 
+Seems so. 
+
+554
+00:25:28,240 --> 00:25:31,360
+Later, though, they get a small 
+moment of, well, I'm not exactly
+
+555
+00:25:31,360 --> 00:25:34,640
+relief, but maybe distraction. 
+Rick Tavio joins them for 
+
+556
+00:25:34,640 --> 00:25:37,680
+supper. 
+Rick Tavio, the traveling Bard. 
+
+557
+00:25:37,920 --> 00:25:41,320
+Or maybe, as the notes hint, a 
+Monster Hunter and Motley. 
+
+558
+00:25:41,640 --> 00:25:43,560
+Yeah, there's more to him than 
+meets the eye. 
+
+559
+00:25:43,560 --> 00:25:48,120
+Probably he shares some Brandy 
+from far off Durkon apparently, 
+
+560
+00:25:48,400 --> 00:25:51,600
+and he tells stories of other 
+lands, places beyond the mists. 
+
+561
+00:25:52,400 --> 00:25:54,800
+A glimpse of freedom. 
+For a second, yeah, they see the
+
+562
+00:25:54,800 --> 00:25:58,400
+glimmer of what freedom might 
+taste like before Barovia closed
+
+563
+00:25:58,400 --> 00:26:01,480
+its jaws again. 
+It's crucial that little moment 
+
+564
+00:26:01,880 --> 00:26:05,280
+highlights the fear in Valaki. 
+The fleeting nature of any hope 
+
+565
+00:26:05,680 --> 00:26:08,040
+reminds them what they're 
+fighting for, even if it feels 
+
+566
+00:26:08,040 --> 00:26:10,800
+impossible. 
+Bittersweet taste of normal. 
+
+567
+00:26:10,960 --> 00:26:12,800
+But that glimmer fades fast, 
+doesn't it? 
+
+568
+00:26:13,120 --> 00:26:15,200
+The reality Brovia always 
+crashes back in. 
+
+569
+00:26:15,240 --> 00:26:18,720
+Always morning comes dull and 
+thin as a blade, just like the 
+
+570
+00:26:18,720 --> 00:26:21,080
+day the edicts were posted. 
+Time to leave a lackey. 
+
+571
+00:26:21,600 --> 00:26:24,040
+They depart with the Mardikovs 
+wagon, Adrian and Dag. 
+
+572
+00:26:24,040 --> 00:26:26,640
+There were Raven allies hauling 
+wine towards Kresk, heading 
+
+573
+00:26:26,640 --> 00:26:28,120
+West. 
+OK, moving on. 
+
+574
+00:26:28,360 --> 00:26:30,480
+But they still have the head, 
+right? 
+
+575
+00:26:31,320 --> 00:26:32,720
+How are the Martikoffs feeling 
+about that? 
+
+576
+00:26:32,880 --> 00:26:34,600
+Not great. 
+This is where that friction 
+
+577
+00:26:34,600 --> 00:26:37,600
+really shows up. 
+Adrian and Dag keep casting 
+
+578
+00:26:37,600 --> 00:26:40,280
+nervous glances at Radley's 
+Grizzly Prize. 
+
+579
+00:26:40,440 --> 00:26:44,520
+They're clearly uncomfortable. 
+I mean, yeah, understandable. 
+
+580
+00:26:44,520 --> 00:26:47,000
+And then Soren makes it worse. 
+He apparently just starts 
+
+581
+00:26:47,040 --> 00:26:50,800
+flaying the skin from the skull 
+like he was butchering a deer 
+
+582
+00:26:51,280 --> 00:26:54,240
+right there on the wagon. 
+Oh, come on, Soren, read. 
+
+583
+00:26:54,240 --> 00:26:56,120
+The room. 
+Or the wagon, I guess. 
+
+584
+00:26:56,120 --> 00:26:58,600
+Seriously, the Martikoffs just 
+balk. 
+
+585
+00:26:58,640 --> 00:27:01,120
+They threatened to dump the wine
+right there on the road and go 
+
+586
+00:27:01,120 --> 00:27:05,160
+home, their trust in the parties
+visibly cracking like old oak. 
+
+587
+00:27:05,240 --> 00:27:07,680
+This is bad. 
+Their actions, their Grin 
+
+588
+00:27:07,680 --> 00:27:09,880
+trophies are alienating their 
+allies. 
+
+589
+00:27:09,880 --> 00:27:12,520
+It shows the cost, doesn't it? 
+How far can they push this 
+
+590
+00:27:12,520 --> 00:27:15,400
+before they lose everyone and 
+maybe lose themselves? 
+
+591
+00:27:15,480 --> 00:27:17,400
+It's a huge question hanging 
+over them. 
+
+592
+00:27:17,440 --> 00:27:20,280
+And just as that tension is 
+peaking, they encounter trouble 
+
+593
+00:27:20,280 --> 00:27:21,920
+on the road. 
+Of course they do. 
+
+594
+00:27:21,920 --> 00:27:24,080
+It's the old Svalich Rd. 
+What happens? 
+
+595
+00:27:24,120 --> 00:27:27,840
+3 Ragged strangers approach from
+the east look like peasants 
+
+596
+00:27:27,840 --> 00:27:31,120
+limping, begging for silver. 
+OK, classic encounter setup. 
+
+597
+00:27:31,360 --> 00:27:33,480
+What's their story? 
+They claim their villages are 
+
+598
+00:27:33,480 --> 00:27:36,720
+being tormented by war creatures
+and they need silver to make 
+
+599
+00:27:36,720 --> 00:27:40,200
+weapons or tools. 
+Were creatures interesting given
+
+600
+00:27:40,200 --> 00:27:43,640
+their allies are were Ravens? 
+How does the party respond? 
+
+601
+00:27:43,960 --> 00:27:47,080
+They warn them off Falaki tell 
+them it's no sanctuary now 
+
+602
+00:27:47,240 --> 00:27:51,240
+describe watchers new rules. 
+The fear basically don't go 
+
+603
+00:27:51,240 --> 00:27:52,760
+there. 
+Seems reasonable. 
+
+604
+00:27:53,640 --> 00:27:54,960
+How do the peasants take the 
+news? 
+
+605
+00:27:55,000 --> 00:27:57,680
+Their gratitude curdles like 
+sour milk. 
+
+606
+00:27:57,680 --> 00:28:00,360
+Their faces twist and then 
+transformation. 
+
+607
+00:28:00,600 --> 00:28:01,920
+Oh no, they're the word 
+creatures. 
+
+608
+00:28:01,920 --> 00:28:05,200
+Yep, right before the party's 
+eyes, bones cracking, fur 
+
+609
+00:28:05,200 --> 00:28:08,600
+tearing through flesh, they turn
+into werewolves, wolves with 
+
+610
+00:28:08,600 --> 00:28:12,880
+human eyes and human hunger. 
+Ambush A brutal, horrifying 
+
+611
+00:28:12,880 --> 00:28:14,720
+transformation scene right there
+on the road. 
+
+612
+00:28:15,120 --> 00:28:18,040
+Danger really is everywhere. 
+Off in disguise. 
+
+613
+00:28:18,040 --> 00:28:20,280
+Absolutely shatters any illusion
+of safety. 
+
+614
+00:28:20,520 --> 00:28:23,560
+Adrian and Dag immediately 
+react, whip the horses, yell 
+
+615
+00:28:23,680 --> 00:28:25,920
+run, trying to get the wagon out
+of there. 
+
+616
+00:28:26,000 --> 00:28:29,640
+But the adventurers do they run.
+Not this group. 
+
+617
+00:28:29,800 --> 00:28:33,160
+They stand their ground. 
+Sarn's axe flares with divine 
+
+618
+00:28:33,160 --> 00:28:36,240
+light, Radley brings up his 
+blade and arcane shield. 
+
+619
+00:28:36,480 --> 00:28:40,880
+Dermons rapier flashes, tracks 
+it or unleashes radiant bolts. 
+
+620
+00:28:41,120 --> 00:28:44,560
+It's immediate pitched combat 
+under that pale sky. 
+
+621
+00:28:44,720 --> 00:28:47,320
+Fur and claw versus steel and 
+holy magic. 
+
+622
+00:28:47,360 --> 00:28:50,200
+How does the fight go? 
+They managed to take down to of 
+
+623
+00:28:50,200 --> 00:28:52,840
+the werewolves. 
+Steel and Sanctity win the day 
+
+624
+00:28:52,840 --> 00:28:55,480
+against two of them. 
+Their bodies fall onto the road.
+
+625
+00:28:55,600 --> 00:28:56,880
+But you said there were three, 
+right? 
+
+626
+00:28:57,200 --> 00:29:00,240
+The third one slips away, 
+transforms fully into a wolf, 
+
+627
+00:29:00,240 --> 00:29:03,200
+just melts into the forest, 
+vanishes like a phantom among 
+
+628
+00:29:03,200 --> 00:29:05,360
+the trees, gets away. 
+OK, so. 
+
+629
+00:29:05,960 --> 00:29:09,520
+A partial victory, but a 
+reminder of constant danger and 
+
+630
+00:29:09,520 --> 00:29:13,200
+another loose end, potentially. 
+This whole encounter just 
+
+631
+00:29:13,200 --> 00:29:14,920
+hammers home the peril, doesn't 
+it? 
+
+632
+00:29:14,920 --> 00:29:17,560
+Even a simple journey is life 
+threatening, and it highlights 
+
+633
+00:29:17,560 --> 00:29:21,000
+that growing rift with their 
+allies forced by their own grim 
+
+634
+00:29:21,000 --> 00:29:22,920
+choices. 
+What are they becoming? 
+
+635
+00:29:23,400 --> 00:29:25,720
+That's the question that echoes 
+as they continue on. 
+
+636
+00:29:26,080 --> 00:29:29,000
+So as we wrap up this deep dive,
+where do things stand? 
+
+637
+00:29:29,000 --> 00:29:31,440
+The wine barrels are still 
+creaking towards Kresk, a new 
+
+638
+00:29:31,440 --> 00:29:34,120
+destination, but zero guarantees
+of safety. 
+
+639
+00:29:34,360 --> 00:29:36,720
+Henrik's skull is still in 
+Surin's pack, isn't it? 
+
+640
+00:29:37,120 --> 00:29:40,200
+Dripping, Probably a heavy, 
+gruesome reminder of their 
+
+641
+00:29:40,200 --> 00:29:43,240
+choices, The darkness they're 
+wading through, maybe even 
+
+642
+00:29:43,240 --> 00:29:44,560
+embracing. 
+Absolutely. 
+
+643
+00:29:44,600 --> 00:29:49,480
+And the bones of Satin drawl 
+still lost, maybe being used for
+
+644
+00:29:49,480 --> 00:29:51,880
+something horrible back in 
+Valaki or Raven Loft. 
+
+645
+00:29:52,080 --> 00:29:55,040
+An unresolved quest. 
+A lingering threat among many. 
+
+646
+00:29:55,160 --> 00:29:59,160
+Meanwhile, Lady Walker rules 
+Valaki firmly in Stroud's name. 
+
+647
+00:29:59,560 --> 00:30:02,600
+Her tyranny is just the newest 
+layer of oppression, proving how
+
+648
+00:30:02,600 --> 00:30:05,240
+quickly things can get worse, 
+even in Barovia. 
+
+649
+00:30:05,320 --> 00:30:07,640
+And Stroud himself, he just 
+waits. 
+
+650
+00:30:08,120 --> 00:30:10,960
+Patient has the grave. 
+His dinner table is still set, 
+
+651
+00:30:10,960 --> 00:30:12,400
+metaphorically, or maybe 
+literally. 
+
+652
+00:30:12,400 --> 00:30:16,000
+His invitation, his power, it 
+just hangs over everything, 
+
+653
+00:30:16,000 --> 00:30:19,600
+silent, pervasive. 
+In Borovia, the fog always hide 
+
+654
+00:30:19,600 --> 00:30:21,680
+something nasty. 
+The sun is never quite bright 
+
+655
+00:30:21,680 --> 00:30:22,560
+enough. 
+Never. 
+
+656
+00:30:22,720 --> 00:30:24,200
+So it leaves us with this 
+thought, doesn't it? 
+
+657
+00:30:24,200 --> 00:30:27,400
+What does it really mean for 
+people for heroes to actively 
+
+658
+00:30:27,400 --> 00:30:29,240
+fight an evil that seems all 
+powerful? 
+
+659
+00:30:29,320 --> 00:30:31,480
+Especially when you know every 
+step forward might just be 
+
+660
+00:30:31,480 --> 00:30:33,600
+tightening the news, trapping 
+you further in its web. 
+
+661
+00:30:33,920 --> 00:30:37,640
+And maybe more importantly, how 
+much of yourself, your own 
+
+662
+00:30:37,640 --> 00:30:40,640
+humanity, are you willing to 
+carve away piece by piece, just 
+
+663
+00:30:40,640 --> 00:30:44,480
+to survive in a land that 
+demands so much sacrifice but 
+
+664
+00:30:44,480 --> 00:30:47,720
+offers so little hope? 
+Yeah, it makes you consider 
+
+665
+00:30:47,720 --> 00:30:49,440
+those impossible choices, 
+doesn't it? 
+
+666
+00:30:49,440 --> 00:30:52,160
+And when your whole world is 
+twisted by something truly 
+
+667
+00:30:52,160 --> 00:30:55,160
+malevolent, can you even win 
+without losing a fundamental 
+
+668
+00:30:55,160 --> 00:30:56,560
+part of who you are in the 
+fight? 
+
+669
+00:30:56,560 --> 00:30:58,240
+It's a heavy question to leave 
+you with.
+

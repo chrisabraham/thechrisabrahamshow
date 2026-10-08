@@ -1,0 +1,2885 @@
+1
+00:00:00,040 --> 00:00:03,120
+Welcome to the deep dive. 
+This is where we take a whole 
+
+2
+00:00:03,120 --> 00:00:07,200
+stack of sources, research 
+sometimes conflicting ideas, and
+
+3
+00:00:07,200 --> 00:00:09,720
+really try to boil them down to 
+what you need to know to make 
+
+4
+00:00:09,720 --> 00:00:12,760
+sense of things. 
+That's the goal, and today we're
+
+5
+00:00:12,760 --> 00:00:15,400
+tackling something pretty 
+fundamental, I think, about how 
+
+6
+00:00:15,400 --> 00:00:18,120
+many of us view America. 
+Yeah, definitely. 
+
+7
+00:00:18,280 --> 00:00:21,160
+We have this image, right? 
+The US as this, you know, 
+
+8
+00:00:21,320 --> 00:00:24,120
+vibrant tapestry, maybe a 
+melting pot or a beautiful 
+
+9
+00:00:24,120 --> 00:00:27,040
+mosaic, This place where all 
+these different cultures just 
+
+10
+00:00:27,040 --> 00:00:30,600
+sort of mingle freely, making 
+everything richer. 
+
+11
+00:00:30,800 --> 00:00:33,560
+It's a powerful image, very 
+comforting. 
+
+12
+00:00:33,560 --> 00:00:35,640
+But what if it's? 
+Well, what if it's not the full 
+
+13
+00:00:35,640 --> 00:00:37,160
+picture? 
+What if that idea, that 
+
+14
+00:00:37,160 --> 00:00:39,600
+comfortable image, is actually 
+hiding something? 
+
+15
+00:00:39,840 --> 00:00:42,680
+Maybe a bit more unsettling. 
+Exactly what if that whole 
+
+16
+00:00:42,680 --> 00:00:47,240
+notion of harmonious pluralism, 
+this kind of effortless mixing, 
+
+17
+00:00:47,520 --> 00:00:49,920
+is just the surface, and 
+underneath there's actually a 
+
+18
+00:00:50,160 --> 00:00:53,520
+much more active, sometimes 
+pretty forceful process going 
+
+19
+00:00:53,520 --> 00:00:54,880
+on? 
+OK, so that's where we're headed
+
+20
+00:00:54,880 --> 00:00:56,440
+today. 
+Yeah, our deep dive today is 
+
+21
+00:00:56,440 --> 00:00:59,120
+going to unpack a really 
+provocative idea from our 
+
+22
+00:00:59,120 --> 00:01:01,960
+sources, pluralism and the 
+Dremel. 
+
+23
+00:01:01,960 --> 00:01:03,600
+Pluralism and the Dremel. 
+OK. 
+
+24
+00:01:03,840 --> 00:01:05,120
+And it's not just a catchy 
+phrase. 
+
+25
+00:01:05,319 --> 00:01:07,400
+It's meant as a pretty precise 
+metaphor. 
+
+26
+00:01:07,960 --> 00:01:11,680
+It suggests that what America 
+calls pluralism is often this 
+
+27
+00:01:11,680 --> 00:01:15,200
+continuous, sometimes subtle, 
+but sometimes, you know, kind of
+
+28
+00:01:15,200 --> 00:01:18,480
+brutal process of, well, forced 
+assimilation. 
+
+29
+00:01:18,480 --> 00:01:20,400
+Right. 
+So forced assimilation, hiding 
+
+30
+00:01:20,400 --> 00:01:23,280
+behind the idea of pluralism. 
+Let's really get into that 
+
+31
+00:01:23,280 --> 00:01:24,800
+because the implications are 
+huge. 
+
+32
+00:01:24,800 --> 00:01:27,640
+You really are. 
+So our mission here is to really
+
+33
+00:01:27,640 --> 00:01:29,640
+grapple with this Dremel 
+metaphor. 
+
+34
+00:01:29,800 --> 00:01:33,680
+What does it actually mean? 
+How does it change how we think 
+
+35
+00:01:33,680 --> 00:01:36,840
+about pluralism and maybe even 
+how we understand something like
+
+36
+00:01:36,840 --> 00:01:38,880
+racism in the US? 
+Absolutely. 
+
+37
+00:01:39,160 --> 00:01:41,400
+We'll look at historical 
+examples, see how it plays out 
+
+38
+00:01:41,400 --> 00:01:45,520
+today, and maybe challenge some 
+some deeply held assumptions you
+
+39
+00:01:45,520 --> 00:01:49,280
+might have about culture, 
+identity, power, all of that. 
+
+40
+00:01:49,320 --> 00:01:51,760
+OK, so listeners, be prepared. 
+This might shift your 
+
+41
+00:01:51,760 --> 00:01:53,520
+perspective a bit. 
+It might. 
+
+42
+00:01:53,800 --> 00:01:56,920
+We're hoping to offer some 
+perhaps surprising, maybe even 
+
+43
+00:01:56,920 --> 00:01:59,920
+uncomfortable insights into how 
+all this stuff, culture, 
+
+44
+00:01:59,920 --> 00:02:03,480
+identity, power really interacts
+here, looking beyond that 
+
+45
+00:02:03,480 --> 00:02:05,560
+idealized picture. 
+All right, let's dive in. 
+
+46
+00:02:05,800 --> 00:02:09,560
+The core argument, as our source
+puts it, is American pluralism 
+
+47
+00:02:09,560 --> 00:02:14,400
+as hegemony plus flavor. 
+Hegemony plus flavor, yeah, and 
+
+48
+00:02:14,400 --> 00:02:16,480
+right away that challenge is the
+usual. 
+
+49
+00:02:16,720 --> 00:02:20,560
+More romantic view doesn't. 
+It it does so the base culture, 
+
+50
+00:02:20,640 --> 00:02:23,920
+the hegemon is defined as well, 
+hamburgers and apple pie. 
+
+51
+00:02:24,080 --> 00:02:25,640
+Right. 
+And obviously that's not just 
+
+52
+00:02:25,640 --> 00:02:29,320
+about food. 
+It represents the dominant, sort
+
+53
+00:02:29,320 --> 00:02:34,360
+of unchanging core of American 
+identity values, norms, the 
+
+54
+00:02:34,360 --> 00:02:37,720
+default setting if you like. 
+The default setting OK and then 
+
+55
+00:02:37,720 --> 00:02:39,880
+pluralism comes in as the 
+flavor. 
+
+56
+00:02:39,880 --> 00:02:42,880
+Exactly. 
+Pluralism in this model allows 
+
+57
+00:02:42,880 --> 00:02:46,000
+for these sort of superficial 
+additions, cosmetic changes 
+
+58
+00:02:46,000 --> 00:02:48,040
+almost. 
+The source says you can add hot 
+
+59
+00:02:48,040 --> 00:02:50,200
+sauce, paprika, cardamom, 
+turmeric. 
+
+60
+00:02:50,480 --> 00:02:53,640
+Or swap in a Turkey Patty if 
+your religion forbids beef. 
+
+61
+00:02:54,520 --> 00:02:55,960
+OK, I see. 
+So these are the bits of 
+
+62
+00:02:55,960 --> 00:02:58,280
+diversity that are OK, even 
+celebrated sometimes. 
+
+63
+00:02:58,280 --> 00:03:00,920
+Yeah, they're tolerated, even 
+welcomed as sort of vibrant 
+
+64
+00:03:00,920 --> 00:03:03,120
+additions like seasoning you 
+sprinkle on top of the main 
+
+65
+00:03:03,120 --> 00:03:04,600
+dish. 
+But, and this sounds like the 
+
+66
+00:03:04,600 --> 00:03:07,120
+crucial part, there's a 
+boundary, an unspoken line. 
+
+67
+00:03:07,200 --> 00:03:09,600
+A very important one. 
+The source stresses that even 
+
+68
+00:03:09,600 --> 00:03:12,120
+with these added flavors, the 
+key thing is that the dish is 
+
+69
+00:03:12,120 --> 00:03:16,400
+still recognizably American. 
+It's still fundamentally that 
+
+70
+00:03:16,400 --> 00:03:19,360
+hamburger and apple pie. 
+So anything that tries to go 
+
+71
+00:03:19,360 --> 00:03:22,680
+beyond just adding flavor, like 
+trying to make a totally 
+
+72
+00:03:22,680 --> 00:03:25,240
+different dish or live by 
+different rules. 
+
+73
+00:03:25,320 --> 00:03:28,960
+That's precisely it. 
+That attempt to make a wholly 
+
+74
+00:03:28,960 --> 00:03:32,440
+different recipe to live by a 
+different set of rules that gets
+
+75
+00:03:32,440 --> 00:03:35,720
+defined explicitly as non 
+compliance. 
+
+76
+00:03:36,080 --> 00:03:39,560
+It's basically saying we like 
+your spices but don't mess with 
+
+77
+00:03:39,560 --> 00:03:42,120
+the core recipe. 
+And America, the source says, 
+
+78
+00:03:42,120 --> 00:03:44,480
+has never had much patience for 
+non compliance. 
+
+79
+00:03:44,800 --> 00:03:47,000
+Not much at all. 
+And that's where the Dremel 
+
+80
+00:03:47,000 --> 00:03:50,880
+starts grinding this whole idea.
+It really reframes pluralism, 
+
+81
+00:03:50,880 --> 00:03:52,720
+doesn't it? 
+It's not this transformative 
+
+82
+00:03:52,720 --> 00:03:55,680
+process where cultures truly 
+blend and change each. 
+
+83
+00:03:55,680 --> 00:03:57,840
+Other no, it's just additive. 
+You can add things, but you 
+
+84
+00:03:57,840 --> 00:03:59,480
+can't change the bass. 
+Exactly. 
+
+85
+00:03:59,680 --> 00:04:04,200
+And the aha moment here for you 
+listening, is realizing that the
+
+86
+00:04:04,200 --> 00:04:07,840
+whole promise of American 
+pluralism, often sold as this 
+
+87
+00:04:07,840 --> 00:04:10,920
+wide open, inclusive thing, 
+might actually be built with 
+
+88
+00:04:10,920 --> 00:04:12,760
+these inherent limits baked 
+right in. 
+
+89
+00:04:13,040 --> 00:04:16,160
+The welcome mat is out, but only
+if you don't track mud on the 
+
+90
+00:04:16,160 --> 00:04:18,959
+hamburger and apple pie carpet. 
+That's a good way to put it. 
+
+91
+00:04:18,959 --> 00:04:21,279
+It challenges that idealized 
+view right from the start. 
+
+92
+00:04:21,519 --> 00:04:25,040
+OK, And this leads to an even 
+more provocative idea, maybe 
+
+93
+00:04:25,040 --> 00:04:29,520
+even unsettling, that what we 
+often call racism is actually 
+
+94
+00:04:29,520 --> 00:04:31,680
+the sound of this Dremel 
+grinding. 
+
+95
+00:04:31,680 --> 00:04:33,120
+Yeah, this. 
+Is a really key part of the 
+
+96
+00:04:33,120 --> 00:04:35,640
+argument the source makes this 
+controversial claim. 
+
+97
+00:04:35,920 --> 00:04:39,880
+What people call racism often 
+isn't just animus or prejudice. 
+
+98
+00:04:40,040 --> 00:04:43,560
+Though that exists too, it adds,
+it's important to say individual
+
+99
+00:04:43,560 --> 00:04:45,080
+hate is real. 
+Absolutely. 
+
+100
+00:04:45,080 --> 00:04:48,360
+The source acknowledges that. 
+Explicit bias, hatred, that's 
+
+101
+00:04:48,360 --> 00:04:51,520
+definitely part of the picture. 
+But it argues that a lot of what
+
+102
+00:04:51,520 --> 00:04:53,520
+gets labeled racism is something
+else. 
+
+103
+00:04:53,880 --> 00:04:56,000
+It is the grinding sound of the 
+Dremel. 
+
+104
+00:04:56,400 --> 00:04:58,240
+So what is that grinding 
+exactly? 
+
+105
+00:04:58,240 --> 00:05:01,080
+How does the Dremel work? 
+The source explains it like 
+
+106
+00:05:01,080 --> 00:05:04,160
+this. 
+America is relentless in sanding
+
+107
+00:05:04,160 --> 00:05:07,320
+down edges, rounding off 
+corners, polishing difference 
+
+108
+00:05:07,600 --> 00:05:09,360
+until it can be sold back to you
+as flavor. 
+
+109
+00:05:09,400 --> 00:05:11,240
+Wow. 
+Relentless sanding. 
+
+110
+00:05:11,240 --> 00:05:13,120
+That's a powerful image. 
+It is. 
+
+111
+00:05:13,120 --> 00:05:15,200
+It suggests it's not always 
+about conscious hate from 
+
+112
+00:05:15,200 --> 00:05:18,560
+individuals, but more like the 
+intended function of a societal 
+
+113
+00:05:18,560 --> 00:05:20,720
+machine. 
+It's the systematic process 
+
+114
+00:05:20,720 --> 00:05:25,360
+where anything considered too 
+different just gets smoothed out
+
+115
+00:05:25,400 --> 00:05:29,120
+incrementally until it fits. 
+And the source uses a pretty 
+
+116
+00:05:29,120 --> 00:05:32,800
+stark analogy for this, right? 
+That dark joke, Yeah. 
+
+117
+00:05:32,800 --> 00:05:36,440
+It draws a direct parallel. 
+The phrase that best captures it
+
+118
+00:05:36,680 --> 00:05:40,200
+is the old dark joke. 
+The beatings will continue until
+
+119
+00:05:40,200 --> 00:05:45,000
+morale improves, and here the 
+source says it's not physical 
+
+120
+00:05:45,000 --> 00:05:48,520
+beatings, but the sanding will 
+continue until you comply. 
+
+121
+00:05:49,560 --> 00:05:52,760
+It really drives home this idea 
+of an unyielding, almost 
+
+122
+00:05:52,840 --> 00:05:55,960
+inescapable pressure to conform.
+It makes you think about how 
+
+123
+00:05:55,960 --> 00:05:58,040
+that pressure feels. 
+And that's where the perspective
+
+124
+00:05:58,040 --> 00:06:00,440
+really matters. 
+The source points out that for 
+
+125
+00:06:00,680 --> 00:06:03,920
+the communities being ground, 
+this whole process feels like 
+
+126
+00:06:03,920 --> 00:06:07,600
+racism because it comes in the 
+form of punishment, exclusion, 
+
+127
+00:06:07,600 --> 00:06:09,640
+hostility. 
+That's their lived reality of 
+
+128
+00:06:09,640 --> 00:06:11,760
+the Dremel, this constant 
+pressure that feels like an 
+
+129
+00:06:11,760 --> 00:06:12,640
+attack. 
+Right. 
+
+130
+00:06:12,800 --> 00:06:14,920
+But, and this is crucial for 
+understanding the whole picture,
+
+131
+00:06:14,920 --> 00:06:17,400
+from the Hegemon's point of 
+view, it's simply the machinery 
+
+132
+00:06:17,400 --> 00:06:20,640
+of assimilation doing its work. 
+So from the dominant cultures 
+
+133
+00:06:20,640 --> 00:06:23,680
+perspective, it's not 
+necessarily malice, it's just 
+
+134
+00:06:24,280 --> 00:06:26,800
+maintaining order, integrating 
+people. 
+
+135
+00:06:26,960 --> 00:06:29,760
+Pretty much. 
+It's seen as ensuring cohesion, 
+
+136
+00:06:29,760 --> 00:06:32,560
+bringing new elements into 
+what's perceived as the sort of 
+
+137
+00:06:32,560 --> 00:06:35,000
+natural, correct way things 
+should be. 
+
+138
+00:06:35,320 --> 00:06:37,720
+A necessary function, not 
+necessarily a punishment. 
+
+139
+00:06:37,720 --> 00:06:41,200
+So this redefinition, it gives 
+us a systemic lens, doesn't it, 
+
+140
+00:06:41,240 --> 00:06:43,640
+Instead of just looking at 
+individual prejudice? 
+
+141
+00:06:43,640 --> 00:06:46,240
+Exactly. 
+It encourages you, the listener,
+
+142
+00:06:46,600 --> 00:06:50,760
+to think beyond just finding 
+individual bad guys and to 
+
+143
+00:06:50,760 --> 00:06:54,280
+consider how institutions, 
+societal expectations, even 
+
+144
+00:06:54,280 --> 00:06:56,840
+subtle cultural norms are the 
+Dremel. 
+
+145
+00:06:57,040 --> 00:07:00,880
+These forces, not just overt 
+hate, might be the root of a lot
+
+146
+00:07:00,880 --> 00:07:03,360
+of what we call racism. 
+It suggests it's often the 
+
+147
+00:07:03,360 --> 00:07:06,320
+system itself operating as 
+designed, producing conformity. 
+
+148
+00:07:06,400 --> 00:07:09,960
+It shifts the focus from who is 
+grinding to what the grinding 
+
+149
+00:07:09,960 --> 00:07:13,680
+machine is and how it works. 
+It's less about individual moral
+
+150
+00:07:13,680 --> 00:07:17,080
+failure and more about the kind 
+of automatic operation of this 
+
+151
+00:07:17,080 --> 00:07:18,320
+cultural. 
+Machine. 
+
+152
+00:07:18,360 --> 00:07:21,280
+A machine built to maintain a 
+certain kind of sameness. 
+
+153
+00:07:21,360 --> 00:07:24,000
+It's this drive within the 
+system to keep its order, its 
+
+154
+00:07:24,000 --> 00:07:26,240
+core identity. 
+That's why it can feel so 
+
+155
+00:07:26,240 --> 00:07:28,520
+relentless. 
+And this machine, this Dremel, 
+
+156
+00:07:28,520 --> 00:07:31,040
+it's not new, is it? 
+The historical record seems to 
+
+157
+00:07:31,040 --> 00:07:32,920
+show this has been going on for 
+a long time. 
+
+158
+00:07:33,160 --> 00:07:35,160
+Oh yeah, the source is very 
+clear. 
+
+159
+00:07:35,680 --> 00:07:37,920
+We've been running this machine 
+for centuries. 
+
+160
+00:07:38,560 --> 00:07:40,360
+It's baked into the American 
+project. 
+
+161
+00:07:40,440 --> 00:07:43,800
+So let's look at that history. 
+Ellis Island is often the image 
+
+162
+00:07:43,800 --> 00:07:46,560
+that comes to mind. 
+Maybe a bit romanticized. 
+
+163
+00:07:46,840 --> 00:07:49,320
+Definitely romanticized. 
+It was a new start, sure, but 
+
+164
+00:07:49,320 --> 00:07:52,040
+immigrants weren't just welcomed
+with open arms, the source says.
+
+165
+00:07:52,040 --> 00:07:54,960
+They were often herded into 
+Americanization schools. 
+
+166
+00:07:54,960 --> 00:07:57,320
+Herded not invited. 
+Right. 
+
+167
+00:07:57,400 --> 00:08:00,720
+And this was direct, explicit 
+assimilation, compulsory. 
+
+168
+00:08:01,160 --> 00:08:03,040
+The curriculum was all about 
+conformity. 
+
+169
+00:08:03,040 --> 00:08:06,520
+They learned English, studied 
+civics, and were instructed to 
+
+170
+00:08:06,520 --> 00:08:09,240
+drop their old ways. 
+Drop their old ways. 
+
+171
+00:08:09,240 --> 00:08:12,520
+Not just learn new ones, but 
+actively discard the old. 
+
+172
+00:08:12,520 --> 00:08:14,680
+Exactly. 
+It wasn't just about practical 
+
+173
+00:08:14,680 --> 00:08:16,640
+skills. 
+It was about adopting a new 
+
+174
+00:08:16,640 --> 00:08:19,680
+identity, shedding the past. 
+You know, things like hygiene 
+
+175
+00:08:19,680 --> 00:08:21,880
+lessons that subtly frame 
+traditional practices as 
+
+176
+00:08:21,880 --> 00:08:25,920
+backward, or civics lessons that
+presented this one idealized 
+
+177
+00:08:25,920 --> 00:08:28,960
+American identity, often 
+dismissing their own heritage. 
+
+178
+00:08:29,040 --> 00:08:31,000
+And this pressure wasn't just in
+schools, right? 
+
+179
+00:08:31,160 --> 00:08:33,200
+It's out in society, too. 
+Absolutely. 
+
+180
+00:08:33,720 --> 00:08:37,120
+The source gives examples like 
+the No Irish need apply signs. 
+
+181
+00:08:37,120 --> 00:08:40,000
+Which weren't just prejudice. 
+They were pressure, economic 
+
+182
+00:08:40,000 --> 00:08:43,360
+pressure, social pressure, a 
+tool of the Dremel, basically 
+
+183
+00:08:43,360 --> 00:08:46,440
+pushing Irish immigrants to 
+Americanize. 
+
+184
+00:08:46,880 --> 00:08:50,800
+Lose the accent, change the 
+habits just to get a job to be 
+
+185
+00:08:50,800 --> 00:08:52,800
+accepted. 
+It wasn't just discrimination, 
+
+186
+00:08:52,800 --> 00:08:55,040
+it was active shaping. 
+Active shaping. 
+
+187
+00:08:55,280 --> 00:08:57,320
+Italians were told to shorten 
+their names. 
+
+188
+00:08:57,560 --> 00:08:59,560
+Jews were pressured to lose the 
+Yiddish. 
+
+189
+00:08:59,760 --> 00:09:02,640
+Poles were encouraged to leave 
+the old country at the dock. 
+
+190
+00:09:02,880 --> 00:09:05,800
+These were strong societal 
+demands with real consequences 
+
+191
+00:09:06,000 --> 00:09:08,480
+if you didn't comply. 
+So historically, the Dremel was 
+
+192
+00:09:08,480 --> 00:09:12,960
+often pretty explicit, forceful,
+not much room for genuine 
+
+193
+00:09:12,960 --> 00:09:15,080
+cultural difference beyond the 
+superficial. 
+
+194
+00:09:15,080 --> 00:09:17,160
+Very little. 
+It really set a pattern early 
+
+195
+00:09:17,160 --> 00:09:18,800
+on. 
+Difference would be sanded down 
+
+196
+00:09:18,800 --> 00:09:21,160
+until it fit the mole. 
+It was an active, often quite 
+
+197
+00:09:21,160 --> 00:09:23,480
+harsh process. 
+And this didn't stop after the 
+
+198
+00:09:23,480 --> 00:09:26,080
+early waves of immigration. 
+The Dremel kept working, 
+
+199
+00:09:26,080 --> 00:09:29,680
+sometimes in ways that looked, 
+well, beneficial on the surface,
+
+200
+00:09:29,680 --> 00:09:31,840
+like the post World War 2 era. 
+Right. 
+
+201
+00:09:31,840 --> 00:09:35,080
+The GI Bill, hugely important 
+legislation, transformed 
+
+202
+00:09:35,080 --> 00:09:37,320
+millions of lives for the 
+better, no question. 
+
+203
+00:09:37,320 --> 00:09:40,320
+But the source argues it also 
+acted as another Dremel tool, 
+
+204
+00:09:40,680 --> 00:09:42,680
+more subtle this time. 
+Exactly. 
+
+205
+00:09:42,920 --> 00:09:47,440
+Subtle but systemic pressure, 
+the GI Bill helped put millions 
+
+206
+00:09:47,440 --> 00:09:50,360
+of veterans into tract homes and
+suburban ranches. 
+
+207
+00:09:50,480 --> 00:09:52,520
+Which sounds like the American 
+Dream. 
+
+208
+00:09:52,560 --> 00:09:55,480
+It was, but the source makes a 
+key point. 
+
+209
+00:09:56,040 --> 00:09:58,520
+This wasn't because it 
+celebrated difference, but 
+
+210
+00:09:58,520 --> 00:10:01,280
+because it hammered everyone 
+into the same middle class mold.
+
+211
+00:10:01,400 --> 00:10:03,920
+Hammered them into a mold? 
+How so? 
+
+212
+00:10:03,920 --> 00:10:08,120
+We'll think about that post war 
+boom, rising economy, mass media
+
+213
+00:10:08,120 --> 00:10:12,440
+growing, a big cultural push for
+uniformity, the suburban house, 
+
+214
+00:10:12,560 --> 00:10:15,200
+the nuclear family, buying 
+consumer goods. 
+
+215
+00:10:16,040 --> 00:10:19,000
+That became the ideal. 
+The GI Bill gave people the 
+
+216
+00:10:19,000 --> 00:10:22,920
+money to achieve that ideal. 
+So it created this strong pull 
+
+217
+00:10:22,920 --> 00:10:25,800
+towards one specific way of 
+life, regardless of where your 
+
+218
+00:10:25,800 --> 00:10:28,120
+family came. 
+From a very strong pull, the 
+
+219
+00:10:28,120 --> 00:10:31,160
+goal was still uniformity. 
+Even in prosperity you could 
+
+220
+00:10:31,160 --> 00:10:33,560
+still have some limited 
+pluralism maybe. 
+
+221
+00:10:33,600 --> 00:10:36,160
+Like the hyphenated American, a 
+Polish, American, Italian. 
+
+222
+00:10:36,400 --> 00:10:38,680
+Yeah, you could be Polish 
+American or Italian American or 
+
+223
+00:10:38,680 --> 00:10:40,480
+Irish American. 
+Maybe keep some traditions at 
+
+224
+00:10:40,480 --> 00:10:44,440
+home, but crucially, your kids 
+went to the same schools, play 
+
+225
+00:10:44,440 --> 00:10:46,960
+baseball on the same teams, and 
+watch the same sitcoms. 
+
+226
+00:10:47,160 --> 00:10:50,080
+Your heritage became more like a
+private thing, not something 
+
+227
+00:10:50,080 --> 00:10:52,760
+that changed how you 
+participated in public life. 
+
+228
+00:10:52,760 --> 00:10:55,680
+Exactly. 
+It was ethnicity as an add on a 
+
+229
+00:10:55,680 --> 00:10:58,680
+flavor. 
+The source repeats the metaphor.
+
+230
+00:10:59,200 --> 00:11:03,120
+Pluralism was tolerated only as 
+a seasoning on top of the 
+
+231
+00:11:03,120 --> 00:11:05,520
+hamburger. 
+So even positive government 
+
+232
+00:11:05,520 --> 00:11:07,880
+programs could serve the 
+assimilation machine. 
+
+233
+00:11:07,880 --> 00:11:11,240
+Intentionally or not, yeah, it 
+shows how pervasive the drummel 
+
+234
+00:11:11,240 --> 00:11:12,920
+is. 
+Not always through force, but 
+
+235
+00:11:12,920 --> 00:11:16,240
+through incentives, social 
+norms, creating this widely 
+
+236
+00:11:16,240 --> 00:11:18,320
+accepted path. 
+It's not always malicious. 
+
+237
+00:11:18,560 --> 00:11:20,840
+Sometimes it's just the system 
+encouraging a certain kind of 
+
+238
+00:11:20,840 --> 00:11:23,000
+cohesion, whatever the cultural 
+cost. 
+
+239
+00:11:23,120 --> 00:11:26,200
+Now, to really understand 
+America's specific way of doing 
+
+240
+00:11:26,200 --> 00:11:29,360
+this, the source brings in a 
+comparison with Germany, which 
+
+241
+00:11:29,360 --> 00:11:31,000
+is really fascinating it. 
+Really is. 
+
+242
+00:11:31,160 --> 00:11:34,280
+The author talks about living in
+Germany under Angela Merkel and 
+
+243
+00:11:34,280 --> 00:11:38,240
+experiencing their very 
+different model of assimilation,
+
+244
+00:11:38,640 --> 00:11:40,560
+much more explicit. 
+Explicit how? 
+
+245
+00:11:40,600 --> 00:11:43,280
+Well, to get residency, the 
+author had to attend state-run 
+
+246
+00:11:43,280 --> 00:11:44,960
+German classes and civics 
+lessons. 
+
+247
+00:11:45,360 --> 00:11:47,640
+No beating around the Bush, the 
+requirements were clear. 
+
+248
+00:11:48,080 --> 00:11:49,840
+Learn the language to be 1 
+level. 
+
+249
+00:11:49,840 --> 00:11:52,640
+Study the laws and prove that 
+you understood the rules of the 
+
+250
+00:11:52,640 --> 00:11:54,440
+House. 
+Prove you understood the rules 
+
+251
+00:11:54,440 --> 00:11:56,200
+of the House. 
+It sounds very direct. 
+
+252
+00:11:56,280 --> 00:11:58,320
+Very direct. 
+It wasn't about appreciating 
+
+253
+00:11:58,320 --> 00:12:02,200
+culture, it was about measurable
+integration into German public 
+
+254
+00:12:02,200 --> 00:12:04,160
+life. 
+And Merkel was apparently quite 
+
+255
+00:12:04,160 --> 00:12:07,240
+open about the goals. 
+Remarkably so, the source 
+
+256
+00:12:07,240 --> 00:12:09,680
+mentioned. 
+She admitted that the point was 
+
+257
+00:12:09,680 --> 00:12:12,520
+partly to get women from 
+conservative Muslim households 
+
+258
+00:12:12,720 --> 00:12:15,480
+away from their husbands and 
+into rooms where the state could
+
+259
+00:12:15,480 --> 00:12:17,840
+teach them that in Germany they 
+had rights. 
+
+260
+00:12:18,360 --> 00:12:23,120
+Wow, so a very clear, almost 
+paternalistic goal stated right 
+
+261
+00:12:23,120 --> 00:12:25,400
+out loud. 
+Blunt, paternalistic, but 
+
+262
+00:12:25,400 --> 00:12:27,720
+honest. 
+As the source puts it, you are 
+
+263
+00:12:27,720 --> 00:12:29,680
+here. 
+You must learn to be German, 
+
+264
+00:12:29,880 --> 00:12:31,440
+even if only in the public 
+square. 
+
+265
+00:12:31,560 --> 00:12:34,680
+Even if only in public. 
+But even after doing all that, 
+
+266
+00:12:34,680 --> 00:12:38,120
+learning the language, the laws,
+there was still a line. 
+
+267
+00:12:38,120 --> 00:12:39,800
+A very clear line, the author 
+says. 
+
+268
+00:12:40,000 --> 00:12:41,800
+Germans would still never call 
+me German. 
+
+269
+00:12:41,880 --> 00:12:44,120
+I had German residency, not 
+German blood. 
+
+270
+00:12:44,320 --> 00:12:46,880
+I could follow every rule and 
+still only be a foreigner who 
+
+271
+00:12:46,880 --> 00:12:49,400
+happened to live there. 
+So a fundamental difference 
+
+272
+00:12:49,400 --> 00:12:52,880
+between belonging based on rules
+versus belonging based on 
+
+273
+00:12:53,240 --> 00:12:56,240
+bloodline essentially. 
+Exactly, and the source lands a 
+
+274
+00:12:56,240 --> 00:12:59,080
+pretty heavy punchline on this. 
+That's what an ethnostate looks 
+
+275
+00:12:59,080 --> 00:13:00,640
+like when it pretends to be 
+pluralist. 
+
+276
+00:13:01,240 --> 00:13:04,760
+Woof. 
+OK, so using Germany as this 
+
+277
+00:13:04,760 --> 00:13:08,160
+contrast really highlights 
+America's method, doesn't it? 
+
+278
+00:13:08,560 --> 00:13:11,800
+Germany is overt upfront about 
+the rules. 
+
+279
+00:13:12,000 --> 00:13:14,280
+America. 
+America's more subtle, more 
+
+280
+00:13:14,280 --> 00:13:16,560
+indirect. 
+And that comparison makes you 
+
+281
+00:13:16,560 --> 00:13:20,400
+wonder, you know, which way is 
+more honest or more effective, 
+
+282
+00:13:20,400 --> 00:13:22,640
+even? 
+And what does it mean for people
+
+283
+00:13:22,640 --> 00:13:24,240
+trying to belong in either 
+place? 
+
+284
+00:13:24,240 --> 00:13:26,200
+It does seem like there's more 
+than one way to run the 
+
+285
+00:13:26,200 --> 00:13:30,040
+assimilation machine. 
+Germany's is like a hammer, very
+
+286
+00:13:30,040 --> 00:13:31,720
+obvious. 
+Well, America's is more 
+
+287
+00:13:32,240 --> 00:13:35,840
+diffused, embedded in the 
+culture itself. 
+
+288
+00:13:35,920 --> 00:13:37,400
+Harder to see maybe, but still 
+working. 
+
+289
+00:13:37,520 --> 00:13:39,600
+So how does America do it 
+differently then, if not 
+
+290
+00:13:39,600 --> 00:13:42,680
+compulsory classes? 
+The source says America works 
+
+291
+00:13:42,680 --> 00:13:44,600
+differently. 
+We don't tell you outright that 
+
+292
+00:13:44,600 --> 00:13:47,680
+the sanding will continue. 
+No explicit mandates usually. 
+
+293
+00:13:47,800 --> 00:13:50,080
+So what's the tool? 
+Sitcoms and pop culture. 
+
+294
+00:13:50,400 --> 00:13:52,360
+That's the chosen medium, 
+according to the source. 
+
+295
+00:13:52,440 --> 00:13:55,560
+It points specifically to Norman
+Lear's big shows in the 70s. 
+
+296
+00:13:55,560 --> 00:13:58,200
+All in the Family, The 
+Jeffersons Welcome back, Carter.
+
+297
+00:13:58,320 --> 00:14:01,280
+Those iconic shows as 
+assimilation tools. 
+
+298
+00:14:01,640 --> 00:14:04,760
+As soft propaganda, yeah. 
+The argument is they were 
+
+299
+00:14:04,760 --> 00:14:08,400
+cleverly designed to show 
+mainstream of America that, you 
+
+300
+00:14:08,400 --> 00:14:12,000
+know, immigrants and minorities 
+could be funny, lovable, little 
+
+301
+00:14:12,000 --> 00:14:14,480
+quirky. 
+But ultimately harmless and 
+
+302
+00:14:14,480 --> 00:14:17,280
+assimilated. 
+OK, I can kind of see that. 
+
+303
+00:14:17,360 --> 00:14:19,920
+They presented a version of 
+diversity that was easy to 
+
+304
+00:14:19,920 --> 00:14:22,640
+digest that didn't really 
+challenge the underlying 
+
+305
+00:14:22,640 --> 00:14:24,520
+structure. 
+It's strange to think of those 
+
+306
+00:14:24,520 --> 00:14:27,240
+shows which felt groundbreaking 
+in some ways as part of the 
+
+307
+00:14:27,240 --> 00:14:29,040
+Dremel, but let's take the 
+examples. 
+
+308
+00:14:29,040 --> 00:14:30,880
+Welcome back Cotter and the 
+Swathogs. 
+
+309
+00:14:30,880 --> 00:14:35,240
+Right, diverse group seemed 
+rebellious, but the source says 
+
+310
+00:14:35,240 --> 00:14:37,680
+they weren't revolutionaries. 
+They were just rough around the 
+
+311
+00:14:37,680 --> 00:14:40,240
+edge as kids on their way to 
+becoming ordinary Americans. 
+
+312
+00:14:40,240 --> 00:14:43,800
+Their differences were sort of 
+charming flaws on the way to 
+
+313
+00:14:43,800 --> 00:14:46,200
+fitting in, getting sanded down 
+through the story. 
+
+314
+00:14:46,240 --> 00:14:48,720
+Pretty much the rough edges were
+meant to be polished off. 
+
+315
+00:14:48,800 --> 00:14:52,720
+Or look at The Jeffersons moving
+on up to that deluxe apartment 
+
+316
+00:14:52,720 --> 00:14:55,120
+in the sky. 
+Yeah, that wasn't shown as 
+
+317
+00:14:55,160 --> 00:14:58,040
+overturning the system. 
+It was framed as proof that 
+
+318
+00:14:58,040 --> 00:15:01,280
+upward mobility worked. 
+Their success validated the 
+
+319
+00:15:01,280 --> 00:15:03,400
+American Dream within the 
+existing system. 
+
+320
+00:15:03,520 --> 00:15:06,440
+So it wasn't about changing the 
+rules, but winning by the 
+
+321
+00:15:06,440 --> 00:15:08,080
+existing rules. 
+Exactly. 
+
+322
+00:15:08,080 --> 00:15:11,160
+Even Archie Bunker's Bigotry and
+All in the Family, it was often 
+
+323
+00:15:11,160 --> 00:15:13,880
+played for laughs. 
+Which, the source argues, was a 
+
+324
+00:15:13,880 --> 00:15:17,320
+way of teaching America to 
+tolerate difference as long as 
+
+325
+00:15:17,320 --> 00:15:19,640
+it fit inside the sitcom set 
+right. 
+
+326
+00:15:19,960 --> 00:15:22,880
+Difference became part of the 
+comedy, not a real threat to the
+
+327
+00:15:22,880 --> 00:15:24,960
+way things were. 
+So the Dremel works through 
+
+328
+00:15:24,960 --> 00:15:28,440
+stories, through culture, 
+shaping how we see things, what 
+
+329
+00:15:28,440 --> 00:15:32,800
+we expect, what we aim for, 
+without any government orders. 
+
+330
+00:15:32,800 --> 00:15:35,440
+It's the incredible power of 
+entertainment as an assimilation
+
+331
+00:15:35,440 --> 00:15:37,840
+tool. 
+The grinding doesn't feel like 
+
+332
+00:15:37,840 --> 00:15:40,160
+punishment. 
+It feels like humor, or success,
+
+333
+00:15:40,160 --> 00:15:43,840
+or just life unfolding. 
+It makes conforming seem normal,
+
+334
+00:15:43,840 --> 00:15:46,400
+even desirable. 
+The path of least resistance is 
+
+335
+00:15:46,400 --> 00:15:48,320
+made to look like the most 
+appealing path. 
+
+336
+00:15:48,440 --> 00:15:52,120
+That's the soft power of it. 
+These stories reinforce that 
+
+337
+00:15:52,120 --> 00:15:55,800
+fitting in leads to acceptance. 
+Success, being too different, is
+
+338
+00:15:55,800 --> 00:15:59,480
+presented as well, either 
+temporary or a problem. 
+
+339
+00:16:00,040 --> 00:16:03,120
+The Dremel becomes a set of 
+unspoken rules guiding us. 
+
+340
+00:16:03,280 --> 00:16:05,440
+But the grinding is still 
+happening today, right? 
+
+341
+00:16:05,440 --> 00:16:08,280
+Though maybe the germels target 
+has changed. 
+
+342
+00:16:08,480 --> 00:16:10,520
+It seems so. 
+The source draws a sharp 
+
+343
+00:16:10,520 --> 00:16:14,560
+contrast between those 70 
+sitcoms and today's pop culture.
+
+344
+00:16:16,200 --> 00:16:18,960
+Back then you saw modest 
+apartments, dads with union 
+
+345
+00:16:18,960 --> 00:16:20,880
+jobs, a reachable middle class 
+life. 
+
+346
+00:16:21,000 --> 00:16:23,800
+Now. 
+Now we see penthouses, we see 
+
+347
+00:16:23,800 --> 00:16:26,480
+influencers and billionaires. 
+The whole aspirational picture 
+
+348
+00:16:26,480 --> 00:16:29,200
+is different. 
+That's a huge shift, yeah. 
+
+349
+00:16:29,200 --> 00:16:32,280
+How does that affect the Dremel,
+the assimilation process? 
+
+350
+00:16:32,280 --> 00:16:35,320
+Well, the source argues, pop 
+culture no longer sells modest 
+
+351
+00:16:35,320 --> 00:16:36,960
+assimilation. 
+It sells fantasies. 
+
+352
+00:16:37,080 --> 00:16:39,440
+Fanties. 
+Yeah, think about the old 
+
+353
+00:16:39,440 --> 00:16:42,440
+American Dream. 
+Chicken in every pot and a car 
+
+354
+00:16:42,440 --> 00:16:44,960
+in every driveway. 
+Maybe hard work, but seem 
+
+355
+00:16:45,080 --> 00:16:47,240
+possible for many. 
+Attainable stability. 
+
+356
+00:16:47,400 --> 00:16:50,720
+OK, and the new dream. 
+The new dream is private jets, 
+
+357
+00:16:50,720 --> 00:16:52,960
+villas in Tulum and Kardashian 
+lifestyles. 
+
+358
+00:16:53,400 --> 00:16:56,040
+It's not just a higher bar, it's
+a totally different planet, a 
+
+359
+00:16:56,040 --> 00:16:59,560
+fantasy endpoint with, as the 
+source says, no ladder, no 
+
+360
+00:16:59,560 --> 00:17:01,200
+staircase to get there for most 
+people. 
+
+361
+00:17:01,200 --> 00:17:04,000
+It's completely detached from 
+reality for almost everyone. 
+
+362
+00:17:04,000 --> 00:17:06,359
+Exactly. 
+And that has a huge impact. 
+
+363
+00:17:06,520 --> 00:17:09,920
+Immigrants who maybe used to see
+a path, steady job, house, 
+
+364
+00:17:10,119 --> 00:17:12,480
+better life for the kids. 
+Now look at these media 
+
+365
+00:17:12,480 --> 00:17:15,160
+fantasies and assimilation feels
+like a cruel joke. 
+
+366
+00:17:15,520 --> 00:17:18,119
+The promised land looks like a 
+gated community they can't even 
+
+367
+00:17:18,119 --> 00:17:20,280
+approach. 
+Right, but it's not just 
+
+368
+00:17:20,280 --> 00:17:23,880
+immigrants feeling this way. 
+The source notes the natives to 
+
+369
+00:17:23,880 --> 00:17:26,800
+feel like failures if they only 
+achieve what used to be 
+
+370
+00:17:26,800 --> 00:17:30,120
+considered success. 
+Just having a decent job and a 
+
+371
+00:17:30,120 --> 00:17:33,240
+house can feel like falling 
+short compared to the fantasy. 
+
+372
+00:17:33,280 --> 00:17:36,080
+So the Dremel has raised the 
+stakes for everybody. 
+
+373
+00:17:36,320 --> 00:17:38,840
+That's the argument. 
+The hegemon hasn't stopped 
+
+374
+00:17:38,840 --> 00:17:42,280
+grinding, it's just raised the 
+bar so high that assimilation 
+
+375
+00:17:42,280 --> 00:17:46,000
+feels like a cruel joke. 
+The target is now so elusive it 
+
+376
+00:17:46,000 --> 00:17:49,000
+creates this widespread 
+disillusionment, this feeling of
+
+377
+00:17:49,000 --> 00:17:51,880
+inadequacy. 
+The assimilation process feels 
+
+378
+00:17:51,880 --> 00:17:55,800
+less like opportunity and more 
+like punishment or just 
+
+379
+00:17:55,800 --> 00:17:57,920
+impossible. 
+An impossible burden chasing a 
+
+380
+00:17:57,920 --> 00:17:59,960
+mirage. 
+The friction is still there, 
+
+381
+00:17:59,960 --> 00:18:02,800
+maybe even worse because the 
+goal posts have moved into outer
+
+382
+00:18:02,800 --> 00:18:05,040
+space. 
+It leads to this deep sense of 
+
+383
+00:18:05,040 --> 00:18:07,320
+frustration, I think. 
+OK, now here's a twist. 
+
+384
+00:18:07,400 --> 00:18:10,280
+Something that looks like less 
+Dremel action, but might 
+
+385
+00:18:10,280 --> 00:18:13,280
+actually trigger a backlash. 
+The source talks about 
+
+386
+00:18:13,280 --> 00:18:16,200
+settlement pluralism. 
+Yeah, this is really interesting
+
+387
+00:18:16,200 --> 00:18:19,280
+complex development that the 
+source says has creeped in. 
+
+388
+00:18:19,360 --> 00:18:21,920
+What does that look like? 
+It describes communities where 
+
+389
+00:18:21,920 --> 00:18:25,640
+people can live 80 years without
+ever speaking fluent English. 80
+
+390
+00:18:25,640 --> 00:18:26,680
+years. 
+Wow. 
+
+391
+00:18:26,720 --> 00:18:29,800
+Yeah, and it's possible because 
+there's an infrastructure. 
+
+392
+00:18:30,160 --> 00:18:34,080
+Services get translated into 
+human Spanish, Mandarin. 
+
+393
+00:18:34,560 --> 00:18:37,680
+Kids can even go through school 
+taking tests in their parents 
+
+394
+00:18:37,680 --> 00:18:39,400
+language. 
+So you can maintain a whole 
+
+395
+00:18:39,400 --> 00:18:43,120
+life, raise kids in your own 
+language and cultural context. 
+
+396
+00:18:43,120 --> 00:18:46,560
+Pretty much creating these very 
+self-contained cultural world 
+
+397
+00:18:46,560 --> 00:18:49,360
+within the larger society. 
+So instead of the melting pot. 
+
+398
+00:18:49,560 --> 00:18:51,800
+The source says we've drifted 
+into a patchwork quilt of 
+
+399
+00:18:51,800 --> 00:18:54,000
+settlements. 
+Which on the surface sounds 
+
+400
+00:18:54,000 --> 00:18:56,440
+tolerant, right? 
+Like the opposite of the Dremel.
+
+401
+00:18:56,600 --> 00:18:58,600
+More accommodation, less 
+assimilation it. 
+
+402
+00:18:58,720 --> 00:19:01,200
+Definitely only feels tolerant 
+and it often comes from a 
+
+403
+00:19:01,200 --> 00:19:04,920
+genuine desire for cultural 
+preservation, community support,
+
+404
+00:19:05,400 --> 00:19:06,640
+but. 
+There's a but. 
+
+405
+00:19:06,760 --> 00:19:09,600
+There's a warning, the source 
+argues, that while it feels 
+
+406
+00:19:09,600 --> 00:19:13,440
+tolerant, it might also erode 
+the shared civic culture that 
+
+407
+00:19:13,440 --> 00:19:16,480
+makes pluralism work. 
+Meaning without some common 
+
+408
+00:19:16,480 --> 00:19:19,560
+ground, things fall apart. 
+That's the concern. 
+
+409
+00:19:19,880 --> 00:19:24,000
+Without some baseline of 
+hamburgers and apple pie, some 
+
+410
+00:19:24,000 --> 00:19:27,160
+shared foundation, the risk is 
+fragmentation. 
+
+411
+00:19:27,440 --> 00:19:31,520
+The source uses a strong word. 
+If the baseline is gone, what's 
+
+412
+00:19:31,520 --> 00:19:34,840
+left is Balkanization. 
+Balkanization. 
+
+413
+00:19:34,840 --> 00:19:36,880
+That sounds serious. 
+What does that mean here? 
+
+414
+00:19:36,880 --> 00:19:39,600
+Why is that the worry? 
+It refers to society breaking 
+
+415
+00:19:39,600 --> 00:19:43,280
+down into smaller, isolated, 
+often mutually suspicious or 
+
+416
+00:19:43,280 --> 00:19:46,240
+even hostile groups, like the 
+historical conflicts in the 
+
+417
+00:19:46,240 --> 00:19:48,840
+Balkans. 
+The fear is that if different 
+
+418
+00:19:48,840 --> 00:19:51,880
+groups become too separate, lose
+that shared language, shared 
+
+419
+00:19:51,880 --> 00:19:54,040
+values, basic understanding of 
+each other. 
+
+420
+00:19:54,040 --> 00:19:57,560
+Society itself becomes unstable,
+harder to govern, harder to 
+
+421
+00:19:57,560 --> 00:19:59,080
+cooperate. 
+Exactly. 
+
+422
+00:19:59,160 --> 00:20:02,000
+Mutual suspicion grows. 
+National cohesion phrase. 
+
+423
+00:20:02,640 --> 00:20:05,000
+And here's the kicker, the 
+warning about the Dremel and 
+
+424
+00:20:05,000 --> 00:20:06,600
+when the hegemon finally 
+notices. 
+
+425
+00:20:06,600 --> 00:20:08,720
+Then the dominant culture feels 
+threatened by this 
+
+426
+00:20:08,720 --> 00:20:10,800
+fragmentation. 
+Won't come with sitcom laugh 
+
+427
+00:20:10,800 --> 00:20:12,240
+tracks, it'll come with Law and 
+Order. 
+
+428
+00:20:12,240 --> 00:20:15,400
+The Grinding Dremel all over 
+again, but harsher this time. 
+
+429
+00:20:16,000 --> 00:20:17,440
+Wow. 
+So the argument is, 
+
+430
+00:20:17,440 --> 00:20:20,280
+paradoxically, that too much 
+separation, even if 
+
+431
+00:20:20,280 --> 00:20:22,720
+well-intentioned, could trigger 
+a more aggressive Dremel 
+
+432
+00:20:22,720 --> 00:20:25,160
+crackdown. 
+If the dominant culture feels 
+
+433
+00:20:25,160 --> 00:20:30,280
+its core identity, its baseline,
+is genuinely at risk, Yeah, the 
+
+434
+00:20:30,280 --> 00:20:34,040
+response could be severe, moving
+from soft cultural pressure to 
+
+435
+00:20:34,040 --> 00:20:37,200
+overt enforcement. 
+It's a really complex dynamic, a
+
+436
+00:20:37,200 --> 00:20:40,840
+kind of precarious balance. 
+It suggests there's this maybe 
+
+437
+00:20:40,840 --> 00:20:43,680
+unacknowledged tension. 
+If the dominant culture feels 
+
+438
+00:20:43,680 --> 00:20:46,680
+things have gone too far, the 
+assimilation machine might react
+
+439
+00:20:46,680 --> 00:20:49,040
+forcefully. 
+The Dremel becomes a hammer. 
+
+440
+00:20:49,160 --> 00:20:52,440
+And the source is very clear 
+about which group has felt this 
+
+441
+00:20:52,440 --> 00:20:55,520
+Dremel most consistently, most 
+relentlessly. 
+
+442
+00:20:55,560 --> 00:20:58,560
+Painfully clear. 
+No group knows this better than 
+
+443
+00:20:58,560 --> 00:21:01,120
+African Americans. 400 years 
+later. 
+
+444
+00:21:01,120 --> 00:21:04,280
+The grinding hasn't stopped 
+because full compliance has 
+
+445
+00:21:04,280 --> 00:21:08,080
+never been achieved. 400 years. 
+It's the ultimate tragic example
+
+446
+00:21:08,080 --> 00:21:09,920
+of the Dremel's persistence. 
+It really is. 
+
+447
+00:21:09,920 --> 00:21:12,720
+You can trace the Dremel through
+literally every phase of African
+
+448
+00:21:12,720 --> 00:21:15,240
+American history. 
+Reconstruction after the Civil 
+
+449
+00:21:15,240 --> 00:21:18,160
+War, trying to integrate 
+formerly enslaved people, but 
+
+450
+00:21:18,160 --> 00:21:21,400
+often through restrictive Black 
+codes limiting their rights. 
+
+451
+00:21:21,400 --> 00:21:25,080
+Then Jim Crow. 
+The most brutal, explicit Dremel
+
+452
+00:21:25,120 --> 00:21:29,240
+imaginable. 
+Segregation, violence, economic 
+
+453
+00:21:29,240 --> 00:21:31,840
+control. 
+All designed to sand down any 
+
+454
+00:21:31,840 --> 00:21:35,080
+hope of equality, forcing black 
+Americans into a subordinate 
+
+455
+00:21:35,080 --> 00:21:36,640
+role. 
+Even the civil rights movement. 
+
+456
+00:21:36,800 --> 00:21:38,440
+A powerful push against the 
+Dremel? 
+
+457
+00:21:38,440 --> 00:21:41,760
+Absolutely, but met with 
+ferocious Dremel backlash, 
+
+458
+00:21:41,760 --> 00:21:45,680
+resistance, violence, new forms 
+of control, and the source 
+
+459
+00:21:45,680 --> 00:21:48,760
+points to mass incarceration 
+today as another form. 
+
+460
+00:21:48,800 --> 00:21:51,360
+Another manifestation of the 
+Dremel disproportionately 
+
+461
+00:21:51,360 --> 00:21:54,560
+impacting black communities 
+maintaining a kind of order 
+
+462
+00:21:54,560 --> 00:21:55,200
+through. 
+Punishing. 
+
+463
+00:21:55,200 --> 00:21:56,720
+Exactly. 
+The source sums it up. 
+
+464
+00:21:56,840 --> 00:22:00,800
+It's been sometimes brutal, 
+sometimes paternalistic, always 
+
+465
+00:22:00,800 --> 00:22:03,400
+sanding toward compliance. 
+And there's that heartbreaking 
+
+466
+00:22:03,400 --> 00:22:06,280
+reason why the grinding never 
+stops, why full compliance is 
+
+467
+00:22:06,280 --> 00:22:09,080
+never seen as achieved. 
+The unsandable factor. 
+
+468
+00:22:09,080 --> 00:22:10,800
+Skin color color can't be sanded
+down. 
+
+469
+00:22:11,240 --> 00:22:14,120
+That simple profound fact. 
+This visible immutable 
+
+470
+00:22:14,120 --> 00:22:16,280
+difference means full 
+assimilation to the white 
+
+471
+00:22:16,280 --> 00:22:19,640
+hegemonic ideal is impossible. 
+It creates this permanent 
+
+472
+00:22:19,640 --> 00:22:22,040
+friction. 
+The Dremel can never finish its 
+
+473
+00:22:22,040 --> 00:22:24,120
+work. 
+So what is tolerated then within
+
+474
+00:22:24,120 --> 00:22:27,000
+this framework? 
+Flavor, The source says the 
+
+475
+00:22:27,000 --> 00:22:29,720
+hegemon tolerates Black 
+churches, Black History Month, 
+
+476
+00:22:29,720 --> 00:22:33,360
+Black pride as flavor. 
+Things that are seen as cultural
+
+477
+00:22:33,360 --> 00:22:36,000
+additions, not fundamental 
+challenges to the core. 
+
+478
+00:22:36,040 --> 00:22:38,480
+Right, they enrich the disc 
+without changing the basic 
+
+479
+00:22:38,480 --> 00:22:40,880
+recipe. 
+But, and this is the stark 
+
+480
+00:22:40,880 --> 00:22:44,080
+warning, but the moment 
+blackness asserts itself as a 
+
+481
+00:22:44,080 --> 00:22:46,920
+separate civic code. 
+As something autonomous, self 
+
+482
+00:22:46,920 --> 00:22:49,760
+determining, not just fitting 
+into the hegemon's rules. 
+
+483
+00:22:49,920 --> 00:22:52,760
+The beatings continue until 
+morale improves. 
+
+484
+00:22:52,760 --> 00:22:55,840
+The Dremel cracks down hard. 
+It's the most potent example of 
+
+485
+00:22:55,840 --> 00:22:59,080
+the Dremel's power, where race 
+prevents full assimilation, 
+
+486
+00:22:59,200 --> 00:23:01,960
+leading to this endless cycle of
+friction and enforcement. 
+
+487
+00:23:02,560 --> 00:23:06,560
+So thinking about all this, how 
+does it change how we define 
+
+488
+00:23:06,560 --> 00:23:09,680
+racism itself in America? 
+The source says it's. 
+
+489
+00:23:09,680 --> 00:23:11,640
+Slippery. 
+It is slippery, and the source 
+
+490
+00:23:11,640 --> 00:23:15,600
+asks, is it hatred? 
+Sometimes, yes, it fully 
+
+491
+00:23:15,600 --> 00:23:18,880
+acknowledges that individual 
+hate exists and is racism. 
+
+492
+00:23:19,640 --> 00:23:22,920
+But more often, it argues, 
+racism is the sound of forced 
+
+493
+00:23:22,920 --> 00:23:26,000
+compliance, the endless sanding 
+down of people who refuse to 
+
+494
+00:23:26,000 --> 00:23:28,920
+comply with the hegemons rules. 
+Which leads to that striking 
+
+495
+00:23:28,920 --> 00:23:31,920
+conclusion. 
+What gets called racism is often
+
+496
+00:23:31,920 --> 00:23:34,400
+just hegemony enforcing its 
+laws. 
+
+497
+00:23:34,800 --> 00:23:39,040
+Hegemony enforcing its laws, not
+necessarily personal hate, but 
+
+498
+00:23:39,040 --> 00:23:40,800
+the system maintaining its 
+order. 
+
+499
+00:23:40,840 --> 00:23:43,920
+It reframes racism as often 
+being a systemic function of 
+
+500
+00:23:43,920 --> 00:23:47,080
+power, almost bureaucratic in a 
+chilling way. 
+
+501
+00:23:47,520 --> 00:23:49,720
+And that explains the different 
+perspectives, doesn't it? 
+
+502
+00:23:49,840 --> 00:23:53,400
+From the outside, from the group
+being round down, it feels like 
+
+503
+00:23:53,400 --> 00:23:56,280
+hostility, aggression, 
+exclusion. 
+
+504
+00:23:56,400 --> 00:23:59,160
+Absolutely. 
+But from the inside, from the 
+
+505
+00:23:59,160 --> 00:24:02,320
+perspective of the dominant 
+system, those sane actions can 
+
+506
+00:24:02,320 --> 00:24:05,080
+feel like order, like 
+maintaining necessary 
+
+507
+00:24:05,080 --> 00:24:08,520
+boundaries, keeping things 
+cohesive, upholding the norms. 
+
+508
+00:24:08,720 --> 00:24:11,400
+It's a powerful summary. 
+It really pushes you, the 
+
+509
+00:24:11,400 --> 00:24:14,160
+listener, to look beyond 
+individual acts and see the 
+
+510
+00:24:14,160 --> 00:24:15,840
+structure of the machine at 
+work. 
+
+511
+00:24:16,040 --> 00:24:18,480
+To see that the grind might not 
+always stem from individual 
+
+512
+00:24:18,480 --> 00:24:21,800
+malice, but from the system's 
+fundamental drive to maintain 
+
+513
+00:24:21,800 --> 00:24:23,640
+itself, to keep the recipe 
+consistent. 
+
+514
+00:24:23,920 --> 00:24:25,840
+The Dremel is just doing what it
+was built for. 
+
+515
+00:24:25,960 --> 00:24:28,840
+OK, so let's crystallize what 
+American pluralism is not, 
+
+516
+00:24:28,840 --> 00:24:31,520
+according to this source says 
+very clearly it is not 
+
+517
+00:24:31,520 --> 00:24:34,200
+multiculturalism. 
+Right, that's often how we think
+
+518
+00:24:34,200 --> 00:24:36,320
+of it, but the source rejects 
+that. 
+
+519
+00:24:36,520 --> 00:24:40,920
+It's not about truly separate 
+cultures coexisting equally and 
+
+520
+00:24:40,920 --> 00:24:44,440
+independently. 
+And it's also not a federation 
+
+521
+00:24:44,440 --> 00:24:47,160
+of parallel systems, not 
+different groups operating 
+
+522
+00:24:47,160 --> 00:24:50,520
+totally on their own term. 
+No, it comes back again to that 
+
+523
+00:24:50,520 --> 00:24:54,520
+core metaphor. 
+It is hamburgers and apple pie 
+
+524
+00:24:54,560 --> 00:24:56,640
+with whatever spice you sprinkle
+on top. 
+
+525
+00:24:57,080 --> 00:24:58,840
+That's the limit. 
+So you can be proud of your 
+
+526
+00:24:58,840 --> 00:25:01,320
+background, have festivals, 
+food. 
+
+527
+00:25:01,320 --> 00:25:03,400
+Yes, you can be proud of your 
+heritage. 
+
+528
+00:25:03,400 --> 00:25:06,000
+You can have your parades and 
+your food and your festivals. 
+
+529
+00:25:06,200 --> 00:25:08,520
+Those are the acceptable flavor 
+elements. 
+
+530
+00:25:08,520 --> 00:25:10,400
+The things that don't challenge 
+the core. 
+
+531
+00:25:10,640 --> 00:25:13,400
+You can celebrate your roots, 
+but they can't spread too far 
+
+532
+00:25:13,400 --> 00:25:15,320
+into the public square. 
+That's the idea. 
+
+533
+00:25:15,600 --> 00:25:17,360
+It really defines the boundaries
+clearly. 
+
+534
+00:25:17,360 --> 00:25:21,400
+It's integration into and 
+decoration of the dominant 
+
+535
+00:25:21,400 --> 00:25:23,880
+culture, not separate spheres. 
+And that leads us to the bottom 
+
+536
+00:25:23,880 --> 00:25:26,040
+line, the unspoken deal of 
+American. 
+
+537
+00:25:26,040 --> 00:25:27,320
+Pluralism. 
+The contract, correct? 
+
+538
+00:25:27,320 --> 00:25:29,120
+Yeah. 
+But when you step into the 
+
+539
+00:25:29,120 --> 00:25:32,440
+public square, you are expected 
+to play by the hegemons rules. 
+
+540
+00:25:32,680 --> 00:25:35,640
+That's the core requirement, the
+price of admission to broader 
+
+541
+00:25:35,640 --> 00:25:38,120
+society. 
+And that grinding sound? 
+
+542
+00:25:38,200 --> 00:25:41,520
+The Dremel isn't an accident. 
+It's not a bug, it's a feature. 
+
+543
+00:25:41,560 --> 00:25:44,360
+Exactly, The source states it 
+bluntly. 
+
+544
+00:25:44,720 --> 00:25:47,680
+That is the deal, and the 
+grinding sound you hear when you
+
+545
+00:25:47,680 --> 00:25:51,280
+resist is not an accident. 
+It's the machine doing exactly 
+
+546
+00:25:51,280 --> 00:25:54,520
+what it was built to do. 
+Wow, not an accident, but the 
+
+547
+00:25:54,520 --> 00:25:57,680
+machine working as designed. 
+Powerful. 
+
+548
+00:25:57,680 --> 00:25:59,800
+Maybe unsettling. 
+Final thought. 
+
+549
+00:26:00,240 --> 00:26:04,120
+It suggests the friction isn't 
+random, it's engineered, and it 
+
+550
+00:26:04,120 --> 00:26:07,000
+really makes you, the listener, 
+think about your own place in 
+
+551
+00:26:07,000 --> 00:26:08,920
+this deal. 
+How do you navigate it? 
+
+552
+00:26:08,920 --> 00:26:12,200
+What does it mean to live 
+inside, or maybe push against? 
+
+553
+00:26:12,480 --> 00:26:14,760
+This isn't built like this. 
+What a journey through this 
+
+554
+00:26:14,760 --> 00:26:16,720
+idea. 
+We've really unpacked this 
+
+555
+00:26:16,720 --> 00:26:19,840
+pluralism in the Dremel 
+metaphor, how what looks like 
+
+556
+00:26:19,840 --> 00:26:22,200
+diversity celebration can 
+actually be this relentless 
+
+557
+00:26:22,200 --> 00:26:24,440
+grinding down of difference into
+just. 
+
+558
+00:26:25,160 --> 00:26:27,080
+And how that changes our view of
+racism. 
+
+559
+00:26:27,080 --> 00:26:30,200
+Not just hate, but often the 
+sound of the system enforcing 
+
+560
+00:26:30,200 --> 00:26:33,520
+compliance, keeping that 
+hamburger and apple pie base 
+
+561
+00:26:33,520 --> 00:26:35,760
+intact. 
+We saw it in history, compared 
+
+562
+00:26:35,760 --> 00:26:38,280
+it to Germany, looked at how pop
+culture plays a role, the 
+
+563
+00:26:38,280 --> 00:26:41,240
+complexities of settlement 
+pluralism and the profound 
+
+564
+00:26:41,240 --> 00:26:43,960
+ongoing grind experienced by 
+African Americans. 
+
+565
+00:26:44,160 --> 00:26:48,120
+The public square has its rules,
+its deal, and the Dremel is the 
+
+566
+00:26:48,160 --> 00:26:50,200
+enforcer. 
+So it leaves us with a big 
+
+567
+00:26:50,200 --> 00:26:53,120
+question, doesn't it? 
+If this Dremel is the machine 
+
+568
+00:26:53,120 --> 00:26:56,400
+doing exactly what it was built 
+to do, what does that really 
+
+569
+00:26:56,400 --> 00:26:59,320
+tell us about the fundamental 
+design, the true goals of 
+
+570
+00:26:59,320 --> 00:27:02,120
+American Society? 
+And maybe more personally, for 
+
+571
+00:27:02,120 --> 00:27:05,320
+all of us living here, 
+individuals, communities, what 
+
+572
+00:27:05,320 --> 00:27:10,080
+does it mean to operate within 
+or maybe to resist a system that
+
+573
+00:27:10,080 --> 00:27:13,480
+seems engineered for these very 
+specific outcomes when it comes 
+
+574
+00:27:13,480 --> 00:27:16,480
+to identity and culture? 
+Something to definitely reflect 
+
+575
+00:27:16,480 --> 00:27:18,120
+on. 
+We hope this deep dive gives you
+
+576
+00:27:18,120 --> 00:27:20,880
+a new lens to think about your 
+own experiences and what you see
+
+577
+00:27:20,880 --> 00:27:22,320
+around you. 
+Thanks for joining us.
+

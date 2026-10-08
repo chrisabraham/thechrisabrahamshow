@@ -1,0 +1,3783 @@
+1
+00:00:00,040 --> 00:00:06,000
+Imagine, if you will, a town 
+just reeling from the echoes of 
+
+2
+00:00:06,000 --> 00:00:09,240
+a recent massacre. 
+Its streets are now eerily 
+
+3
+00:00:09,240 --> 00:00:11,760
+empty. 
+It's old leadership totally 
+
+4
+00:00:11,760 --> 00:00:16,800
+swept away, replaced by the 
+stern, unyielding new authority.
+
+5
+00:00:16,840 --> 00:00:20,520
+Yeah, and there's this thick, 
+pervasive fear hanging in the 
+
+6
+00:00:20,560 --> 00:00:21,840
+air. 
+You know, it's like a constant 
+
+7
+00:00:21,840 --> 00:00:23,760
+companion to every whisper, 
+every shadow. 
+
+8
+00:00:23,880 --> 00:00:25,840
+Exactly. 
+And this isn't just any town. 
+
+9
+00:00:25,840 --> 00:00:29,760
+This is Valaki within its tense,
+almost suffocating confines. 
+
+10
+00:00:29,760 --> 00:00:32,560
+There's this desperate quest 
+unfolding, plans are 
+
+11
+00:00:33,040 --> 00:00:36,800
+spectacularly unraveling, and 
+new destinies are colliding in 
+
+12
+00:00:36,800 --> 00:00:38,600
+ways no one could have possibly 
+predicted. 
+
+13
+00:00:38,600 --> 00:00:41,000
+Right. 
+So today you're joining us for a
+
+14
+00:00:41,000 --> 00:00:44,240
+deep dive into an adventure 
+session so packed with twists 
+
+15
+00:00:44,240 --> 00:00:47,320
+and turns it honestly feels like
+it's been ripped straight from 
+
+16
+00:00:47,320 --> 00:00:50,960
+the pages of some gothic novel. 
+We've been sifting through 
+
+17
+00:00:50,960 --> 00:00:54,040
+message dot TXT which is this 
+really detailed account of a 
+
+18
+00:00:54,040 --> 00:00:57,080
+single intense session to try 
+and uncover the crucial 
+
+19
+00:00:57,200 --> 00:01:00,920
+decisions, the dramatic events 
+and the unfolding mysteries that
+
+20
+00:01:00,920 --> 00:01:02,600
+are shaping these adventures 
+journey. 
+
+21
+00:01:02,800 --> 00:01:06,680
+And our mission really for you 
+is to unpack the intricate 
+
+22
+00:01:06,680 --> 00:01:08,880
+layers of this whole narrative. 
+We're going to try and 
+
+23
+00:01:08,880 --> 00:01:11,960
+illuminate that fascinating, 
+often kind of frustrating 
+
+24
+00:01:11,960 --> 00:01:16,680
+contrast between meticulous 
+planning and, well, absolute 
+
+25
+00:01:16,680 --> 00:01:19,520
+chaotic execution. 
+Right, the best laid plans. 
+
+26
+00:01:19,520 --> 00:01:21,520
+Exactly. 
+And those sudden, almost 
+
+27
+00:01:21,520 --> 00:01:24,960
+whiplash inducing shifts in 
+fortune and the surprising, 
+
+28
+00:01:25,240 --> 00:01:28,600
+often pretty desperate ways new 
+alliances can just pop up in the
+
+29
+00:01:28,600 --> 00:01:30,960
+shadow of this truly ancient 
+evil. 
+
+30
+00:01:31,360 --> 00:01:34,840
+So what happens when our heroes,
+or maybe given the, you know, 
+
+31
+00:01:34,840 --> 00:01:37,720
+morally Gray situations they 
+keep finding themselves in, 
+
+32
+00:01:38,160 --> 00:01:40,760
+maybe our anti heroes have to 
+navigate a world that seems 
+
+33
+00:01:40,800 --> 00:01:43,960
+actively designed to thwart them
+at every single turn? 
+
+34
+00:01:44,000 --> 00:01:45,120
+Yeah. 
+How do they even cope? 
+
+35
+00:01:45,520 --> 00:01:47,840
+All right, with that mission 
+clear, let's dive straight into 
+
+36
+00:01:47,840 --> 00:01:51,320
+Valaki's grim new reality. 
+OK, so we open this session with
+
+37
+00:01:51,320 --> 00:01:54,400
+our surviving adventurers. 
+That's Radley, Traxador, and 
+
+38
+00:01:54,400 --> 00:01:57,040
+Dermont returning to what should
+be a familiar haven. 
+
+39
+00:01:57,040 --> 00:01:58,480
+Right? 
+The Blue Water Inn. 
+
+40
+00:01:58,520 --> 00:02:01,760
+Yeah, they're home base, sorta. 
+But right away, you can just 
+
+41
+00:02:01,760 --> 00:02:06,440
+feel this profound shift in the 
+atmosphere, the tap room, which 
+
+42
+00:02:06,440 --> 00:02:08,400
+they've surely seen bustling 
+before. 
+
+43
+00:02:08,400 --> 00:02:13,840
+Lots of patrons chatter. 
+It's now eerily, uncomfortably 
+
+44
+00:02:13,840 --> 00:02:15,400
+quiet. 
+Completely empty. 
+
+45
+00:02:15,600 --> 00:02:18,440
+And this isn't just like an off 
+night for the local pub. 
+
+46
+00:02:18,440 --> 00:02:22,280
+No, it's a stark symptom of 
+something much deeper, much more
+
+47
+00:02:22,280 --> 00:02:26,000
+chilling, gripping Valaki. 
+Definitely, The source tells us.
+
+48
+00:02:26,000 --> 00:02:28,320
+The townsfolk are basically 
+staying out of sight. 
+
+49
+00:02:28,440 --> 00:02:31,160
+They're scarred, almost 
+traumatized by that recent 
+
+50
+00:02:31,160 --> 00:02:34,040
+massacre during what was 
+supposed to be a celebration, 
+
+51
+00:02:34,240 --> 00:02:37,480
+the Festival of the Blazing Sun.
+Yeah, imagine the silence on the
+
+52
+00:02:37,480 --> 00:02:39,160
+Main Street. 
+Usually you'd hear hawkers, 
+
+53
+00:02:39,160 --> 00:02:41,600
+villagers talking. 
+Yeah, now it's just maybe the 
+
+54
+00:02:41,600 --> 00:02:43,440
+distant clang of a guard 
+patrol's armor. 
+
+55
+00:02:43,440 --> 00:02:45,800
+It's unnerving. 
+The air itself feels colder, 
+
+56
+00:02:45,800 --> 00:02:47,440
+sharper, like fear is just 
+frozen. 
+
+57
+00:02:47,440 --> 00:02:49,440
+Everyone's breath shop windows 
+are shuttered. 
+
+58
+00:02:49,440 --> 00:02:53,160
+Not just closed, but like bolted
+tight almost defensively. 
+
+59
+00:02:53,360 --> 00:02:54,920
+The whole town is holding its 
+breath. 
+
+60
+00:02:55,320 --> 00:02:58,640
+Mirroring how the townsfolk are 
+retreating inward, you know, 
+
+61
+00:02:58,640 --> 00:03:00,880
+maybe peeking out from behind 
+curtains at any sound. 
+
+62
+00:03:01,080 --> 00:03:03,880
+It's not just quiet. 
+It's a town in mourning, gripped
+
+63
+00:03:03,880 --> 00:03:07,080
+by this intense, pervasive fear.
+And the whole political 
+
+64
+00:03:07,080 --> 00:03:10,680
+landscape totally upended. 
+There's a new regime in place. 
+
+65
+00:03:11,080 --> 00:03:13,960
+Valachi's new burger mistress, 
+the town's appointed leader. 
+
+66
+00:03:14,120 --> 00:03:17,240
+She's taken firm, almost 
+autocratic control. 
+
+67
+00:03:17,520 --> 00:03:19,240
+And it's not a gentle 
+transition, is it? 
+
+68
+00:03:19,480 --> 00:03:21,800
+The source calls it a severe 
+crackdown. 
+
+69
+00:03:21,840 --> 00:03:23,800
+Right. 
+Curfews, public spaces, 
+
+70
+00:03:23,800 --> 00:03:25,240
+deserted. 
+Those are the immediate, 
+
+71
+00:03:25,240 --> 00:03:27,840
+tangible results. 
+It fundamentally reshapes 
+
+72
+00:03:27,880 --> 00:03:29,520
+everything about daily life 
+there. 
+
+73
+00:03:30,040 --> 00:03:32,880
+And if that wasn't enough to set
+a somber mood, the source 
+
+74
+00:03:32,880 --> 00:03:35,520
+explicitly mentions the death of
+Soren Ironwood. 
+
+75
+00:03:35,720 --> 00:03:37,800
+We can guess he was a 
+significant character just from 
+
+76
+00:03:37,800 --> 00:03:39,200
+the mention. 
+Yeah, definitely. 
+
+77
+00:03:39,320 --> 00:03:42,080
+And his death happened only 1/2 
+hour before this session even 
+
+78
+00:03:42,080 --> 00:03:43,920
+starts. 
+So they're walking into a 
+
+79
+00:03:43,920 --> 00:03:47,480
+freshly wounded city, still 
+bleeding from recent tragedies, 
+
+80
+00:03:47,480 --> 00:03:50,800
+both public and, for them, 
+probably quite personal with 
+
+81
+00:03:50,800 --> 00:03:52,080
+Soren. 
+It's a heavy start. 
+
+82
+00:03:52,240 --> 00:03:54,720
+You can almost feel the weight 
+on their shoulders as they step 
+
+83
+00:03:54,720 --> 00:03:58,280
+back into that in a stark 
+reminder that the stakes are 
+
+84
+00:03:58,280 --> 00:04:00,320
+just constantly escalating in 
+Borovia. 
+
+85
+00:04:00,360 --> 00:04:03,320
+That half hour detail, it's 
+incredibly potent, isn't it? 
+
+86
+00:04:03,520 --> 00:04:05,920
+It means the immediate past 
+isn't just history. 
+
+87
+00:04:05,920 --> 00:04:10,960
+It's still this raw, open wound,
+A trauma unfolding in real time.
+
+88
+00:04:11,160 --> 00:04:13,240
+Exactly. 
+And it just amplifies that 
+
+89
+00:04:13,240 --> 00:04:16,120
+pervasive mood of fear and 
+unease gripping the town. 
+
+90
+00:04:16,240 --> 00:04:19,399
+We see it concretely curfews, 
+deserted streets. 
+
+91
+00:04:19,480 --> 00:04:21,560
+It's oppressive. 
+You can feel it even just 
+
+92
+00:04:21,560 --> 00:04:24,160
+hearing about it. 
+This new Burga mistress, she's 
+
+93
+00:04:24,160 --> 00:04:27,280
+tightened her grip, right? 
+Strict rules, probably trying to
+
+94
+00:04:27,280 --> 00:04:31,480
+restore order, but maybe 
+inadvertently just layering more
+
+95
+00:04:31,480 --> 00:04:34,720
+fear onto an already terrified 
+population. 
+
+96
+00:04:34,840 --> 00:04:37,840
+And it extends to the people to 
+fundamentally changing the 
+
+97
+00:04:37,840 --> 00:04:40,400
+social fabric. 
+Even Danica, the innkeeper, 
+
+98
+00:04:40,560 --> 00:04:43,120
+someone you'd expect to be, you 
+know, a welcoming face. 
+
+99
+00:04:43,120 --> 00:04:45,760
+Like constant, yeah. 
+Now your regards new arrivals 
+
+100
+00:04:45,760 --> 00:04:49,480
+Cooley, the source, says she's 
+openly suspicious of outsiders. 
+
+101
+00:04:49,480 --> 00:04:52,240
+So it's not just the empty 
+streets, it's this deep shift in
+
+102
+00:04:52,240 --> 00:04:54,920
+human interaction. 
+Every glance, every whispered 
+
+103
+00:04:54,920 --> 00:04:58,640
+word feels way laid down with 
+this new kind of caution. 
+
+104
+00:04:58,640 --> 00:05:02,280
+It immediately sets that tone of
+distrust, a community turning 
+
+105
+00:05:02,280 --> 00:05:05,240
+inward, deeply wary of anything 
+or anyone new. 
+
+106
+00:05:05,440 --> 00:05:08,520
+It's such a stark contrast to 
+what an inn usually represents, 
+
+107
+00:05:08,520 --> 00:05:11,600
+a place of respite, camaraderie.
+Now it's a place of quiet 
+
+108
+00:05:11,600 --> 00:05:13,160
+scrutiny. 
+And that's why it matters so 
+
+109
+00:05:13,160 --> 00:05:16,080
+much for our adventurers, right?
+This new status quo completely 
+
+110
+00:05:16,080 --> 00:05:18,000
+changes how they can operate in 
+balaki. 
+
+111
+00:05:18,160 --> 00:05:20,840
+Absolutely. 
+In a city where every shadow 
+
+112
+00:05:20,840 --> 00:05:24,160
+might hide an informant, where 
+public spaces are watched, where
+
+113
+00:05:24,160 --> 00:05:27,200
+even the innkeeper is 
+suspicious, usual methods 
+
+114
+00:05:27,680 --> 00:05:31,320
+severely compromised. 
+Stealth, discretion, quick 
+
+115
+00:05:31,320 --> 00:05:33,040
+thinking. 
+They're not just useful skills 
+
+116
+00:05:33,040 --> 00:05:36,800
+anymore, they become absolutely 
+essential for survival, just to 
+
+117
+00:05:36,800 --> 00:05:40,920
+achieve any objective without 
+drawing the really severe ire of
+
+118
+00:05:40,920 --> 00:05:43,160
+this new regime. 
+And if you connect this to the 
+
+119
+00:05:43,160 --> 00:05:46,360
+bigger picture, it really 
+highlights how Borovia itself, 
+
+120
+00:05:46,600 --> 00:05:49,920
+through its politics and the 
+fear it instills, actively 
+
+121
+00:05:49,920 --> 00:05:53,160
+constrains and challenges anyone
+trying to change things it. 
+
+122
+00:05:53,160 --> 00:05:55,160
+Forces them to adapt or just get
+crushed. 
+
+123
+00:05:55,160 --> 00:05:58,280
+Yeah, demonstrating that ever 
+present, insidious nature of 
+
+124
+00:05:58,280 --> 00:06:02,160
+Straud's influence, even in 
+seemingly mundane power shifts. 
+
+125
+00:06:02,480 --> 00:06:05,480
+It's actually a very clever way 
+the narrative sets up immediate,
+
+126
+00:06:05,480 --> 00:06:07,760
+tangible stakes for every single
+action they take. 
+
+127
+00:06:08,080 --> 00:06:10,760
+Makes even a simple walk down 
+the street a potential gamble. 
+
+128
+00:06:10,760 --> 00:06:14,040
+So OK, given all that immediate 
+danger, the recent loss, the 
+
+129
+00:06:14,040 --> 00:06:17,080
+tension you can practically 
+taste in Valaki, you'd expect 
+
+130
+00:06:17,080 --> 00:06:20,360
+our companions to be, well, 
+hyper focused on their next 
+
+131
+00:06:20,360 --> 00:06:23,920
+immediate life saving move. 
+You really would Survival mode. 
+
+132
+00:06:24,080 --> 00:06:27,280
+But here's a curious turn, the 
+source tells us they actually 
+
+133
+00:06:27,280 --> 00:06:31,400
+take a moment to pause. 
+Right there, amidst this fresh 
+
+134
+00:06:31,400 --> 00:06:35,000
+trauma and the city's grim 
+reality, they start reminiscing 
+
+135
+00:06:35,000 --> 00:06:37,120
+about Madame Eva's tarot card 
+reading. 
+
+136
+00:06:37,120 --> 00:06:40,360
+Which wasn't recent at all. 
+This is way back early days in 
+
+137
+00:06:40,360 --> 00:06:42,960
+Borovia, a pivotal moment of 
+prophecy. 
+
+138
+00:06:43,200 --> 00:06:47,120
+It's a surprising shift, isn't 
+it, to reflect on destiny amidst
+
+139
+00:06:47,120 --> 00:06:50,000
+such immediate chaos, Almost 
+like they're searching for 
+
+140
+00:06:50,000 --> 00:06:53,600
+meaning, maybe reassurance, in a
+world that feels increasingly 
+
+141
+00:06:53,600 --> 00:06:56,720
+random and hostile. 
+It truly is, and it speaks 
+
+142
+00:06:56,720 --> 00:07:00,280
+volumes about how pervasive fate
+and mysticism are within 
+
+143
+00:07:00,280 --> 00:07:02,840
+Borovia. 
+Even when immediate dangers loom
+
+144
+00:07:02,840 --> 00:07:06,280
+large, those bigger underlying 
+currents of destinies still 
+
+145
+00:07:06,280 --> 00:07:09,720
+occupy their minds like a guy, 
+but also a source of constant 
+
+146
+00:07:09,720 --> 00:07:11,640
+anxiety. 
+That's a very human impulse 
+
+147
+00:07:11,640 --> 00:07:13,440
+though, isn't it? 
+When faced with overwhelming 
+
+148
+00:07:13,440 --> 00:07:14,920
+randomness, you look for 
+patterns. 
+
+149
+00:07:14,920 --> 00:07:16,520
+You want to believe there's a 
+bigger plan? 
+
+150
+00:07:16,560 --> 00:07:17,440
+Definitely. 
+Now. 
+
+151
+00:07:17,440 --> 00:07:21,080
+Derman, interestingly, is noted 
+as being perplexed by this turn 
+
+152
+00:07:21,080 --> 00:07:24,160
+in the conversation, which 
+cleverly reveals he wasn't 
+
+153
+00:07:24,160 --> 00:07:25,760
+actually there for that initial 
+reading. 
+
+154
+00:07:25,760 --> 00:07:26,760
+So. 
+It's a way to fill him in. 
+
+155
+00:07:27,040 --> 00:07:28,720
+Exactly. 
+It's not just a character 
+
+156
+00:07:28,720 --> 00:07:32,440
+detail, it's a narrative device.
+It lets Traxidor and Radley 
+
+157
+00:07:32,440 --> 00:07:35,480
+recount the Vistani woman's 
+fortune telling for his benefit,
+
+158
+00:07:35,760 --> 00:07:39,360
+and by extension, for hours. 
+For you, the listener, it's our 
+
+159
+00:07:39,360 --> 00:07:42,040
+chance to catch up on this 
+crucial piece of back story. 
+
+160
+00:07:42,040 --> 00:07:45,120
+Vital exposition woven pretty 
+seamlessly into the dialogue. 
+
+161
+00:07:45,120 --> 00:07:47,640
+And Radley doesn't just stop 
+there. 
+
+162
+00:07:47,880 --> 00:07:51,920
+He also shares details about 
+Stanamir of Estani, You know, 
+
+163
+00:07:51,920 --> 00:07:54,960
+one of those nomadic people 
+often serving as Strad's eyes 
+
+164
+00:07:54,960 --> 00:07:57,200
+and ears across the land. 
+Right, a complicated 
+
+165
+00:07:57,200 --> 00:07:58,600
+relationship. 
+And how his people's 
+
+166
+00:07:58,600 --> 00:08:00,720
+relationship to Strad was 
+foretold. 
+
+167
+00:08:01,160 --> 00:08:03,560
+So this isn't just simple 
+fortune telling anymore. 
+
+168
+00:08:03,840 --> 00:08:06,960
+It hints at these deep seated, 
+complex loyalties. 
+
+169
+00:08:06,960 --> 00:08:10,880
+Ancient packs, a history binding
+certain groups like the Vistani 
+
+170
+00:08:10,880 --> 00:08:13,120
+directly to the Land's dark 
+overlord. 
+
+171
+00:08:13,480 --> 00:08:16,760
+Often fraught with manipulation,
+maybe even grudging service. 
+
+172
+00:08:17,000 --> 00:08:19,840
+It adds layers, doesn't it, to 
+what might otherwise seem like a
+
+173
+00:08:19,840 --> 00:08:22,760
+straightforward hero's journey. 
+It shows that alliances in 
+
+174
+00:08:22,760 --> 00:08:25,600
+Barovia are rarely simple. 
+They often come with a hidden 
+
+175
+00:08:25,600 --> 00:08:27,880
+cost or some terrible truth 
+attached. 
+
+176
+00:08:28,040 --> 00:08:31,240
+So these prophecies, they're not
+isolated events, they're threads
+
+177
+00:08:31,240 --> 00:08:34,679
+in a much larger tapestry, 
+constantly shaping how they see 
+
+178
+00:08:34,679 --> 00:08:36,799
+things, what they expect. 
+Precisely. 
+
+179
+00:08:37,280 --> 00:08:39,760
+And when they actually look at 
+the cards themselves, we see 
+
+180
+00:08:39,760 --> 00:08:43,520
+this fascinating mix of 
+revelation and continued 
+
+181
+00:08:43,520 --> 00:08:45,480
+mystery. 
+The source says they've already 
+
+182
+00:08:45,480 --> 00:08:47,200
+identified the meaning of the 
+tax collector. 
+
+183
+00:08:47,200 --> 00:08:49,880
+OK, so one down. 
+Yeah, this implies a past 
+
+184
+00:08:49,880 --> 00:08:52,920
+success, maybe a quest 
+completed, a significant 
+
+185
+00:08:52,920 --> 00:08:55,840
+revelation that's already moved 
+their larger adventure forward. 
+
+186
+00:08:56,160 --> 00:09:00,000
+It indicates genuine progress in
+this really daunting quest. 
+
+187
+00:09:00,000 --> 00:09:02,800
+That must feel good at least 
+like validation. 
+
+188
+00:09:02,840 --> 00:09:06,520
+A rare comfort in a land of 
+despair for sure, having that 
+
+189
+00:09:06,520 --> 00:09:08,520
+foundational piece of the puzzle
+in place. 
+
+190
+00:09:08,520 --> 00:09:11,840
+But then you have the Bishop. 
+This card tracks it or knows 
+
+191
+00:09:11,840 --> 00:09:16,240
+alluded to the Amber Temple, 
+which is this legendary super 
+
+192
+00:09:16,240 --> 00:09:19,200
+dangerous place full of ancient 
+knowledge and dark secrets. 
+
+193
+00:09:19,240 --> 00:09:20,800
+Right. 
+And he's still keen on finding 
+
+194
+00:09:20,800 --> 00:09:22,360
+it. 
+He knows it's somewhere on Mount
+
+195
+00:09:22,360 --> 00:09:25,280
+Gacas, that towering, 
+treacherous peak at the southern
+
+196
+00:09:25,280 --> 00:09:28,360
+end of the valley. 
+But the exact location, and more
+
+197
+00:09:28,360 --> 00:09:32,360
+importantly, what secrets it 
+really holds still a mystery. 
+
+198
+00:09:33,080 --> 00:09:36,320
+A tantalizing mystery. 
+It's a powerful long term goal, 
+
+199
+00:09:36,320 --> 00:09:38,720
+isn't it? 
+Potential source of great power 
+
+200
+00:09:38,720 --> 00:09:41,160
+or vital info just hanging over 
+them. 
+
+201
+00:09:41,160 --> 00:09:45,080
+A beacon of what might be, if 
+they can only find it. 
+
+202
+00:09:45,360 --> 00:09:47,640
+And then there's the Seer. 
+The party believes they've 
+
+203
+00:09:47,640 --> 00:09:50,480
+successfully identified Ismak as
+this fated companion. 
+
+204
+00:09:50,640 --> 00:09:53,680
+OK, another piece seemingly 
+falling into place. 
+
+205
+00:09:53,760 --> 00:09:56,360
+A prophecy fulfilled, maybe 
+confirming their path, 
+
+206
+00:09:56,360 --> 00:09:58,120
+solidifying their current 
+allies. 
+
+207
+00:09:58,520 --> 00:10:00,440
+A glimmer of hope. 
+They're not totally alone in 
+
+208
+00:10:00,440 --> 00:10:01,000
+this fight. 
+But. 
+
+209
+00:10:01,040 --> 00:10:05,160
+Then they hit a wall. 
+Uncertainty with the 
+
+210
+00:10:05,160 --> 00:10:08,920
+Executioner, the Mercenary. 
+These cards, the source states, 
+
+211
+00:10:09,160 --> 00:10:11,800
+remain frustratingly cryptic. 
+Meaningless for now. 
+
+212
+00:10:12,160 --> 00:10:13,800
+Pretty much. 
+Their meaning is still too 
+
+213
+00:10:13,800 --> 00:10:16,040
+obscure to give them any 
+practical guidance, at least 
+
+214
+00:10:16,040 --> 00:10:18,440
+crucial aspects of their future 
+completely uncertain. 
+
+215
+00:10:18,520 --> 00:10:20,120
+It's a powerful reminder, isn't 
+it? 
+
+216
+00:10:20,120 --> 00:10:22,440
+Even with divine guidance, not 
+everything is revealed. 
+
+217
+00:10:22,560 --> 00:10:25,360
+The most dangerous twists often 
+stay hidden until the very last 
+
+218
+00:10:25,360 --> 00:10:27,680
+moment. 
+The striking thing here is how 
+
+219
+00:10:27,680 --> 00:10:30,360
+these prophecies serve as both 
+guidance and mystery. 
+
+220
+00:10:30,760 --> 00:10:33,880
+They provide direction. 
+They confirm past events and 
+
+221
+00:10:33,880 --> 00:10:37,720
+alliances almost like a like a 
+divine road map, but they also 
+
+222
+00:10:37,720 --> 00:10:41,560
+leave huge unknowns, forcing the
+adventurers to make decisions 
+
+223
+00:10:41,560 --> 00:10:44,960
+with incomplete information, 
+basically navigating a fog of 
+
+224
+00:10:44,960 --> 00:10:47,400
+fate. 
+They know some things, just 
+
+225
+00:10:47,400 --> 00:10:49,800
+enough to keep moving. 
+But the most dangerous, maybe 
+
+226
+00:10:49,800 --> 00:10:53,280
+the most critical pieces of the 
+puzzle still veiled. 
+
+227
+00:10:53,520 --> 00:10:57,600
+It's this constant, agonizing 
+tension between destiny and free
+
+228
+00:10:57,600 --> 00:11:00,240
+will. 
+Every step they take is an act 
+
+229
+00:11:00,240 --> 00:11:03,400
+of faith or maybe defiance 
+against an unknown future. 
+
+230
+00:11:03,720 --> 00:11:06,560
+And zooming out, the 
+implications for Borovia as a 
+
+231
+00:11:06,560 --> 00:11:09,280
+whole are pretty profound. 
+This really highlights that 
+
+232
+00:11:09,280 --> 00:11:12,120
+pervasive sense of 
+predestination, the supernatural
+
+233
+00:11:12,120 --> 00:11:14,240
+woven into the very fabric of 
+the land. 
+
+234
+00:11:14,320 --> 00:11:17,440
+It's not just a random series of
+encounters, it's a world where 
+
+235
+00:11:17,440 --> 00:11:20,360
+even a simple card reading can 
+dictate destinies, where 
+
+236
+00:11:20,360 --> 00:11:22,800
+characters are swept up and 
+forces much larger than 
+
+237
+00:11:22,800 --> 00:11:25,880
+themselves. 
+Reinforces that gothic horror 
+
+238
+00:11:25,880 --> 00:11:29,000
+element, suggesting the very 
+fabric of existence here is 
+
+239
+00:11:29,200 --> 00:11:31,800
+woven with premonition and 
+ancient curses. 
+
+240
+00:11:32,160 --> 00:11:35,600
+Your path to salvation or 
+damnation might already be laid 
+
+241
+00:11:35,600 --> 00:11:37,480
+out, just waiting for you to 
+stumble onto it. 
+
+242
+00:11:37,680 --> 00:11:41,280
+And this constant presence of an
+unfolding prophecy, it also 
+
+243
+00:11:41,280 --> 00:11:44,040
+hints at the narratives deep 
+roots in that tradition of 
+
+244
+00:11:44,040 --> 00:11:48,720
+tragic, faded heroes adds a 
+layer of, well, sophisticated 
+
+245
+00:11:48,720 --> 00:11:50,720
+literary depth to their whole 
+adventure. 
+
+246
+00:11:50,880 --> 00:11:54,240
+So after this deep, almost 
+existential reflection on fate 
+
+247
+00:11:54,240 --> 00:11:58,000
+and prophecy, the party finally 
+shifts focus back to something 
+
+248
+00:11:58,000 --> 00:12:00,760
+more immediate, more concrete. 
+Back to reality. 
+
+249
+00:12:00,760 --> 00:12:04,160
+Yeah, they decide to continue 
+their search for a wedding dress
+
+250
+00:12:04,160 --> 00:12:06,760
+for the Abbot. 
+Now the Abbot is this powerful, 
+
+251
+00:12:06,760 --> 00:12:10,120
+really enigmatic figure in 
+Borovia, known for his strange 
+
+252
+00:12:10,120 --> 00:12:12,800
+obsessions and maybe even 
+stranger experiments, 
+
+253
+00:12:13,120 --> 00:12:16,960
+particularly with flesh columns.
+Right, Not exactly your friendly
+
+254
+00:12:16,960 --> 00:12:18,560
+neighborhood cleric. 
+Not at all. 
+
+255
+00:12:18,760 --> 00:12:21,240
+So this is quite an unusual 
+objective in itself, isn't it? 
+
+256
+00:12:21,240 --> 00:12:24,680
+It implies this ongoing, perhaps
+strange, obligation they have to
+
+257
+00:12:24,680 --> 00:12:27,040
+this powerful yet deeply 
+disturbing figure. 
+
+258
+00:12:27,240 --> 00:12:29,520
+It really does. 
+But as you're thinking about it,
+
+259
+00:12:29,520 --> 00:12:34,280
+Dearmond has what the source 
+calls a crucial aha moment. 
+
+260
+00:12:34,680 --> 00:12:37,640
+Oh yes, a critical insight that 
+you know, in retrospect, could 
+
+261
+00:12:37,640 --> 00:12:38,800
+have saved them a lot of 
+trouble. 
+
+262
+00:12:39,320 --> 00:12:42,000
+It suddenly occurs to Damon that
+if the Reeve was emptying the 
+
+263
+00:12:42,000 --> 00:12:46,200
+house, the dress might have 
+simply been in the wagon outside
+
+264
+00:12:46,200 --> 00:12:47,760
+the Reeves headquarters the 
+whole time. 
+
+265
+00:12:47,840 --> 00:12:50,040
+Oh. 
+Man, you mean they might have 
+
+266
+00:12:50,160 --> 00:12:55,560
+stirmed the Manor confronted the
+Reeves for nothing if they just 
+
+267
+00:12:55,560 --> 00:12:59,400
+checked the wagon first? 
+Possibly this single realization
+
+268
+00:12:59,400 --> 00:13:01,960
+implies they might have entirely
+circumvented a dangerous 
+
+269
+00:13:01,960 --> 00:13:04,400
+confrontation. 
+It's that classic case of 
+
+270
+00:13:04,400 --> 00:13:08,720
+hindsight being 2020, a moment 
+of just profound frustration, 
+
+271
+00:13:08,960 --> 00:13:11,000
+realizing they might have 
+already completed a difficult 
+
+272
+00:13:11,000 --> 00:13:13,680
+task if only they'd considered 
+this simpler path earlier. 
+
+273
+00:13:13,680 --> 00:13:17,000
+OK, so armed with this belated 
+but vital info, they make a 
+
+274
+00:13:17,000 --> 00:13:18,720
+quick decision. 
+They're going to waylay the 
+
+275
+00:13:18,720 --> 00:13:21,400
+wagon, search for the dress. 
+Simple enough, right? 
+
+276
+00:13:21,400 --> 00:13:23,720
+Seems like it. 
+They even presume it would go to
+
+277
+00:13:23,720 --> 00:13:26,840
+Lady Walker's house. 
+She's that powerful, subtly 
+
+278
+00:13:26,840 --> 00:13:29,360
+menacing noblewoman known for 
+her loyalty. 
+
+279
+00:13:29,360 --> 00:13:32,240
+Distraught. 
+So this suggests Lady Walker is 
+
+280
+00:13:32,320 --> 00:13:35,400
+a known quantity, a potential 
+adversary, or at least someone 
+
+281
+00:13:35,400 --> 00:13:37,760
+they need to keep tabs on. 
+Right, so the initial plan is 
+
+282
+00:13:37,760 --> 00:13:40,720
+pretty straightforward. 
+Ambush the wagon as it passes. 
+
+283
+00:13:41,120 --> 00:13:44,400
+Seems logical, maybe even 
+strategically sound. 
+
+284
+00:13:44,520 --> 00:13:48,800
+Logical, perhaps, but fatally 
+flawed in its execution, which, 
+
+285
+00:13:48,800 --> 00:13:52,080
+let's be honest, often happens 
+in Barovia when plans meet 
+
+286
+00:13:52,080 --> 00:13:53,240
+reality. 
+Tell me about it. 
+
+287
+00:13:53,720 --> 00:13:57,040
+The source details this classic 
+problem with group dynamics. 
+
+288
+00:13:57,440 --> 00:14:01,200
+The party starts squabbling in 
+circles over the plans details. 
+
+289
+00:14:01,480 --> 00:14:03,200
+Analysis paralysis. 
+Totally. 
+
+290
+00:14:03,200 --> 00:14:04,720
+This isn't just a minor 
+disagreement. 
+
+291
+00:14:04,720 --> 00:14:07,520
+This infighting and indecision 
+directly leads to their 
+
+292
+00:14:07,520 --> 00:14:10,920
+immediate, almost embarrassing 
+failure while they argue, 
+
+293
+00:14:10,920 --> 00:14:13,600
+debating the perfect angle, the 
+optimal timing, all the 
+
+294
+00:14:13,600 --> 00:14:15,760
+contingencies. 
+The wagon just passes right by 
+
+295
+00:14:15,760 --> 00:14:19,160
+the end, completely unnoticed by
+the bickering adventurers. 
+
+296
+00:14:19,400 --> 00:14:22,840
+It's almost comical, and it's 
+tragic irony, a perfect 
+
+297
+00:14:22,840 --> 00:14:25,720
+illustration of how getting 
+bogged down in hypothetical 
+
+298
+00:14:25,720 --> 00:14:28,560
+details can be more dangerous 
+than just acting. 
+
+299
+00:14:29,040 --> 00:14:31,680
+Their focus blinded them to the 
+present reality it. 
+
+300
+00:14:31,680 --> 00:14:35,480
+Truly is, and it's only Danica, 
+the innkeeper who snaps them 
+
+301
+00:14:35,480 --> 00:14:39,000
+back to reality, Points out the 
+wagon through a window and 
+
+302
+00:14:39,000 --> 00:14:41,800
+outside intervention, breaking 
+through their self-imposed 
+
+303
+00:14:41,800 --> 00:14:44,280
+paralysis. 
+It highlights how deeply 
+
+304
+00:14:44,280 --> 00:14:47,520
+engrossed they were in their own
+unproductive bickering, almost 
+
+305
+00:14:47,520 --> 00:14:49,720
+oblivious. 
+But even then, there's no 
+
+306
+00:14:49,720 --> 00:14:54,000
+cohesive group action. 
+Instead, Derman abruptly leaps 
+
+307
+00:14:54,000 --> 00:14:55,280
+up. 
+Just goes for it. 
+
+308
+00:14:55,440 --> 00:14:58,680
+Rushes from the inn, pursuing 
+the wagon alone, up the street 
+
+309
+00:14:58,680 --> 00:15:01,680
+towards Lady Walker's mansion. 
+It's impulsive, almost 
+
+310
+00:15:01,680 --> 00:15:04,760
+instinctual, probably borne from
+frustration and wanting to fix 
+
+311
+00:15:04,760 --> 00:15:06,400
+their collective failure 
+immediately. 
+
+312
+00:15:06,480 --> 00:15:09,560
+And quite a determined move. 
+He cuts a corner, shows 
+
+313
+00:15:09,560 --> 00:15:12,640
+impressive agility, closes the 
+distance fast, but the wagon 
+
+314
+00:15:12,640 --> 00:15:15,960
+stays tantalizingly just out of 
+reach, pulled by its horses at a
+
+315
+00:15:15,960 --> 00:15:18,400
+good clip. 
+In a last ditch, adrenaline 
+
+316
+00:15:18,400 --> 00:15:22,440
+fueled effort, he leaps and 
+catches the tailgate moments 
+
+317
+00:15:22,440 --> 00:15:24,040
+before it arrives at the mansion
+gates. 
+
+318
+00:15:24,320 --> 00:15:28,440
+Pure rogue agility and sheer 
+desperation, a testament to his 
+
+319
+00:15:28,440 --> 00:15:31,960
+individual resourcefulness. 
+Then he breathlessly scrambles 
+
+320
+00:15:31,960 --> 00:15:35,560
+underneath the chassis, finds 
+his precarious hiding spot just 
+
+321
+00:15:35,560 --> 00:15:38,680
+as the teamster dismounts to 
+tend to the horses, quick 
+
+322
+00:15:38,680 --> 00:15:41,400
+thinking under immense pressure,
+finding concealment in the nick 
+
+323
+00:15:41,400 --> 00:15:43,640
+of time. 
+Now he's right there, hidden in 
+
+324
+00:15:43,640 --> 00:15:45,680
+plain sight. 
+The striking thing here, 
+
+325
+00:15:45,680 --> 00:15:48,000
+narratively, is that dramatic 
+contrast. 
+
+326
+00:15:48,160 --> 00:15:51,320
+You've got the group stalled, 
+ineffective planning, all that 
+
+327
+00:15:51,320 --> 00:15:54,040
+talking in circles, 
+overthinking, and then Derman's 
+
+328
+00:15:54,040 --> 00:15:57,040
+immediate, chaotic, incredibly 
+physical response. 
+
+329
+00:15:57,480 --> 00:16:00,200
+While the others were lost in 
+hypotheticals, Derman acted. 
+
+330
+00:16:00,720 --> 00:16:03,600
+He abandoned the flawed plan, 
+embraced cure improvisation. 
+
+331
+00:16:03,600 --> 00:16:04,960
+It's not just about his 
+personality. 
+
+332
+00:16:04,960 --> 00:16:07,400
+It's maybe a profound 
+observation about survival in 
+
+333
+00:16:07,400 --> 00:16:10,600
+Borovia. 
+Sometimes the sheer will to just
+
+334
+00:16:10,640 --> 00:16:13,480
+do something, seize A fleeting 
+opportunity. 
+
+335
+00:16:13,680 --> 00:16:16,240
+Trump's meticulous but slow 
+deliberation. 
+
+336
+00:16:16,520 --> 00:16:19,480
+Yeah, it really poses that 
+deeper question about heroism in
+
+337
+00:16:19,480 --> 00:16:23,040
+this dark land. 
+Is true success here often just 
+
+338
+00:16:23,040 --> 00:16:27,000
+a matter of chaotic adaptation 
+rather than rigid foresight? 
+
+339
+00:16:27,000 --> 00:16:30,360
+So Dermont's clinging under the 
+wagon, hidden from the Teamster.
+
+340
+00:16:30,560 --> 00:16:33,240
+He's got a moment right? 
+His initial hope may be a 
+
+341
+00:16:33,240 --> 00:16:36,000
+flicker of conventional thinking
+is the Teamster will just go 
+
+342
+00:16:36,000 --> 00:16:38,960
+inside, leave the wagon right 
+for the taking. 
+
+343
+00:16:38,960 --> 00:16:40,920
+Makes sense? 
+Less confrontation. 
+
+344
+00:16:41,160 --> 00:16:44,120
+But of course, in Barovia, 
+nothing's ever that easy. 
+
+345
+00:16:44,720 --> 00:16:47,880
+The Teamster stubbornly stays 
+outside right by the wagon, 
+
+346
+00:16:48,480 --> 00:16:51,440
+maybe enjoying the quiet, Who 
+knows, But it forces Derman to 
+
+347
+00:16:51,440 --> 00:16:54,800
+change tactics on the fly. 
+Meanwhile, Radley and Traxidor, 
+
+348
+00:16:54,800 --> 00:16:57,600
+who left the inn behind Derman, 
+They're quickly outpaced. 
+
+349
+00:16:57,800 --> 00:17:00,880
+Their cautious approach now 
+leaves them way behind. 
+
+350
+00:17:00,960 --> 00:17:03,480
+Yeah, they're trying to stay 
+inconspicuous, stealthing behind
+
+351
+00:17:03,480 --> 00:17:06,160
+houses, which really highlights 
+their more measured approach 
+
+352
+00:17:06,160 --> 00:17:07,760
+compared to Derman's 
+impulsiveness. 
+
+353
+00:17:07,760 --> 00:17:10,440
+It's like a classic divergent in
+adventuring style isn't? 
+
+354
+00:17:10,440 --> 00:17:14,599
+It totally so Derman, in his 
+desperation, turns to magic, but
+
+355
+00:17:14,599 --> 00:17:17,200
+subtly. 
+He casts Minor Illusion, that 
+
+356
+00:17:17,200 --> 00:17:20,240
+simple spell creating a sensory 
+figment to make the sound of a 
+
+357
+00:17:20,240 --> 00:17:22,960
+bear right behind the horses. 
+A bear. 
+
+358
+00:17:23,359 --> 00:17:26,160
+OK, bold move. 
+The immediate effect is exactly 
+
+359
+00:17:26,160 --> 00:17:28,760
+what he hoped for. 
+The Teamster is startled, 
+
+360
+00:17:29,000 --> 00:17:32,720
+totally unprepared for that 
+sound, and the horses already 
+
+361
+00:17:32,720 --> 00:17:36,240
+skittish in this tense town. 
+They spook violently, leaving 
+
+362
+00:17:36,240 --> 00:17:38,280
+their harnesses. 
+The wagon jolts forward a few 
+
+363
+00:17:38,280 --> 00:17:41,760
+feet, just enough to create that
+window with that slight, 
+
+364
+00:17:41,920 --> 00:17:45,600
+unexpected momentum. 
+Derman then casts Mage Hand, the
+
+365
+00:17:45,600 --> 00:17:48,520
+spell with a spectral 
+disembodied hand. 
+
+366
+00:17:48,560 --> 00:17:50,520
+Right from manipulating things 
+remotely. 
+
+367
+00:17:50,520 --> 00:17:52,800
+Exactly. 
+He uses it to release the wheel 
+
+368
+00:17:52,800 --> 00:17:55,920
+brake and just like that the 
+wagon starts lumbering into 
+
+369
+00:17:55,920 --> 00:17:58,480
+motion. 
+And that's when the real, pure 
+
+370
+00:17:58,480 --> 00:18:01,240
+chaos begins. 
+The frantic horses, now 
+
+371
+00:18:01,360 --> 00:18:04,360
+terrified and with the break 
+off, immediately pull the wagon 
+
+372
+00:18:04,360 --> 00:18:07,000
+wildly down the street. 
+German's just clinging to the 
+
+373
+00:18:07,000 --> 00:18:10,160
+undercarriage for dear life as 
+it speeds up, the source says. 
+
+374
+00:18:10,400 --> 00:18:12,080
+Maybe only three wheels are on 
+the ground. 
+
+375
+00:18:12,080 --> 00:18:14,960
+Sometimes it's being tossed so 
+violently by the uneven 
+
+376
+00:18:14,960 --> 00:18:17,000
+cobblestone. 
+Oh man, just picturing that. 
+
+377
+00:18:17,000 --> 00:18:19,520
+It's pure danger. 
+Every bump could throw them off.
+
+378
+00:18:19,760 --> 00:18:23,800
+And to emphasize the sheer 
+mayhem, periodically things are 
+
+379
+00:18:23,800 --> 00:18:26,680
+flying out of the back chairs, 
+paintings crashing onto the road
+
+380
+00:18:26,680 --> 00:18:29,840
+with these sickening thuds. 
+It illustrates the destructive 
+
+381
+00:18:29,840 --> 00:18:31,320
+force of this out of control 
+vehicle. 
+
+382
+00:18:31,560 --> 00:18:34,360
+And the Teamster. 
+Left Behind tries to run after 
+
+383
+00:18:34,360 --> 00:18:37,360
+it, shouting probably, but he's 
+quickly outpaced Left in the 
+
+384
+00:18:37,360 --> 00:18:39,880
+dust and wreckage, just 
+bewildered frustration. 
+
+385
+00:18:39,920 --> 00:18:41,600
+OK, so Derman's created this 
+chaos. 
+
+386
+00:18:41,600 --> 00:18:44,000
+He's on this wild ride. 
+What next? 
+
+387
+00:18:44,080 --> 00:18:47,160
+This is where Derman, despite 
+his impressive agility and quick
+
+388
+00:18:47,160 --> 00:18:50,080
+thinking so far, makes a crucial
+miscalculation. 
+
+389
+00:18:50,560 --> 00:18:52,920
+He figures he's gained enough 
+distance from the mansion and 
+
+390
+00:18:52,920 --> 00:18:54,720
+the Teamster. 
+Thinks he's clear, yeah. 
+
+391
+00:18:55,480 --> 00:18:58,280
+So he casts Mage Hand again, 
+trying to reset the wagon's 
+
+392
+00:18:58,280 --> 00:19:00,800
+handbrake. 
+His intention is probably to 
+
+393
+00:19:00,800 --> 00:19:04,520
+bring it to a controlled, 
+discreet stop, secure his prize.
+
+394
+00:19:04,680 --> 00:19:07,040
+Right, makes sense. 
+But his calculation is 
+
+395
+00:19:07,040 --> 00:19:09,760
+catastrophically off. 
+The wheels lock up with this 
+
+396
+00:19:09,760 --> 00:19:12,920
+sickening screech. 
+For a moment, the wagon Peters 
+
+397
+00:19:12,920 --> 00:19:15,920
+violently left rights dramatic, 
+agonizing pause. 
+
+398
+00:19:16,640 --> 00:19:19,920
+Then with brutal splintering 
+force it Jack nice and turns 
+
+399
+00:19:19,920 --> 00:19:21,240
+over right in the middle of the 
+road. 
+
+400
+00:19:21,520 --> 00:19:24,200
+And the consequences? 
+Devastating. 
+
+401
+00:19:24,200 --> 00:19:26,440
+I imagine the source paints A 
+grim picture. 
+
+402
+00:19:26,440 --> 00:19:28,320
+It's. 
+Truly grim, the remaining 
+
+403
+00:19:28,320 --> 00:19:31,640
+contents are tossed everywhere 
+amidst splintered wood, broken 
+
+404
+00:19:31,640 --> 00:19:34,120
+spokes, but the most 
+heartbreaking details the fate 
+
+405
+00:19:34,120 --> 00:19:36,520
+of the horses, the. 
+Poor animal. 
+
+406
+00:19:36,600 --> 00:19:39,960
+Violently jerk to a halt mid 
+stride by the jackknifing wagon 
+
+407
+00:19:40,040 --> 00:19:42,840
+tumbling over onto the street. 
+The source mentions ribs, 
+
+408
+00:19:42,880 --> 00:19:45,040
+spines, legs snapping from the 
+impact. 
+
+409
+00:19:45,160 --> 00:19:48,800
+It's brutal, visceral, a tableau
+of broken life and shattered 
+
+410
+00:19:48,800 --> 00:19:51,120
+ambition, all for a wedding 
+dress. 
+
+411
+00:19:51,120 --> 00:19:53,880
+Yet amidst this carnage, 
+Dermont's agility saves him 
+
+412
+00:19:53,880 --> 00:19:55,560
+again. 
+Yeah, he's thrown from beneath 
+
+413
+00:19:55,560 --> 00:19:59,160
+the wagon, but due to his rogue 
+skills, lands with only minor 
+
+414
+00:19:59,160 --> 00:20:02,640
+abrasions and contusions. 
+Miraculously escaped serious 
+
+415
+00:20:02,640 --> 00:20:04,680
+injury. 
+And after shaking off the crash,
+
+416
+00:20:05,040 --> 00:20:07,560
+what does he do? 
+A moment of unexpected mercy 
+
+417
+00:20:07,560 --> 00:20:10,440
+actually shines through. 
+He sees the maimed horses 
+
+418
+00:20:10,560 --> 00:20:13,720
+neighing, whinnying in agony, 
+clearly suffering. 
+
+419
+00:20:13,720 --> 00:20:15,880
+Takes pity. 
+Yeah, flicker of compassion. 
+
+420
+00:20:15,880 --> 00:20:19,480
+In the grim aftermath, he draws 
+his dagger, delivers a swift end
+
+421
+00:20:19,480 --> 00:20:22,280
+to their suffering. 
+It's a small act amidst the 
+
+422
+00:20:22,280 --> 00:20:26,520
+chaos he caused, but it reveals 
+a layer of his character, maybe 
+
+423
+00:20:26,520 --> 00:20:29,840
+a moral compass, still somewhat 
+intact even when his methods are
+
+424
+00:20:29,840 --> 00:20:32,800
+so destructive. 
+And then, amidst the wreckage, 
+
+425
+00:20:33,080 --> 00:20:35,880
+the mud. 
+Streak of luck, he finally spots
+
+426
+00:20:35,880 --> 00:20:38,080
+it. 
+Lady Volakovich's wedding dress 
+
+427
+00:20:38,080 --> 00:20:41,360
+is objective, lying relatively 
+intact in the muddy St. 
+
+428
+00:20:41,440 --> 00:20:43,960
+But the clock's ticking, right? 
+The crash must have drawn 
+
+429
+00:20:43,960 --> 00:20:45,200
+attention. 
+Exactly. 
+
+430
+00:20:45,360 --> 00:20:47,840
+He hears villagers coming, 
+shouts, footsteps getting 
+
+431
+00:20:47,840 --> 00:20:50,120
+closer. 
+Derman, ever the opportunist, 
+
+432
+00:20:50,120 --> 00:20:53,280
+quickly gathers the dress, his 
+prize, and makes a hasty, 
+
+433
+00:20:53,280 --> 00:20:56,520
+discreet withdrawal, melts into 
+the shadows, escapes with his 
+
+434
+00:20:56,520 --> 00:20:59,120
+objective as the full 
+consequences of his actions, 
+
+435
+00:20:59,720 --> 00:21:02,200
+this public spectacle of 
+destruction begin to unfold 
+
+436
+00:21:02,200 --> 00:21:05,120
+behind him, now firmly linked to
+the mysterious strangers in 
+
+437
+00:21:05,120 --> 00:21:07,160
+town. 
+So the profound implication 
+
+438
+00:21:07,160 --> 00:21:08,840
+here? 
+Durman succeeds. 
+
+439
+00:21:08,920 --> 00:21:12,360
+He gets the dress, but at this 
+significant, highly visible 
+
+440
+00:21:12,360 --> 00:21:13,960
+cost. 
+Absolutely. 
+
+441
+00:21:13,960 --> 00:21:18,160
+The Rex wagon, the dead horses, 
+the public chaos, it all 
+
+442
+00:21:18,160 --> 00:21:20,800
+highlights the destructive 
+nature of these impulsive 
+
+443
+00:21:20,800 --> 00:21:23,640
+actions, even if driven by a 
+clear objective. 
+
+444
+00:21:23,640 --> 00:21:27,120
+Or in this case, this strange 
+good intention for the Abbot. 
+
+445
+00:21:27,360 --> 00:21:29,640
+And it's not just about the 
+moral cost of the horses. 
+
+446
+00:21:29,720 --> 00:21:31,320
+It's the ripple effect, isn't 
+it? 
+
+447
+00:21:31,480 --> 00:21:34,320
+The heightened authority of the 
+bergamistress, the increased 
+
+448
+00:21:34,320 --> 00:21:37,600
+fear among the townsfolk, this 
+public spectacle, it actually 
+
+449
+00:21:37,600 --> 00:21:40,840
+makes their next objective, 
+whatever it is, even harder. 
+
+450
+00:21:41,000 --> 00:21:43,840
+That's a subtle but pervasive 
+truth in Borovia, isn't it? 
+
+451
+00:21:44,040 --> 00:21:46,240
+Even a win can be a loss in 
+disguise. 
+
+452
+00:21:46,840 --> 00:21:49,160
+You end up building the very 
+walls of oppression you're 
+
+453
+00:21:49,160 --> 00:21:52,360
+trying to dismantle, escalating 
+the scrutiny and danger you 
+
+454
+00:21:52,360 --> 00:21:54,800
+face. 
+OK, so while all this explosive 
+
+455
+00:21:54,800 --> 00:21:58,080
+chaos is unfolding with Derman's
+heist completely unbeknownst to 
+
+456
+00:21:58,080 --> 00:22:01,600
+him and the others, a new, 
+equally significant thread 
+
+457
+00:22:01,600 --> 00:22:03,400
+starts weaving itself into the 
+narrative. 
+
+458
+00:22:03,400 --> 00:22:04,600
+A different perspective. 
+Yeah. 
+
+459
+00:22:04,840 --> 00:22:07,120
+A diminutive stranger approaches
+Valaki. 
+
+460
+00:22:07,200 --> 00:22:10,520
+This is Yurihorn Tenpenny, a 
+halfling beast master, master of
+
+461
+00:22:10,520 --> 00:22:11,920
+animals. 
+Wilderness survival. 
+
+462
+00:22:12,160 --> 00:22:14,280
+Usually has a loyal animal 
+companion. 
+
+463
+00:22:14,560 --> 00:22:17,640
+His arrival immediately signals 
+a shift, A new piece entering 
+
+464
+00:22:17,640 --> 00:22:20,960
+this already complex board. 
+And he's a cautious observer 
+
+465
+00:22:21,040 --> 00:22:22,480
+right from the start. 
+Got that? 
+
+466
+00:22:22,600 --> 00:22:25,320
+Hunter's keen eye working 
+already surveying the heavenly 
+
+467
+00:22:25,320 --> 00:22:27,680
+guarded gates. 
+Your horn notes the palisade 
+
+468
+00:22:27,680 --> 00:22:30,760
+walls are way too tall to climb.
+Immediately forces him to 
+
+469
+00:22:30,760 --> 00:22:33,400
+consider a more conventional, 
+but still dangerous entry. 
+
+470
+00:22:33,920 --> 00:22:36,160
+And the welcome wagon isn't 
+exactly friendly. 
+
+471
+00:22:36,160 --> 00:22:38,880
+Not at all. 
+The real grim welcome comes from
+
+472
+00:22:38,880 --> 00:22:41,360
+his observation of all those 
+wolf heads stuck on Pikes 
+
+473
+00:22:41,360 --> 00:22:45,000
+outside the gate, A stark, 
+brutal warning about the dangers
+
+474
+00:22:45,000 --> 00:22:48,960
+within the savage nature of this
+land, a clear message from the 
+
+475
+00:22:48,960 --> 00:22:52,200
+local powers. 
+The whispers to this slinking 
+
+476
+00:22:52,200 --> 00:22:54,640
+beast accompany him, which then 
+bounds off towards the tree 
+
+477
+00:22:54,640 --> 00:22:57,000
+line. 
+Hints at his Beastmaster skills,
+
+478
+00:22:57,000 --> 00:22:59,920
+his strategic mind moving his 
+companion out of sight as he 
+
+479
+00:22:59,920 --> 00:23:02,240
+prepares to enter. 
+So he approaches the gate, 
+
+480
+00:23:02,240 --> 00:23:04,840
+announces himself. 
+You're a Horn Tenpenny from 
+
+481
+00:23:04,840 --> 00:23:08,480
+Falconea, that realm known for 
+its harsh military regime, 
+
+482
+00:23:08,760 --> 00:23:10,840
+aggressive expansionism. 
+And the guards? 
+
+483
+00:23:11,200 --> 00:23:13,960
+Typically brutal and dismissive.
+They laugh at him, suggest he 
+
+484
+00:23:13,960 --> 00:23:15,680
+join a circus. 
+Casually mentioned nearby 
+
+485
+00:23:15,680 --> 00:23:18,800
+Vestani with a big tent. 
+It's dismissive, but also 
+
+486
+00:23:18,840 --> 00:23:22,240
+ironically kind of informative. 
+Gives your horn potential leads.
+
+487
+00:23:22,400 --> 00:23:24,480
+Highlights the local disdain for
+outsiders. 
+
+488
+00:23:24,600 --> 00:23:27,640
+But he's undeterred. 
+He bribes his way in, pays a 
+
+489
+00:23:27,640 --> 00:23:31,360
+steep price, which immediately 
+establishes Volaki as a place 
+
+490
+00:23:31,360 --> 00:23:34,000
+hard to enter without 
+significant personal cost. 
+
+491
+00:23:34,200 --> 00:23:36,800
+And the guards then warn him 
+he'll need the Reeves permission
+
+492
+00:23:36,800 --> 00:23:40,600
+to leave, solidifying Volakis 
+Rep Not just as hard to get 
+
+493
+00:23:40,600 --> 00:23:43,760
+into, but as a trap. 
+Escape isn't guaranteed. 
+
+494
+00:23:44,040 --> 00:23:48,360
+A prison disguised as a town. 
+So once inside, your horn 
+
+495
+00:23:48,360 --> 00:23:52,000
+wanders the vacant streets, sees
+the same oppressive emptiness, 
+
+496
+00:23:52,000 --> 00:23:55,960
+Derman and the others noted, the
+silence, the fear, almost 
+
+497
+00:23:55,960 --> 00:23:58,520
+tangible. 
+From a few weary passersby, he 
+
+498
+00:23:58,520 --> 00:24:00,680
+quickly learns about the town's 
+strict curfew. 
+
+499
+00:24:01,000 --> 00:24:04,440
+The burger mistresses severe 
+crackdown rapidly gets a handle 
+
+500
+00:24:04,440 --> 00:24:07,160
+on the oppressive atmosphere 
+defining Vlaki's new reality. 
+
+501
+00:24:07,440 --> 00:24:10,280
+He's quick to adapt, quick to 
+learn the rules of his grim new 
+
+502
+00:24:10,280 --> 00:24:12,440
+game, Survivor's Instinct 
+kicking in. 
+
+503
+00:24:12,520 --> 00:24:15,240
+And eventually, he finds his way
+to the Blue Water Inn, the known
+
+504
+00:24:15,240 --> 00:24:17,760
+Nexus of activity. 
+Or at least where activity might
+
+505
+00:24:17,760 --> 00:24:19,480
+happen. 
+And just like with the others, 
+
+506
+00:24:19,880 --> 00:24:22,000
+Danica the innkeeper regards 
+your horn. 
+
+507
+00:24:22,000 --> 00:24:25,240
+Cooley, openly suspicious of 
+this newcomer, reinforces that 
+
+508
+00:24:25,240 --> 00:24:28,360
+pervasive distrust solidifies 
+the inn's transformation from 
+
+509
+00:24:28,360 --> 00:24:30,440
+welcoming haven to place of wary
+scrutiny. 
+
+510
+00:24:30,560 --> 00:24:34,720
+But despite Danica's frosty 
+reception, your horn soon makes 
+
+511
+00:24:34,720 --> 00:24:38,160
+a crucial acquaintance. 
+Rick Tabio, the entertainer. 
+
+512
+00:24:38,440 --> 00:24:40,920
+And Rick Tabio is immediately 
+intrigued. 
+
+513
+00:24:41,200 --> 00:24:44,640
+Recognizes your horn as a fellow
+Miss Walker, someone who's 
+
+514
+00:24:44,640 --> 00:24:47,600
+traversed those mysterious 
+reality bending myths 
+
+515
+00:24:47,760 --> 00:24:50,280
+surrounding Barovia that trap 
+outsiders. 
+
+516
+00:24:50,320 --> 00:24:52,040
+Instantly sets them apart from 
+the locals. 
+
+517
+00:24:52,200 --> 00:24:54,720
+Kindred spirits, maybe, if not 
+allies yet. 
+
+518
+00:24:54,880 --> 00:24:58,360
+And You're a Horn is remarkably 
+bold about his origins, not 
+
+519
+00:24:58,360 --> 00:25:01,240
+discreet about being from 
+Falkovnia, and more 
+
+520
+00:25:01,240 --> 00:25:05,120
+significantly, states his clear,
+vengeful objective seek 
+
+521
+00:25:05,120 --> 00:25:06,880
+vengeance on Strode von 
+Zarevich. 
+
+522
+00:25:07,160 --> 00:25:09,680
+Wow, just lays it out there, 
+immediately establishes his 
+
+523
+00:25:09,680 --> 00:25:12,720
+motivations, the incredibly high
+stakes of him being in Borovia. 
+
+524
+00:25:12,720 --> 00:25:14,520
+He's not just passing through. 
+Nope. 
+
+525
+00:25:14,960 --> 00:25:18,080
+Rakavio, sensing the importance 
+of this, may be recognizing a 
+
+526
+00:25:18,080 --> 00:25:21,960
+powerful, if reckless potential 
+ally, invites Euro Horn to his 
+
+527
+00:25:21,960 --> 00:25:24,920
+room for a private, more 
+discreet discussion away from 
+
+528
+00:25:24,920 --> 00:25:27,800
+prying eyes and ears, especially
+Strode spies. 
+
+529
+00:25:27,800 --> 00:25:29,880
+And here's where we get one of 
+the most thrilling reveals of 
+
+530
+00:25:29,880 --> 00:25:32,560
+the whole session. 
+After swearing Eurohorn to 
+
+531
+00:25:32,560 --> 00:25:35,760
+absolute secrecy, Rick Tavio 
+performs this dramatic reveal. 
+
+532
+00:25:35,760 --> 00:25:38,400
+Removes his hat. 
+And his appearance shimmers, 
+
+533
+00:25:38,400 --> 00:25:40,680
+changes right before Eurohorn's 
+eyes. 
+
+534
+00:25:40,920 --> 00:25:44,160
+Face becomes leaner. 
+Older attire shifts from 
+
+535
+00:25:44,160 --> 00:25:47,360
+Vagabond ringleader to something
+more like an itinerant 
+
+536
+00:25:47,360 --> 00:25:49,920
+schoolmaster. 
+He apologizes for the deception,
+
+537
+00:25:50,040 --> 00:25:52,480
+explains discretion is 
+absolutely necessary to hide 
+
+538
+00:25:52,480 --> 00:25:55,160
+from Straud's countless spies. 
+They're everywhere. 
+
+539
+00:25:55,760 --> 00:25:58,400
+Then he reveals his true name, 
+Rudolf Ven Richten. 
+
+540
+00:25:58,680 --> 00:26:02,360
+Rudolf Ven Richten and for you 
+rehorn the halfling, this name 
+
+541
+00:26:02,360 --> 00:26:05,680
+is instantly recognized. 
+A gasp worthy moment. 
+
+542
+00:26:05,680 --> 00:26:08,640
+Absolutely, he knows it. 
+Renowned Monster Hunter from 
+
+543
+00:26:08,640 --> 00:26:12,800
+Darkon, a land shrouded in its 
+own ancient terrors, immediately
+
+544
+00:26:12,800 --> 00:26:15,560
+elevates his encounter to 
+monumental significance. 
+
+545
+00:26:15,680 --> 00:26:18,400
+This isn't just an entertainer, 
+this is a living legend, a 
+
+546
+00:26:18,400 --> 00:26:21,720
+figure synonymous with fighting 
+the very evils plaguing Borovia.
+
+547
+00:26:21,720 --> 00:26:24,680
+So they talk for a while, 
+establishing shared purpose. 
+
+548
+00:26:24,680 --> 00:26:27,280
+Yeah, promising each other aid 
+in their mutual desperate 
+
+549
+00:26:27,280 --> 00:26:30,240
+endeavor against Strad. 
+This is a critical alliance 
+
+550
+00:26:30,240 --> 00:26:32,720
+forming, built on shared 
+knowledge in this common, 
+
+551
+00:26:32,720 --> 00:26:35,120
+fearsome enemy. 
+Then Richton, with his vast 
+
+552
+00:26:35,120 --> 00:26:38,480
+experience, must offer some 
+critical wisdom, insights honed 
+
+553
+00:26:38,480 --> 00:26:41,960
+over years of dangerous work. 
+He does explains the typical 
+
+554
+00:26:41,960 --> 00:26:44,840
+vampire weaknesses, knowledge 
+most hunters would prize, but 
+
+555
+00:26:44,840 --> 00:26:49,160
+quickly warns Strad is far more 
+powerful than any ordinary 
+
+556
+00:26:49,160 --> 00:26:50,640
+undead. 
+How so? 
+
+557
+00:26:50,720 --> 00:26:54,240
+He's aided by the land itself, 
+it's beasts, even the Vastani. 
+
+558
+00:26:54,760 --> 00:26:58,280
+Plus, he's a capable 
+necromancer, a truly formidable,
+
+559
+00:26:58,280 --> 00:27:01,960
+almost unbeatable foe. 
+So your horn expresses his goal,
+
+560
+00:27:01,960 --> 00:27:04,040
+looking for allies to take 
+vengeance. 
+
+561
+00:27:04,160 --> 00:27:06,320
+Right. 
+But Van Richten, true to his 
+
+562
+00:27:06,320 --> 00:27:10,120
+methodical, cautious nature, 
+declines the implied offer of an
+
+563
+00:27:10,120 --> 00:27:13,200
+immediate alliance, says he 
+hasn't yet developed a full, 
+
+564
+00:27:13,200 --> 00:27:16,680
+comprehensive strategy to defeat
+the vampire Lord, deems it too 
+
+565
+00:27:16,680 --> 00:27:19,240
+early to act. 
+Shows his meticulous approach. 
+
+566
+00:27:19,480 --> 00:27:21,920
+Contrasts sharply with the 
+impulsiveness we've seen. 
+
+567
+00:27:22,000 --> 00:27:24,600
+Underscores the immense 
+challenge Straud represents. 
+
+568
+00:27:24,600 --> 00:27:26,400
+Exactly. 
+And then comes the critical 
+
+569
+00:27:26,400 --> 00:27:29,000
+warning, a moment of profound 
+foreshadowing. 
+
+570
+00:27:29,480 --> 00:27:32,000
+Van Richten warns Yuri Horn to 
+stay clear of a group of 
+
+571
+00:27:32,000 --> 00:27:35,360
+recently arrived adventurers, 
+clearly meaning Radley, Traxidor
+
+572
+00:27:35,360 --> 00:27:37,080
+and Dermont. 
+Wait, he warns them against 
+
+573
+00:27:37,080 --> 00:27:39,800
+them. 
+Yes, he suspects they may even 
+
+574
+00:27:39,800 --> 00:27:43,160
+be spies of Strawd, saying they 
+indicated A willingness to aid 
+
+575
+00:27:43,160 --> 00:27:45,320
+vampires. 
+A grave accusation. 
+
+576
+00:27:45,320 --> 00:27:48,520
+This is a massive red flag for 
+you, the listener, and for your 
+
+577
+00:27:48,520 --> 00:27:52,160
+horn who's just stumbled into 
+this incredibly complex, 
+
+578
+00:27:52,160 --> 00:27:54,520
+dangerous whag of alliances and 
+betrayals. 
+
+579
+00:27:54,920 --> 00:27:58,400
+Wow, and as your horn leaves. 
+Vin Richton offers a practical 
+
+580
+00:27:58,400 --> 00:28:02,320
+boon, a potion of greater 
+healing, a small but significant
+
+581
+00:28:02,320 --> 00:28:05,120
+gesture of goodwill aid for his 
+dangerous mission. 
+
+582
+00:28:05,280 --> 00:28:08,520
+So, zooming out, what does this 
+all mean for the narrative? 
+
+583
+00:28:08,760 --> 00:28:10,720
+This introduction of Rudolf von 
+Richten? 
+
+584
+00:28:11,320 --> 00:28:15,120
+It's an absolute game changer. 
+No question, his deep knowledge 
+
+585
+00:28:15,120 --> 00:28:18,280
+of Strad, his cautious, 
+strategic approach, they 
+
+586
+00:28:18,280 --> 00:28:21,800
+contrast so sharply with the 
+often chaotic, impulsive actions
+
+587
+00:28:21,800 --> 00:28:23,320
+of the adventurers we've been 
+following. 
+
+588
+00:28:23,400 --> 00:28:26,360
+Adds a layer of seasoned 
+professional monster hunting to 
+
+589
+00:28:26,360 --> 00:28:28,440
+their amateur, often desperate 
+efforts. 
+
+590
+00:28:28,560 --> 00:28:31,800
+And his specific warning about 
+Dermont's group creates immense 
+
+591
+00:28:31,800 --> 00:28:33,720
+dramatic tension and 
+foreshadowing. 
+
+592
+00:28:33,920 --> 00:28:37,360
+You've got this renowned Monster
+Hunter, the expert advising our 
+
+593
+00:28:37,360 --> 00:28:39,960
+new character to avoid the very 
+people we've been following 
+
+594
+00:28:40,200 --> 00:28:42,920
+questioning their loyalties, 
+even suggesting they might be 
+
+595
+00:28:42,920 --> 00:28:45,720
+agents of the enemy. 
+It sets up a fascinating 
+
+596
+00:28:45,720 --> 00:28:49,760
+conflict, potential betrayal, 
+completely alters our perception
+
+597
+00:28:49,760 --> 00:28:53,560
+of the existing party cast, this
+long shatter of doubt over their
+
+598
+00:28:53,560 --> 00:28:56,760
+intentions, their actions. 
+It's a masterful stroke of 
+
+599
+00:28:56,760 --> 00:29:00,120
+narrative, weaving immediate 
+high stakes drama and profound 
+
+600
+00:29:00,120 --> 00:29:02,320
+mistrust right into the story's 
+fabric. 
+
+601
+00:29:02,640 --> 00:29:05,360
+So we have all these threads in 
+motion now, just spiraling 
+
+602
+00:29:05,360 --> 00:29:06,960
+towards this dramatic 
+convergence. 
+
+603
+00:29:07,200 --> 00:29:10,480
+Derriman, fresh from his 
+spectacularly chaotic success 
+
+604
+00:29:10,480 --> 00:29:13,680
+with the wedding dress, makes a 
+swift, discreet return to the 
+
+605
+00:29:13,680 --> 00:29:16,720
+Blue Water Inn, probably feeling
+quite pleased with himself 
+
+606
+00:29:16,720 --> 00:29:19,080
+despite the carnage of the 
+horses and wagon. 
+
+607
+00:29:19,080 --> 00:29:21,040
+Yeah, objective achieved right 
+in his mind. 
+
+608
+00:29:21,040 --> 00:29:23,200
+Maybe. 
+And it's right upon his return 
+
+609
+00:29:23,200 --> 00:29:25,640
+that paths converge, a fateful 
+intersection. 
+
+610
+00:29:25,920 --> 00:29:28,160
+He sees your horn. 
+Tenpenny, who has just come down
+
+611
+00:29:28,160 --> 00:29:31,240
+the stairs from Venrichten's 
+room, likely still processing 
+
+612
+00:29:31,240 --> 00:29:33,960
+those monumental revelations, 
+still reeling from meeting a 
+
+613
+00:29:33,960 --> 00:29:36,200
+legend. 
+This moment is absolutely 
+
+614
+00:29:36,200 --> 00:29:39,560
+charged with dramatic irony. 
+Almost painful in its 
+
+615
+00:29:39,560 --> 00:29:41,520
+anticipation for us, knowing 
+what we know. 
+
+616
+00:29:41,840 --> 00:29:45,320
+Derriman, ever quick to assess, 
+instantly recognizes the 
+
+617
+00:29:45,320 --> 00:29:48,720
+Hafling's campaigners attire, 
+sign of a fellow traveler, maybe
+
+618
+00:29:48,720 --> 00:29:51,560
+a warrior. 
+They quickly make acquaintances,
+
+619
+00:29:51,600 --> 00:29:55,000
+finding common ground in this 
+tense, unwelcoming town. 
+
+620
+00:29:55,240 --> 00:29:59,560
+What makes this so compelling 
+and tragically ironic is that 
+
+621
+00:29:59,560 --> 00:30:02,000
+Van Richty's crucial warning 
+about these adventurers 
+
+622
+00:30:02,000 --> 00:30:06,200
+potentially being Strad's spies 
+is either forgotten in the rush 
+
+623
+00:30:06,200 --> 00:30:09,600
+of meeting a new companion, or 
+maybe deliberately dismissed by 
+
+624
+00:30:09,600 --> 00:30:12,080
+Eurohorn. 
+Maybe he values the potential 
+
+625
+00:30:12,080 --> 00:30:14,440
+ally right now more than a vague
+caution. 
+
+626
+00:30:14,600 --> 00:30:18,160
+Could be, but it creates 
+immediate dramatic irony for 
+
+627
+00:30:18,160 --> 00:30:21,600
+you, the listener, who knows the
+full terrible context of that 
+
+628
+00:30:21,600 --> 00:30:23,960
+warning. 
+So Derman and your own quickly 
+
+629
+00:30:23,960 --> 00:30:26,240
+become associates. 
+Derman says he's waiting for his
+
+630
+00:30:26,240 --> 00:30:28,280
+friends return, completely 
+unaware of the perilous 
+
+631
+00:30:28,280 --> 00:30:31,280
+situation they are in right now.
+And Speaking of peril, while 
+
+632
+00:30:31,280 --> 00:30:34,000
+Derman is safely back at the 
+inn, oblivious, your horns 
+
+633
+00:30:34,000 --> 00:30:36,800
+warning forgotten, Radley and 
+Tracidor having a very 
+
+634
+00:30:36,800 --> 00:30:40,040
+different, very dire experience.
+Yeah, the flip side of the coin.
+
+635
+00:30:40,160 --> 00:30:42,880
+They finally arrive at the 
+wreckage of the wagon, still 
+
+636
+00:30:42,880 --> 00:30:46,200
+trying to be cautious behind the
+houses, trying to see if Derman 
+
+637
+00:30:46,200 --> 00:30:48,400
+is in the crowd that's gathered 
+around the crash site. 
+
+638
+00:30:48,640 --> 00:30:50,680
+But it's not them who spot 
+Derman. 
+
+639
+00:30:50,840 --> 00:30:53,600
+Oh no. 
+It's the mob of of bystanders 
+
+640
+00:30:53,600 --> 00:30:56,720
+drawn by the chaos who spot 
+Traxador and Radley first. 
+
+641
+00:30:57,440 --> 00:30:59,680
+Oh, bad luck. 
+Someone yells the dreaded words.
+
+642
+00:30:59,760 --> 00:31:02,680
+It is the strangers that the 
+Burgo Mistress is looking for. 
+
+643
+00:31:02,680 --> 00:31:05,680
+And just like that, boom, 
+they're no longer cautious 
+
+644
+00:31:05,680 --> 00:31:07,800
+observers. 
+They are instant targets. 
+
+645
+00:31:08,320 --> 00:31:11,240
+The public spectacle Dermont 
+created is now coming back to 
+
+646
+00:31:11,240 --> 00:31:13,160
+haunt his unsuspecting 
+companions. 
+
+647
+00:31:13,240 --> 00:31:16,640
+The chase begins immediately, a 
+frantic, desperate flight. 
+
+648
+00:31:16,640 --> 00:31:19,840
+Instantly, a group of vigilantes
+eager to earn the burger 
+
+649
+00:31:19,840 --> 00:31:22,520
+mistresses favor, or maybe just 
+lash out of those they perceive 
+
+650
+00:31:22,520 --> 00:31:24,240
+as the cause of their fear 
+charges. 
+
+651
+00:31:24,240 --> 00:31:27,800
+After them, Bradley and Tracidor
+are forced to turn tail, run N 
+
+652
+00:31:27,800 --> 00:31:29,400
+up the street. 
+Their only hope? 
+
+653
+00:31:29,600 --> 00:31:32,760
+The Northgate with the angry mob
+hot on their heels. 
+
+654
+00:31:32,800 --> 00:31:36,280
+It's a swift, brutal turn of 
+offense, a direct, devastating 
+
+655
+00:31:36,280 --> 00:31:38,680
+consequence of the public 
+spectacle Dermont's heist 
+
+656
+00:31:38,680 --> 00:31:41,080
+created. 
+Their earlier caution trying to 
+
+657
+00:31:41,080 --> 00:31:44,760
+stay inconspicuous, meaningless 
+now in the face of an enraged, 
+
+658
+00:31:44,840 --> 00:31:48,040
+terrified populace. 
+At the gate their desperation 
+
+659
+00:31:48,040 --> 00:31:50,440
+becomes helpable. 
+They see a small continued of 
+
+660
+00:31:50,440 --> 00:31:54,720
+guards, another warden will 
+sprinting Tracidor thinking fast
+
+661
+00:31:54,720 --> 00:31:58,680
+pregnant offers them money, 
+hopes to bribe his way out, 
+
+662
+00:31:58,840 --> 00:32:00,320
+escape Valachi's tightening 
+grip. 
+
+663
+00:32:00,360 --> 00:32:02,280
+Does it work? 
+A long shot, maybe. 
+
+664
+00:32:02,320 --> 00:32:04,960
+Nope. 
+The Warden, clearly loyal, may 
+
+665
+00:32:04,960 --> 00:32:06,960
+be emboldened by the mob and the
+new regime. 
+
+666
+00:32:06,960 --> 00:32:11,120
+Severity just sneers, retorts 
+with this chilling finality that
+
+667
+00:32:11,120 --> 00:32:12,840
+he'll have his money when he is 
+dead. 
+
+668
+00:32:13,880 --> 00:32:16,480
+Chilling underscores the 
+absolute authority, the 
+
+669
+00:32:16,480 --> 00:32:20,200
+ruthlessness, of the new Vlachi.
+Radley tries a different tactic,
+
+670
+00:32:20,280 --> 00:32:23,080
+throws coins into the mob, 
+hoping to distract or deter 
+
+671
+00:32:23,080 --> 00:32:25,000
+them. 
+Scatter them with greed maybe? 
+
+672
+00:32:25,040 --> 00:32:28,280
+Buys them a second. 
+Doesn't work, only fuels their 
+
+673
+00:32:28,280 --> 00:32:31,320
+desire to earn the burger 
+mistresses favor makes them even
+
+674
+00:32:31,320 --> 00:32:34,280
+more fervent in their pursuit. 
+It's a total lose lose 
+
+675
+00:32:34,280 --> 00:32:36,680
+situation. 
+Every attempted solution just 
+
+676
+00:32:36,680 --> 00:32:39,320
+deepens their predicament. 
+So the fight breaks out, a 
+
+677
+00:32:39,320 --> 00:32:42,520
+desperate, unequal struggle. 
+The melee is joined. 
+
+678
+00:32:42,880 --> 00:32:45,680
+Despite the adventurers inherent
+skill at arms, they're proven 
+
+679
+00:32:45,680 --> 00:32:48,320
+combat prowess. 
+The Valaki militia and the 
+
+680
+00:32:48,320 --> 00:32:50,320
+enraged mob are simply too 
+numerous. 
+
+681
+00:32:50,760 --> 00:32:53,080
+An overwhelming tide of bodies 
+and anger. 
+
+682
+00:32:53,080 --> 00:32:56,160
+But they must put up a fight. 
+Oh yeah, the source confirms 
+
+683
+00:32:56,160 --> 00:32:59,000
+their skill. 
+Several guards are slain, a half
+
+684
+00:32:59,000 --> 00:33:02,520
+dozen vigilantes dispatched by 
+Traxidor's powerful Thunder Wave
+
+685
+00:33:02,520 --> 00:33:04,760
+spell. 
+That burst of concussive force 
+
+686
+00:33:04,760 --> 00:33:07,640
+that pushes enemies back shows 
+their fighting ability. 
+
+687
+00:33:07,640 --> 00:33:09,400
+They can inflict significant 
+damage. 
+
+688
+00:33:09,920 --> 00:33:13,720
+Traxidor also uses healing magic
+to deflect injury, showing his 
+
+689
+00:33:13,720 --> 00:33:14,480
+resilience. 
+The. 
+
+690
+00:33:14,800 --> 00:33:17,000
+Sheer numbers. 
+Sheer numbers overwhelm them. 
+
+691
+00:33:17,240 --> 00:33:20,720
+The mob just pummels them 
+mercilessly until they finally 
+
+692
+00:33:20,720 --> 00:33:23,520
+fall beneath their feet, 
+unconscious, utterly defeated, 
+
+693
+00:33:23,760 --> 00:33:26,080
+captured by the very town they 
+were trying to navigate. 
+
+694
+00:33:26,360 --> 00:33:29,040
+The brutal defeat illustrating 
+that even the most skilled 
+
+695
+00:33:29,040 --> 00:33:31,680
+adventurers can be brought down 
+by overwhelming force, 
+
+696
+00:33:32,080 --> 00:33:34,760
+especially in a hostile place 
+like Falaki where the populace 
+
+697
+00:33:34,760 --> 00:33:38,320
+itself becomes an enemy. 
+And the news spreads like 
+
+698
+00:33:38,320 --> 00:33:41,640
+wildfire, I assume, in a tense, 
+insular town like that. 
+
+699
+00:33:41,720 --> 00:33:43,720
+Exactly. 
+The word of the brawl, the 
+
+700
+00:33:43,720 --> 00:33:46,880
+chase, the capture of these 
+strangers quickly echoes across 
+
+701
+00:33:46,880 --> 00:33:49,560
+Falaki. 
+Sometime later, back at the Blue
+
+702
+00:33:49,560 --> 00:33:53,760
+Water Inn, Danica, now frantic, 
+clearly shaken, rushes into the 
+
+703
+00:33:53,760 --> 00:33:55,240
+tap room. 
+To tell Derman. 
+
+704
+00:33:55,480 --> 00:33:59,720
+Yells to Derman, delivering the 
+devastating news his friends 
+
+705
+00:33:59,720 --> 00:34:02,560
+Radley and Tracks Door have been
+captured by the Burger 
+
+706
+00:34:02,560 --> 00:34:05,600
+Mistress's soldiers. 
+The consequences of the earlier 
+
+707
+00:34:05,600 --> 00:34:09,840
+Chaos Derman's impulsive heist 
+have finally caught up and 
+
+708
+00:34:09,840 --> 00:34:13,040
+Derriman, with his newly formed,
+highly ironic alliance with 
+
+709
+00:34:13,040 --> 00:34:16,480
+Eurohorn, is now left holding 
+the bag, facing an impossible 
+
+710
+00:34:16,480 --> 00:34:18,480
+dilemma. 
+This isn't just a question of 
+
+711
+00:34:18,480 --> 00:34:21,719
+what Derriman and Eurohorn will 
+do now, it's how this crisis 
+
+712
+00:34:21,719 --> 00:34:24,360
+will define their characters, 
+their brand new alliance. 
+
+713
+00:34:24,400 --> 00:34:26,320
+Right. 
+That dramatic irony of Van 
+
+714
+00:34:26,320 --> 00:34:29,280
+Richten's warning, totally 
+ignored by Eurohorn, who's now 
+
+715
+00:34:29,280 --> 00:34:31,560
+allied with one of the very 
+individuals Van Richten 
+
+716
+00:34:31,560 --> 00:34:34,440
+cautioned him against. 
+Combined with the swift, brutal 
+
+717
+00:34:34,440 --> 00:34:37,000
+capture of the others, it sets 
+the stage for a truly 
+
+718
+00:34:37,000 --> 00:34:38,920
+precarious, unpredictable 
+future. 
+
+719
+00:34:38,920 --> 00:34:41,800
+Will your horns trust in Dermont
+even survives this? 
+
+720
+00:34:41,880 --> 00:34:44,480
+What does it say about the 
+dangers of forging alliances in 
+
+721
+00:34:44,480 --> 00:34:47,000
+a land where mistrust is often 
+the safest bet? 
+
+722
+00:34:47,120 --> 00:34:49,679
+And what kind of impossible 
+choices will they face knowing 
+
+723
+00:34:49,679 --> 00:34:52,239
+their comrades are now at the 
+mercy of the Lockies new 
+
+724
+00:34:52,400 --> 00:34:55,719
+ruthless regime? 
+The stage is set for an epic, 
+
+725
+00:34:55,719 --> 00:34:57,760
+potentially deadly 
+confrontation. 
+
+726
+00:34:58,360 --> 00:35:01,120
+Loyalties tested, the true cost 
+of their actions becoming 
+
+727
+00:35:01,120 --> 00:35:02,920
+painfully clear. 
+Hashtag out. 
+
+728
+00:35:03,080 --> 00:35:07,040
+Wow, what a session, huh? 
+From that meticulously re 
+
+729
+00:35:07,040 --> 00:35:10,080
+evaluated tarot reading offering
+both guidance and just 
+
+730
+00:35:10,080 --> 00:35:14,320
+frustrating mystery, to a 
+spectacularly chaotic wagon 
+
+731
+00:35:14,320 --> 00:35:18,200
+heist ending in that dramatic 
+crash and, well, moral 
+
+732
+00:35:18,200 --> 00:35:19,760
+ambiguity. 
+Definitely ambiguity. 
+
+733
+00:35:19,800 --> 00:35:23,320
+To the surprising, highly 
+significant entrance of Rudolf 
+
+734
+00:35:23,320 --> 00:35:25,480
+van Richten, the renowned 
+Monster Hunter. 
+
+735
+00:35:25,800 --> 00:35:29,920
+And finally, the shocking 
+capture of two key adventurers. 
+
+736
+00:35:30,400 --> 00:35:33,320
+This deep dive has truly shown 
+us that fine line between 
+
+737
+00:35:33,320 --> 00:35:37,280
+triumph and disaster, and how 
+swiftly fortunes can turn in the
+
+738
+00:35:37,280 --> 00:35:40,520
+treacherous lands of Barovia, 
+where every victory can carry 
+
+739
+00:35:40,520 --> 00:35:43,440
+some hidden unforeseen costs. 
+And you've seen how quickly 
+
+740
+00:35:43,440 --> 00:35:46,440
+alliances can form and crumble, 
+how good intentions can lead to 
+
+741
+00:35:46,440 --> 00:35:49,400
+devastating unintended 
+consequences, and how a well 
+
+742
+00:35:49,400 --> 00:35:52,440
+meaning critical warning can be 
+totally ignored, leading to 
+
+743
+00:35:52,440 --> 00:35:55,280
+immediate, perilous outcomes. 
+So with Radley and Traxidor are 
+
+744
+00:35:55,280 --> 00:35:58,280
+now in the Burgo Mistress's 
+clutches, imprisoned by the very
+
+745
+00:35:58,360 --> 00:36:01,040
+authority they were trying to 
+evade, what does this mean for 
+
+746
+00:36:01,040 --> 00:36:03,680
+the newly forged alliance 
+between Derriman and Yurihorn? 
+
+747
+00:36:03,960 --> 00:36:05,360
+Yeah. 
+Will Yurihorn realize the 
+
+748
+00:36:05,360 --> 00:36:07,200
+gravity of Van Richten's warning
+too late? 
+
+749
+00:36:07,680 --> 00:36:10,800
+Or will a shared enemy maybe 
+solidify their bond? 
+
+750
+00:36:11,360 --> 00:36:14,120
+And what role will Rudolf van 
+Richten, with his deep knowledge
+
+751
+00:36:14,120 --> 00:36:16,960
+and profound suspicions, 
+ultimately play in their 
+
+752
+00:36:16,960 --> 00:36:20,040
+unfolding story as these forces 
+of fate and consequence 
+
+753
+00:36:20,040 --> 00:36:22,440
+converge? 
+The stage is set for an epic and
+
+754
+00:36:22,440 --> 00:36:25,920
+potentially deadly confrontation
+where the very concept of trust 
+
+755
+00:36:25,920 --> 00:36:28,560
+is basically a weapon. 
+So what will you do next, 
+
+756
+00:36:28,800 --> 00:36:31,400
+knowing what you now know about 
+the perils and alliances of 
+
+757
+00:36:31,400 --> 00:36:32,000
+Valaki?
