@@ -65,6 +65,7 @@ FIXES = [
     (r"\b([Hh])yperfantasia\b", r"\1yperphantasia"), (r"prominent figur\b", "prominent figure"),
     (r"perception of relationsh\b", "perception of relationships"), (r"health mista\b", "health mistake"),
     (r"\b(another|subject|discourse|way|designed)a (<em>rambling)", r"\1: a \2"), (r"\btl:dr\b", "tl;dr"),
+    (r"Just a 55-year-old cisgender", "Just a 56-year-old cisgender"),  # the show blurb; Chris is 56 (Oct 2026)
 ]
 e = html.escape
 
