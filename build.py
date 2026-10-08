@@ -420,7 +420,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
     head.append("</head>")
     return "\n".join(head + [
         "<body>", '<div id="container">', '  <header id="banner">',
-        '    <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show banner: red and black cover art with a studio microphone" width="700" height="206" fetchpriority="high"></a>',
+        '    <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show banner: red and black cover art with a studio microphone" width="700" height="206"></a>',
         '    <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>',
         "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content">',
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
@@ -525,6 +525,20 @@ def seo_title(t):
     return t
 
 
+def srcset(src):
+    """A 400px copy next to each cover, so phones don't download the big one."""
+    from PIL import Image
+    small = src[:-4] + "-400.jpg"
+    path = os.path.join(ROOT, small.lstrip("/"))
+    if not os.path.exists(path):
+        im = Image.open(os.path.join(ROOT, src.lstrip("/"))).convert("RGB")
+        w = im.size[0]
+        im.thumbnail((400, 400), Image.LANCZOS)
+        im.save(path, "JPEG", quality=82, optimize=True, progressive=True)
+    big = Image.open(os.path.join(ROOT, src.lstrip("/"))).size[0] if src.endswith("show.jpg") else 800
+    return 'src="%s" srcset="%s 400w, %s %dw" sizes="(min-width: 700px) 636px, calc(100vw - 32px)"' % (src, small, src, big)
+
+
 def write(path, text):
     full = os.path.join(ROOT, path)
     os.makedirs(os.path.dirname(full), exist_ok=True)
@@ -596,9 +610,9 @@ def build(show, eps):
             '  <%s><a href="/%s">%s</a></%s>' % (heading, ep["path"], e(ep["title"]), heading),
             "  " + meta_line(n, ep),
             '  <div class="entry-body">',
-            '<img class="episode-art" src="%s" alt="Cover art for the episode %s" width="800" height="800">' % (art(ep), e(ep["title"])),
+            '<img class="episode-art" %s alt="Cover art for the episode %s" width="800" height="800" fetchpriority="high">' % (srcset(art(ep)), e(ep["title"])),
             '<audio class="player" controls preload="none" src="%s"><a href="%s">Download the audio</a></audio>' % (e(ep["audio"]), e(ep["audio"])),
-            '<p class="listen">Listen on <a href="%s">Spotify</a> · %s</p>' % (e(spotify_link(ep)), " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN[1:4] + LISTEN[-1:])),
+            '<p class="listen">Play <a href="%s">this episode on Spotify</a>, or subscribe: %s</p>' % (e(spotify_link(ep)), " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN[1:4] + LISTEN[-1:])),
             share,
             notes,
             "  </div>",
@@ -713,7 +727,7 @@ def build(show, eps):
     ]
     body = "\n".join([
         '<h1 class="archive-title">About</h1>', '<div class="entry-body">',
-        '<img class="episode-art" src="/assets/images/show.jpg" alt="The Chris Abraham Show cover art: the title in white on red and black, over a studio microphone" width="1000" height="1000">',
+        '<img class="episode-art" ' + srcset("/assets/images/show.jpg") + ' alt="The Chris Abraham Show cover art: the title in white on red and black, over a studio microphone" width="1000" height="1000">',
         clean_html(fixed(show["description"])),
         '<h2>Listen and Subscribe</h2>',
         "<ul>%s</ul>" % "".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN),
