@@ -19,6 +19,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -70,9 +71,16 @@ e = html.escape
 
 # ---------------------------------------------------------------- fetching
 
-def get(url, timeout=60):
-    with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
-        return r.read()
+def get(url, timeout=60, tries=3):
+    """Fetch with two retries, so one network hiccup doesn't fail the daily run."""
+    for attempt in range(tries):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
+                return r.read()
+        except Exception:
+            if attempt == tries - 1:
+                raise
+            time.sleep(10 * (attempt + 1))
 
 
 def parse_feed(xml_bytes):
@@ -814,6 +822,9 @@ def main():
     show, eps = saved["show"], saved["episodes"]
     if not offline:
         show, fresh = parse_feed(get(FEED))
+        # Fail loudly (a red X and an email) rather than publish a broken feed.
+        if not show["title"] or not fresh or len(fresh) < 0.9 * len(eps):
+            sys.exit("Feed looks wrong: %d episodes in the feed, %d already on the site. Nothing published." % (len(fresh), len(eps)))
         eps = merge(eps, fresh)
         show_assets(show["image"])
         for ep in eps:
