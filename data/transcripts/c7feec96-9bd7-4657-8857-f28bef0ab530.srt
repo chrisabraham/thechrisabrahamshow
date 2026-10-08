@@ -1,0 +1,2315 @@
+1
+00:00:00,040 --> 00:00:03,560
+Welcome to the deep dive where 
+we really try to get under the 
+
+2
+00:00:03,560 --> 00:00:07,720
+surface of things. 
+So let me ask you, have you ever
+
+3
+00:00:07,720 --> 00:00:12,320
+felt that little flicker, maybe 
+that almost uncomfortable 
+
+4
+00:00:12,320 --> 00:00:15,920
+feeling when you think about 
+societal support systems, like a
+
+5
+00:00:15,920 --> 00:00:18,320
+kind of resentment you can't 
+quite put your finger on that 
+
+6
+00:00:18,320 --> 00:00:20,880
+little twitch. 
+What if, and here's the thing, 
+
+7
+00:00:20,880 --> 00:00:25,160
+what if that feeling is like, 
+way older than any government 
+
+8
+00:00:25,160 --> 00:00:26,880
+program? 
+Really, really old. 
+
+9
+00:00:26,880 --> 00:00:28,960
+Rooted in something, I don't 
+know, primal. 
+
+10
+00:00:29,040 --> 00:00:30,720
+That's exactly the territory, 
+yeah. 
+
+11
+00:00:31,120 --> 00:00:34,080
+Fascinating and honestly pretty 
+uncomfortable ground we're 
+
+12
+00:00:34,080 --> 00:00:37,400
+covering today because this deep
+dive, it's it's not really about
+
+13
+00:00:37,400 --> 00:00:39,920
+the policy details, your 
+budgets, regulations, that 
+
+14
+00:00:39,920 --> 00:00:41,240
+stuff. 
+We're going deeper. 
+
+15
+00:00:41,240 --> 00:00:44,040
+We're digging into the the human
+side, the moral feelings that 
+
+16
+00:00:44,240 --> 00:00:46,520
+sometimes unsettling stuff 
+around giving and receiving 
+
+17
+00:00:46,520 --> 00:00:47,840
+help. 
+And the source we're using 
+
+18
+00:00:47,840 --> 00:00:50,680
+today, it offers this really 
+surprising way of looking at it 
+
+19
+00:00:50,680 --> 00:00:52,480
+all challenges, some big 
+assumptions. 
+
+20
+00:00:52,760 --> 00:00:54,240
+Right. 
+And that source is a piece by 
+
+21
+00:00:54,240 --> 00:00:57,760
+Chris Abraham called America's 
+Welfare Fatigue, the Moral 
+
+22
+00:00:57,760 --> 00:01:00,080
+Economy of the Met. 
+And, you know, he kicks it off 
+
+23
+00:01:00,080 --> 00:01:03,440
+with this very self aware 
+description, calls himself just 
+
+24
+00:01:03,440 --> 00:01:07,040
+a 53 year old cisgender white 
+male, mansplaining his own self 
+
+25
+00:01:07,040 --> 00:01:10,120
+importance, but good. 
+Which, you know, sets a certain 
+
+26
+00:01:10,120 --> 00:01:12,000
+tone. 
+But we're not really focused on 
+
+27
+00:01:12,000 --> 00:01:13,760
+that part. 
+We're using his diagnosis, his 
+
+28
+00:01:13,760 --> 00:01:17,600
+insights to unpack what he calls
+this secret psychic cost, you 
+
+29
+00:01:17,600 --> 00:01:20,240
+know, the hidden emotional toll 
+maybe at the heart of our safety
+
+30
+00:01:20,240 --> 00:01:21,800
+Nets. 
+So our mission really is to 
+
+31
+00:01:21,800 --> 00:01:26,120
+figure out why this welfare 
+fatigue feels so, well, real to 
+
+32
+00:01:26,120 --> 00:01:28,520
+so many people, even if we don't
+talk about it much, and what 
+
+33
+00:01:28,520 --> 00:01:30,600
+that tells us about, you know, 
+us humans. 
+
+34
+00:01:30,760 --> 00:01:33,000
+Exactly. 
+And that the source really 
+
+35
+00:01:33,000 --> 00:01:37,480
+pushes this idea that beneath 
+all the good intentions, all the
+
+36
+00:01:37,480 --> 00:01:39,800
+modern systems, there's this 
+ancient tension. 
+
+37
+00:01:40,080 --> 00:01:41,960
+It's not just economics, not 
+just politics. 
+
+38
+00:01:42,240 --> 00:01:43,960
+It goes way back. 
+It's psychological. 
+
+39
+00:01:44,480 --> 00:01:46,840
+So yeah, we're peeling back the 
+layers today, trying to 
+
+40
+00:01:46,840 --> 00:01:50,280
+understand the why behind the 
+fatigue, not just the complaints
+
+41
+00:01:50,280 --> 00:01:54,000
+about fraud or whatever, but the
+the deeper almost gut feelings 
+
+42
+00:01:54,000 --> 00:01:55,120
+involved. 
+It might be a little bit 
+
+43
+00:01:55,120 --> 00:01:57,960
+uncomfortable looking in that 
+mirror, but definitely 
+
+44
+00:01:57,960 --> 00:01:59,760
+illuminating. 
+OK, let's unpack this 
+
+45
+00:01:59,760 --> 00:02:02,400
+foundational idea. 
+Then the source hits US right 
+
+46
+00:02:02,400 --> 00:02:05,600
+away with this core argument. 
+Every modern welfare system 
+
+47
+00:02:05,600 --> 00:02:08,199
+contains the seeds of its own 
+discontent. 
+
+48
+00:02:08,800 --> 00:02:11,880
+Now that sounds strong because 
+on the surface, these systems, 
+
+49
+00:02:11,960 --> 00:02:13,640
+they seem noble, right? 
+Compassionate. 
+
+50
+00:02:13,640 --> 00:02:15,200
+The idea is simple. 
+We share the load. 
+
+51
+00:02:15,200 --> 00:02:18,400
+We look after the vulnerable 
+pool resources, make sure nobody
+
+52
+00:02:18,400 --> 00:02:20,360
+falls through the cracks. 
+Sounds good. 
+
+53
+00:02:20,360 --> 00:02:21,720
+Sounds great, Yeah, Who wouldn't
+want that? 
+
+54
+00:02:22,200 --> 00:02:25,720
+But Abraham says there's a but a
+big one right from the start. 
+
+55
+00:02:25,720 --> 00:02:30,800
+A kind of haunting tension. 
+And that but is where he brings 
+
+56
+00:02:30,800 --> 00:02:34,320
+in this haunting tension, as he 
+calls it something older than 
+
+57
+00:02:34,320 --> 00:02:38,280
+any bureaucracy. 
+He talks about this uneasy human
+
+58
+00:02:38,280 --> 00:02:42,040
+craving for visible 
+helplessness, which is wow, 
+
+59
+00:02:42,240 --> 00:02:44,320
+think about that. 
+We want to be generous, right? 
+
+60
+00:02:44,320 --> 00:02:46,640
+We want to give freely. 
+But then deep down, maybe 
+
+61
+00:02:46,640 --> 00:02:49,400
+unconsciously, we feel this. 
+This resentment if the person 
+
+62
+00:02:49,400 --> 00:02:51,640
+getting help doesn't seem broken
+enough. 
+
+63
+00:02:51,640 --> 00:02:54,880
+Broken enough? 
+Yeah, or grateful enough. 
+
+64
+00:02:54,880 --> 00:02:57,400
+Or small enough. 
+That's the phrasing he uses. 
+
+65
+00:02:57,800 --> 00:03:00,360
+And he's saying this isn't just 
+about modern taxes and forms. 
+
+66
+00:03:00,360 --> 00:03:02,720
+This is ancient, primal. 
+Like you said. 
+
+67
+00:03:02,880 --> 00:03:06,440
+It's like giving for the giver 
+comes with this unspoken 
+
+68
+00:03:06,440 --> 00:03:09,000
+expectation of seeing a certain 
+kind of performance from the 
+
+69
+00:03:09,000 --> 00:03:10,520
+receiver. 
+Performance of need. 
+
+70
+00:03:10,640 --> 00:03:12,640
+Exactly. 
+We want to help, but we also 
+
+71
+00:03:12,640 --> 00:03:15,520
+want to see the need to see the 
+gratitude, often in a way that 
+
+72
+00:03:15,520 --> 00:03:17,440
+frankly reinforces the power 
+dynamic. 
+
+73
+00:03:17,440 --> 00:03:19,600
+What do you mean about the 
+giver's moral comfort too? 
+
+74
+00:03:19,800 --> 00:03:23,080
+Which leads right into this idea
+of welfare fatigue being the 
+
+75
+00:03:23,080 --> 00:03:28,680
+secret psychic cost, the cost no
+budget line ever itemizes but 
+
+76
+00:03:28,680 --> 00:03:31,120
+that everyone senses. 
+I love that line. 
+
+77
+00:03:31,120 --> 00:03:32,520
+It's that feeling, right? 
+Yeah. 
+
+78
+00:03:32,520 --> 00:03:34,960
+That maybe you felt or you've 
+seen it in others when the 
+
+79
+00:03:34,960 --> 00:03:38,920
+person receiving aid, maybe they
+might stand up straight when 
+
+80
+00:03:38,920 --> 00:03:40,760
+they should stay crouched and 
+scraping. 
+
+81
+00:03:40,960 --> 00:03:42,560
+That's another powerful image he
+uses. 
+
+82
+00:03:42,560 --> 00:03:44,520
+It really is. 
+It's not about the money, is it?
+
+83
+00:03:44,520 --> 00:03:47,960
+It's deeper, like feeling 
+morally, I don't know, ripped 
+
+84
+00:03:47,960 --> 00:03:49,640
+off, even if there's no actual 
+fraud. 
+
+85
+00:03:49,720 --> 00:03:51,880
+Yeah, or like the unspoken rules
+were broken. 
+
+86
+00:03:52,160 --> 00:03:54,000
+This psychic cost really gets 
+it. 
+
+87
+00:03:54,000 --> 00:03:56,800
+Something uncomfortable about 
+us, about human nature, what we 
+
+88
+00:03:56,800 --> 00:03:59,320
+expect when we offer charity. 
+We want to feel good about 
+
+89
+00:03:59,320 --> 00:04:02,680
+giving inherently, but a lot of 
+that good feeling, that moral 
+
+90
+00:04:02,680 --> 00:04:05,920
+comfort, seems to come from 
+seeing a certain level of, well,
+
+91
+00:04:05,920 --> 00:04:08,240
+humility, maybe even objection, 
+honestly. 
+
+92
+00:04:08,240 --> 00:04:11,400
+And when that's disrupted, when 
+the person helped doesn't fit 
+
+93
+00:04:11,400 --> 00:04:13,760
+our old fashioned picture of the
+deserving poor. 
+
+94
+00:04:13,760 --> 00:04:16,040
+Then the resentment kicks in, 
+The fatigue. 
+
+95
+00:04:16,240 --> 00:04:18,000
+Exactly. 
+And it's not rational, not about
+
+96
+00:04:18,000 --> 00:04:20,920
+efficiency. 
+It's emotional, deeply human. 
+
+97
+00:04:20,920 --> 00:04:23,040
+As the source keep saying. 
+The giver is looking for 
+
+98
+00:04:23,040 --> 00:04:25,280
+validation, maybe for their own 
+goodness. 
+
+99
+00:04:25,560 --> 00:04:28,960
+And if the receiver looks too. 
+Whole Too independent, yeah. 
+
+100
+00:04:29,240 --> 00:04:30,920
+Then that validation doesn't 
+quite land. 
+
+101
+00:04:30,920 --> 00:04:35,280
+The transaction feels off, 
+incomplete, leaves you feeling 
+
+102
+00:04:35,280 --> 00:04:38,720
+uneasy, like your visible need 
+validates my generosity. 
+
+103
+00:04:39,000 --> 00:04:41,480
+If that's missing, the whole 
+thing feels shaky. 
+
+104
+00:04:41,520 --> 00:04:45,400
+This idea of performance, it's 
+absolutely key here. 
+
+105
+00:04:45,840 --> 00:04:48,400
+Which brings us to that really 
+vivid story he tells about the 
+
+106
+00:04:48,600 --> 00:04:50,440
+ancient beggar. 
+Can you picture it? 
+
+107
+00:04:50,480 --> 00:04:53,600
+This beggar in some old village,
+He gets this whole dynamic 
+
+108
+00:04:53,680 --> 00:04:55,720
+instinctively. 
+He's not just asking for scraps.
+
+109
+00:04:55,720 --> 00:04:58,720
+He's putting on a show, a 
+performance of need. 
+
+110
+00:04:59,280 --> 00:05:02,680
+He made himself legless, or at 
+least appeared so crawling on a 
+
+111
+00:05:02,680 --> 00:05:05,760
+pallet, tapping his bowl, 
+keeping his eyes down, never 
+
+112
+00:05:05,760 --> 00:05:08,200
+making eye contact. 
+And the source says this wasn't 
+
+113
+00:05:08,200 --> 00:05:09,800
+new. 
+This performance was as old as 
+
+114
+00:05:09,800 --> 00:05:11,840
+bread. 
+It was a ritual designed to get 
+
+115
+00:05:11,840 --> 00:05:14,200
+a specific reaction. 
+Unnecessary reaction. 
+
+116
+00:05:14,200 --> 00:05:17,120
+Yeah, a whole social dance 
+really, based on these perceived
+
+117
+00:05:17,120 --> 00:05:20,120
+moral duties. 
+And that performance, it's built
+
+118
+00:05:20,120 --> 00:05:23,920
+on this unspoken social 
+contract, a moral economy, 
+
+119
+00:05:23,920 --> 00:05:26,320
+right? 
+The beggar knew, Abraham says. 
+
+120
+00:05:26,320 --> 00:05:29,160
+The value of the costume knew 
+the difference between the 
+
+121
+00:05:29,160 --> 00:05:32,160
+ruined coat for the square and 
+the cleaner tunic for home. 
+
+122
+00:05:32,320 --> 00:05:35,560
+OK, So what we might call fraud 
+today. 
+
+123
+00:05:35,640 --> 00:05:38,440
+Right, he reframes it. 
+It wasn't fraud in that context.
+
+124
+00:05:38,440 --> 00:05:41,520
+It was part of the deal. 
+Visible Rowan in exchange for 
+
+125
+00:05:41,520 --> 00:05:45,120
+alms, Secrecy for small 
+dignities carried behind closed 
+
+126
+00:05:45,120 --> 00:05:48,560
+doors. 
+The beggar knew implicitly that 
+
+127
+00:05:48,560 --> 00:05:51,440
+the village would keep seating 
+him only so long as he gave them
+
+128
+00:05:51,440 --> 00:05:54,040
+back their moral comfort. 
+Their moral comfort, That's the 
+
+129
+00:05:54,040 --> 00:05:54,800
+key. 
+Absolutely. 
+
+130
+00:05:54,800 --> 00:05:56,880
+This wasn't some abstract 
+government program. 
+
+131
+00:05:56,880 --> 00:05:59,440
+It was face to face, local, 
+personal. 
+
+132
+00:05:59,760 --> 00:06:02,720
+If the performance failed, if 
+the villagers lost patience, 
+
+133
+00:06:03,240 --> 00:06:06,160
+there was no safety net, you 
+crawled to the next town or you 
+
+134
+00:06:06,160 --> 00:06:08,360
+starved. 
+So that directness, that 
+
+135
+00:06:08,360 --> 00:06:10,440
+visceral link between the 
+performance and survival, it 
+
+136
+00:06:10,440 --> 00:06:12,680
+really shows how deep these 
+expectations run. 
+
+137
+00:06:13,280 --> 00:06:15,560
+The villagers needed to feel 
+compassionate and the beggar 
+
+138
+00:06:15,560 --> 00:06:17,960
+provided the proof. 
+OK, but here's where it gets 
+
+139
+00:06:17,960 --> 00:06:21,000
+really interesting, right? 
+Because he takes that ancient 
+
+140
+00:06:21,000 --> 00:06:23,840
+scene and slams it right into 
+our modern world. 
+
+141
+00:06:23,920 --> 00:06:27,240
+He says. 
+The problem is not that the 
+
+142
+00:06:27,240 --> 00:06:30,560
+moral instinct has changed, but 
+that we pretend it has while 
+
+143
+00:06:30,560 --> 00:06:33,920
+building a machinery that 
+depends on the old moral reflex.
+
+144
+00:06:35,080 --> 00:06:37,600
+So we say we want empowerment, 
+dignity. 
+
+145
+00:06:37,600 --> 00:06:39,920
+We talk about helping people get
+back on their feet, become 
+
+146
+00:06:39,920 --> 00:06:42,680
+whole, independent. 
+We tell ourselves these nice 
+
+147
+00:06:42,680 --> 00:06:45,760
+stories, maybe invoke religious 
+ideals like the loaves and 
+
+148
+00:06:45,760 --> 00:06:48,680
+fishes as if Jesus was running a
+state funded food bank. 
+
+149
+00:06:48,720 --> 00:06:50,200
+Right. 
+We have these high ideals we 
+
+150
+00:06:50,200 --> 00:06:52,960
+talk about, but what? 
+Happens when the reality doesn't
+
+151
+00:06:52,960 --> 00:06:57,000
+match that subconscious ancient 
+script, when our gut reaction 
+
+152
+00:06:57,000 --> 00:06:59,480
+clashes with our stated values. 
+That's exactly it. 
+
+153
+00:06:59,520 --> 00:07:01,720
+That's when is the source puts 
+it so uncomfortably. 
+
+154
+00:07:02,200 --> 00:07:05,120
+The suspicion of betrayal blooms
+like mildew in the soul. 
+
+155
+00:07:05,520 --> 00:07:08,360
+It happens when the recipients 
+just don't look or act the way 
+
+156
+00:07:08,360 --> 00:07:10,680
+our deep seated expectations say
+they should. 
+
+157
+00:07:11,080 --> 00:07:14,120
+Not sufficiently grateful or 
+perpetually pitiful. 
+
+158
+00:07:14,120 --> 00:07:15,560
+And he gives those modern 
+examples. 
+
+159
+00:07:15,680 --> 00:07:17,880
+Yeah, they're really concrete 
+ones that probably make people 
+
+160
+00:07:17,880 --> 00:07:19,760
+nod even if they don't want to 
+admit it. 
+
+161
+00:07:20,120 --> 00:07:23,120
+Posting a selfie with a new 
+phone, standing up too straight 
+
+162
+00:07:23,120 --> 00:07:26,480
+in the queue, wearing decent 
+shoes, speaking too freely about
+
+163
+00:07:26,480 --> 00:07:28,800
+what they feel they're owed. 
+Things that break the image of 
+
+164
+00:07:28,800 --> 00:07:31,280
+helplessness. 
+Exactly, and the point he 
+
+165
+00:07:31,280 --> 00:07:35,520
+hammers Hone is this reaction, 
+this suspicion, is not rational,
+
+166
+00:07:35,960 --> 00:07:39,400
+but it is deeply human. 
+It's not always about actual 
+
+167
+00:07:39,400 --> 00:07:41,520
+provable fraud, though, that's a
+separate issue. 
+
+168
+00:07:41,880 --> 00:07:46,280
+This is more about the optics, 
+the optics of undeserving, the 
+
+169
+00:07:46,280 --> 00:07:48,920
+visual cues that just violate 
+that unwritten contract. 
+
+170
+00:07:49,600 --> 00:07:52,600
+The welfare office itself might 
+not demand you limp, but the 
+
+171
+00:07:52,600 --> 00:07:55,280
+public mind, the collective 
+feeling, it often does. 
+
+172
+00:07:55,480 --> 00:07:58,560
+That fragile membrane, he calls 
+it, between giver and receiver. 
+
+173
+00:07:59,120 --> 00:08:01,840
+It needs that visible difference
+between the humbled recipient 
+
+174
+00:08:02,000 --> 00:08:03,520
+and the standing resentful 
+giver. 
+
+175
+00:08:03,520 --> 00:08:04,920
+Why? 
+Why does it need that 
+
+176
+00:08:04,920 --> 00:08:07,400
+difference? 
+Because, he argues, that 
+
+177
+00:08:07,400 --> 00:08:10,640
+difference is what keeps the 
+whole moral economy flowing. 
+
+178
+00:08:11,200 --> 00:08:13,280
+It keeps the givers feeling OK 
+about giving. 
+
+179
+00:08:14,040 --> 00:08:17,640
+The state system might be 
+managing social unrest risk, but
+
+180
+00:08:17,640 --> 00:08:20,880
+this performance manages the 
+risk of moral revolt from the 
+
+181
+00:08:20,880 --> 00:08:22,680
+people paying for it. 
+That fatigue. 
+
+182
+00:08:22,680 --> 00:08:25,040
+It's subtle, emotional, not 
+logical. 
+
+183
+00:08:25,240 --> 00:08:29,000
+Deeply emotional. 
+We want to give, but maybe 
+
+184
+00:08:29,360 --> 00:08:32,280
+unconsciously we demand 
+something back. 
+
+185
+00:08:32,280 --> 00:08:35,679
+A visible performance of need. 
+This is, yeah, it is definitely 
+
+186
+00:08:35,679 --> 00:08:38,039
+forcing a look in the mirror, 
+But the source doesn't just 
+
+187
+00:08:38,039 --> 00:08:39,919
+leave us there. 
+It offers this really disruptive
+
+188
+00:08:39,919 --> 00:08:44,000
+alternative Jesus's approach to 
+giving, which he describes as 
+
+189
+00:08:44,000 --> 00:08:46,960
+coming in with a sledgehammer 
+and also with a crust of bread. 
+
+190
+00:08:47,080 --> 00:08:49,520
+Right, a total disruption. 
+And the key distinction Right 
+
+191
+00:08:49,520 --> 00:08:52,000
+off the bat? 
+Jesus fed thousands, yes, but 
+
+192
+00:08:52,000 --> 00:08:55,520
+never with Caesar's taxes. 
+That's fundamental, absolutely 
+
+193
+00:08:55,520 --> 00:08:57,120
+critical. 
+It sets it completely apart from
+
+194
+00:08:57,120 --> 00:09:00,240
+our modern state-run systems, a 
+different kind of economy 
+
+195
+00:09:00,240 --> 00:09:01,160
+altogether. 
+How so? 
+
+196
+00:09:01,160 --> 00:09:03,600
+What was the difference? 
+Well, the source points out, he 
+
+197
+00:09:03,600 --> 00:09:07,480
+multiplied fish and loaves not 
+by commanding the local treasury
+
+198
+00:09:07,480 --> 00:09:10,240
+to fund it, but by taking what 
+was freely offered. 
+
+199
+00:09:11,200 --> 00:09:14,960
+Remember just a few scraps from 
+a boy handed back out with 
+
+200
+00:09:14,960 --> 00:09:16,600
+nothing asked in return except 
+faith. 
+
+201
+00:09:17,040 --> 00:09:20,240
+Except faith, not paperwork. 
+Exactly. 
+
+202
+00:09:20,960 --> 00:09:24,080
+And the principle was clear. 
+You received without charge, 
+
+203
+00:09:24,440 --> 00:09:26,800
+give without charge. 
+That's from Matthew. 
+
+204
+00:09:27,160 --> 00:09:30,040
+He wasn't setting up permanent 
+dole collectors or sending 
+
+205
+00:09:30,040 --> 00:09:31,640
+invoices to the Roman 
+government. 
+
+206
+00:09:32,440 --> 00:09:35,800
+When he sent his disciples out, 
+he told them essentially rely on
+
+207
+00:09:35,800 --> 00:09:37,360
+the hospitality of those who 
+help. 
+
+208
+00:09:37,880 --> 00:09:41,720
+The Labor deserves his keep. 
+So not endless handouts. 
+
+209
+00:09:41,720 --> 00:09:44,640
+No, it was more like a direct 
+short circuit exchange. 
+
+210
+00:09:44,800 --> 00:09:47,360
+Give what you have, receive what
+you need, move on if they do not
+
+211
+00:09:47,360 --> 00:09:49,520
+want it. 
+And that move on part is key. 
+
+212
+00:09:49,680 --> 00:09:52,120
+That's the mercy with edges. 
+Mercy with edges. 
+
+213
+00:09:52,120 --> 00:09:54,000
+I like that. 
+What does it mean practically? 
+
+214
+00:09:54,040 --> 00:09:55,640
+It means there were 
+consequences. 
+
+215
+00:09:55,760 --> 00:09:57,440
+Boundaries. 
+Remember the instruction. 
+
+216
+00:09:57,480 --> 00:10:01,000
+If anyone will not welcome you 
+or listen to your words, shake 
+
+217
+00:10:01,000 --> 00:10:03,280
+the dust off your feet when you 
+leave that home or town. 
+
+218
+00:10:03,520 --> 00:10:07,480
+Yeah, the source calls it mercy 
+that gave freely but never 
+
+219
+00:10:07,480 --> 00:10:11,120
+begged to be received, mercy 
+that walked away the moment it 
+
+220
+00:10:11,120 --> 00:10:14,920
+became a farce. 
+It's a stark contrast to modern 
+
+221
+00:10:14,920 --> 00:10:17,800
+systems that often feel like 
+they're constantly justifying 
+
+222
+00:10:17,800 --> 00:10:21,280
+their existence, begging to be 
+accepted by both taxpayers and 
+
+223
+00:10:21,280 --> 00:10:23,000
+recipients. 
+This was different. 
+
+224
+00:10:23,040 --> 00:10:25,880
+It implied a certain 
+responsibility even in receiving
+
+225
+00:10:25,880 --> 00:10:27,800
+help. 
+And related to that, this 
+
+226
+00:10:27,840 --> 00:10:31,320
+powerful idea that Jesus refused
+to keep the healed man on the 
+
+227
+00:10:31,320 --> 00:10:35,680
+mat, but that that symbol of 
+brokenness, dependency, right 
+
+228
+00:10:35,680 --> 00:10:39,040
+the place of the helpless. 
+But Jesus's instruction again 
+
+229
+00:10:39,040 --> 00:10:41,440
+and again was get up, take your 
+mat and walk. 
+
+230
+00:10:41,440 --> 00:10:43,960
+Right and often. 
+Go show yourself to the priest, 
+
+231
+00:10:43,960 --> 00:10:47,040
+meaning meaning reintegrate, go 
+back into the community, resume 
+
+232
+00:10:47,040 --> 00:10:49,760
+your life, prove your healing 
+within the existing social 
+
+233
+00:10:49,760 --> 00:10:52,400
+structure. 
+He wasn't just fixing bodies, he
+
+234
+00:10:52,400 --> 00:10:55,320
+was pushing them back towards 
+self efficiency, immediately 
+
+235
+00:10:55,640 --> 00:10:57,440
+disrupting that performance of 
+helplessness. 
+
+236
+00:10:57,440 --> 00:10:59,720
+So the source argues, there was 
+no third option. 
+
+237
+00:10:59,840 --> 00:11:03,040
+Pretty much you either rejoin 
+the community or you stayed 
+
+238
+00:11:03,040 --> 00:11:05,080
+broken. 
+You didn't get to just crawl 
+
+239
+00:11:05,080 --> 00:11:07,000
+back to the mat for tomorrow's 
+scraps. 
+
+240
+00:11:07,160 --> 00:11:09,920
+No perpetual dependency built 
+into the miracle itself. 
+
+241
+00:11:09,920 --> 00:11:12,720
+Which is uncomfortable when you 
+think about our modern debates 
+
+242
+00:11:13,200 --> 00:11:17,400
+about gratitude, long term aid. 
+Very uncomfortable and the 
+
+243
+00:11:17,400 --> 00:11:20,520
+source leans into it. 
+He points out where Jesus did 
+
+244
+00:11:20,520 --> 00:11:24,520
+not do many mighty works there 
+because of their unbelief, 
+
+245
+00:11:24,800 --> 00:11:28,000
+Meaning if people weren't 
+receptive, if they mocked the 
+
+246
+00:11:28,000 --> 00:11:30,960
+help or were ungrateful, he 
+didn't keep pushing. 
+
+247
+00:11:31,200 --> 00:11:34,040
+He did not reach deeper into 
+Jesus's purse to keep the 
+
+248
+00:11:34,040 --> 00:11:36,360
+ungrateful alive. 
+Judas's purse, meaning the 
+
+249
+00:11:36,360 --> 00:11:39,640
+collective resources they had. 
+Exactly, He didn't force the 
+
+250
+00:11:39,640 --> 00:11:41,360
+help, he shook the dust and 
+moved on. 
+
+251
+00:11:41,640 --> 00:11:43,880
+Which leads to that provocative 
+label the source uses. 
+
+252
+00:11:44,200 --> 00:11:45,360
+Asshole. 
+Jesus. 
+
+253
+00:11:45,480 --> 00:11:47,880
+Whoa. 
+OK, deliberately jarring the 
+
+254
+00:11:47,880 --> 00:11:51,320
+point is about aside. 
+We sanitize the man who fed you 
+
+255
+00:11:51,600 --> 00:11:54,880
+without asking your tax status, 
+but who would not feed you twice
+
+256
+00:11:54,880 --> 00:11:57,760
+if you mocked the miracle. 
+It's not about cruelty. 
+
+257
+00:11:58,000 --> 00:12:00,160
+It's about a mercy focused on 
+transformation and 
+
+258
+00:12:00,160 --> 00:12:02,600
+responsibility, not just endless
+feeding. 
+
+259
+00:12:02,640 --> 00:12:06,160
+So it raises that really tough 
+question, what is true mercy? 
+
+260
+00:12:06,640 --> 00:12:09,520
+Is it always just endless 
+provision no matter what? 
+
+261
+00:12:09,600 --> 00:12:13,880
+Does it have a goal beyond just 
+keeping someone alive, Like 
+
+262
+00:12:13,880 --> 00:12:16,640
+restoring dignity? 
+Yeah, agency. 
+
+263
+00:12:16,800 --> 00:12:18,200
+That seems to be the 
+implication. 
+
+264
+00:12:18,200 --> 00:12:21,720
+And that clarity, those edges, 
+they really highlight the modern
+
+265
+00:12:21,720 --> 00:12:23,640
+system's dilemma, don't they? 
+The source says. 
+
+266
+00:12:23,640 --> 00:12:26,920
+Our system wants to be 
+infinitely merciful with someone
+
+267
+00:12:26,920 --> 00:12:29,600
+else's money. 
+It wants transformation without 
+
+268
+00:12:29,600 --> 00:12:32,720
+offense, pity without limits. 
+Yeah, it's trying to square an 
+
+269
+00:12:32,720 --> 00:12:35,840
+impossible circle. 
+Universal compassion funded by 
+
+270
+00:12:35,840 --> 00:12:39,000
+taxes without any of the hard 
+edges or personal challenges. 
+
+271
+00:12:39,000 --> 00:12:41,280
+And that's where the critique 
+gets really sharp, that moral 
+
+272
+00:12:41,280 --> 00:12:44,120
+contradiction. 
+Abraham says the modern system 
+
+273
+00:12:44,120 --> 00:12:46,920
+wants the Kingdom of Heaven 
+funded by Caesar's purse and 
+
+274
+00:12:46,920 --> 00:12:49,640
+empire's bread lines with the 
+moral glow of the loaves and 
+
+275
+00:12:49,640 --> 00:12:52,840
+fishes trying to get the warm 
+fuzzy feeling of personal 
+
+276
+00:12:52,840 --> 00:12:55,280
+charity from an impersonal 
+compulsory system. 
+
+277
+00:12:55,320 --> 00:12:58,520
+And when it doesn't work? 
+When the fatigue sets in. 
+
+278
+00:12:58,640 --> 00:13:01,720
+Then the blame game starts. 
+Blame the recipient for being 
+
+279
+00:13:01,720 --> 00:13:03,640
+proud. 
+Blame the taxpayer for being 
+
+280
+00:13:03,640 --> 00:13:05,520
+stingy. 
+Blame the politicians. 
+
+281
+00:13:06,040 --> 00:13:09,800
+But, the source argues, never 
+blame the core contradiction. 
+
+282
+00:13:10,560 --> 00:13:14,320
+Trying to graft a personal 
+voluntary ethic onto an 
+
+283
+00:13:14,320 --> 00:13:17,880
+impersonal mandatory system and 
+expecting the same results, the 
+
+284
+00:13:17,880 --> 00:13:20,040
+same feelings, it just breeds 
+resentment. 
+
+285
+00:13:20,080 --> 00:13:23,800
+OK, so let's get practical then.
+Beyond the ideals, what does the
+
+286
+00:13:23,800 --> 00:13:27,920
+source say the modern system 
+actually does, if not miracles? 
+
+287
+00:13:27,920 --> 00:13:31,560
+He calls it the de facto company
+store for the moral class. 
+
+288
+00:13:31,800 --> 00:13:34,840
+That's the strong image. 
+It is very provocative, the 
+
+289
+00:13:34,840 --> 00:13:37,680
+company store analogy, you know,
+it suggests system that traps 
+
+290
+00:13:37,680 --> 00:13:40,200
+people, keeps in the dependent 
+rather than freeing them. 
+
+291
+00:13:41,080 --> 00:13:44,000
+Well, historically, company 
+stores kept workers in debt to 
+
+292
+00:13:44,000 --> 00:13:46,680
+the employer. 
+Abraham uses it to suggest the 
+
+293
+00:13:46,680 --> 00:13:49,600
+welfare system has a different, 
+maybe more cynical, function 
+
+294
+00:13:49,600 --> 00:13:53,000
+than just helping people. 
+It's real job, he argues, is to 
+
+295
+00:13:53,160 --> 00:13:56,480
+keep the masses pacify, prevent 
+riots, keep the desperate from 
+
+296
+00:13:56,480 --> 00:13:59,480
+becoming too desperate, and 
+crucially, to reassure the 
+
+297
+00:13:59,480 --> 00:14:01,800
+middle that they are not 
+monsters for letting so many 
+
+298
+00:14:01,800 --> 00:14:03,920
+slip through the cracks. 
+It manages guilt. 
+
+299
+00:14:03,920 --> 00:14:06,160
+So it's more about maintenance 
+than transformation. 
+
+300
+00:14:06,320 --> 00:14:09,840
+That's the argument, since real 
+transformation is not built in, 
+
+301
+00:14:09,840 --> 00:14:12,240
+because it's about managing the 
+problem, not solving it. 
+
+302
+00:14:12,680 --> 00:14:16,640
+Then the scraping ever ends. 
+It's managing symptoms, keeping 
+
+303
+00:14:16,640 --> 00:14:19,320
+things stable, preserving the 
+moral self-image of the 
+
+304
+00:14:19,320 --> 00:14:22,680
+comfortable, maybe more than 
+truly empowering the vulnerable.
+
+305
+00:14:22,840 --> 00:14:26,320
+Which leads to what he calls the
+quiet mutual fraud. 
+
+306
+00:14:26,400 --> 00:14:29,440
+Explain that. 
+OK, so if the system is this 
+
+307
+00:14:29,440 --> 00:14:32,640
+company store managing 
+perceptions and keeping things 
+
+308
+00:14:32,640 --> 00:14:35,080
+quiet, then the practical result
+is Harsh. 
+
+309
+00:14:36,320 --> 00:14:40,080
+The beggar who forgets the 
+script jeopardizes the teat for 
+
+310
+00:14:40,080 --> 00:14:42,840
+everyone. 
+Meaning if you don't perform the
+
+311
+00:14:42,840 --> 00:14:44,360
+expected helplessness. 
+Right. 
+
+312
+00:14:44,360 --> 00:14:46,920
+If the performance of ruin is 
+not maintained, if you stand up 
+
+313
+00:14:46,920 --> 00:14:49,560
+too straight, look too healthy, 
+seem to okay, then the whole 
+
+314
+00:14:49,560 --> 00:14:52,200
+system comes under scrutiny. 
+People start demanding audits, 
+
+315
+00:14:52,200 --> 00:14:55,200
+more rules cuts that welfare 
+fatigue flares up. 
+
+316
+00:14:55,360 --> 00:14:58,400
+The message is play the part 
+where the support dries up for 
+
+317
+00:14:58,400 --> 00:15:00,000
+everyone. 
+So the poor learn. 
+
+318
+00:15:00,240 --> 00:15:03,560
+They learned to lean into the 
+visible ruin, to crawl 
+
+319
+00:15:03,560 --> 00:15:06,960
+convincingly, to keep the Chanel
+tunic hidden at home. 
+
+320
+00:15:07,160 --> 00:15:11,480
+That's the quiet mutual fraud. 
+It's this unspoken deal. 
+
+321
+00:15:12,240 --> 00:15:15,320
+The taxpayer, consciously or 
+not, wants the theater. 
+
+322
+00:15:15,640 --> 00:15:18,080
+They need to see the struggle to
+feel OK about the giving. 
+
+323
+00:15:18,120 --> 00:15:20,080
+And the recipient. 
+The recipient delivers it, they 
+
+324
+00:15:20,080 --> 00:15:23,200
+perform the expected role, and 
+the breast keeps producing milk.
+
+325
+00:15:23,440 --> 00:15:26,440
+So long as the performance 
+reassures the moral mind that no
+
+326
+00:15:26,440 --> 00:15:29,880
+one is getting away with 
+anything, the show has to go on.
+
+327
+00:15:30,120 --> 00:15:31,840
+Think about those viral moments,
+right? 
+
+328
+00:15:32,160 --> 00:15:35,560
+Someone on benefits caught doing
+something that looks too good. 
+
+329
+00:15:35,720 --> 00:15:38,160
+Exactly. 
+The outrage isn't just about the
+
+330
+00:15:38,160 --> 00:15:39,960
+money. 
+It's about breaking the script, 
+
+331
+00:15:40,600 --> 00:15:43,080
+shattering the illusion that 
+keeps the system palatable. 
+
+332
+00:15:43,400 --> 00:15:46,840
+It's a performance for survival.
+How does this play out now in 
+
+333
+00:15:46,840 --> 00:15:49,040
+our world of smartphones and 
+social media? 
+
+334
+00:15:49,120 --> 00:15:51,320
+The source brings in this modern
+twist. 
+
+335
+00:15:51,760 --> 00:15:55,360
+The beggar has a phone, a 
+camera, an audience way bigger 
+
+336
+00:15:55,360 --> 00:15:57,920
+than the village square. 
+The ancient rolling pallet has a
+
+337
+00:15:57,920 --> 00:16:00,360
+live feed. 
+Yeah, and that visibility 
+
+338
+00:16:00,360 --> 00:16:03,080
+changes everything. 
+The Internet has made the old 
+
+339
+00:16:03,080 --> 00:16:06,960
+double life harder to contain. 
+That line he talks about between
+
+340
+00:16:06,960 --> 00:16:10,360
+survival, performance and real 
+healing, it gets incredibly 
+
+341
+00:16:10,360 --> 00:16:12,560
+blurry when everything's 
+potentially public. 
+
+342
+00:16:12,720 --> 00:16:15,920
+So someone performs need during 
+the day, but then posts a 
+
+343
+00:16:15,920 --> 00:16:17,400
+picture at night. 
+Exactly. 
+
+344
+00:16:17,760 --> 00:16:21,600
+Celebrating something small, 
+maybe just living, not realizing
+
+345
+00:16:21,600 --> 00:16:23,440
+who's watching. 
+And those moments get 
+
+346
+00:16:23,600 --> 00:16:27,200
+screenshotted, clipped, remixed.
+The hidden Chanel, the decent 
+
+347
+00:16:27,200 --> 00:16:31,240
+meal, the joke about scamming 
+the system taken out of context,
+
+348
+00:16:31,240 --> 00:16:33,040
+spread everywhere. 
+And the result is. 
+
+349
+00:16:33,040 --> 00:16:36,080
+Predictable outrage cries of 
+fraud. 
+
+350
+00:16:36,760 --> 00:16:40,080
+Not because, as the source says,
+the con is new, but because the 
+
+351
+00:16:40,080 --> 00:16:43,400
+illusion cracked in public. 
+It shows how fragile that whole 
+
+352
+00:16:43,400 --> 00:16:46,000
+moral comfort thing is when you 
+can't control the performance 
+
+353
+00:16:46,000 --> 00:16:48,640
+anymore, when the backstage 
+becomes visible. 
+
+354
+00:16:48,640 --> 00:16:50,760
+The Internet just rips the 
+curtain down, constantly 
+
+355
+00:16:50,760 --> 00:16:53,640
+threatening to expose how this 
+moral economy actually works. 
+
+356
+00:16:54,080 --> 00:16:56,760
+And that just fuels more 
+fatigue, more suspicion. 
+
+357
+00:16:56,960 --> 00:16:59,920
+So the take away seems to be if 
+you want the milk to keep 
+
+358
+00:16:59,920 --> 00:17:02,360
+flowing, you must keep the 
+performance tight. 
+
+359
+00:17:03,040 --> 00:17:04,960
+The source is blunt about what's
+required. 
+
+360
+00:17:05,200 --> 00:17:08,240
+The ruin must be visible, The 
+scraping must be audible. 
+
+361
+00:17:08,400 --> 00:17:11,599
+The mat must stay in view. 
+The grateful thank you, Sir, 
+
+362
+00:17:11,599 --> 00:17:15,000
+must always be ready. 
+It's incredibly bleak, isn't it?
+
+363
+00:17:15,040 --> 00:17:17,400
+Almost demeaning? 
+It essentially locks people into
+
+364
+00:17:17,400 --> 00:17:19,960
+performing victimhood. 
+And the darker side of that. 
+
+365
+00:17:20,200 --> 00:17:23,800
+Is the warning never stand up 
+too straight unless you are 
+
+366
+00:17:23,800 --> 00:17:27,079
+ready to stand fully on your own
+and register yourself with the 
+
+367
+00:17:27,079 --> 00:17:30,560
+priests. 
+The system as he sees it has no 
+
+368
+00:17:30,560 --> 00:17:33,600
+patience for healed people who 
+keep asking for the scraps. 
+
+369
+00:17:33,720 --> 00:17:36,600
+It's either visibly broken or 
+totally independent. 
+
+370
+00:17:36,680 --> 00:17:39,360
+That's the implication. 
+No comfortable middle ground, 
+
+371
+00:17:39,760 --> 00:17:42,520
+because if someone looks too 
+whole while still getting help, 
+
+372
+00:17:42,760 --> 00:17:45,120
+the village will feel cheated. 
+And then everyone pays. 
+
+373
+00:17:45,280 --> 00:17:47,640
+The contract is broken, 
+resentment flares. 
+
+374
+00:17:47,640 --> 00:17:49,120
+The whole system feels 
+threatened. 
+
+375
+00:17:49,200 --> 00:17:51,920
+It reinforces the idea that it's
+about managing a visible 
+
+376
+00:17:51,920 --> 00:17:54,720
+problem, not fostering gradual 
+independence. 
+
+377
+00:17:54,880 --> 00:17:58,400
+Which loops back to his core 
+diagnosis, the real moral 
+
+378
+00:17:58,400 --> 00:18:01,120
+disease. 
+It's not, he says, that some 
+
+379
+00:18:01,120 --> 00:18:04,600
+people fake need. 
+That happens, sure, but it's not
+
+380
+00:18:04,600 --> 00:18:08,080
+the root problem, no. 
+The true disease, he argues, is 
+
+381
+00:18:08,080 --> 00:18:11,040
+that the system quietly demands 
+they perform it perpetually. 
+
+382
+00:18:11,160 --> 00:18:15,360
+Wow, so the problem isn't the 
+individual faking it, but the 
+
+383
+00:18:15,360 --> 00:18:17,280
+system requiring the 
+performance. 
+
+384
+00:18:17,280 --> 00:18:20,560
+That's the shift in perspective.
+It incentivizes staying in that 
+
+385
+00:18:20,560 --> 00:18:23,400
+visibly helpless role. 
+Yeah, the healed must always 
+
+386
+00:18:23,400 --> 00:18:25,560
+carry a mat. 
+Just in case he writes this 
+
+387
+00:18:25,640 --> 00:18:27,760
+endless ritual. 
+Show yourself to the priest. 
+
+388
+00:18:28,000 --> 00:18:30,640
+Show yourself to the caseworker.
+Show yourself to the taxpayer. 
+
+389
+00:18:30,640 --> 00:18:34,040
+Constant move of need. 
+Yeah, and that constant need to 
+
+390
+00:18:34,040 --> 00:18:36,120
+prove you're still broke and 
+still deserving. 
+
+391
+00:18:36,320 --> 00:18:38,880
+It actually works against 
+genuine self-sufficiency. 
+
+392
+00:18:38,880 --> 00:18:41,360
+It traps people. 
+The disease isn't the faking. 
+
+393
+00:18:41,360 --> 00:18:44,480
+It's the system's demand for a 
+performance that prevents real 
+
+394
+00:18:44,480 --> 00:18:47,160
+healing and autonomy. 
+It keeps both sides stuck in 
+
+395
+00:18:47,160 --> 00:18:49,280
+this resentful dance. 
+And then the postscript. 
+
+396
+00:18:49,840 --> 00:18:52,880
+It gets even more provocative. 
+Alms have always been the 
+
+397
+00:18:52,880 --> 00:18:55,200
+blackmail price for calling 
+yourself civilized. 
+
+398
+00:18:55,960 --> 00:18:59,240
+They are not love. 
+They are not healing. 
+
+399
+00:18:59,440 --> 00:19:02,920
+They are the hush money paid to 
+keep the ruin out of sight that 
+
+400
+00:19:02,920 --> 00:19:05,280
+really challenges everything we 
+think about charity. 
+
+401
+00:19:05,280 --> 00:19:07,400
+It does. 
+It recasts welfare completely, 
+
+402
+00:19:07,720 --> 00:19:11,200
+not as compassion but as a 
+performance, more than a policy,
+
+403
+00:19:11,240 --> 00:19:14,720
+like moral landscaping that 
+keeps the mansion looking neat 
+
+404
+00:19:14,720 --> 00:19:16,840
+while the servant quarters 
+crumble behind the hedge. 
+
+405
+00:19:16,840 --> 00:19:20,440
+And he compares it to. 
+To a big man in a poor country, 
+
+406
+00:19:20,640 --> 00:19:22,800
+feeding the people in his 
+courtyard, Not out of pure 
+
+407
+00:19:22,800 --> 00:19:27,760
+kindness, maybe, but if only to 
+silence the gossip that he is no
+
+408
+00:19:27,760 --> 00:19:30,600
+better than the rest. 
+It's reputation management. 
+
+409
+00:19:30,720 --> 00:19:33,680
+So applying that to us, things 
+like food banks, housing 
+
+410
+00:19:33,680 --> 00:19:36,160
+vouchers. 
+He argues cities tolerate these 
+
+411
+00:19:36,160 --> 00:19:39,080
+things not because they believe 
+in healing or wholeness, but 
+
+412
+00:19:39,080 --> 00:19:41,280
+because it would be too 
+shameful, too bad for the family
+
+413
+00:19:41,280 --> 00:19:44,040
+name to see the cousins starving
+out on the front steps. 
+
+414
+00:19:44,480 --> 00:19:47,400
+Hush money basically paid to 
+maintain the illusion of 
+
+415
+00:19:47,400 --> 00:19:51,880
+functioning, caring first world 
+society to manage the guilt and 
+
+416
+00:19:51,880 --> 00:19:54,840
+discomfort of the well off 
+keeping up appearances. 
+
+417
+00:19:54,840 --> 00:19:59,120
+So this whole fragile system, 
+this unspoken deal, it only 
+
+418
+00:19:59,120 --> 00:20:01,200
+holds as long as everyone stays 
+in their assigned role. 
+
+419
+00:20:01,400 --> 00:20:04,800
+Pretty much. 
+The poor stay visibly pitiful. 
+
+420
+00:20:05,480 --> 00:20:08,080
+The comfortable keep the aid 
+flowing just enough to keep 
+
+421
+00:20:08,080 --> 00:20:11,320
+things quiet, keep the front 
+yard looking OK, maintain their 
+
+422
+00:20:11,320 --> 00:20:14,120
+own moral comfort. 
+It's a really delicate, maybe 
+
+423
+00:20:14,120 --> 00:20:17,920
+even resentful, balance. 
+And if that balance tips, if the
+
+424
+00:20:17,920 --> 00:20:21,800
+scraping stops, if the beggars 
+look too whole, If they forget 
+
+425
+00:20:21,800 --> 00:20:26,400
+how to crawl on the mat, the 
+contract stamps the final, 
+
+426
+00:20:26,400 --> 00:20:29,840
+uncomfortable conclusion we feed
+them not to lift them, but to 
+
+427
+00:20:29,840 --> 00:20:34,960
+keep the ruin politely hidden. 
+It's cynical, maybe, but the 
+
+428
+00:20:34,960 --> 00:20:37,640
+source argues it might be a more
+realistic look at how much of 
+
+429
+00:20:37,640 --> 00:20:40,080
+our societal support actually 
+functions underneath the 
+
+430
+00:20:40,080 --> 00:20:42,840
+surface. 
+Managing perception, maintaining
+
+431
+00:20:42,840 --> 00:20:46,440
+order, soothing guilt more than 
+genuine transformation. 
+
+432
+00:20:46,480 --> 00:20:49,520
+Wow, OK, we have definitely 
+taken a deep dive there into 
+
+433
+00:20:49,520 --> 00:20:52,000
+welfare fatigue and this 
+underlying tension between 
+
+434
+00:20:52,000 --> 00:20:54,360
+wanting to help and needing to 
+see helplessness. 
+
+435
+00:20:54,560 --> 00:20:57,400
+We've traced it from ancient 
+villages with beggars performing
+
+436
+00:20:57,400 --> 00:20:59,160
+their need. 
+Right, that performance for 
+
+437
+00:20:59,160 --> 00:21:00,440
+alms. 
+All the way to today's social 
+
+438
+00:21:00,440 --> 00:21:02,600
+media feeds where those 
+performances are constantly 
+
+439
+00:21:02,600 --> 00:21:04,880
+under scrutiny, often falling 
+apart in public view. 
+
+440
+00:21:05,200 --> 00:21:09,440
+And we contrasted that with the 
+sources take on Jesus's mercy 
+
+441
+00:21:09,440 --> 00:21:13,800
+with edges, voluntary giving, 
+pushing for self-sufficiency, 
+
+442
+00:21:14,080 --> 00:21:16,920
+clear boundaries. 
+Compared to the modern system 
+
+443
+00:21:16,920 --> 00:21:20,440
+trying for infinite mercy with 
+someone else's money, which kind
+
+444
+00:21:20,440 --> 00:21:22,720
+of traps people in that 
+performance of ruin. 
+
+445
+00:21:22,920 --> 00:21:27,320
+Yeah, that struggle to reconcile
+ideals with these deep, often 
+
+446
+00:21:27,320 --> 00:21:31,200
+conflicting human feelings. 
+So the source leaves us with 
+
+447
+00:21:31,200 --> 00:21:33,400
+some really tough questions to 
+chew on, doesn't it? 
+
+448
+00:21:33,720 --> 00:21:36,800
+He says the cure for this 
+fatigue isn't going to come from
+
+449
+00:21:36,800 --> 00:21:40,280
+shaming recipients for wanting 
+to stand up or shaming taxpayers
+
+450
+00:21:40,280 --> 00:21:42,160
+for wanting proof if their help 
+isn't being mocked. 
+
+451
+00:21:42,320 --> 00:21:45,360
+Right, those are just symptoms. 
+The real cure, he suggests, 
+
+452
+00:21:45,360 --> 00:21:48,880
+comes from asking a much harder,
+older question. 1 The Gospels 
+
+453
+00:21:48,880 --> 00:21:50,800
+apparently ask directly. 
+Which is. 
+
+454
+00:21:50,920 --> 00:21:53,440
+What is mercy for if not to help
+a man stand? 
+
+455
+00:21:53,440 --> 00:21:56,800
+And what do we do, What do we 
+owe, when he will not? 
+
+456
+00:21:56,840 --> 00:21:59,000
+That it's hard. 
+It's not just theological, is 
+
+457
+00:21:59,000 --> 00:22:00,480
+it? 
+It's about how we design 
+
+458
+00:22:00,480 --> 00:22:04,160
+support, what we value is 
+dignity, and where the limits of
+
+459
+00:22:04,160 --> 00:22:05,520
+generosity lie. 
+Maybe. 
+
+460
+00:22:05,760 --> 00:22:08,920
+Definitely something to think 
+about, how these ancient 
+
+461
+00:22:08,920 --> 00:22:12,760
+patterns, these unspoken deals, 
+might still be playing out all 
+
+462
+00:22:12,760 --> 00:22:15,240
+around us, shaping how we see 
+and respond to need. 
+
+463
+00:22:15,360 --> 00:22:17,080
+Absolutely. 
+A lot to reflect on there.
+

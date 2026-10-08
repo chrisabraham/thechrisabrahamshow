@@ -1,0 +1,2165 @@
+1
+00:00:00,040 --> 00:00:02,640
+Welcome to the deep Dive. 
+We take your sources, your 
+
+2
+00:00:02,640 --> 00:00:05,320
+research, your notes, and we 
+boil them down, giving you the 
+
+3
+00:00:05,320 --> 00:00:07,800
+key insights without you having 
+to wade through everything 
+
+4
+00:00:07,800 --> 00:00:09,760
+yourself. 
+Today we're diving into 
+
+5
+00:00:09,760 --> 00:00:12,960
+something pretty heavy, a topic 
+that for most people really 
+
+6
+00:00:12,960 --> 00:00:16,640
+kicks off in February 2022. 
+You know, the images of Russian 
+
+7
+00:00:16,640 --> 00:00:19,800
+tanks crossing into Ukraine and 
+the story we often hear, 
+
+8
+00:00:19,800 --> 00:00:22,840
+especially in the West, paints 
+it as the sudden, almost random 
+
+9
+00:00:22,840 --> 00:00:25,920
+act by Vladimir Putin. 
+He gets compared to, well, all 
+
+10
+00:00:25,920 --> 00:00:29,480
+the usual suspects, Hitler, 
+Stalin, Mussolini, or sometimes,
+
+11
+00:00:29,480 --> 00:00:32,439
+maybe conveniently, he's painted
+as this weak, dying leader. 
+
+12
+00:00:32,680 --> 00:00:34,760
+But those portrayals, they often
+clash, don't they? 
+
+13
+00:00:34,760 --> 00:00:37,160
+It's a bit confusing, but maybe 
+that simple story is just 
+
+14
+00:00:37,400 --> 00:00:40,600
+easier, easier to accept. 
+But that's not what we do here. 
+
+15
+00:00:40,680 --> 00:00:42,920
+Our mission today is to peel 
+back those layers. 
+
+16
+00:00:42,920 --> 00:00:45,400
+We got these fascinating, maybe 
+even challenging source excerpts
+
+17
+00:00:45,400 --> 00:00:48,320
+called How the West Lit the Fuse
+in ukraine.pdf. 
+
+18
+00:00:48,760 --> 00:00:52,200
+And just to be absolutely clear 
+upfront, we are not taking 
+
+19
+00:00:52,200 --> 00:00:53,800
+sides. 
+We're not endorsing a political 
+
+20
+00:00:53,800 --> 00:00:56,240
+view here. 
+Our job is to unpack what this 
+
+21
+00:00:56,240 --> 00:00:59,000
+specific source says, to dig 
+into the history it presents. 
+
+22
+00:00:59,000 --> 00:01:02,160
+We want to look hard at that 
+idea of an unprovoked war by 
+
+23
+00:01:02,160 --> 00:01:05,800
+exploring while decades of 
+warnings and actions that the 
+
+24
+00:01:05,800 --> 00:01:08,360
+source claims have been ignored 
+or maybe even deliberately 
+
+25
+00:01:08,360 --> 00:01:11,000
+sidelined. 
+So this is about giving you, our
+
+26
+00:01:11,000 --> 00:01:14,040
+listener, a fuller, maybe more 
+complex picture of the history 
+
+27
+00:01:14,040 --> 00:01:15,800
+behind this major global 
+conflict. 
+
+28
+00:01:16,040 --> 00:01:18,480
+Exactly. 
+And the author of this material,
+
+29
+00:01:18,560 --> 00:01:21,080
+well, they don't mince words, 
+they flat out argue. 
+
+30
+00:01:21,080 --> 00:01:23,840
+This conflict was, and I'm 
+quoting here, 1 long in the 
+
+31
+00:01:23,840 --> 00:01:27,360
+making, nurtured by Western 
+arrogance, short sightedness and
+
+32
+00:01:27,360 --> 00:01:29,200
+a refusal to take Russia at its 
+word. 
+
+33
+00:01:29,440 --> 00:01:32,640
+It's really strong language. 
+And again, our role here is just
+
+34
+00:01:32,640 --> 00:01:36,240
+to lay out their argument, how 
+they build their case using 
+
+35
+00:01:36,240 --> 00:01:38,560
+specific events, specific 
+warnings. 
+
+36
+00:01:38,720 --> 00:01:41,360
+It's not about US agreeing, but 
+about understanding their 
+
+37
+00:01:41,360 --> 00:01:43,400
+perspective and some of the 
+points they raise, some of the 
+
+38
+00:01:43,400 --> 00:01:45,800
+connections they make, might 
+genuinely surprise you. 
+
+39
+00:01:45,800 --> 00:01:47,640
+They definitely challenge that 
+standard narrative. 
+
+40
+00:01:47,640 --> 00:01:50,840
+OK, let's get into it then. 
+That common story, like we said,
+
+41
+00:01:50,840 --> 00:01:53,400
+starts the clock in February 
+2022. 
+
+42
+00:01:53,680 --> 00:01:57,080
+But the source immediately hits 
+back saying quote history did 
+
+43
+00:01:57,080 --> 00:02:00,440
+not begin in 2022. 
+That's not just semantics, is 
+
+44
+00:02:00,440 --> 00:02:02,400
+it? 
+It's saying the real roots, the 
+
+45
+00:02:02,400 --> 00:02:05,000
+seeds of this war, as they put 
+it, go way, way back. 
+
+46
+00:02:05,240 --> 00:02:06,920
+Decades even. 
+Precisely. 
+
+47
+00:02:07,400 --> 00:02:09,720
+And this is where the author 
+starts laying out this chain, 
+
+48
+00:02:09,720 --> 00:02:14,040
+this pattern of warnings about 
+Russia's red lines, specifically
+
+49
+00:02:14,040 --> 00:02:17,120
+regarding NATO moving E. 
+The argument is these weren't 
+
+50
+00:02:17,120 --> 00:02:19,240
+secret whispers, they were 
+explicit. 
+
+51
+00:02:19,640 --> 00:02:23,040
+Russia stated them clearly, 
+repeatedly, and the West, 
+
+52
+00:02:23,200 --> 00:02:27,080
+according to this source, just 
+consistently ignored them. 
+
+53
+00:02:27,560 --> 00:02:29,680
+And they bring up some heavy 
+hitters to back this up. 
+
+54
+00:02:29,720 --> 00:02:33,080
+Take George Canon for example. 
+Canon Yeah, the architect of 
+
+55
+00:02:33,080 --> 00:02:35,680
+Cold War containment. 
+A huge figure in US foreign 
+
+56
+00:02:35,680 --> 00:02:39,320
+policy. 
+The very same in 1997, as NATO 
+
+57
+00:02:39,320 --> 00:02:42,160
+expansion was really getting 
+going, Canon warned publicly 
+
+58
+00:02:42,160 --> 00:02:45,440
+that expanding NATO into Eastern
+Europe would be quote the most 
+
+59
+00:02:45,440 --> 00:02:49,680
+fateful error of American policy
+in the entire post Cold War era.
+
+60
+00:02:49,680 --> 00:02:52,320
+Wow, from Canon himself that's 
+that's a heavy warning. 
+
+61
+00:02:52,400 --> 00:02:55,080
+It really is coming from the guy
+who basically wrote the playbook
+
+62
+00:02:55,080 --> 00:02:57,280
+for dealing with the Soviets, 
+The source argues. 
+
+63
+00:02:57,280 --> 00:02:59,360
+That should have stopped 
+policymakers in their tracks, 
+
+64
+00:02:59,360 --> 00:03:02,840
+but they claim it didn't. 
+OK, so that's Kenan in 97. 
+
+65
+00:03:02,920 --> 00:03:04,920
+What else? 
+Fast forward about a decade to 
+
+66
+00:03:04,920 --> 00:03:07,560
+2008. 
+You get this incredibly blunt 
+
+67
+00:03:07,560 --> 00:03:10,560
+cable from William Burns, who 
+was the US ambassador in Moscow 
+
+68
+00:03:10,560 --> 00:03:12,320
+at the time, later CIA director.
+Of course. 
+
+69
+00:03:12,560 --> 00:03:14,840
+Burns, right? 
+Highly respected. 
+
+70
+00:03:15,080 --> 00:03:18,600
+And he sends this message back 
+to Washington, it apparently 
+
+71
+00:03:18,600 --> 00:03:20,080
+said. 
+And this is direct language 
+
+72
+00:03:20,080 --> 00:03:25,040
+here, yet means yet Ukraine's 
+accession is the brightest of 
+
+73
+00:03:25,040 --> 00:03:27,320
+all red lines for the Russian 
+elite. 
+
+74
+00:03:27,600 --> 00:03:30,520
+Yet means yet can't get much 
+clearer than that. 
+
+75
+00:03:30,600 --> 00:03:33,880
+Exactly, the source emphasizes 
+this wasn't guesswork. 
+
+76
+00:03:34,160 --> 00:03:37,320
+It was a clear signal about how 
+intensely Russia felt about 
+
+77
+00:03:37,320 --> 00:03:40,160
+Ukraine joining NATO. 
+A non negotiable issue for. 
+
+78
+00:03:40,160 --> 00:03:43,720
+Them So warnings from a Cold War
+strategist, A top diplomat on 
+
+79
+00:03:43,720 --> 00:03:45,320
+the ground. 
+And from Putin himself, 
+
+80
+00:03:46,080 --> 00:03:49,400
+publicly, the source points to 
+the 2007 Munich Security 
+
+81
+00:03:49,400 --> 00:03:51,240
+Conference. 
+Big international stage and 
+
+82
+00:03:51,240 --> 00:03:55,240
+Putin gets up and as the source 
+puts it, declared, not 
+
+83
+00:03:55,240 --> 00:03:58,400
+whispered, declared that NATO's 
+relentless eastward expansion 
+
+84
+00:03:58,400 --> 00:04:00,720
+was unacceptable, a threat to 
+Russian security. 
+
+85
+00:04:00,880 --> 00:04:03,520
+So he said it point blank to 
+Western leaders. 
+
+86
+00:04:03,520 --> 00:04:05,400
+According to the source, yes. 
+Loud and clear. 
+
+87
+00:04:05,400 --> 00:04:07,960
+No room for misunderstanding. 
+The message was out there. 
+
+88
+00:04:08,200 --> 00:04:10,920
+OK, here's where it gets really 
+interesting then, because you 
+
+89
+00:04:10,920 --> 00:04:14,280
+have Kenan, you have Burns, you 
+have Putin all saying whoa, hold
+
+90
+00:04:14,280 --> 00:04:16,680
+on with NATO expansion, 
+especially towards Ukraine. 
+
+91
+00:04:17,320 --> 00:04:21,120
+But the source says the West 
+essentially quote ignored him, 
+
+92
+00:04:21,480 --> 00:04:24,800
+meaning Putin, but also the 
+broader warnings for what, 
+
+93
+00:04:24,800 --> 00:04:27,560
+nearly 3 decades? 
+That's the timeline they trace. 
+
+94
+00:04:27,600 --> 00:04:30,160
+They point to the actual NATO 
+expansion that followed these 
+
+95
+00:04:30,160 --> 00:04:31,360
+warnings. 
+Right, let's stick them off. 
+
+96
+00:04:31,600 --> 00:04:34,480
+Poland, Czech Republic, Hungary 
+and 99. 
+
+97
+00:04:34,560 --> 00:04:36,680
+Yep. 
+The first big wave into the old 
+
+98
+00:04:36,680 --> 00:04:38,400
+Soviet sphere. 
+Then 2004. 
+
+99
+00:04:38,400 --> 00:04:42,320
+That was huge. 
+The Baltics, Estonia, Latvia, 
+
+100
+00:04:42,320 --> 00:04:46,120
+Lithuania plus Romania, 
+Bulgaria. 
+
+101
+00:04:46,120 --> 00:04:50,080
+And the source stresses that at 
+every stage Russia protested, 
+
+102
+00:04:50,440 --> 00:04:52,280
+they weren't happy. 
+They voiced security concerns. 
+
+103
+00:04:52,920 --> 00:04:55,520
+But according to the author, at 
+every stage the West waved those
+
+104
+00:04:55,520 --> 00:04:57,920
+protests away as paranoia just 
+dismissed them. 
+
+105
+00:04:57,920 --> 00:05:00,480
+So a pattern emerges. 
+Russia objects. 
+
+106
+00:05:00,480 --> 00:05:03,240
+The West ignores or dismisses. 
+Exactly. 
+
+107
+00:05:03,440 --> 00:05:06,120
+And this brings us to what the 
+source calls a really critical 
+
+108
+00:05:06,120 --> 00:05:08,480
+moment, the 2008 Bucharest 
+Summit. 
+
+109
+00:05:08,760 --> 00:05:10,320
+Bucharest. 
+What happened there? 
+
+110
+00:05:10,600 --> 00:05:14,240
+Up till then, expansion had been
+former Warsaw packed countries 
+
+111
+00:05:14,240 --> 00:05:16,720
+mostly. 
+But in Bucharest, the official 
+
+112
+00:05:16,720 --> 00:05:19,720
+NATO statement went further. 
+It said, quote, Ukraine and 
+
+113
+00:05:19,720 --> 00:05:21,440
+Georgia will become members of 
+NATO. 
+
+114
+00:05:21,520 --> 00:05:23,360
+Wow. 
+Not if, but will. 
+
+115
+00:05:23,480 --> 00:05:25,920
+Precisely. 
+The source identifies this as 
+
+116
+00:05:26,480 --> 00:05:29,000
+the moment Russia understood 
+that the West had no intention 
+
+117
+00:05:29,000 --> 00:05:31,520
+of honoring its red line. 
+It was a public commitment to 
+
+118
+00:05:31,520 --> 00:05:34,520
+bring these two former Soviet 
+republics right on Russia's 
+
+119
+00:05:34,520 --> 00:05:38,880
+border into the alliance. 
+Even after Burns's net means yet
+
+120
+00:05:38,880 --> 00:05:42,000
+cable that same year, right? 
+And the source argues that 
+
+121
+00:05:42,000 --> 00:05:45,280
+Western leaders then acted 
+surprised in 2014 when things 
+
+122
+00:05:45,280 --> 00:05:48,240
+really kicked off after Ukraine 
+pivoted sharply away from 
+
+123
+00:05:48,240 --> 00:05:51,240
+Moscow. 
+But Bucharest, in this view, set
+
+124
+00:05:51,240 --> 00:05:54,280
+that collision course. 
+It leads directly into 2014. 
+
+125
+00:05:54,400 --> 00:05:58,000
+So if 2022 wasn't the start, and
+2008 was this major turning 
+
+126
+00:05:58,000 --> 00:06:00,760
+point in perception, then the 
+source says the real break came 
+
+127
+00:06:00,760 --> 00:06:04,040
+not in 2022, but in 2014. 
+That's their core argument about
+
+128
+00:06:04,040 --> 00:06:07,360
+the timing of the rupture. 
+And they challenge how 2014 the 
+
+129
+00:06:07,360 --> 00:06:10,440
+Maidan uprising was portrayed in
+the West right, The idea of it 
+
+130
+00:06:10,440 --> 00:06:12,880
+being just a spontaneous popular
+revolution. 
+
+131
+00:06:13,120 --> 00:06:16,200
+Very much so. 
+The standard narrative was, yes,
+
+132
+00:06:16,560 --> 00:06:19,320
+a spontaneous, organic 
+revolution of the Ukrainian 
+
+133
+00:06:19,320 --> 00:06:23,440
+people, purely grassroots. 
+But the source claims what 
+
+134
+00:06:23,680 --> 00:06:27,040
+Washington was involved. 
+It claims it was assisted, 
+
+135
+00:06:27,240 --> 00:06:30,080
+shaped and in some ways 
+orchestrated by Washington. 
+
+136
+00:06:30,560 --> 00:06:33,720
+That implies a much more active,
+deliberate US role. 
+
+137
+00:06:33,760 --> 00:06:36,640
+OK, that's a big claim. 
+What evidence does the source 
+
+138
+00:06:36,640 --> 00:06:39,000
+offer for that? 
+Well, the most explosive piece 
+
+139
+00:06:39,000 --> 00:06:42,120
+is probably that leaked phone 
+call Victoria Nuland. 
+
+140
+00:06:42,640 --> 00:06:44,360
+This isn't Secretary of State at
+the time. 
+
+141
+00:06:44,560 --> 00:06:48,000
+The infamous Nuland call. 
+The very one she was apparently 
+
+142
+00:06:48,000 --> 00:06:50,960
+caught on tape Conley 
+handpicking Ukraine's post 
+
+143
+00:06:50,960 --> 00:06:54,520
+Yanukovych government saying 
+things like yachts. 
+
+144
+00:06:54,520 --> 00:06:56,640
+Is the guy referring to Arsena 
+yachts. 
+
+145
+00:06:56,640 --> 00:06:58,720
+And Yoku did become Prime 
+Minister right after. 
+
+146
+00:06:58,720 --> 00:07:03,280
+And wasn't that the call where 
+she said something about the EU?
+
+147
+00:07:03,280 --> 00:07:05,200
+That's the one. 
+The source highlights the phrase
+
+148
+00:07:05,200 --> 00:07:07,440
+F the EU dismissing Brussels 
+role. 
+
+149
+00:07:07,720 --> 00:07:09,320
+The author's interpretation is 
+stark. 
+
+150
+00:07:09,760 --> 00:07:11,640
+This was not the language of 
+neutrality. 
+
+151
+00:07:11,640 --> 00:07:14,440
+This was the voice of an empire 
+arranging its pieces on the 
+
+152
+00:07:14,440 --> 00:07:16,680
+board. 
+Strong words, but it wasn't just
+
+153
+00:07:16,680 --> 00:07:19,040
+phone calls, right? 
+No, the source also points to 
+
+154
+00:07:19,040 --> 00:07:23,240
+Senator John McCain physically 
+going to Kiev standing with 
+
+155
+00:07:23,240 --> 00:07:27,000
+protesters in Maiden Square. 
+Very visible support for the 
+
+156
+00:07:27,000 --> 00:07:29,640
+anti government movement. 
+And the source uses an analogy 
+
+157
+00:07:29,640 --> 00:07:31,400
+there, doesn't it? 
+To sort of highlight the 
+
+158
+00:07:31,400 --> 00:07:34,720
+perceived interference. 
+Yes, a deliberately provocative 
+
+159
+00:07:34,720 --> 00:07:38,560
+one, they say. 
+Imagine a Russian senator on the
+
+160
+00:07:38,560 --> 00:07:42,120
+ground in Ferguson during the 
+Black Lives Matter protests. 
+
+161
+00:07:42,480 --> 00:07:45,200
+Americans would have called it 
+foreign subversion, and they 
+
+162
+00:07:45,200 --> 00:07:48,000
+would have been right. 
+Putting the shoe on the other 
+
+163
+00:07:48,000 --> 00:07:50,760
+foot, it definitely makes you 
+think about how interventions 
+
+164
+00:07:50,760 --> 00:07:53,760
+are perceived. 
+It forces you to consider that 
+
+165
+00:07:53,760 --> 00:07:56,720
+perspective, yes, that this 
+wasn't just internal politics 
+
+166
+00:07:56,720 --> 00:07:58,800
+from the viewpoint presented in 
+the source. 
+
+167
+00:07:59,360 --> 00:08:02,400
+So what does this all add up to 
+this Western involvement? 
+
+168
+00:08:02,400 --> 00:08:05,080
+And the source goes into the 
+money and politics side too, 
+
+169
+00:08:05,080 --> 00:08:05,840
+right? 
+It does. 
+
+170
+00:08:05,840 --> 00:08:09,160
+It talks about what it calls the
+naked entanglement of political 
+
+171
+00:08:09,160 --> 00:08:12,640
+power and private gain, 
+specifically mentioning Hunter 
+
+172
+00:08:12,640 --> 00:08:15,480
+Biden joining the board of 
+Burisma, the Ukrainian energy 
+
+173
+00:08:15,480 --> 00:08:16,280
+company. 
+Well, his. 
+
+174
+00:08:16,280 --> 00:08:19,440
+Father Vice President Biden was 
+the point person on Ukraine 
+
+175
+00:08:19,440 --> 00:08:21,080
+policy. 
+Exactly. 
+
+176
+00:08:21,400 --> 00:08:24,760
+The source presents this as a 
+clear example of blurring lines 
+
+177
+00:08:24,920 --> 00:08:27,960
+potential conflicts of interest.
+And beyond that specific. 
+
+178
+00:08:28,760 --> 00:08:32,039
+The source details how 
+organizations like USA and the 
+
+179
+00:08:32,039 --> 00:08:37,280
+National Endowment for Democracy
+Ned poured billions into Ukraine
+
+180
+00:08:37,280 --> 00:08:39,960
+since independence. 
+Billions for. 
+
+181
+00:08:39,960 --> 00:08:42,039
+What? 
+According to the source for 
+
+182
+00:08:42,039 --> 00:08:46,400
+Cultivating Ng OS media outlets 
+and political operatives, they 
+
+183
+00:08:46,400 --> 00:08:50,120
+even mentioned Newland herself 
+boasting about $5 billion in US 
+
+184
+00:08:50,120 --> 00:08:53,600
+assistance since 1991. 
+OK, so the source acknowledges 
+
+185
+00:08:53,600 --> 00:08:56,200
+you could argue this was just 
+democracy building. 
+
+186
+00:08:56,240 --> 00:08:58,960
+Right, they say you can debate 
+if it was benevolent democracy 
+
+187
+00:08:58,960 --> 00:09:02,120
+building or covert influence, 
+but their conclusion is the 
+
+188
+00:09:02,120 --> 00:09:04,120
+effect was undeniable. 
+Which was quote. 
+
+189
+00:09:04,400 --> 00:09:06,880
+Ukraine's politics shifted 
+decisively westward with 
+
+190
+00:09:06,880 --> 00:09:09,840
+Washington's hand on the scale. 
+Regardless of intent, the sheer 
+
+191
+00:09:09,840 --> 00:09:12,200
+weight of involvement pushed 
+Ukraine towards the West. 
+
+192
+00:09:12,200 --> 00:09:14,120
+And at Russia's perception of 
+all this? 
+
+193
+00:09:14,360 --> 00:09:18,000
+For Moscow, the source says, the
+message was crystal clear. 
+
+194
+00:09:18,320 --> 00:09:21,560
+This was not an organic 
+revolution, it was regime change
+
+195
+00:09:21,560 --> 00:09:24,560
+dressed in popular protests. 
+Western backed coup essentially.
+
+196
+00:09:24,800 --> 00:09:27,520
+That's the perception the source
+argues Russia had. 
+
+197
+00:09:27,800 --> 00:09:31,360
+And that perception, that 
+conclusion, had immediate and 
+
+198
+00:09:31,360 --> 00:09:33,480
+violent consequences inside 
+Ukraine. 
+
+199
+00:09:34,040 --> 00:09:36,960
+Which brings us to the war 
+before the war. 
+
+200
+00:09:37,040 --> 00:09:40,600
+Right, because the fallout from 
+Maidan in 2014 wasn't peace and 
+
+201
+00:09:40,600 --> 00:09:43,200
+quiet, according to the source. 
+Start from it, they state. 
+
+202
+00:09:43,200 --> 00:09:46,600
+Eastern Ukraine immediately 
+descended into civil war right 
+
+203
+00:09:46,600 --> 00:09:48,760
+from 2014 onwards, a. 
+Civil War? 
+
+204
+00:09:48,760 --> 00:09:52,200
+That's not how it was generally 
+framed leading up to 2022, no. 
+
+205
+00:09:52,240 --> 00:09:55,720
+It often wasn't, but the source 
+describes how the Donbas region 
+
+206
+00:09:55,920 --> 00:10:00,560
+declared independence right 
+after Maidan Keys response Kiev 
+
+207
+00:10:00,560 --> 00:10:02,200
+sent in the army. 
+And the result. 
+
+208
+00:10:02,280 --> 00:10:05,160
+Brutal fighting, shelling, 
+rocket fire and snipers 
+
+209
+00:10:05,160 --> 00:10:07,200
+followed. 
+The source paints a picture of 
+
+210
+00:10:07,200 --> 00:10:10,720
+an active deadly conflict zone 
+in eastern Ukraine for years. 
+
+211
+00:10:10,840 --> 00:10:13,040
+And the human cost of that? 
+This is the part that's often 
+
+212
+00:10:13,040 --> 00:10:14,680
+missing from the story. 
+It really is. 
+
+213
+00:10:14,840 --> 00:10:17,240
+The source cites UN and OSCE 
+figures. 
+
+214
+00:10:17,520 --> 00:10:20,640
+Those are official tallies, 
+estimating some 14,000 people 
+
+215
+00:10:20,640 --> 00:10:24,760
+were killed between 2014 and 
+2021. 14,000 before February 
+
+216
+00:10:24,760 --> 00:10:28,640
+2022 even happened. 14,000 dead 
+in those eight years. 
+
+217
+00:10:28,640 --> 00:10:31,280
+It's a shocking number. 
+Which leads the source to argue.
+
+218
+00:10:31,440 --> 00:10:34,560
+That the war had already begun, 
+plain and simple. 
+
+219
+00:10:34,720 --> 00:10:38,480
+By the time tanks rolled in 
+2022, the Don Boss had been a 
+
+220
+00:10:38,480 --> 00:10:42,800
+battlefield for eight years. 
+So calling Feb 2022 the start is
+
+221
+00:10:42,800 --> 00:10:44,840
+misleading. 
+According to the source, 
+
+222
+00:10:44,920 --> 00:10:47,480
+profoundly so. 
+Their conclusion is blunt. 
+
+223
+00:10:48,160 --> 00:10:52,440
+To call February 2022 the start 
+of the war is to erase nearly a 
+
+224
+00:10:52,440 --> 00:10:55,800
+decade of blood. 
+That reframing, that insistence 
+
+225
+00:10:55,800 --> 00:10:59,400
+on the 20/14/2021 conflict, it 
+really does challenge the whole 
+
+226
+00:10:59,400 --> 00:11:02,680
+unprovoked narrative, doesn't. 
+It fundamentally it suggests the
+
+227
+00:11:02,680 --> 00:11:05,680
+2022 invasion wasn't an eruption
+out of nowhere, but an 
+
+228
+00:11:05,680 --> 00:11:08,400
+escalation of an existing bloody
+conflict. 
+
+229
+00:11:08,720 --> 00:11:10,880
+It forces you to redefine 
+provocation. 
+
+230
+00:11:11,080 --> 00:11:13,480
+Which leads us to how Russia 
+itself is portrayed. 
+
+231
+00:11:13,760 --> 00:11:16,400
+The source mentions books like 
+Provoked, which apparently got 
+
+232
+00:11:16,400 --> 00:11:18,640
+slammed for being Kremlin 
+property propaganda. 
+
+233
+00:11:18,640 --> 00:11:21,560
+Yes, but the author argues the 
+discomfort with such books isn't
+
+234
+00:11:21,560 --> 00:11:24,040
+because they invent things, but 
+because they repeat things. 
+
+235
+00:11:24,120 --> 00:11:25,600
+Repeat what? 
+Repeat what? 
+
+236
+00:11:25,600 --> 00:11:28,960
+Ken and foresaw, what Burns 
+warned, what Putin said in 
+
+237
+00:11:28,960 --> 00:11:31,200
+Munich, and what Newland 
+revealed on tape. 
+
+238
+00:11:31,560 --> 00:11:35,400
+It's presented as a reminder of 
+inconvenient, ignored facts, not
+
+239
+00:11:35,400 --> 00:11:38,400
+some new revelation. 
+The author says they saw enough 
+
+240
+00:11:38,400 --> 00:11:42,120
+themselves, studied enough, to 
+know these warnings were real, 
+
+241
+00:11:42,120 --> 00:11:45,240
+and ignoring them is dishonest. 
+And this connects to the 
+
+242
+00:11:45,240 --> 00:11:47,320
+contradictory ways Putin is 
+depicted. 
+
+243
+00:11:47,320 --> 00:11:49,360
+Exactly. 
+The source calls the Western 
+
+244
+00:11:49,360 --> 00:11:52,040
+narrative almost absurd in its 
+contradictions. 
+
+245
+00:11:52,400 --> 00:11:55,000
+Is he a weak man dying of stage 
+6 cancer? 
+
+246
+00:11:55,000 --> 00:11:57,920
+Or is he Hitler reborn, ready to
+conquer Europe? 
+
+247
+00:11:58,040 --> 00:11:59,600
+Right. 
+Is he Trump's lap dog? 
+
+248
+00:11:59,680 --> 00:12:01,840
+Or the master puppeteer behind 
+Trump. 
+
+249
+00:12:01,840 --> 00:12:03,600
+The source just asked which is 
+it? 
+
+250
+00:12:04,040 --> 00:12:06,520
+How can he be all these opposing
+things simultaneously? 
+
+251
+00:12:06,840 --> 00:12:09,120
+It suggests the portrayal is an 
+analysis. 
+
+252
+00:12:09,120 --> 00:12:11,320
+It's caricature. 
+And does that extend to Russia 
+
+253
+00:12:11,320 --> 00:12:14,840
+as a whole, the paper tiger 
+versus existential threat idea? 
+
+254
+00:12:14,840 --> 00:12:18,760
+Yes, the source highlights that 
+contradiction to Russia is 
+
+255
+00:12:18,760 --> 00:12:22,720
+derided as a paper tiger with an
+economy smaller than Italy's but
+
+256
+00:12:22,720 --> 00:12:25,920
+also painted as an existential 
+threat to global democracy. 
+
+257
+00:12:26,040 --> 00:12:29,760
+So weak, but also terrifyingly 
+strong. 
+
+258
+00:12:30,000 --> 00:12:33,720
+It doesn't add up, the source 
+argues, and they point to open 
+
+259
+00:12:33,720 --> 00:12:37,360
+source intelligence from the war
+itself, all the documented 
+
+260
+00:12:37,360 --> 00:12:40,480
+losses, the drone footage. 
+What does that show according to
+
+261
+00:12:40,480 --> 00:12:42,640
+the source? 
+That Russia is not the 
+
+262
+00:12:42,640 --> 00:12:45,360
+unstoppable juggernaut of 
+Western nightmares. 
+
+263
+00:12:45,680 --> 00:12:48,880
+They fought with brute 
+attrition, not blitzkrieg, A 
+
+264
+00:12:48,880 --> 00:12:51,560
+grinding war, not a lightning 
+conquest. 
+
+265
+00:12:51,560 --> 00:12:53,640
+And their goal isn't world 
+domination. 
+
+266
+00:12:53,800 --> 00:12:57,800
+The source concludes Russia's 
+ambition quote is not to roll to
+
+267
+00:12:57,800 --> 00:13:01,400
+the Atlantic but to hold the 
+line in the Donbas and to stop 
+
+268
+00:13:01,400 --> 00:13:05,080
+NATO from planning itself on its
+border, a more limited defensive
+
+269
+00:13:05,080 --> 00:13:07,680
+aim in their analysis. 
+To understand Russia's mindset, 
+
+270
+00:13:07,680 --> 00:13:09,680
+the author includes some really 
+personal stories. 
+
+271
+00:13:09,680 --> 00:13:11,560
+Right, but the post Soviet 
+years? 
+
+272
+00:13:11,560 --> 00:13:14,160
+Yes, very powerful ones. 
+They were called flying over the
+
+273
+00:13:14,160 --> 00:13:17,520
+Soviet Union in 1990, seeing 
+fields littered with the 
+
+274
+00:13:17,520 --> 00:13:20,240
+carcasses of dead plains, the 
+hollowed out relics of a 
+
+275
+00:13:20,240 --> 00:13:23,440
+military industrial empire just 
+ruined. 
+
+276
+00:13:23,440 --> 00:13:25,880
+A visual of collapse. 
+Exactly and then being in Saint 
+
+277
+00:13:25,880 --> 00:13:30,360
+Petersburg in 96 the Hermitage 
+Museum guarded by Mafiosi Nevsky
+
+278
+00:13:30,360 --> 00:13:33,440
+Prospect, the Main St. 
+Glittering but everywhere else 
+
+279
+00:13:33,960 --> 00:13:38,400
+scaffolding banner saying things
+like restored with funds from 
+
+280
+00:13:38,400 --> 00:13:41,840
+the European Union or funded by 
+the government of Japan. 
+
+281
+00:13:42,200 --> 00:13:44,440
+Rebuilding national treasures 
+with foreign money. 
+
+282
+00:13:45,800 --> 00:13:48,400
+The source really emphasizes the
+humiliation of that. 
+
+283
+00:13:48,480 --> 00:13:53,040
+Deeply, they ask you to imagine 
+the humiliation and say America 
+
+284
+00:13:53,040 --> 00:13:55,240
+would never tolerate such public
+dependency. 
+
+285
+00:13:55,720 --> 00:13:58,200
+Yet Russia dead because it had 
+no choice. 
+
+286
+00:13:58,400 --> 00:14:02,120
+So that period of weakness and 
+humiliation is crucial context 
+
+287
+00:14:02,120 --> 00:14:04,880
+for leader actions. 
+That's the strong implication, a
+
+288
+00:14:04,880 --> 00:14:08,160
+drive to regain dignity, 
+independence after feeling 
+
+289
+00:14:08,160 --> 00:14:10,520
+subjugated. 
+And what about the whole energy 
+
+290
+00:14:10,520 --> 00:14:12,920
+weapon narrative? 
+Russia constantly threatening to
+
+291
+00:14:12,920 --> 00:14:15,400
+turn off the gas. 
+The source actually counters 
+
+292
+00:14:15,400 --> 00:14:18,280
+that quite strongly. 
+They argue that Russia rarely 
+
+293
+00:14:18,280 --> 00:14:21,000
+turned off the tab, even when 
+insulted, even when punished 
+
+294
+00:14:21,160 --> 00:14:22,600
+with the sanctions. 
+Really. 
+
+295
+00:14:22,720 --> 00:14:25,560
+Even during tense periods. 
+The author recalls living in 
+
+296
+00:14:25,560 --> 00:14:28,640
+Germany in the 2000s amidst 
+sanctions and harsh rhetoric, 
+
+297
+00:14:29,040 --> 00:14:32,280
+yet the gas kept flowing. 
+It suggests more reliability 
+
+298
+00:14:32,280 --> 00:14:34,360
+than often portrayed. 
+And the contrast is with. 
+
+299
+00:14:34,440 --> 00:14:38,280
+With the US being eager to cut 
+off Nord Stream and when the 
+
+300
+00:14:38,280 --> 00:14:42,000
+pipelines blew up in 2022, the 
+source notes, Western 
+
+301
+00:14:42,000 --> 00:14:45,440
+commentators all but cheered, 
+despite no clear proof of who 
+
+302
+00:14:45,440 --> 00:14:47,760
+did it. 
+So the conclusion there is what?
+
+303
+00:14:48,000 --> 00:14:50,640
+The truth is awkward. 
+Russia showed continuity. 
+
+304
+00:14:50,920 --> 00:14:54,880
+The Wasp showed sabotage, a 
+direct flip of the usual 
+
+305
+00:14:54,880 --> 00:14:57,040
+narrative about who weaponized 
+energy. 
+
+306
+00:14:57,200 --> 00:15:00,200
+This reassessment of Russia then
+leads to looking critically at 
+
+307
+00:15:00,200 --> 00:15:03,040
+Ukraine's role in all this. 
+Yes, and the source uses a 
+
+308
+00:15:03,040 --> 00:15:05,800
+really striking metaphor here. 
+The Dorian Gray one explain 
+
+309
+00:15:05,800 --> 00:15:07,160
+that. 
+Right, like Oscar Wilde's 
+
+310
+00:15:07,160 --> 00:15:10,200
+character, whose portrait aged 
+and showed his sins while he 
+
+311
+00:15:10,200 --> 00:15:13,280
+stayed young, the source 
+suggests Ukraine became the 
+
+312
+00:15:13,280 --> 00:15:17,040
+West's Dorian Gray, that it 
+absorbed the corruption, The 
+
+313
+00:15:17,040 --> 00:15:19,880
+Dirty work, the secrets the West
+wanted kept out of sight. 
+
+314
+00:15:20,000 --> 00:15:23,520
+So Ukraine became a place to 
+park uncomfortable activities. 
+
+315
+00:15:23,520 --> 00:15:25,800
+That's the implication. 
+The source lists examples of 
+
+316
+00:15:25,800 --> 00:15:27,840
+this exported rot, as they call 
+it. 
+
+317
+00:15:27,960 --> 00:15:29,840
+Like what? 
+Well, they bring up the Biden 
+
+318
+00:15:29,840 --> 00:15:32,920
+family and Burisma again framing
+it in this context. 
+
+319
+00:15:33,440 --> 00:15:36,880
+They mentioned tech Bros turn 
+Kiev into a cheap back office 
+
+320
+00:15:36,880 --> 00:15:39,880
+for Silicon Valley. 
+Exploding cheaper labor, maybe 
+
+321
+00:15:39,880 --> 00:15:41,480
+looser regulations? 
+Essentially. 
+
+322
+00:15:41,680 --> 00:15:45,920
+And that hackers and programmers
+turned Ukraine into a cyber Gray
+
+323
+00:15:45,920 --> 00:15:50,000
+zone, a place for activities 
+maybe not permissible elsewhere.
+
+324
+00:15:50,120 --> 00:15:52,080
+And there are more serious 
+allegations to. 
+
+325
+00:15:52,080 --> 00:15:56,240
+Yes, the source claims US linked
+labs study pathogens and 
+
+326
+00:15:56,240 --> 00:15:59,120
+facilities that would never pass
+political muster in Maryland or 
+
+327
+00:15:59,120 --> 00:16:02,600
+Virginia conducting risky 
+research away from US oversight.
+
+328
+00:16:02,720 --> 00:16:06,040
+And even CIA black sites. 
+They claim the CIA parked black 
+
+329
+00:16:06,040 --> 00:16:09,760
+sites there when it needed legal
+limbo, using Ukraine to bypass 
+
+330
+00:16:09,760 --> 00:16:12,440
+legal constraints. 
+So why Ukraine? 
+
+331
+00:16:12,440 --> 00:16:14,880
+What made it valuable to 
+Washington, according to this 
+
+332
+00:16:14,880 --> 00:16:16,920
+source? 
+It wasn't just a pawn, the 
+
+333
+00:16:16,920 --> 00:16:19,640
+source says. 
+Ukraine has wheat minerals. 
+
+334
+00:16:19,880 --> 00:16:23,520
+Genius programmers and a kind of
+entrepreneurial hustle rare in 
+
+335
+00:16:23,520 --> 00:16:24,880
+Europe. 
+Real assets. 
+
+336
+00:16:24,880 --> 00:16:27,440
+It's a tangible value. 
+Exactly which leads to the 
+
+337
+00:16:27,440 --> 00:16:29,600
+author's core claim about this 
+relationship. 
+
+338
+00:16:29,920 --> 00:16:32,040
+Which is precisely why 
+Washington needed it. 
+
+339
+00:16:32,280 --> 00:16:34,520
+America stayed clean by 
+exporting its rot. 
+
+340
+00:16:34,840 --> 00:16:37,320
+Ukraine bore the stains. 
+That's a pretty damning 
+
+341
+00:16:37,320 --> 00:16:40,600
+assessment of the dynamic. 
+It is, It suggests a very 
+
+342
+00:16:40,600 --> 00:16:44,440
+calculated transactional use of 
+Ukraine beyond just supporting 
+
+343
+00:16:44,440 --> 00:16:47,120
+democracy. 
+And this critique broadens out 
+
+344
+00:16:47,120 --> 00:16:48,920
+into US foreign policy 
+generally. 
+
+345
+00:16:48,920 --> 00:16:51,360
+The author talks about the 
+personal cost of even 
+
+346
+00:16:51,480 --> 00:16:54,480
+questioning the mainstream 
+narrative back in 2022. 
+
+347
+00:16:54,520 --> 00:16:59,160
+Yes, very personally about being
+harangued, called a stooge a bot
+
+348
+00:16:59,280 --> 00:17:02,840
+of Benedict Arnold just for 
+questioning the unprovoked war 
+
+349
+00:17:02,840 --> 00:17:06,160
+line when every Twitter bio flew
+the Ukrainian flag. 
+
+350
+00:17:06,280 --> 00:17:07,920
+A real pressure cooker of 
+conformity. 
+
+351
+00:17:07,920 --> 00:17:10,560
+Total conformity, they say. 
+And while the hysteria has 
+
+352
+00:17:10,560 --> 00:17:13,640
+cooled, now, maybe shifted to 
+Gaza, they say, I will not 
+
+353
+00:17:13,640 --> 00:17:15,800
+forget how total the conformity 
+once was. 
+
+354
+00:17:16,280 --> 00:17:18,800
+It clearly left a mark. 
+And this experience leads to a 
+
+355
+00:17:18,800 --> 00:17:20,760
+bigger point about. 
+About what the author calls the 
+
+356
+00:17:20,760 --> 00:17:22,880
+cycle of manufactured 
+adversaries. 
+
+357
+00:17:23,280 --> 00:17:25,800
+That's what really unsettles 
+them more than Russia itself. 
+
+358
+00:17:25,800 --> 00:17:29,280
+Manufactured adversaries. 
+Like how every 18 months the 
+
+359
+00:17:29,280 --> 00:17:33,000
+United States hands the public a
+new Emmanuel Goldstein, the 
+
+360
+00:17:33,000 --> 00:17:35,640
+perpetual enemy figure from 
+Orwell's 1984. 
+
+361
+00:17:35,840 --> 00:17:37,560
+A rotating villain. 
+Exactly. 
+
+362
+00:17:37,960 --> 00:17:40,760
+Putin, She, Khamenei. 
+Assad. 
+
+363
+00:17:40,760 --> 00:17:42,000
+Gaddafi. 
+Saddam. 
+
+364
+00:17:42,000 --> 00:17:43,600
+Noriega. 
+Ortega. 
+
+365
+00:17:44,200 --> 00:17:47,560
+The names change. 
+Iran was the threat, then ISIS 
+
+366
+00:17:47,560 --> 00:17:51,240
+now Putin endlessly tomorrow 
+maybe someone else. 
+
+367
+00:17:51,560 --> 00:17:55,280
+And the point isn't consistency.
+The source argues the point is 
+
+368
+00:17:55,280 --> 00:17:59,440
+perpetual outrage, keeping the 
+public angry, maybe justifying 
+
+369
+00:17:59,440 --> 00:18:02,640
+constant intervention rather 
+than addressing real, consistent
+
+370
+00:18:02,640 --> 00:18:05,000
+threats. 
+And while this cycle is 
+
+371
+00:18:05,000 --> 00:18:07,360
+happening, what's shifting on 
+the world stage? 
+
+372
+00:18:07,600 --> 00:18:10,960
+A huge shift, the source argues.
+What has emerged in the meantime
+
+373
+00:18:10,960 --> 00:18:14,440
+is a multipolar world the West 
+pretended could never exist. 
+
+374
+00:18:14,800 --> 00:18:17,080
+The unipolar moment is over. 
+And the evidence for that. 
+
+375
+00:18:17,200 --> 00:18:19,640
+Bricks, mainly. 
+What was once the Goldman Sachs 
+
+376
+00:18:19,640 --> 00:18:23,120
+acronym is now a block, with 
+Russia, China, India, Brazil, 
+
+377
+00:18:23,120 --> 00:18:25,480
+Saudi Arabia and more aligning 
+outside the dollar. 
+
+378
+00:18:25,640 --> 00:18:29,400
+So more than just an economic 
+label, now a real geopolitical 
+
+379
+00:18:29,400 --> 00:18:30,680
+force. 
+That's the argument. 
+
+380
+00:18:31,200 --> 00:18:34,360
+And while Western economists 
+might sneer at their GDP's, The 
+
+381
+00:18:34,360 --> 00:18:36,960
+Source stresses that commodities
+and energy matter more than 
+
+382
+00:18:36,960 --> 00:18:39,840
+spreadsheets. 
+Real resources, real power. 
+
+383
+00:18:39,920 --> 00:18:42,880
+Like Saudi Arabia and China 
+trading oil outside the dollar. 
+
+384
+00:18:43,160 --> 00:18:44,840
+Exactly. 
+Yeah, the source says. 
+
+385
+00:18:44,840 --> 00:18:47,520
+When that happens, the global 
+order shifts. 
+
+386
+00:18:47,960 --> 00:18:50,520
+It challenges the dollar's 
+dominance, the foundation of the
+
+387
+00:18:50,520 --> 00:18:53,320
+Western financial system. 
+It's a fundamental rebalance. 
+
+388
+00:18:53,520 --> 00:18:56,800
+The punch line, according to the
+source, is the irony of how this
+
+389
+00:18:56,800 --> 00:19:00,200
+came about. 
+Yes, the conclusion is that the 
+
+390
+00:19:00,200 --> 00:19:04,480
+very outcome Washington feared, 
+Moscow and Beijing aligned, has 
+
+391
+00:19:04,480 --> 00:19:06,680
+been hastened by Washington's 
+arrogance. 
+
+392
+00:19:06,720 --> 00:19:09,160
+So Western actions actually 
+pushed them together. 
+
+393
+00:19:09,160 --> 00:19:13,000
+Paradoxically, yes. 
+That's the sources final take on
+
+394
+00:19:13,000 --> 00:19:17,280
+the unintended consequences of 
+ignoring warnings and insisting 
+
+395
+00:19:17,280 --> 00:19:19,880
+on a unipolar world. 
+It brings all these threads 
+
+396
+00:19:19,880 --> 00:19:22,000
+together. 
+So wrapping this all up, where 
+
+397
+00:19:22,000 --> 00:19:24,360
+does the source leave us? 
+It's not saying Putin is 
+
+398
+00:19:24,360 --> 00:19:26,040
+blameless, right? 
+Absolutely not. 
+
+399
+00:19:26,160 --> 00:19:29,400
+The author is explicit. 
+This makes Putin a St. or Russia
+
+400
+00:19:29,400 --> 00:19:31,760
+an innocent. 
+They acknowledge Russia uses 
+
+401
+00:19:31,760 --> 00:19:34,160
+espionage, manipulation and 
+brutality. 
+
+402
+00:19:34,440 --> 00:19:36,760
+That assets remain in the West. 
+That's a given. 
+
+403
+00:19:37,400 --> 00:19:39,840
+But the author insists none of 
+that erases the West 
+
+404
+00:19:39,840 --> 00:19:42,800
+provocations. 
+The core message, repeated 
+
+405
+00:19:42,800 --> 00:19:46,320
+forcefully, is the Western 
+narrative is a lie because the 
+
+406
+00:19:46,320 --> 00:19:50,360
+war was not unprovoked. 
+It was cultivated, warned 
+
+407
+00:19:50,360 --> 00:19:54,160
+against, and made inevitable by 
+decades of provocation. 
+
+408
+00:19:54,520 --> 00:19:57,440
+That's the central thesis. 
+OK, so let's quickly recap the 
+
+409
+00:19:57,440 --> 00:20:00,320
+key provocations highlighted in 
+this deep dive, according to the
+
+410
+00:20:00,320 --> 00:20:03,480
+source. 
+Ignoring Kennon Burns Putin on 
+
+411
+00:20:03,480 --> 00:20:07,880
+NATO's red lines meddling in 
+Kiev in 2014, the Newland call, 
+
+412
+00:20:08,040 --> 00:20:11,560
+the funding shaping the 
+political shift and arming one 
+
+413
+00:20:11,560 --> 00:20:14,880
+side of a civil war in the 
+Donbas that killed 14,000 people
+
+414
+00:20:14,880 --> 00:20:19,240
+before 2022 even started. 
+All leading, the author argues, 
+
+415
+00:20:19,520 --> 00:20:23,640
+to this Western fairy tale about
+democracy under siege, which 
+
+416
+00:20:23,640 --> 00:20:26,880
+ignores all that prior history, 
+that blood already spilled. 
+
+417
+00:20:26,920 --> 00:20:30,000
+And the author expects pushback 
+expects to be called names. 
+
+418
+00:20:30,000 --> 00:20:33,000
+Yes, they basically say if the 
+only rebuttal is to call me 
+
+419
+00:20:33,000 --> 00:20:36,000
+naive, an appeaser, A stooge, so
+be it. 
+
+420
+00:20:36,000 --> 00:20:38,280
+Call me Chamberlain if you like,
+Defiant. 
+
+421
+00:20:38,440 --> 00:20:41,000
+That sticks to the conclusion. 
+Sticks to it firmly. 
+
+422
+00:20:41,000 --> 00:20:43,880
+History is what it is. 
+And history in this view shows 
+
+423
+00:20:44,120 --> 00:20:47,520
+this war was not unprovoked. 
+It was provoked, cultivated, and
+
+424
+00:20:47,520 --> 00:20:49,440
+foreseen. 
+That leaves us with a really 
+
+425
+00:20:49,440 --> 00:20:51,160
+challenging final thought from 
+the source. 
+
+426
+00:20:51,520 --> 00:20:54,480
+The West lit the fuse in 
+Europe's most dangerous powder 
+
+427
+00:20:54,480 --> 00:20:56,600
+keg, and now the world lives 
+with the fire. 
+
+428
+00:20:56,920 --> 00:20:58,520
+It really makes you wonder, 
+doesn't it? 
+
+429
+00:20:58,680 --> 00:21:01,560
+How much of current conflict is 
+the result of history we haven't
+
+430
+00:21:01,560 --> 00:21:04,280
+fully acknowledged? 
+How much is blowback from past 
+
+431
+00:21:04,280 --> 00:21:07,560
+actions ignored warnings? 
+Thinking about that might change
+
+432
+00:21:07,560 --> 00:21:11,160
+how you see not just this 
+conflict, but maybe the next one
+
+433
+00:21:11,160 --> 00:21:13,080
+too. 
+Definitely something to chew on.
+

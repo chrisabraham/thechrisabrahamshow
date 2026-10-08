@@ -1,0 +1,6223 @@
+1
+00:00:00,080 --> 00:00:03,480
+Welcome back to the Deep Dive. 
+Today we are cracking open a 
+
+2
+00:00:03,480 --> 00:00:08,200
+narrative record that is, quite 
+frankly, a master class in Chaos
+
+3
+00:00:08,200 --> 00:00:10,280
+management. 
+Or maybe a master class in how 
+
+4
+00:00:10,280 --> 00:00:12,680
+not to manage chaos? 
+I think that's probably more 
+
+5
+00:00:12,680 --> 00:00:14,960
+accurate, yeah. 
+We're looking at a log simply 
+
+6
+00:00:14,960 --> 00:00:19,200
+titled Session 26. 
+It is certainly a dense text on 
+
+7
+00:00:19,200 --> 00:00:21,000
+the surface. 
+If you just skim it, it reads 
+
+8
+00:00:21,000 --> 00:00:23,280
+like a pretty standard fantasy 
+adventure log. 
+
+9
+00:00:23,280 --> 00:00:25,240
+You know, fight the bad guy, get
+the loot. 
+
+10
+00:00:25,800 --> 00:00:29,320
+But when you actually sit down 
+and and peel back the layers, 
+
+11
+00:00:29,320 --> 00:00:32,439
+it's a psychological case study 
+on desperation. 
+
+12
+00:00:32,439 --> 00:00:34,760
+It's really about what happens 
+when people are backed into a 
+
+13
+00:00:34,760 --> 00:00:36,920
+corner and start making very, 
+very bad decisions. 
+
+14
+00:00:36,960 --> 00:00:38,960
+Oh absolutely. 
+And before we get into the nitty
+
+15
+00:00:38,960 --> 00:00:41,240
+gritty, we really need to set 
+the scene for you. 
+
+16
+00:00:41,560 --> 00:00:45,000
+We were talking about a high 
+stakes fantasy narrative set in 
+
+17
+00:00:45,000 --> 00:00:47,880
+the land of Barovia. 
+Now, for anyone who hasn't spent
+
+18
+00:00:47,880 --> 00:00:51,560
+time in this particular setting,
+how would you describe Borovia? 
+
+19
+00:00:51,560 --> 00:00:55,240
+It's not exactly a vacation 
+spot, is it? 
+
+20
+00:00:55,240 --> 00:00:58,040
+Far from it, no. 
+Think of Borovia as a place 
+
+21
+00:00:58,040 --> 00:01:00,000
+where the sun never quite 
+shines. 
+
+22
+00:01:00,000 --> 00:01:03,280
+It is perpetually overcast. 
+The forests are full of wolves 
+
+23
+00:01:03,280 --> 00:01:05,560
+that are smarter than you. 
+That's terrifying. 
+
+24
+00:01:05,560 --> 00:01:10,120
+It is, and the ruler is an 
+ancient, incredibly powerful 
+
+25
+00:01:10,120 --> 00:01:14,200
+vampire named Strad. 
+The entire atmosphere is 
+
+26
+00:01:14,200 --> 00:01:17,560
+oppressive by design. 
+It's a horse that that's sort of
+
+27
+00:01:17,840 --> 00:01:19,880
+disguised as an adventure 
+setting. 
+
+28
+00:01:19,880 --> 00:01:21,600
+Right. 
+It's pure gothic horror. 
+
+29
+00:01:21,640 --> 00:01:23,480
+Everything is decaying, 
+everything is sad. 
+
+30
+00:01:23,880 --> 00:01:27,240
+And in this specific session, we
+are following a party of 
+
+31
+00:01:27,240 --> 00:01:30,600
+adventurers who are, to put it 
+mildly, having the worst week of
+
+32
+00:01:30,600 --> 00:01:32,320
+their lives. 
+That's an understatement. 
+
+33
+00:01:32,320 --> 00:01:35,600
+We've got a desperate heist, a 
+web of lies that would make a 
+
+34
+00:01:35,600 --> 00:01:39,760
+seasoned politician blush, and a
+battle that goes so wrong so 
+
+35
+00:01:39,760 --> 00:01:42,360
+fast it forces a humiliating 
+retreat. 
+
+36
+00:01:42,360 --> 00:01:43,320
+And. 
+You know, the objective was 
+
+37
+00:01:43,320 --> 00:01:45,120
+actually quite surgical, at 
+least on paper. 
+
+38
+00:01:45,120 --> 00:01:46,840
+They had a clear mission. 
+It seems simple. 
+
+39
+00:01:47,080 --> 00:01:50,560
+It did infiltrate the home of a 
+noble woman named Lady Walker in
+
+40
+00:01:50,560 --> 00:01:53,360
+the town of Awlaki. 
+Their goal was to retrieve one 
+
+41
+00:01:53,360 --> 00:01:56,800
+specific artifact, the Amulet of
+Ravenkind. 
+
+42
+00:01:56,800 --> 00:01:59,160
+Get in, get the amulet, get out.
+Sounds simple. 
+
+43
+00:01:59,160 --> 00:02:00,880
+It sounds like a classic smash 
+and grab. 
+
+44
+00:02:00,960 --> 00:02:03,960
+It does, but there is a massive 
+elephant in the room before they
+
+45
+00:02:03,960 --> 00:02:05,960
+even step foot in the town, the 
+Hughes one. 
+
+46
+00:02:06,120 --> 00:02:10,120
+The party is operating under a 
+deception that is honestly kind 
+
+47
+00:02:10,120 --> 00:02:14,200
+of breathtaking in its audacity.
+They are dragging an ally along 
+
+48
+00:02:14,200 --> 00:02:17,320
+a guy named Ismarc who thinks 
+they are there for a completely 
+
+49
+00:02:17,320 --> 00:02:19,120
+different reason. 
+He thinks they're there to save 
+
+50
+00:02:19,120 --> 00:02:20,600
+his sister. 
+He does. 
+
+51
+00:02:20,720 --> 00:02:24,640
+And spoiler alert for everyone 
+listening, they're definitely 
+
+52
+00:02:24,640 --> 00:02:27,640
+not there to save his sister. 
+No, not at all. 
+
+53
+00:02:27,680 --> 00:02:31,560
+And as we'll see, that lie is 
+the structural fault line that 
+
+54
+00:02:31,560 --> 00:02:33,880
+threatens to collapse the entire
+endeavor. 
+
+55
+00:02:34,120 --> 00:02:36,840
+It's the ticking clock in the 
+background of every single 
+
+56
+00:02:36,840 --> 00:02:38,880
+scene. 
+So before we watch this train 
+
+57
+00:02:38,880 --> 00:02:42,160
+wreck unfold in slow motion, 
+let's quickly Orient ourselves 
+
+58
+00:02:42,160 --> 00:02:43,760
+right? 
+Who are the people making these 
+
+59
+00:02:43,760 --> 00:02:46,520
+terrible life choices? 
+We got a pretty diverse crew 
+
+60
+00:02:46,520 --> 00:02:47,920
+here. 
+It's a classic adventuring 
+
+61
+00:02:47,920 --> 00:02:50,640
+composition for the most part. 
+First you have your horn, 
+
+62
+00:02:50,640 --> 00:02:53,240
+Tenpenny. 
+He is a halfling Beastmaster. 
+
+63
+00:02:53,240 --> 00:02:55,280
+And he's not a alone, right? 
+He's got a companion. 
+
+64
+00:02:55,600 --> 00:02:57,520
+The Beastmaster part is key. 
+Correct. 
+
+65
+00:02:57,680 --> 00:02:59,800
+A great cat. 
+You should think of a Mountain 
+
+66
+00:02:59,800 --> 00:03:03,040
+Lion or a Panther. 
+It's a significant combat asset 
+
+67
+00:03:03,040 --> 00:03:05,600
+for sure, but it's also an 
+emotional anchor for him. 
+
+68
+00:03:05,600 --> 00:03:08,440
+OK, so that's your horn. 
+Then there is Radley. 
+
+69
+00:03:08,520 --> 00:03:12,240
+Radley, a human eldritch knight.
+An Eldritch Knight break that 
+
+70
+00:03:12,240 --> 00:03:13,840
+down for me. 
+What does that actually mean in 
+
+71
+00:03:13,840 --> 00:03:17,480
+practice? 
+Think of him as the muscle, but 
+
+72
+00:03:17,480 --> 00:03:20,680
+with a magical edge. 
+So he wears heavy armor. 
+
+73
+00:03:20,880 --> 00:03:25,080
+He swings big weapons, but he 
+can also cast defensive spells 
+
+74
+00:03:25,080 --> 00:03:28,520
+or you know, throw fire. 
+He is the tank, effectively. 
+
+75
+00:03:28,520 --> 00:03:29,560
+Got it. 
+The heavy hitter. 
+
+76
+00:03:29,760 --> 00:03:31,600
+The one you send in first. 
+Exactly. 
+
+77
+00:03:31,920 --> 00:03:35,680
+Then we have Perlon, Good 
+Shadow, another halfling, but a 
+
+78
+00:03:35,680 --> 00:03:37,560
+monk. 
+So very different from you're a 
+
+79
+00:03:37,560 --> 00:03:38,720
+horn. 
+Very different. 
+
+80
+00:03:38,720 --> 00:03:41,480
+Highly mobile, martial arts 
+focused. 
+
+81
+00:03:41,480 --> 00:03:44,160
+He's the guy who runs up walls 
+and punches people in the face. 
+
+82
+00:03:44,480 --> 00:03:47,320
+A whirlwind of fists. 
+And rounding out the main crew, 
+
+83
+00:03:47,320 --> 00:03:49,360
+the one who's supposed to make 
+this whole heist thing work. 
+
+84
+00:03:49,520 --> 00:03:52,040
+That would be Dermont Cobain and
+Elfar Kane. 
+
+85
+00:03:52,040 --> 00:03:54,840
+Trickster. 
+He fulfills the rogue archetype.
+
+86
+00:03:54,880 --> 00:03:58,680
+Stealth locks, Disarming traps. 
+All the classic robe stuff. 
+
+87
+00:03:58,880 --> 00:04:02,440
+Right, but he uses magic to 
+enhance those thieving skills. 
+
+88
+00:04:02,440 --> 00:04:04,480
+He can go invisible, create 
+illusions. 
+
+89
+00:04:04,720 --> 00:04:06,760
+He's their key to getting in 
+quietly. 
+
+90
+00:04:07,160 --> 00:04:10,640
+So we have a beastmaster, a tank
+mage, a Kung Fu halfling, and a 
+
+91
+00:04:10,640 --> 00:04:13,320
+magic thief. 
+And then there is is Mark. 
+
+92
+00:04:13,320 --> 00:04:16,079
+He's the MPC, the non player 
+character who's just caught in 
+
+93
+00:04:16,079 --> 00:04:19,160
+the middle of all this. 
+And is Mark is crucial here? 
+
+94
+00:04:19,160 --> 00:04:22,400
+He is the new Burgo master of 
+the village of Barovia. 
+
+95
+00:04:22,640 --> 00:04:25,480
+I want to pause on that word. 
+Burgo Master, we see a lot of 
+
+96
+00:04:25,480 --> 00:04:27,840
+these texts. 
+What does that actually mean in 
+
+97
+00:04:27,840 --> 00:04:30,960
+this context? 
+Is he like a mayor or is it more
+
+98
+00:04:30,960 --> 00:04:33,840
+than that? 
+He is like a mayor but with, 
+
+99
+00:04:34,280 --> 00:04:38,240
+let's say, feudal absolute power
+and a lot more wolves at his 
+
+100
+00:04:38,240 --> 00:04:39,800
+door. 
+Literally, literally. 
+
+101
+00:04:39,800 --> 00:04:42,560
+He is the civic leader 
+responsible for the safety of 
+
+102
+00:04:42,560 --> 00:04:45,720
+the village, but in Barovia, 
+that's a curse job. 
+
+103
+00:04:45,720 --> 00:04:48,560
+His father died from the stress 
+of it is Mark is young, he's 
+
+104
+00:04:48,560 --> 00:04:51,800
+noble, and he's trying to fill 
+very, very big shoes. 
+
+105
+00:04:51,880 --> 00:04:53,800
+And he is the victim of the 
+party's deception. 
+
+106
+00:04:53,800 --> 00:04:55,800
+He's the one they're lying to. 
+He is. 
+
+107
+00:04:55,800 --> 00:04:58,840
+He is the moral anchor that the 
+party has chosen to cut loose. 
+
+108
+00:04:58,840 --> 00:05:01,400
+In a way, they're using his 
+goodness against him. 
+
+109
+00:05:01,840 --> 00:05:03,400
+OK, let's unpack the context 
+here. 
+
+110
+00:05:03,400 --> 00:05:05,640
+The why? 
+Why are they robbing Lady 
+
+111
+00:05:05,640 --> 00:05:08,280
+Watcher? 
+Why this intense desperation? 
+
+112
+00:05:08,520 --> 00:05:11,400
+Because the sources say they've 
+been on a serious losing streak 
+
+113
+00:05:11,400 --> 00:05:14,560
+for the last five days. 
+Losing streak is a polite way to
+
+114
+00:05:14,560 --> 00:05:16,160
+put it. 
+I mean, it's been a catastrophe.
+
+115
+00:05:16,160 --> 00:05:19,360
+To understand the tension in 
+session 26, you have to look at 
+
+116
+00:05:19,360 --> 00:05:22,240
+the tragedy of their friend 
+Tracidor. 
+
+117
+00:05:22,480 --> 00:05:23,960
+Tracidor was their cleric, 
+right? 
+
+118
+00:05:23,960 --> 00:05:26,640
+The healer he. 
+Was and we need to explain why 
+
+119
+00:05:26,640 --> 00:05:30,280
+that matters so much. 
+In a land like Borovia or in 
+
+120
+00:05:30,280 --> 00:05:33,840
+Dungeons and Dragons generally a
+cleric is your lifeline. 
+
+121
+00:05:33,840 --> 00:05:35,720
+The ultimate safety net. 
+It is. 
+
+122
+00:05:35,880 --> 00:05:39,480
+They are the source of healing, 
+of restoration, of curing 
+
+123
+00:05:39,480 --> 00:05:42,280
+diseases. 
+Losing your cleric is like 
+
+124
+00:05:42,280 --> 00:05:45,440
+losing your oxygen tank while 
+you are scuba diving in a dark 
+
+125
+00:05:45,440 --> 00:05:47,920
+cave. 
+You might be OK for a minute, 
+
+126
+00:05:47,960 --> 00:05:49,920
+but the panic sets in 
+immediately. 
+
+127
+00:05:50,040 --> 00:05:52,080
+And he didn't just die 
+peacefully in his sleep. 
+
+128
+00:05:52,080 --> 00:05:54,520
+This was violent. 
+Far from it. 
+
+129
+00:05:54,640 --> 00:05:58,080
+Tracidor was executed. 
+The party, to their credit, 
+
+130
+00:05:58,160 --> 00:06:00,400
+retrieved his corpse. 
+Which couldn't have been easy. 
+
+131
+00:06:00,480 --> 00:06:04,200
+No, they hauled his body all the
+way to the Abbey of Saint 
+
+132
+00:06:04,200 --> 00:06:06,120
+Markova, in a place called 
+Kresk. 
+
+133
+00:06:06,560 --> 00:06:09,000
+They were banking everything on 
+a resurrection. 
+
+134
+00:06:09,000 --> 00:06:10,800
+And this is the part of the 
+record that creeps me out. 
+
+135
+00:06:11,000 --> 00:06:13,160
+They go to the Abbot, who agrees
+to bring him back. 
+
+136
+00:06:13,960 --> 00:06:16,280
+But there's a catch. 
+There's always a catch. 
+
+137
+00:06:16,280 --> 00:06:17,760
+There is always a catch in 
+Barofia. 
+
+138
+00:06:17,760 --> 00:06:20,360
+The Abbot is well, he's a deeply
+disturbing figure. 
+
+139
+00:06:20,360 --> 00:06:23,240
+He agrees to the resurrection, 
+but the price is a wedding 
+
+140
+00:06:23,240 --> 00:06:24,440
+dress. 
+Wedding dress. 
+
+141
+00:06:24,440 --> 00:06:28,560
+Yes, a wedding dress. 
+A wedding dress for his Gollum 
+
+142
+00:06:28,560 --> 00:06:30,920
+bride. 
+He is building a flesh Gollum to
+
+143
+00:06:30,920 --> 00:06:34,520
+be a bride for someone and the 
+text heavily implies it's for 
+
+144
+00:06:34,520 --> 00:06:38,400
+Strad and he needs a dress. 
+That is just horrifying. 
+
+145
+00:06:38,640 --> 00:06:41,760
+It turns this holy mission of 
+saving their friend into this 
+
+146
+00:06:41,760 --> 00:06:45,480
+grotesque, macabre errand. 
+Go find me a dress for my 
+
+147
+00:06:45,480 --> 00:06:47,080
+monster and I'll fix your 
+friend. 
+
+148
+00:06:47,080 --> 00:06:49,200
+Exactly. 
+It shows the lengths the party 
+
+149
+00:06:49,200 --> 00:06:52,000
+was willing to go to. 
+They agreed to this bizarre 
+
+150
+00:06:52,000 --> 00:06:53,760
+barter. 
+They went and got the dress. 
+
+151
+00:06:54,000 --> 00:06:57,000
+But here is the kicker. 
+The miracle failed. 
+
+152
+00:06:57,480 --> 00:07:00,400
+The resurrection didn't take. 
+Wait, how does a resurrection 
+
+153
+00:07:00,400 --> 00:07:02,400
+fail? 
+I thought that was just a spell 
+
+154
+00:07:02,400 --> 00:07:03,920
+you cast. 
+You paid the diamond, or in this
+
+155
+00:07:03,920 --> 00:07:05,640
+case, the dress, and poof, he's 
+back. 
+
+156
+00:07:05,720 --> 00:07:08,240
+Usually yes, but Borovia is 
+different. 
+
+157
+00:07:08,240 --> 00:07:11,000
+Souls are tracked there. 
+The dark powers that rule this 
+
+158
+00:07:11,000 --> 00:07:13,480
+land don't like letting people 
+go, and they don't always let 
+
+159
+00:07:13,480 --> 00:07:15,360
+them come back. 
+So it's like the whole realm is 
+
+160
+00:07:15,360 --> 00:07:18,240
+working against them. 
+It is a failed resurrection 
+
+161
+00:07:18,240 --> 00:07:21,040
+implies that Traxidor's soul 
+might not be free to return. 
+
+162
+00:07:21,040 --> 00:07:23,920
+Or perhaps if the Abbot's power 
+is corrupted and not what it 
+
+163
+00:07:23,920 --> 00:07:28,280
+seems, it shifts the genre from 
+high fantasy to cosmic horror. 
+
+164
+00:07:28,600 --> 00:07:31,200
+The rules you thought you knew 
+don't apply here. 
+
+165
+00:07:31,440 --> 00:07:34,800
+So they paid the price, they did
+the horrible errand and got 
+
+166
+00:07:34,800 --> 00:07:36,360
+nothing. 
+That's devastating. 
+
+167
+00:07:36,360 --> 00:07:38,040
+And it gets worse. 
+Of course it does. 
+
+168
+00:07:38,080 --> 00:07:41,240
+Shortly after that failure, they
+are at a place called Salinka 
+
+169
+00:07:41,240 --> 00:07:44,760
+Pass, which is this high 
+freezing mountain Rd. 
+
+170
+00:07:44,840 --> 00:07:48,760
+They're trying to find the Amber
+Temple, a place of dark secrets,
+
+171
+00:07:49,000 --> 00:07:51,520
+and they get jumped by rocks. 
+Rocks. 
+
+172
+00:07:51,520 --> 00:07:55,040
+What are rocks? 
+Demonic vulture like creatures 
+
+173
+00:07:55,320 --> 00:07:58,960
+screeching flying nightmares 
+with hooked beaks and claws. 
+
+174
+00:07:59,520 --> 00:08:04,480
+In that encounter, Tracidor's 
+body is well, the text says he 
+
+175
+00:08:04,480 --> 00:08:06,480
+is killed again. 
+His body is killed again. 
+
+176
+00:08:06,480 --> 00:08:09,760
+How do you kill a corpse? 
+They tore it apart, mutilated it
+
+177
+00:08:09,760 --> 00:08:11,720
+beyond repair. 
+It's just adding insult to 
+
+178
+00:08:11,720 --> 00:08:13,560
+injury. 
+It's the universe telling them 
+
+179
+00:08:13,720 --> 00:08:15,840
+stop trying it. 
+Represents finality. 
+
+180
+00:08:15,880 --> 00:08:18,280
+Total finality. 
+The party realizes they can't 
+
+181
+00:08:18,280 --> 00:08:20,040
+save him. 
+There's nothing left to save. 
+
+182
+00:08:20,040 --> 00:08:22,960
+They cremate what's left of him 
+in these mysterious green flames
+
+183
+00:08:22,960 --> 00:08:24,480
+of the past. 
+Green flames? 
+
+184
+00:08:24,480 --> 00:08:26,320
+That sounds ominous. 
+Very. 
+
+185
+00:08:26,720 --> 00:08:30,040
+It suggests magical fire, 
+perhaps linked to the dark 
+
+186
+00:08:30,040 --> 00:08:32,280
+entities of the Amber Temple 
+they were seeking. 
+
+187
+00:08:32,640 --> 00:08:35,919
+But the take away for the party 
+is that Tracidor is gone 
+
+188
+00:08:36,080 --> 00:08:37,799
+permanently. 
+That's the nail in the coffin. 
+
+189
+00:08:37,799 --> 00:08:40,200
+Literally. 
+When you cremate the body, you 
+
+190
+00:08:40,200 --> 00:08:42,120
+are admitting we are never 
+fixing this. 
+
+191
+00:08:42,440 --> 00:08:45,440
+That is a heavy psychological 
+break for a group of heroes. 
+
+192
+00:08:45,440 --> 00:08:48,320
+And with him, the Amulet of 
+Ravenkind was lost. 
+
+193
+00:08:48,640 --> 00:08:50,160
+That's the connection. 
+Right. 
+
+194
+00:08:50,280 --> 00:08:52,640
+It had been taken from him 
+earlier when Tracidor was 
+
+195
+00:08:52,640 --> 00:08:54,720
+captured by Lady Walker's 
+forces. 
+
+196
+00:08:55,200 --> 00:08:57,960
+So that is the connection. 
+They need the amulet because 
+
+197
+00:08:57,960 --> 00:09:00,880
+without their cleric, without 
+their healer, they are terrified
+
+198
+00:09:00,880 --> 00:09:04,280
+of facing the big bad straw. 
+So they feel naked with that is 
+
+199
+00:09:04,280 --> 00:09:07,000
+their only crutch left. 
+Exactly, they believe this 
+
+200
+00:09:07,000 --> 00:09:09,440
+amulet is the only thing that 
+levels the playing field. 
+
+201
+00:09:09,600 --> 00:09:11,720
+It can create sunlight. 
+It hurts vampires. 
+
+202
+00:09:11,720 --> 00:09:15,080
+It's not just a heist for greed,
+it's a heist for survival. 
+
+203
+00:09:15,120 --> 00:09:16,920
+They are acting out of pure 
+fear. 
+
+204
+00:09:17,120 --> 00:09:19,880
+Now I want to talk about the 
+journey itself because the 
+
+205
+00:09:19,880 --> 00:09:21,560
+outline mentions this stuff 
+happened. 
+
+206
+00:09:21,560 --> 00:09:24,400
+It's like a pass. 
+But the heist is in Valachi. 
+
+207
+00:09:24,760 --> 00:09:28,560
+That's not next door, is it? 
+No, it's a significant trek and 
+
+208
+00:09:28,560 --> 00:09:30,120
+I think that travel time is 
+crucial. 
+
+209
+00:09:30,520 --> 00:09:33,680
+Imagine walking down a cold 
+mountain, carrying the ashes of 
+
+210
+00:09:33,680 --> 00:09:36,200
+your friend in a pouch, knowing 
+you failed him. 
+
+211
+00:09:36,200 --> 00:09:38,000
+Just silence and grief. 
+Right. 
+
+212
+00:09:38,000 --> 00:09:41,520
+That silence, that travel time, 
+that is where the desperation 
+
+213
+00:09:41,520 --> 00:09:43,320
+festers. 
+By the time they get back to 
+
+214
+00:09:43,320 --> 00:09:45,040
+civilization, they aren't 
+thinking clearly. 
+
+215
+00:09:45,040 --> 00:09:47,400
+They're desperate for any kind 
+of win. 
+
+216
+00:09:47,400 --> 00:09:49,480
+Which brings us to the deception
+of Bismarck. 
+
+217
+00:09:50,120 --> 00:09:52,560
+They pick him up in the village 
+of Barovia on their way to 
+
+218
+00:09:52,560 --> 00:09:55,680
+Vilagi, and this is where the 
+morality of the group really 
+
+219
+00:09:55,680 --> 00:09:59,320
+starts to look Gray. 
+Dark Gray they recruit is Mark 
+
+220
+00:09:59,320 --> 00:10:02,800
+now is Mark is motivated by one 
+thing and one thing only, his 
+
+221
+00:10:02,800 --> 00:10:04,760
+adopted sister Irena. 
+Right. 
+
+222
+00:10:05,200 --> 00:10:06,760
+And the party knows where Irena 
+is. 
+
+223
+00:10:06,760 --> 00:10:08,600
+They have first hand knowledge. 
+They do. 
+
+224
+00:10:08,960 --> 00:10:12,720
+They know that during a previous
+vampire attack on Valaki, she 
+
+225
+00:10:12,720 --> 00:10:15,520
+was taken. 
+She is with Strad at Castle 
+
+226
+00:10:15,520 --> 00:10:17,720
+Ravenloft. 
+She is, for all intents and 
+
+227
+00:10:17,720 --> 00:10:19,960
+purposes, gone. 
+But they don't tell Liz Mark 
+
+228
+00:10:19,960 --> 00:10:21,680
+that. 
+No, they tell him. 
+
+229
+00:10:21,680 --> 00:10:24,040
+Come with us to Valaki. 
+We're going to fight vampires. 
+
+230
+00:10:24,040 --> 00:10:26,920
+Your sister is there. 
+It is a lie by omission. 
+
+231
+00:10:27,080 --> 00:10:29,360
+Weaponized to recruit him as 
+extra muscle. 
+
+232
+00:10:29,480 --> 00:10:31,080
+OK, I'm. 
+Going to play devil's advocate 
+
+233
+00:10:31,080 --> 00:10:34,840
+here for a second. 
+Is it actually that cold or is 
+
+234
+00:10:34,840 --> 00:10:37,320
+it the only play they have? 
+If they don't get the amulet, 
+
+235
+00:10:37,320 --> 00:10:40,000
+they can't kill Straud. 
+If they can't kill Straud, Irena
+
+236
+00:10:40,000 --> 00:10:43,520
+is doomed anyway right? 
+Isn't lying to is Mark actually 
+
+237
+00:10:43,520 --> 00:10:45,720
+the most moral thing to do to 
+save the world? 
+
+238
+00:10:46,000 --> 00:10:49,800
+Like utilitarian ethics, The 
+needs of the many. 
+
+239
+00:10:50,000 --> 00:10:53,000
+That is certainly the argument 
+the party would make themselves 
+
+240
+00:10:53,000 --> 00:10:55,520
+to sleep at night. 
+The ends justify the means. 
+
+241
+00:10:55,520 --> 00:10:57,680
+But think about the human cost 
+of that. 
+
+242
+00:10:58,080 --> 00:11:01,080
+You are manipulating a man's 
+love for his family to use him 
+
+243
+00:11:01,080 --> 00:11:03,520
+as a meat shield. 
+There's a harsh way to put it. 
+
+244
+00:11:03,560 --> 00:11:06,200
+But it's true, yes, 
+strategically it makes a certain
+
+245
+00:11:06,200 --> 00:11:09,160
+kind of cold sense, but morally 
+it's corrosive. 
+
+246
+00:11:09,160 --> 00:11:12,200
+It turns an ally into a tool. 
+You're not partners anymore, 
+
+247
+00:11:12,200 --> 00:11:16,160
+you're a user and he's the used.
+And it creates this incredible 
+
+248
+00:11:16,160 --> 00:11:18,880
+dramatic irony for us, the 
+readers. 
+
+249
+00:11:19,080 --> 00:11:20,680
+We know the truth. 
+The party knows the truth. 
+
+250
+00:11:20,920 --> 00:11:23,560
+But is Mark is fighting with the
+fury of a brother trying to save
+
+251
+00:11:23,560 --> 00:11:26,560
+his family, completely unaware 
+that he is fighting for a lost 
+
+252
+00:11:26,560 --> 00:11:28,240
+cause? 
+And that tension is going to 
+
+253
+00:11:28,240 --> 00:11:29,560
+snap. 
+It has to. 
+
+254
+00:11:29,640 --> 00:11:32,520
+You can't maintain a lie that 
+big under that much pressure. 
+
+255
+00:11:32,680 --> 00:11:36,600
+So, armed with this lie and 
+their desperation, they arrive 
+
+256
+00:11:36,600 --> 00:11:40,000
+at Valaki. 
+Now, Valaki is a walled town. 
+
+257
+00:11:40,120 --> 00:11:43,360
+You can't just waltz in, 
+especially if you've caused 
+
+258
+00:11:43,360 --> 00:11:44,880
+trouble there before, which they
+have. 
+
+259
+00:11:44,920 --> 00:11:47,760
+Right, so they don't knock on 
+the front door, they breach the 
+
+260
+00:11:47,760 --> 00:11:49,800
+walls and go straight for Lady 
+Watchers house. 
+
+261
+00:11:49,800 --> 00:11:53,160
+They opt for a subterranean 
+entry, the root cellar. 
+
+262
+00:11:53,360 --> 00:11:55,760
+Classic high strobe. 
+Start from the bottom and work 
+
+263
+00:11:55,760 --> 00:11:57,960
+your way up. 
+And almost immediately, they 
+
+264
+00:11:57,960 --> 00:12:00,640
+find something that suggests 
+Lady Walker isn't just a rich 
+
+265
+00:12:00,640 --> 00:12:04,200
+noblewoman who likes nice tea 
+and political maneuvering. 
+
+266
+00:12:04,240 --> 00:12:06,880
+They find a secret chamber with 
+a pentagram on the floor. 
+
+267
+00:12:06,920 --> 00:12:09,960
+Yeah, nothing good ever happens 
+in a room with a pentagram on 
+
+268
+00:12:09,960 --> 00:12:10,960
+the floor. 
+Never. 
+
+269
+00:12:11,480 --> 00:12:13,360
+What does that tell them? 
+What does that signal to the 
+
+270
+00:12:13,360 --> 00:12:16,280
+party? 
+It's strongly implies devil 
+
+271
+00:12:16,280 --> 00:12:19,280
+worship or summoning rituals. 
+It completely changes the 
+
+272
+00:12:19,280 --> 00:12:21,800
+context of the heist. 
+They aren't just robbing a 
+
+273
+00:12:21,800 --> 00:12:24,840
+political rival, they are 
+stepping into a cultist Slayer. 
+
+274
+00:12:25,320 --> 00:12:28,200
+The air probably smells like 
+sulfur and old blood. 
+
+275
+00:12:28,600 --> 00:12:31,480
+It signals to the party the 
+rules of engagement have 
+
+276
+00:12:31,480 --> 00:12:33,440
+changed. 
+You are dealing with infernal 
+
+277
+00:12:33,440 --> 00:12:35,600
+powers. 
+But they don't find the amulet 
+
+278
+00:12:35,600 --> 00:12:37,160
+there. 
+So your horn. 
+
+279
+00:12:37,160 --> 00:12:39,080
+The Beastmaster decides to use 
+magic. 
+
+280
+00:12:39,560 --> 00:12:42,840
+He casts Locate object. 
+A smart move. 
+
+281
+00:12:42,840 --> 00:12:45,280
+Why search physically when you 
+can search magically? 
+
+282
+00:12:45,280 --> 00:12:46,960
+It's like having a GPS for 
+treasure. 
+
+283
+00:12:46,960 --> 00:12:48,640
+It should be simple. 
+And the result. 
+
+284
+00:12:48,800 --> 00:12:51,000
+Silence the spell. 
+Fails. 
+
+285
+00:12:51,440 --> 00:12:53,880
+It does not detect the Amulet of
+Ravenkind. 
+
+286
+00:12:53,920 --> 00:12:56,600
+OK I want to dig into this 
+mechanic cuz this is a crucial 
+
+287
+00:12:56,600 --> 00:12:58,840
+moment. 
+When you say the skull fails, 
+
+288
+00:12:59,040 --> 00:13:02,480
+does that mean the amulet 
+absolutely isn't there or is 
+
+289
+00:13:02,480 --> 00:13:04,840
+there wiggle room? 
+There is a little wiggle room 
+
+290
+00:13:04,840 --> 00:13:07,360
+and that is what the party 
+latches onto in this magic 
+
+291
+00:13:07,360 --> 00:13:09,720
+system. 
+There is one specific material 
+
+292
+00:13:09,720 --> 00:13:12,640
+that blocks divination spells, 
+like this one lead. 
+
+293
+00:13:12,720 --> 00:13:15,920
+Lead like the metal. 
+Yes, a thin sheet of lead is 
+
+294
+00:13:15,920 --> 00:13:17,480
+like kryptonite for locate 
+object. 
+
+295
+00:13:17,760 --> 00:13:21,440
+If the amulet is inside a lead 
+lined box, the magic just 
+
+296
+00:13:21,440 --> 00:13:23,560
+bounces off. 
+The spell would say I can't find
+
+297
+00:13:23,560 --> 00:13:25,280
+it even if it's three feet away 
+from you. 
+
+298
+00:13:25,280 --> 00:13:27,360
+So they convince themselves it's
+hidden, not missing. 
+
+299
+00:13:27,920 --> 00:13:30,640
+They create an explanation that 
+fits their desired outcome. 
+
+300
+00:13:30,920 --> 00:13:33,600
+Exactly. 
+A rational actor might say the 
+
+301
+00:13:33,600 --> 00:13:35,960
+spell failed, let's cut our 
+losses and leave. 
+
+302
+00:13:36,560 --> 00:13:38,880
+But this goes back to the sunk 
+cost fallacy we were talking 
+
+303
+00:13:38,880 --> 00:13:40,720
+about. 
+They have traveled all this way.
+
+304
+00:13:40,720 --> 00:13:42,760
+They have lied to Ismark. 
+They have breached at the town 
+
+305
+00:13:42,760 --> 00:13:45,000
+walls. 
+They cannot accept that it might
+
+306
+00:13:45,000 --> 00:13:46,760
+be for nothing. 
+They needed to be there. 
+
+307
+00:13:46,760 --> 00:13:49,320
+They needed to be there, so they
+manufacture a reason to stay. 
+
+308
+00:13:49,320 --> 00:13:51,160
+Oh, I must be in a lead box 
+upstairs. 
+
+309
+00:13:51,160 --> 00:13:53,360
+So they ignore the massive red 
+flag. 
+
+310
+00:13:53,360 --> 00:13:55,040
+They leave the cellar and head 
+up. 
+
+311
+00:13:55,120 --> 00:13:58,520
+And this is where the heist 
+portion of the evening falls 
+
+312
+00:13:58,520 --> 00:14:01,400
+apart completely. 
+They move from the cellar to the
+
+313
+00:14:01,400 --> 00:14:04,240
+mud room. 
+Dermont, the rogue cracks open a
+
+314
+00:14:04,240 --> 00:14:05,600
+door. 
+This should be his moment. 
+
+315
+00:14:05,600 --> 00:14:07,960
+He's the Arcane Trickster. 
+This is his entire job 
+
+316
+00:14:07,960 --> 00:14:10,200
+description. 
+He sees a guard posted at the 
+
+317
+00:14:10,200 --> 00:14:12,440
+back door. 
+The setup is perfect for a 
+
+318
+00:14:12,440 --> 00:14:14,800
+stealth takedown. 
+Slip in silence. 
+
+319
+00:14:14,800 --> 00:14:17,360
+The guard keep moving. 
+The plan is still alive. 
+
+320
+00:14:17,400 --> 00:14:22,680
+He draws his rapier, he leaps 
+out, and then physics happens. 
+
+321
+00:14:22,720 --> 00:14:26,200
+The source material notes that 
+the narrow confines thwart the 
+
+322
+00:14:26,200 --> 00:14:28,360
+attack. 
+I want you to imagine a 
+
+323
+00:14:28,360 --> 00:14:32,160
+cluttered hallway full of boots 
+and coats and stacked firewood. 
+
+324
+00:14:32,640 --> 00:14:35,640
+He lunges, but his blade catches
+on the Stonewall. 
+
+325
+00:14:35,880 --> 00:14:39,480
+I can hear that sound, that 
+horrible scree of metal on 
+
+326
+00:14:39,480 --> 00:14:41,080
+stone. 
+It's the loudest sound in the 
+
+327
+00:14:41,080 --> 00:14:43,440
+world in that moment. 
+It completely ruins the element 
+
+328
+00:14:43,440 --> 00:14:46,520
+of surprise. 
+The sentry ducks, and more 
+
+329
+00:14:46,520 --> 00:14:49,840
+importantly, he starts yelling. 
+The alarm is raised. 
+
+330
+00:14:50,120 --> 00:14:52,880
+The stealth run is over. 
+Enter Radley. 
+
+331
+00:14:53,040 --> 00:14:55,520
+Radley solves the problem the 
+only way an Eldritch Knight 
+
+332
+00:14:55,520 --> 00:14:58,160
+knows how. 
+He steps in and, to quote the 
+
+333
+00:14:58,160 --> 00:15:00,280
+record, hammers the sentry to 
+death. 
+
+334
+00:15:00,560 --> 00:15:02,520
+Brutal. 
+No subtlety there. 
+
+335
+00:15:02,680 --> 00:15:05,040
+It is effective, but it is loud 
+and messy. 
+
+336
+00:15:05,360 --> 00:15:07,200
+The guard dies in a pool of 
+blood. 
+
+337
+00:15:07,320 --> 00:15:09,240
+The tone of the mission shifts 
+instantly. 
+
+338
+00:15:09,440 --> 00:15:11,080
+We are no longer watching 
+Ocean's 11. 
+
+339
+00:15:11,080 --> 00:15:13,120
+We are watching The Texas 
+Chainsaw Massacre. 
+
+340
+00:15:13,120 --> 00:15:16,400
+And noise travels. 
+The yelling, the hammering, the 
+
+341
+00:15:16,400 --> 00:15:19,280
+whole house is waking up. 
+The dominoes start falling. 
+
+342
+00:15:19,400 --> 00:15:22,560
+They hear footsteps upstairs. 
+They rush into a storeroom to 
+
+343
+00:15:22,560 --> 00:15:24,360
+hide, trying to regain some 
+control. 
+
+344
+00:15:24,560 --> 00:15:26,680
+A storeroom full of common 
+supplies. 
+
+345
+00:15:26,960 --> 00:15:30,040
+Not exactly a fortress. 
+They're crouching behind bags of
+
+346
+00:15:30,040 --> 00:15:32,640
+flour and crates of wine. 
+And while they are in there 
+
+347
+00:15:32,640 --> 00:15:35,840
+hiding, debating whether to 
+barricade themselves in, a 
+
+348
+00:15:35,880 --> 00:15:38,360
+servant woman walks in. 
+Talk about bad timing. 
+
+349
+00:15:38,640 --> 00:15:41,240
+Just absolutely the worst luck. 
+She's probably just coming to 
+
+350
+00:15:41,240 --> 00:15:44,240
+get a broom or something. 
+Imagine her perspective for a 
+
+351
+00:15:44,240 --> 00:15:46,880
+second. 
+She opens the door to get a mop,
+
+352
+00:15:46,920 --> 00:15:50,120
+and she finds a group of heavily
+armed, blood splattered 
+
+353
+00:15:50,120 --> 00:15:53,880
+adventurers hiding among the 
+crates, her world just turned 
+
+354
+00:15:53,880 --> 00:15:55,800
+upside down. 
+And they tell her to run. 
+
+355
+00:15:55,960 --> 00:15:58,760
+Which she does, but she also 
+screams. 
+
+356
+00:15:58,760 --> 00:16:01,240
+Actually, if I saw Radley 
+standing there with a hammer 
+
+357
+00:16:01,240 --> 00:16:04,400
+dripping blood, I'd scream too. 
+I'd scream my lungs out. 
+
+358
+00:16:04,480 --> 00:16:06,880
+Her screams alert the guards in 
+the front foyer. 
+
+359
+00:16:06,920 --> 00:16:09,680
+Now the house is fully, 
+completely awake. 
+
+360
+00:16:10,240 --> 00:16:12,600
+The party dispatches those 
+guards again. 
+
+361
+00:16:12,840 --> 00:16:15,640
+Seasoned adventurers versus 
+common men at arms is a 
+
+362
+00:16:15,640 --> 00:16:18,680
+mismatch, but the chaos is 
+uncontrolled now. 
+
+363
+00:16:18,680 --> 00:16:21,720
+There's no plan anymore. 
+It's a cascade of failure, one 
+
+364
+00:16:21,720 --> 00:16:24,000
+mistake after another. 
+Screaming, servants, dying 
+
+365
+00:16:24,000 --> 00:16:27,520
+guards, blood on the floor, and 
+they just keep pushing forward. 
+
+366
+00:16:27,520 --> 00:16:30,680
+They rush through the kitchen, 
+into the foyer, and finally into
+
+367
+00:16:30,680 --> 00:16:32,520
+the parlor. 
+They are rushing toward the 
+
+368
+00:16:32,520 --> 00:16:35,160
+center of the house, ignoring 
+the sounds of people putting on 
+
+369
+00:16:35,160 --> 00:16:37,040
+armor upstairs. 
+They are committed to this 
+
+370
+00:16:37,040 --> 00:16:40,240
+aggressive, headlong push. 
+Let's talk about the parlor, 
+
+371
+00:16:40,240 --> 00:16:42,760
+because the source gives us some
+great visual details here. 
+
+372
+00:16:43,040 --> 00:16:45,760
+It's not a dungeon, it's a home.
+This is someone's space. 
+
+373
+00:16:45,960 --> 00:16:48,840
+It's opulent. 
+You have velvet couches, a 
+
+374
+00:16:48,840 --> 00:16:51,920
+roaring hearth, a crystal 
+chandelier catching the light. 
+
+375
+00:16:52,200 --> 00:16:55,920
+It's a scene of domestic wealth 
+and a portrait above the 
+
+376
+00:16:55,920 --> 00:16:58,440
+fireplace. 
+The portrait of a distinguished 
+
+377
+00:16:58,440 --> 00:17:01,840
+man with a broken nose. 
+It's such a specific detail, I 
+
+378
+00:17:01,840 --> 00:17:03,960
+love it. 
+It tells you about the family. 
+
+379
+00:17:04,319 --> 00:17:05,760
+They're wealthy, but they're 
+rough. 
+
+380
+00:17:06,040 --> 00:17:08,720
+Maybe former adventurers 
+themselves, or just a family 
+
+381
+00:17:08,720 --> 00:17:11,720
+that seen its share of brawls. 
+It grounds the scene. 
+
+382
+00:17:11,920 --> 00:17:13,839
+This isn't a generic video game 
+level. 
+
+383
+00:17:13,839 --> 00:17:16,599
+It's someone's living room 
+that's about to be turned into a
+
+384
+00:17:16,599 --> 00:17:18,599
+war zone. 
+But the party doesn't have time 
+
+385
+00:17:18,599 --> 00:17:21,280
+to admire the art. 
+They have arrived at the boss 
+
+386
+00:17:21,280 --> 00:17:22,520
+fight. 
+Lady Watcher. 
+
+387
+00:17:22,800 --> 00:17:24,800
+She's been the antagonist in the
+background for a while. 
+
+388
+00:17:25,079 --> 00:17:26,599
+What is she doing? 
+Is she surprised? 
+
+389
+00:17:26,760 --> 00:17:29,160
+She is there, but she isn't 
+alone. 
+
+390
+00:17:29,200 --> 00:17:32,120
+She's prepared. 
+She has two wardens with her, 
+
+391
+00:17:32,640 --> 00:17:34,880
+and these aren't just guards, 
+they are spellcasters. 
+
+392
+00:17:34,880 --> 00:17:38,240
+They are using necromantic bolts
+and summoning spiritual weapons.
+
+393
+00:17:38,240 --> 00:17:40,400
+So the difficulty curve just 
+spiked massively. 
+
+394
+00:17:40,400 --> 00:17:42,840
+We go from common guards to 
+magic users. 
+
+395
+00:17:43,000 --> 00:17:46,160
+And Lady Wacker is smart. 
+She's not a fool. 
+
+396
+00:17:46,240 --> 00:17:50,040
+She realizes she is outnumbered.
+The party, despite the botched 
+
+397
+00:17:50,040 --> 00:17:52,840
+stealth, is a formidable combat 
+unit. 
+
+398
+00:17:53,080 --> 00:17:55,240
+So she escalates. 
+How does she escalate? 
+
+399
+00:17:55,440 --> 00:17:57,640
+She summons a devil. 
+Because of course she does. 
+
+400
+00:17:57,960 --> 00:18:00,480
+The pentagram in the basement 
+wasn't just for decoration. 
+
+401
+00:18:00,600 --> 00:18:04,240
+She pulls a creature straight 
+from the 9 Hells right into her 
+
+402
+00:18:04,240 --> 00:18:06,000
+parlor. 
+It just appears in a flash of 
+
+403
+00:18:06,000 --> 00:18:08,360
+smoke and brimstone. 
+I love the description of 
+
+404
+00:18:08,360 --> 00:18:11,440
+Bismarck here, The source says. 
+He lets out a cry of despair. 
+
+405
+00:18:11,600 --> 00:18:14,680
+Think about that for a second. 
+Bismarck is a guy who deals with
+
+406
+00:18:14,680 --> 00:18:16,640
+wolves and maybe the occasional 
+zombie. 
+
+407
+00:18:16,840 --> 00:18:20,120
+He's a grounded mortal fighter. 
+He thinks he is here to fight 
+
+408
+00:18:20,120 --> 00:18:23,880
+vampires. 
+Suddenly space and reality tear 
+
+409
+00:18:23,880 --> 00:18:26,040
+open and a barbed devil steps 
+out. 
+
+410
+00:18:26,360 --> 00:18:28,840
+The cognitive dissonance must be
+overwhelming. 
+
+411
+00:18:29,120 --> 00:18:30,680
+He has no frame of reference for
+this. 
+
+412
+00:18:30,680 --> 00:18:32,200
+None. 
+He's looking at this thing 
+
+413
+00:18:32,200 --> 00:18:34,560
+thinking, What have you people 
+got me into? 
+
+414
+00:18:34,680 --> 00:18:36,880
+But he fights. 
+To his credit, he doesn't break.
+
+415
+00:18:37,320 --> 00:18:40,200
+He fights Radley, engages the 
+devil. 
+
+416
+00:18:40,280 --> 00:18:43,160
+Now Radley is a fire user. 
+Typically that's his go to 
+
+417
+00:18:43,160 --> 00:18:47,560
+magic, but he knows or figures 
+out very quickly that fire 
+
+418
+00:18:47,560 --> 00:18:49,640
+doesn't hurt devils. 
+They live in hell. 
+
+419
+00:18:49,800 --> 00:18:51,080
+Right. 
+They're used to the heat, so he 
+
+420
+00:18:51,080 --> 00:18:54,520
+has to go toe to toe with steel 
+is Mark joins him. 
+
+421
+00:18:54,600 --> 00:18:57,680
+They are in the trenches, right 
+there on the expensive rug, 
+
+422
+00:18:58,040 --> 00:19:00,400
+fighting this thing from another
+plane of existence. 
+
+423
+00:19:00,480 --> 00:19:02,600
+Meanwhile, your horn is getting 
+creative. 
+
+424
+00:19:02,840 --> 00:19:05,440
+He's using the environment. 
+I really enjoyed this tactical 
+
+425
+00:19:05,440 --> 00:19:08,160
+detail. 
+Your horn is 1/2, so he is 
+
+426
+00:19:08,160 --> 00:19:12,440
+small, maybe 3 feet tall. 
+He's riding his great cat. 
+
+427
+00:19:12,800 --> 00:19:15,000
+He has his cat leap onto the 
+dining table. 
+
+428
+00:19:15,000 --> 00:19:18,160
+Just scattering the fine China. 
+Scattering fine silver and 
+
+429
+00:19:18,160 --> 00:19:20,440
+crystal with a crash, the record
+says. 
+
+430
+00:19:20,600 --> 00:19:23,160
+Imagine the noise. 
+He takes the high ground and 
+
+431
+00:19:23,160 --> 00:19:25,040
+it's the crockery to fire 
+arrows. 
+
+432
+00:19:25,200 --> 00:19:29,080
+It's a chaotic, cinematic image.
+It's pure desperation using the 
+
+433
+00:19:29,080 --> 00:19:31,560
+furniture as terrain because 
+you're out of options. 
+
+434
+00:19:31,640 --> 00:19:34,520
+And Dearman the rogue, the one 
+who started all this, He's 
+
+435
+00:19:34,520 --> 00:19:36,640
+having a rough time. 
+Lehrman is dealing with the 
+
+436
+00:19:36,640 --> 00:19:39,360
+invisible threat. 
+He tries to get to Lady Water, 
+
+437
+00:19:39,360 --> 00:19:42,240
+but he just hears these wings. 
+The buzzing of a giant fly. 
+
+438
+00:19:42,280 --> 00:19:46,120
+An imp, but an invisible one. 
+It attacks them from behind. 
+
+439
+00:19:46,120 --> 00:19:48,000
+Lady Water. 
+It stings him. 
+
+440
+00:19:48,280 --> 00:19:50,440
+And Imps are poisonous, right? 
+Highly. 
+
+441
+00:19:50,760 --> 00:19:54,040
+The puncture itself is small, 
+almost like a pinprick, but the 
+
+442
+00:19:54,040 --> 00:19:57,320
+poison causes intense pain and 
+serious damage. 
+
+443
+00:19:57,880 --> 00:20:00,800
+It's terrifying because he can't
+see what's hurting him. 
+
+444
+00:20:00,800 --> 00:20:03,400
+He just feels the pain, hears 
+the buzzing wings, and knows 
+
+445
+00:20:03,400 --> 00:20:07,000
+something is hunting him. 
+That breeds paranoia in a fight.
+
+446
+00:20:07,280 --> 00:20:10,040
+So you've got a devil fighting 
+the fighter and the Burgamaster 
+
+447
+00:20:10,040 --> 00:20:12,320
+on the floor. 
+You've got a halfling on the 
+
+448
+00:20:12,320 --> 00:20:14,240
+dining table destroying the 
+dinnerware. 
+
+449
+00:20:14,480 --> 00:20:18,360
+You've got a rogue getting stung
+by an invisible monster and 
+
+450
+00:20:18,360 --> 00:20:20,440
+Pearland. 
+Pearland the Monk is just a 
+
+451
+00:20:20,440 --> 00:20:23,840
+whirlwind of martial artistry, 
+attacking multiple foes, trying 
+
+452
+00:20:23,840 --> 00:20:26,240
+to control the chaos. 
+And amazingly, the party 
+
+453
+00:20:26,240 --> 00:20:28,040
+actually starts to gain the 
+upper hand. 
+
+454
+00:20:28,320 --> 00:20:30,640
+They kill the devil. 
+They take down the wardens. 
+
+455
+00:20:30,640 --> 00:20:34,000
+They are winning after all the 
+mistakes, they are going to pull
+
+456
+00:20:34,000 --> 00:20:35,880
+this off. 
+That is what they think. 
+
+457
+00:20:36,160 --> 00:20:39,000
+For one brief, shining moment, 
+it looks like they've turned the
+
+458
+00:20:39,000 --> 00:20:41,040
+tide. 
+They are on the brink of 
+
+459
+00:20:41,040 --> 00:20:43,760
+capturing Lady Water. 
+But this is Dungeons and 
+
+460
+00:20:43,760 --> 00:20:45,840
+Dragons. 
+The tide can turn on a single 
+
+461
+00:20:45,840 --> 00:20:48,320
+spell. 
+And Lady Watcher has one big 
+
+462
+00:20:48,320 --> 00:20:50,480
+card left to play. 
+Spirit Guardians. 
+
+463
+00:20:50,520 --> 00:20:54,280
+Oh, that is a nasty spell. 
+For the uninitiated, explain 
+
+464
+00:20:54,280 --> 00:20:56,240
+what Spirit Guardians does. 
+Break it down. 
+
+465
+00:20:56,440 --> 00:20:58,080
+Think of it as a magical 
+blender. 
+
+466
+00:20:58,360 --> 00:21:02,040
+The caster calls forth spirits. 
+In Lady Waffer's case, the text 
+
+467
+00:21:02,040 --> 00:21:05,200
+implies they look like spectral 
+devils or tortured souls. 
+
+468
+00:21:05,640 --> 00:21:08,640
+These spirits swirl around her 
+in a 15 foot radius. 
+
+469
+00:21:08,960 --> 00:21:12,600
+Any enemy that starts their turn
+there or even enters the area 
+
+470
+00:21:12,800 --> 00:21:17,760
+gets shredded by these phantoms.
+It's constant grinding holy, or 
+
+471
+00:21:17,760 --> 00:21:20,720
+in this case, unholy damaged. 
+So it's area denial. 
+
+472
+00:21:20,720 --> 00:21:22,120
+Don't come near me. 
+It is. 
+
+473
+00:21:22,240 --> 00:21:25,080
+And because the party has closed
+in to capture her, they've all 
+
+474
+00:21:25,080 --> 00:21:26,880
+rushed her. 
+They're literally getting within
+
+475
+00:21:26,880 --> 00:21:29,360
+arm's reach. 
+They are all in the kill zone. 
+
+476
+00:21:29,480 --> 00:21:31,880
+The source says this spell 
+breaks the party. 
+
+477
+00:21:31,920 --> 00:21:34,080
+Instantly. 
+It's not a slow attrition, 
+
+478
+00:21:34,120 --> 00:21:36,080
+you're a horn. 
+The beastmaster on the table 
+
+479
+00:21:36,080 --> 00:21:39,160
+drops unconscious her lane. 
+The monk, in the middle of his 
+
+480
+00:21:39,160 --> 00:21:41,040
+flurry of blows, drops 
+unconscious. 
+
+481
+00:21:41,240 --> 00:21:43,240
+Half the party is down in the 
+blink of an eye. 
+
+482
+00:21:43,640 --> 00:21:46,200
+The blender turned on and they 
+got caught in the blades. 
+
+483
+00:21:46,360 --> 00:21:48,480
+And your horn's cat, his loyal 
+companion. 
+
+484
+00:21:48,640 --> 00:21:51,120
+It flees. 
+The bond is strong, but the 
+
+485
+00:21:51,120 --> 00:21:54,600
+survival instinct is stronger. 
+The cat sees its master go down,
+
+486
+00:21:54,600 --> 00:21:56,960
+feels this aura of death, and it
+runs. 
+
+487
+00:21:57,480 --> 00:21:59,240
+That's a sign of how bad things 
+have gotten. 
+
+488
+00:21:59,240 --> 00:22:01,040
+The loyal pet abandons the 
+master. 
+
+489
+00:22:01,200 --> 00:22:03,680
+So now it's just Radley and his 
+mark standing. 
+
+490
+00:22:04,160 --> 00:22:06,040
+The two half wings are on the 
+floor dying. 
+
+491
+00:22:06,440 --> 00:22:08,320
+Lady Watcher is gloating. 
+She's probably laughing 
+
+492
+00:22:08,320 --> 00:22:11,120
+maniacally. 
+Maniacal Glee is the phrase used
+
+493
+00:22:11,120 --> 00:22:13,360
+in the record. 
+She is calling for them to be 
+
+494
+00:22:13,360 --> 00:22:14,800
+killed. 
+She has won. 
+
+495
+00:22:14,920 --> 00:22:17,960
+The trap has been sprung. 
+This is the moment where the 
+
+496
+00:22:17,960 --> 00:22:20,600
+mission shifts. 
+It's no longer robbery, it's 
+
+497
+00:22:20,600 --> 00:22:23,240
+rescue. 
+Radley and Ismark have to switch
+
+498
+00:22:23,240 --> 00:22:25,920
+rules completely. 
+They become medics and porters. 
+
+499
+00:22:26,200 --> 00:22:28,200
+They grab the unconscious 
+halflings. 
+
+500
+00:22:28,200 --> 00:22:30,920
+They can't fight anymore. 
+If they stay to fight, everyone 
+
+501
+00:22:30,920 --> 00:22:32,520
+dies. 
+There's no victory here. 
+
+502
+00:22:32,560 --> 00:22:34,720
+None. 
+Radley grabs a body, Ismark 
+
+503
+00:22:34,720 --> 00:22:39,080
+grabs a body and they run. 
+And as they run, Radley makes a 
+
+504
+00:22:39,080 --> 00:22:42,560
+choice that I think defines his 
+character in this moment. 
+
+505
+00:22:42,880 --> 00:22:45,400
+A very telling action. 
+The scorched earth policy. 
+
+506
+00:22:45,440 --> 00:22:48,120
+Describe what he does. 
+On the way out, carrying his 
+
+507
+00:22:48,120 --> 00:22:51,520
+fallen comrade, passing that 
+storeroom full of supplies, the 
+
+508
+00:22:51,520 --> 00:22:55,000
+flour, the oil, the wine, he 
+casts fire bolt. 
+
+509
+00:22:55,200 --> 00:22:58,040
+He sets the house on fire. 
+Ostensibly, you could argue it's
+
+510
+00:22:58,040 --> 00:23:00,080
+a tactical decision to delay 
+pursuit. 
+
+511
+00:23:00,360 --> 00:23:03,480
+Smoke and fire create confusion.
+It covers their escape. 
+
+512
+00:23:03,480 --> 00:23:04,640
+But it's more than that, isn't 
+it? 
+
+513
+00:23:05,080 --> 00:23:08,200
+Oh yeah, let's be honest, it's 
+also an act of pure spite. 
+
+514
+00:23:08,320 --> 00:23:11,320
+It feels like a tantrum. 
+If we can't have the amulet, you
+
+515
+00:23:11,320 --> 00:23:14,760
+don't get to have a house. 
+It's ruthless and it transforms 
+
+516
+00:23:14,760 --> 00:23:17,720
+them from adventurers into 
+arsonists. 
+
+517
+00:23:17,880 --> 00:23:20,640
+They aren't just thieves 
+anymore, they are destroyers. 
+
+518
+00:23:20,640 --> 00:23:22,960
+They've crossed a line. 
+Pearland wakes up while being 
+
+519
+00:23:22,960 --> 00:23:25,840
+carried. 
+Monks are resilient, but 
+
+520
+00:23:25,840 --> 00:23:29,400
+Yurihorn is out cold. 
+They flee over the town walls, 
+
+521
+00:23:29,520 --> 00:23:32,120
+avoiding the gates entirely. 
+Because the gates would be 
+
+522
+00:23:32,120 --> 00:23:34,160
+guarded. 
+Now the alarm is raised, the 
+
+523
+00:23:34,160 --> 00:23:36,800
+whole town is waking up. 
+Going over the wall is the only 
+
+524
+00:23:36,800 --> 00:23:38,440
+way. 
+They made it to the tree line. 
+
+525
+00:23:38,880 --> 00:23:42,560
+They are safe physically, but 
+emotionally, this is where the 
+
+526
+00:23:42,560 --> 00:23:45,160
+real explosion happens. 
+The confrontation with is Mark. 
+
+527
+00:23:45,160 --> 00:23:47,200
+It was inevitable. 
+This is always going to happen. 
+
+528
+00:23:47,200 --> 00:23:49,360
+Paint the picture for us there 
+in the woods. 
+
+529
+00:23:49,880 --> 00:23:51,680
+It's dark. 
+They're catching their breath. 
+
+530
+00:23:51,800 --> 00:23:53,760
+Smoke is rising from the town 
+behind them. 
+
+531
+00:23:53,760 --> 00:23:56,680
+Ismark is agitated. 
+He is looking at that smoke. 
+
+532
+00:23:56,680 --> 00:23:59,640
+He's looking at his allies who 
+just nearly got him killed by a 
+
+533
+00:23:59,640 --> 00:24:02,280
+devil. 
+He's covered in blood and dirt 
+
+534
+00:24:02,920 --> 00:24:06,680
+and he says we have to go back, 
+we have to save Irena. 
+
+535
+00:24:06,920 --> 00:24:09,480
+And the party? 
+Yeah, they can't keep the lie up
+
+536
+00:24:09,480 --> 00:24:11,240
+anymore. 
+They're too tired. 
+
+537
+00:24:11,600 --> 00:24:15,160
+The facade crumbles. 
+They are beaten, the adrenaline 
+
+538
+00:24:15,160 --> 00:24:18,000
+is fading, replaced by 
+exhaustion and failure. 
+
+539
+00:24:18,000 --> 00:24:21,320
+They finally tell him the truth.
+Irena isn't there is Mark. 
+
+540
+00:24:21,520 --> 00:24:23,880
+She was taken days ago. 
+Straud has her. 
+
+541
+00:24:24,120 --> 00:24:26,120
+Imagine being is Mark in that 
+moment. 
+
+542
+00:24:26,560 --> 00:24:30,000
+The betrayal must feel absolute.
+It's profound. 
+
+543
+00:24:30,560 --> 00:24:33,080
+The source describes his 
+reaction as incredulous. 
+
+544
+00:24:33,320 --> 00:24:35,640
+He swears. 
+He looks toward the mountains, 
+
+545
+00:24:35,640 --> 00:24:37,520
+toward Castle Raven loft. 
+In the distance. 
+
+546
+00:24:37,720 --> 00:24:41,120
+He realizes he has been played. 
+Everything he just went through 
+
+547
+00:24:41,120 --> 00:24:42,760
+was for nothing. 
+He's furious. 
+
+548
+00:24:42,800 --> 00:24:45,680
+He rebukes them. 
+He was used as a meat shield for
+
+549
+00:24:45,680 --> 00:24:47,440
+a heist that had nothing to do 
+with his sister. 
+
+550
+00:24:47,440 --> 00:24:49,400
+And how does the party defend 
+themselves? 
+
+551
+00:24:49,400 --> 00:24:52,120
+Do they apologize? 
+Do they show any remorse or beg 
+
+552
+00:24:52,120 --> 00:24:54,840
+for forgiveness? 
+I bet they don't based on their 
+
+553
+00:24:54,840 --> 00:24:57,800
+actions so far. 
+No, no, they are unapologetic. 
+
+554
+00:24:57,800 --> 00:25:00,440
+Their defense is purely 
+pragmatic, they tell him. 
+
+555
+00:25:00,640 --> 00:25:02,760
+We cannot fight straw without 
+the amulet. 
+
+556
+00:25:02,760 --> 00:25:04,080
+We did this for the greater 
+good. 
+
+557
+00:25:04,560 --> 00:25:07,080
+We lied to you because we need 
+this item to win. 
+
+558
+00:25:07,440 --> 00:25:09,200
+Your feelings don't matter right
+now. 
+
+559
+00:25:09,360 --> 00:25:12,000
+It's a cold calculus. 
+They are telling him that his 
+
+560
+00:25:12,000 --> 00:25:15,800
+feelings and even his sister's 
+immediate safety, are secondary 
+
+561
+00:25:15,800 --> 00:25:18,000
+to the strategic necessity of 
+the amulet. 
+
+562
+00:25:18,400 --> 00:25:21,720
+We used you because we had to. 
+Does his mark accept that? 
+
+563
+00:25:21,760 --> 00:25:25,960
+How does he even process that? 
+The text says he is placated for
+
+564
+00:25:25,960 --> 00:25:29,400
+the moment, but falls into a 
+brooding silence. 
+
+565
+00:25:30,040 --> 00:25:33,480
+That trust is shattered. 
+It's not broken, it's gone. 
+
+566
+00:25:34,120 --> 00:25:36,760
+He might still travel with them 
+because he has no other choice, 
+
+567
+00:25:36,760 --> 00:25:39,560
+but the relationship has 
+fundamentally changed forever. 
+
+568
+00:25:39,560 --> 00:25:42,600
+He stuck with them. 
+He can't storm Castle Raven Loft
+
+569
+00:25:42,600 --> 00:25:44,720
+alone. 
+He needs them, even if he hates 
+
+570
+00:25:44,720 --> 00:25:46,000
+them right now. 
+Precisely. 
+
+571
+00:25:46,000 --> 00:25:49,160
+It's a forced alliance now, a 
+marriage of convenience held 
+
+572
+00:25:49,160 --> 00:25:51,880
+together only by mutual hatred 
+of Strad. 
+
+573
+00:25:52,040 --> 00:25:55,720
+So battered, bruised and morally
+compromised, they trek to the 
+
+574
+00:25:55,720 --> 00:25:58,360
+Wizards of wine. 
+The winery is their last safe 
+
+575
+00:25:58,360 --> 00:26:00,920
+haven in the area. 
+It's a long, silent walk in the 
+
+576
+00:26:00,920 --> 00:26:02,360
+dark. 
+And when they get there, your 
+
+577
+00:26:02,360 --> 00:26:04,920
+horn finally wakes up. 
+It was the first thing he does. 
+
+578
+00:26:05,080 --> 00:26:07,480
+He didn't ask what happened. 
+He doesn't check his wounds. 
+
+579
+00:26:07,760 --> 00:26:10,280
+He's paranoid. 
+He immediately uses his primeval
+
+580
+00:26:10,280 --> 00:26:12,080
+awareness. 
+He's checking for the imp. 
+
+581
+00:26:12,320 --> 00:26:15,320
+That invisible attacker left a 
+psychological scar. 
+
+582
+00:26:15,680 --> 00:26:19,000
+He reaches out with his senses 
+to see if that fiend, that 
+
+583
+00:26:19,000 --> 00:26:21,920
+little devil, is following them.
+He needs to know if they are 
+
+584
+00:26:21,920 --> 00:26:24,520
+truly safe or if the hunt is 
+still on. 
+
+585
+00:26:25,320 --> 00:26:27,280
+Are they safe? 
+No sense of the imp. 
+
+586
+00:26:27,360 --> 00:26:32,120
+They are safe for now. 
+Man, what a session. 
+
+587
+00:26:32,320 --> 00:26:34,040
+So let's zoom out. 
+We've gone through the play by 
+
+588
+00:26:34,040 --> 00:26:35,360
+play. 
+What does this all mean? 
+
+589
+00:26:35,760 --> 00:26:38,520
+Well, if we look at the mission 
+of this deep dive, which was to 
+
+590
+00:26:38,600 --> 00:26:42,760
+analyze the party's decision 
+making, the verdict is just it's
+
+591
+00:26:42,760 --> 00:26:45,080
+damning. 
+This session is a textbook 
+
+592
+00:26:45,080 --> 00:26:48,800
+example of the sunk cost fallacy
+leading to utter disaster. 
+
+593
+00:26:48,800 --> 00:26:50,000
+Break that down for the 
+listeners. 
+
+594
+00:26:50,000 --> 00:26:53,320
+What is the sunk cost fallacy 
+really in this context? 
+
+595
+00:26:53,320 --> 00:26:56,560
+Think of it like gambling. 
+Imagine you at a blackjack table
+
+596
+00:26:56,560 --> 00:26:59,880
+and you've lost your rent money.
+The smart play is to walk away, 
+
+597
+00:27:00,160 --> 00:27:02,360
+but you keep betting. 
+Not because you think you'll 
+
+598
+00:27:02,360 --> 00:27:05,400
+win, but because walking away 
+means admitting you ruined 
+
+599
+00:27:05,400 --> 00:27:07,120
+everything. 
+You're trying to win back what 
+
+600
+00:27:07,120 --> 00:27:09,680
+you already lost, so you keep 
+making bad bets. 
+
+601
+00:27:09,680 --> 00:27:12,160
+So the party kept betting. 
+Exactly. 
+
+602
+00:27:12,440 --> 00:27:16,880
+They started with a bad hand, No
+cleric, the trauma of Tracidor's
+
+603
+00:27:16,880 --> 00:27:19,400
+final death. 
+They tried to fix it with a 
+
+604
+00:27:19,400 --> 00:27:22,120
+heist. 
+When the heist showed clear 
+
+605
+00:27:22,120 --> 00:27:25,880
+signs of failure, the located 
+object spell finding nothing, 
+
+606
+00:27:26,160 --> 00:27:29,040
+they doubled down because they 
+had already spent the effort of 
+
+607
+00:27:29,040 --> 00:27:32,720
+getting there. 
+And crucially, the moral cost of
+
+608
+00:27:32,720 --> 00:27:35,160
+lying to is Mark. 
+They didn't want to walk away 
+
+609
+00:27:35,160 --> 00:27:37,320
+empty handed, so they walked 
+away almost dead. 
+
+610
+00:27:37,320 --> 00:27:39,720
+And empty handed. 
+Anyway, that's the tragic part. 
+
+611
+00:27:39,720 --> 00:27:43,040
+They didn't get the amulet. 
+The net result of this entire 
+
+612
+00:27:43,040 --> 00:27:46,040
+session is negative. 
+They lost resources, they lost 
+
+613
+00:27:46,040 --> 00:27:48,560
+health, they completely 
+destroyed the relationship with 
+
+614
+00:27:48,560 --> 00:27:51,760
+is Mark, and they burned down a 
+house in a town they might need 
+
+615
+00:27:51,760 --> 00:27:53,760
+to visit again. 
+And they lost their reputation. 
+
+616
+00:27:53,840 --> 00:27:56,880
+I mean, let's be blunt, they are
+arsonists and liars now. 
+
+617
+00:27:56,880 --> 00:27:59,320
+The moral decay is the other key
+take away here. 
+
+618
+00:27:59,320 --> 00:28:01,680
+The darkening tone of the 
+narrative is palpable. 
+
+619
+00:28:01,880 --> 00:28:04,800
+To survive in Borovia, the 
+heroes are becoming less heroic.
+
+620
+00:28:04,920 --> 00:28:07,720
+They are adopting the 
+ruthlessness of the very land 
+
+621
+00:28:07,720 --> 00:28:10,080
+they're trying to save. 
+It's that old Nietzsche saying 
+
+622
+00:28:10,280 --> 00:28:13,160
+he who fights monsters should 
+see to it that he himself does 
+
+623
+00:28:13,160 --> 00:28:16,400
+not become a monster. 
+It applies perfectly here. 
+
+624
+00:28:16,840 --> 00:28:20,520
+By engaging with Lady Watcher on
+her terms, by lying to is Mark, 
+
+625
+00:28:20,680 --> 00:28:24,480
+by using fire and brute force, 
+they are sliding down a very 
+
+626
+00:28:24,480 --> 00:28:26,920
+slippery slope. 
+They're starting to look a lot 
+
+627
+00:28:26,920 --> 00:28:29,160
+like the villains. 
+And the loss of tracidor is 
+
+628
+00:28:29,160 --> 00:28:31,160
+still haunting them. 
+It feels like the root of all 
+
+629
+00:28:31,160 --> 00:28:33,040
+this. 
+It's the vacuum that is Mark 
+
+630
+00:28:33,040 --> 00:28:35,960
+cannot fill is Mark is a 
+warrior. 
+
+631
+00:28:36,080 --> 00:28:38,800
+He's a leader in his own right, 
+but he is not a cleric. 
+
+632
+00:28:39,000 --> 00:28:41,680
+He cannot heal the parties 
+wounds or their souls. 
+
+633
+00:28:42,080 --> 00:28:44,760
+The party is grieving, even if 
+they aren't admitting it, and 
+
+634
+00:28:44,760 --> 00:28:48,160
+that grief is driving them to 
+make rash emotional decisions. 
+
+635
+00:28:48,360 --> 00:28:51,280
+They're acting out of trauma. 
+So here is where it gets really 
+
+636
+00:28:51,280 --> 00:28:53,720
+interesting for you, the 
+listener, to think about. 
+
+637
+00:28:54,000 --> 00:28:55,720
+Consider the position they are 
+in now. 
+
+638
+00:28:55,720 --> 00:28:58,640
+They are at the Wizards of Wine,
+they're hiding, Stride has 
+
+639
+00:28:58,640 --> 00:29:02,440
+Irina, the amulet is missing, 
+and for all they know was never 
+
+640
+00:29:02,440 --> 00:29:05,680
+even in that house is Mark 
+dressed them about as far as he 
+
+641
+00:29:05,680 --> 00:29:07,320
+can throw. 
+Them the walls are closing in. 
+
+642
+00:29:07,320 --> 00:29:09,800
+Every option they had is now 
+worse than it was before. 
+
+643
+00:29:09,960 --> 00:29:12,400
+Here's my final provocative 
+thought for you to chew on. 
+
+644
+00:29:13,040 --> 00:29:16,960
+The party burned their bridges 
+in Valaki, literally with that 
+
+645
+00:29:16,960 --> 00:29:20,280
+fire bolt, and they alienated 
+the burgomaster of the village 
+
+646
+00:29:20,280 --> 00:29:22,800
+of Barovia. 
+They did all of this to get 
+
+647
+00:29:22,800 --> 00:29:26,960
+stronger to get the amulet, but 
+by trying so desperately to get 
+
+648
+00:29:26,960 --> 00:29:30,000
+this one item, have they 
+actually made themselves more 
+
+649
+00:29:30,000 --> 00:29:31,840
+vulnerable? 
+It's a paradox, isn't it? 
+
+650
+00:29:32,640 --> 00:29:35,040
+In their quest for strength, 
+they have stripped away their 
+
+651
+00:29:35,040 --> 00:29:38,480
+allies and their safe harbors. 
+They are alone in the woods, now
+
+652
+00:29:38,480 --> 00:29:41,480
+more than ever. 
+They have traded social capital 
+
+653
+00:29:41,480 --> 00:29:45,240
+and their moral high ground for 
+a lottery ticket that didn't pay
+
+654
+00:29:45,240 --> 00:29:47,280
+out. 
+A sobering thought. 
+
+655
+00:29:47,960 --> 00:29:51,480
+They survived the session, but 
+can they survive the campaign? 
+
+656
+00:29:51,480 --> 00:29:54,000
+Only time will tell, but they 
+need to start checking for 
+
+657
+00:29:54,000 --> 00:29:56,920
+traps, both the physical ones 
+and more importantly, the 
+
+658
+00:29:56,920 --> 00:29:59,040
+psychological ones that keep 
+setting for themselves. 
+
+659
+00:29:59,440 --> 00:30:01,840
+That's all for this deep dive 
+into session 26. 
+
+660
+00:30:01,960 --> 00:30:04,960
+Thanks for listening. 
+And remember, if the magic 
+
+661
+00:30:04,960 --> 00:30:08,720
+detector says the treasure isn't
+there, maybe just believe it. 
+
+662
+00:30:09,040 --> 00:30:13,040
+And watch out for the Today. 
+We are dissecting the anatomy of
+
+663
+00:30:13,040 --> 00:30:15,880
+a disaster. 
+Session 26 wasn't just a failed 
+
+664
+00:30:15,880 --> 00:30:19,400
+mission, it was a master class 
+and how desperation forces good 
+
+665
+00:30:19,400 --> 00:30:22,920
+people to make some terrible, 
+arguably catastrophic choices. 
+
+666
+00:30:23,520 --> 00:30:25,760
+We are looking at a party of 
+adventurers who are battered, 
+
+667
+00:30:26,000 --> 00:30:28,720
+bereft of their cleric, and 
+while currently hiding in the 
+
+668
+00:30:28,720 --> 00:30:32,440
+mud at the Wizards of Wine. 
+It's a dark chapter, for sure. 
+
+669
+00:30:33,080 --> 00:30:36,280
+We've gone from the tragic, 
+really visceral death of 
+
+670
+00:30:36,280 --> 00:30:42,160
+Traxxador at the Telenka Pass to
+a chaotic, botched infiltration 
+
+671
+00:30:42,160 --> 00:30:46,240
+of Lady Walker's home in Valaki.
+But let's be clear right out of 
+
+672
+00:30:46,240 --> 00:30:49,920
+the gate, We aren't just here to
+critique their stealth roles or,
+
+673
+00:30:49,960 --> 00:30:53,480
+you know, their combat spacing. 
+We are here to talk about the 
+
+674
+00:30:53,480 --> 00:30:55,800
+lie. 
+Right, it's the lie. 
+
+675
+00:30:56,040 --> 00:30:59,120
+Capital T, Capital L The 
+decision to manipulate their 
+
+676
+00:30:59,120 --> 00:31:02,240
+ally is Mark by withholding the 
+devastating truth about his 
+
+677
+00:31:02,240 --> 00:31:05,200
+sister Irena. 
+They used him as a well as a 
+
+678
+00:31:05,200 --> 00:31:07,840
+battering ram for a heist while 
+he thought he was fighting a 
+
+679
+00:31:07,840 --> 00:31:10,920
+noble war to protect her. 
+The central question we really 
+
+680
+00:31:10,920 --> 00:31:14,040
+have to answer is was this a 
+necessary act of survival, a 
+
+681
+00:31:14,040 --> 00:31:17,080
+pragmatic play to keep the 
+campaign alive, or was it a 
+
+682
+00:31:17,080 --> 00:31:19,200
+moral failure that has 
+permanently fractured the party?
+
+683
+00:31:19,720 --> 00:31:22,280
+Right. 
+It's the classic conflict, the 
+
+684
+00:31:22,280 --> 00:31:25,800
+mission versus the people. 
+On one side you have the cold 
+
+685
+00:31:25,800 --> 00:31:29,240
+logic of we need the artifact to
+kill the vampire. 
+
+686
+00:31:29,400 --> 00:31:32,880
+On the other, you have the 
+absolute erosion of trust, and 
+
+687
+00:31:32,880 --> 00:31:35,280
+looking at the state of the 
+party right now, I'd say the 
+
+688
+00:31:35,280 --> 00:31:39,160
+cost was way too high. 
+And I am going to argue that the
+
+689
+00:31:39,160 --> 00:31:42,080
+deception was a strategic 
+necessity. 
+
+690
+00:31:42,120 --> 00:31:44,880
+I mean, look at the board. 
+Traxador is dead. 
+
+691
+00:31:45,040 --> 00:31:47,000
+The Amulet of Ravenkind is 
+missing. 
+
+692
+00:31:47,240 --> 00:31:50,320
+The party was cornered. 
+Utilizing Ismark was the only 
+
+693
+00:31:50,320 --> 00:31:53,400
+path to survive that encounter 
+and keep the campaign against 
+
+694
+00:31:53,400 --> 00:31:56,080
+Stroth on the rails. 
+While I'm arguing that the 
+
+695
+00:31:56,080 --> 00:32:00,120
+foundation of this mission was 
+rotten from minute 1, treating a
+
+696
+00:32:00,120 --> 00:32:04,480
+sovereign ally like a pawn led 
+to a chaotic retreat, 0 material
+
+697
+00:32:04,480 --> 00:32:08,400
+gain, and a volatile breach of 
+trust that endangers everyone. 
+
+698
+00:32:08,720 --> 00:32:12,120
+I mean they traded a friend for 
+a chance at loot and they ended 
+
+699
+00:32:12,120 --> 00:32:15,000
+up with neither. 
+OK, let's start by setting the 
+
+700
+00:32:15,000 --> 00:32:18,040
+stage, because I don't think you
+can judge this decision in a 
+
+701
+00:32:18,040 --> 00:32:19,400
+vacuum. 
+You have to look at the 
+
+702
+00:32:19,400 --> 00:32:21,000
+psychological state of the 
+party. 
+
+703
+00:32:21,480 --> 00:32:25,400
+They didn't just lose Traxador. 
+This wasn't a standard combat 
+
+704
+00:32:25,400 --> 00:32:28,360
+death where you, you know, 
+revivify the cleric and move on.
+
+705
+00:32:28,720 --> 00:32:32,520
+They watched him get torn apart 
+by rocks at the Desolinka Pass. 
+
+706
+00:32:32,680 --> 00:32:35,680
+It was brutal. 
+The description of that death 
+
+707
+00:32:35,680 --> 00:32:38,600
+was heavy. 
+It was visceral. 
+
+708
+00:32:38,840 --> 00:32:42,200
+And then the aftermath. 
+They drag his body to the 
+
+709
+00:32:42,200 --> 00:32:46,720
+gatehouse, the plan to trade the
+wedding dress to the Abbot for a
+
+710
+00:32:46,720 --> 00:32:50,280
+resurrection that failed. 
+They had no way to bring him 
+
+711
+00:32:50,280 --> 00:32:53,240
+back, so they end up at the 
+gatehouse, burning their 
+
+712
+00:32:53,240 --> 00:32:57,560
+friend's body in those 
+mysterious magical green flames 
+
+713
+00:32:57,800 --> 00:33:01,200
+just to prevent him from rising 
+as an undead spawn of Strawd. 
+
+714
+00:33:01,400 --> 00:33:05,720
+That scene just sets the tone 
+for everything that follows. 
+
+715
+00:33:06,320 --> 00:33:10,440
+Standing there, watching the 
+green fire consume your cleric, 
+
+716
+00:33:10,800 --> 00:33:14,720
+the smell of ozone and burning 
+flesh, I mean, that changes a 
+
+717
+00:33:14,720 --> 00:33:16,600
+group. 
+It hollows you out. 
+
+718
+00:33:16,960 --> 00:33:19,560
+It makes you realize that the 
+safety net is gone. 
+
+719
+00:33:19,720 --> 00:33:23,040
+Exactly. 
+They are exhausted, they are 
+
+720
+00:33:23,040 --> 00:33:25,520
+traumatized, and they are 
+terrified. 
+
+721
+00:33:26,040 --> 00:33:28,480
+Their primary goal is defeating 
+Straud. 
+
+722
+00:33:28,920 --> 00:33:33,160
+That is the objective reality. 
+To do that, they believe they 
+
+723
+00:33:33,160 --> 00:33:36,680
+need the Amulet of Ravenkind, 
+and they have Intel. 
+
+724
+00:33:36,760 --> 00:33:40,360
+Flawed Intel, maybe, but Intel 
+nonetheless That it's in Lady 
+
+725
+00:33:40,360 --> 00:33:43,480
+Walker's possession. 
+So they limp back to Valaki. 
+
+726
+00:33:43,640 --> 00:33:46,640
+Right. 
+And who do they find is Mark? 
+
+727
+00:33:47,360 --> 00:33:50,000
+And he is frantic. 
+He knows vampires attacked the 
+
+728
+00:33:50,000 --> 00:33:51,880
+church. 
+He knows his sister was there. 
+
+729
+00:33:52,120 --> 00:33:53,920
+Now put yourself in the party's 
+shoes. 
+
+730
+00:33:54,160 --> 00:33:57,840
+If they tell him the truth right
+then that Irena was taken by the
+
+731
+00:33:57,840 --> 00:34:00,440
+mob and hand delivered to 
+Straud, what happens? 
+
+732
+00:34:00,520 --> 00:34:02,920
+He reacts emotionally, sure. 
+He's her brother. 
+
+733
+00:34:02,920 --> 00:34:05,280
+He's the lesser. 
+Emotionally is a massive 
+
+734
+00:34:05,280 --> 00:34:06,920
+understatement. 
+He spirals. 
+
+735
+00:34:07,040 --> 00:34:10,840
+He launches a suicide mission 
+directly at Castle Ravenloft. 
+
+736
+00:34:11,080 --> 00:34:14,280
+He marches to the drawbridge and
+demands his sister back, and 
+
+737
+00:34:14,280 --> 00:34:16,199
+Straud peels him apart like an 
+orange. 
+
+738
+00:34:16,840 --> 00:34:20,360
+The party loses an ally and they
+probably die trying to save him.
+
+739
+00:34:20,360 --> 00:34:24,679
+So the logic is we have to lie 
+to him to save him from himself.
+
+740
+00:34:25,080 --> 00:34:28,159
+It's a benevolent deception. 
+By telling him they were going 
+
+741
+00:34:28,159 --> 00:34:32,000
+to Valaki to stop Lady Walker, 
+they channeled his rage into a 
+
+742
+00:34:32,000 --> 00:34:34,280
+target they actually needed to 
+hit. 
+
+743
+00:34:34,480 --> 00:34:37,000
+They needed his sword. 
+They needed his body in the 
+
+744
+00:34:37,000 --> 00:34:39,560
+room. 
+It kept him alive and it gave 
+
+745
+00:34:39,560 --> 00:34:42,880
+them a shot at the artifact that
+saves everyone, including Irina.
+
+746
+00:34:43,320 --> 00:34:47,280
+It was the only logical path. 
+See, you call it benevolent. 
+
+747
+00:34:47,360 --> 00:34:50,239
+I call it arrogant. 
+You're assuming the party knows 
+
+748
+00:34:50,239 --> 00:34:53,719
+what's best for is Mark better 
+than is Mark does, and that 
+
+749
+00:34:53,719 --> 00:34:56,880
+arrogance led to a catastrophic 
+miscalculation. 
+
+750
+00:34:57,160 --> 00:35:00,800
+You're arguing the ends justify 
+the means, but look at the ends.
+
+751
+00:35:00,960 --> 00:35:04,600
+The heist was a total failure. 
+The outcome doesn't invalidate 
+
+752
+00:35:04,600 --> 00:35:06,720
+the strategy. 
+Sometimes you make the right 
+
+753
+00:35:06,720 --> 00:35:08,400
+play and the dice just don't go 
+your way. 
+
+754
+00:35:08,400 --> 00:35:12,360
+That's that's just the game. 
+But the strategy relied on a lie
+
+755
+00:35:12,440 --> 00:35:16,080
+that blew up in their faces. 
+Look at the facts. 
+
+756
+00:35:16,320 --> 00:35:20,240
+They break into the root cellar.
+Yuri Horn casts locate object. 
+
+757
+00:35:20,600 --> 00:35:22,040
+Result. 
+Nothing. 
+
+758
+00:35:22,160 --> 00:35:24,520
+Silence. 
+They get to the secret chamber 
+
+759
+00:35:24,520 --> 00:35:28,000
+with the pentagram empty. 
+They dragged Izmark into a 
+
+760
+00:35:28,000 --> 00:35:31,720
+devil's den based on a hunch. 
+They recruited him under false 
+
+761
+00:35:31,720 --> 00:35:33,720
+pretenses. 
+I mean he thought he was 
+
+762
+00:35:33,720 --> 00:35:37,360
+fighting for justice but he was 
+actually just a meat shield for 
+
+763
+00:35:37,360 --> 00:35:40,040
+a loot run. 
+A loot run for a holy artifact 
+
+764
+00:35:40,040 --> 00:35:42,480
+that creates sunlight? 
+You're minimizing the stakes to 
+
+765
+00:35:42,480 --> 00:35:44,240
+make them sound like common 
+burglars. 
+
+766
+00:35:44,440 --> 00:35:46,680
+And you're minimizing the cost 
+of trust. 
+
+767
+00:35:46,920 --> 00:35:50,640
+They created an internal enemy. 
+When the truth finally came out 
+
+768
+00:35:50,640 --> 00:35:54,440
+in the tree line, Izmark wasn't 
+just upset, he was incredulous. 
+
+769
+00:35:54,680 --> 00:35:58,080
+He realized he had been played. 
+You have traded long term 
+
+770
+00:35:58,080 --> 00:36:01,040
+loyalty for a short term gain 
+that didn't even pay off. 
+
+771
+00:36:01,520 --> 00:36:04,640
+They are now hiding at the 
+winery with the silent brooding 
+
+772
+00:36:04,640 --> 00:36:07,920
+man who knows his friends will 
+lie to his face if it served 
+
+773
+00:36:07,920 --> 00:36:10,440
+their agenda. 
+That isn't strategy, that is 
+
+774
+00:36:10,440 --> 00:36:12,840
+self sabotage. 
+I disagree that it's self 
+
+775
+00:36:12,840 --> 00:36:14,960
+sabotage, I think it's damage 
+control. 
+
+776
+00:36:15,440 --> 00:36:17,920
+But let's let's move into the 
+core debate and dissect the 
+
+777
+00:36:17,960 --> 00:36:20,720
+actual events of the heist. 
+I want to talk about the 
+
+778
+00:36:20,720 --> 00:36:23,640
+execution because you claim the 
+lie caused the chaos. 
+
+779
+00:36:23,880 --> 00:36:26,600
+I argue the chaos was inevitable
+and the party handled it with 
+
+780
+00:36:26,600 --> 00:36:29,000
+remarkable prowess because they 
+had his mark. 
+
+781
+00:36:29,360 --> 00:36:31,520
+Prowess. 
+Are we watching the same 
+
+782
+00:36:31,520 --> 00:36:33,880
+session? 
+The operation was sloppy from 
+
+783
+00:36:33,880 --> 00:36:35,400
+the moment they left the 
+basement. 
+
+784
+00:36:35,520 --> 00:36:38,320
+It was a high risk entry, high 
+risk, high reward. 
+
+785
+00:36:38,360 --> 00:36:41,480
+It was a botched entry. 
+Let's just look at the tape. 
+
+786
+00:36:41,960 --> 00:36:45,200
+Dare men, Their rogue cracks 
+open the door to the mud room. 
+
+787
+00:36:45,440 --> 00:36:48,920
+He has the element of surprise. 
+This is what rogues do. 
+
+788
+00:36:48,920 --> 00:36:51,520
+This is his bread and butter. 
+And what happens? 
+
+789
+00:36:51,600 --> 00:36:55,960
+He leaps in his rapier, scrapes 
+the Stonewall skirt, and the 
+
+790
+00:36:55,960 --> 00:36:58,720
+guard ducks. 
+That's a critical failure in 
+
+791
+00:36:58,720 --> 00:37:01,280
+stealth execution. 
+Well, that's the friction of 
+
+792
+00:37:01,280 --> 00:37:03,840
+combat even the best rogues 
+miss. 
+
+793
+00:37:04,080 --> 00:37:06,360
+You can't plan for a bad die 
+roll. 
+
+794
+00:37:06,600 --> 00:37:08,840
+But you can plan for the 
+consequences. 
+
+795
+00:37:09,160 --> 00:37:12,240
+Because the party was so 
+disjointed, the reaction was 
+
+796
+00:37:12,240 --> 00:37:14,640
+just panic. 
+The guard yells. 
+
+797
+00:37:14,760 --> 00:37:17,960
+The alarm is raised instantly. 
+Then they scramble to the 
+
+798
+00:37:17,960 --> 00:37:19,600
+kitchen. 
+They find a servant. 
+
+799
+00:37:19,800 --> 00:37:22,720
+Instead of managing that 
+situation, you know, subduing 
+
+800
+00:37:22,720 --> 00:37:26,760
+her, intimidating her, casting 
+silence, she screams and flees. 
+
+801
+00:37:26,920 --> 00:37:29,560
+Within seconds, the entire house
+is alert. 
+
+802
+00:37:29,720 --> 00:37:33,200
+This wasn't a tactical strike. 
+It was a loud, clumsy home 
+
+803
+00:37:33,200 --> 00:37:35,240
+invasion. 
+If they had been honest with 
+
+804
+00:37:35,240 --> 00:37:38,360
+Ismarc, perhaps they could have 
+formulated A cohesive assault 
+
+805
+00:37:38,360 --> 00:37:41,560
+plan rather than this piece meal
+room to room panic. 
+
+806
+00:37:41,720 --> 00:37:44,480
+I don't buy that for a second. 
+The trap was waiting for them, 
+
+807
+00:37:44,480 --> 00:37:47,520
+regardless of how quietly they 
+knocked or how honest they were 
+
+808
+00:37:47,520 --> 00:37:49,960
+with the NPC. 
+Lady Voctor didn't just have 
+
+809
+00:37:49,960 --> 00:37:52,800
+guards, she had wardens. 
+We're talking spellcasters 
+
+810
+00:37:52,800 --> 00:37:54,760
+capable of high level 
+necromancy. 
+
+811
+00:37:54,920 --> 00:37:57,400
+She had the ability to summon a 
+barbed devil. 
+
+812
+00:37:57,800 --> 00:37:59,960
+This wasn't a situation that 
+could be solved with a perfect 
+
+813
+00:37:59,960 --> 00:38:02,360
+sneak attack. 
+You really think is Mark's 
+
+814
+00:38:02,360 --> 00:38:04,320
+presence changed the math that 
+much? 
+
+815
+00:38:04,360 --> 00:38:07,640
+It saved the campaign. 
+Look at the data. 
+
+816
+00:38:07,880 --> 00:38:11,040
+Radley hammered that guard in 
+the mud room to death instantly.
+
+817
+00:38:11,120 --> 00:38:14,320
+That was good focus fire. 
+But when the devil was summoned,
+
+818
+00:38:14,520 --> 00:38:18,040
+who was there Is Mark? 
+Is Mark was there shouting in 
+
+819
+00:38:18,040 --> 00:38:20,320
+despair because he didn't 
+understand what was happening. 
+
+820
+00:38:20,480 --> 00:38:22,880
+He's fighting a devil while 
+thinking he's there to stop a 
+
+821
+00:38:22,880 --> 00:38:24,960
+political rival. 
+But he engaged. 
+
+822
+00:38:25,080 --> 00:38:28,240
+That is the point. 
+Radley and is Mark bravely 
+
+823
+00:38:28,240 --> 00:38:30,600
+engaged, a literal fiend from 
+the Hells. 
+
+824
+00:38:30,880 --> 00:38:33,520
+Radley knew his fire bolt was 
+useless against the devil's 
+
+825
+00:38:33,520 --> 00:38:35,600
+resistance, so he went in with 
+steel. 
+
+826
+00:38:36,000 --> 00:38:39,640
+But is Mark? 
+Is Mark tanked the damage he 
+
+827
+00:38:39,640 --> 00:38:43,880
+stood in the paint without is 
+Mark absorbing those blows that 
+
+828
+00:38:43,880 --> 00:38:47,240
+devil would have been tearing 
+into your horn or purlin much 
+
+829
+00:38:47,240 --> 00:38:50,000
+earlier. 
+Without the lie that brought is 
+
+830
+00:38:50,000 --> 00:38:53,520
+Mark to that room, the party 
+suffers a total party kill. 
+
+831
+00:38:53,520 --> 00:38:55,560
+Period. 
+That is a strong claim. 
+
+832
+00:38:56,160 --> 00:38:58,480
+You think they wipe without him?
+Absolutely. 
+
+833
+00:38:58,720 --> 00:39:02,160
+Look at the damage output. 
+The party was split, half of 
+
+834
+00:39:02,160 --> 00:39:04,960
+them were getting chewed up 
+upstairs without his mark 
+
+835
+00:39:04,960 --> 00:39:07,880
+holding the line downstairs. 
+The pincer movement crushes 
+
+836
+00:39:07,880 --> 00:39:11,320
+them, the devil comes up the 
+stairs, the wardens come down, 
+
+837
+00:39:11,760 --> 00:39:14,320
+and the campaign ends in session
+26. 
+
+838
+00:39:14,560 --> 00:39:17,680
+OK, I'll grant you that his mark
+was a useful meat shield, but 
+
+839
+00:39:17,680 --> 00:39:20,680
+that brings me to the second 
+point, the cost of engagement. 
+
+840
+00:39:21,160 --> 00:39:23,200
+You're framing this as a 
+survival story. 
+
+841
+00:39:23,400 --> 00:39:26,640
+They didn't die, but I see a 
+list of casualties that suggests
+
+842
+00:39:26,640 --> 00:39:29,120
+the party is operating way 
+beyond its capacity. 
+
+843
+00:39:29,240 --> 00:39:32,320
+They are alive. 
+That is the only metric that 
+
+844
+00:39:32,320 --> 00:39:34,360
+matters in Borovia. 
+Barely. 
+
+845
+00:39:34,640 --> 00:39:37,320
+Look at the physical toll. 
+Let's talk about Spirit 
+
+846
+00:39:37,320 --> 00:39:40,400
+guardians. 
+Lady walked her signature spell.
+
+847
+00:39:40,640 --> 00:39:43,640
+Nasty piece of work. 
+It was devastating. 
+
+848
+00:39:43,880 --> 00:39:45,880
+Listeners need to understand the
+mechanics here. 
+
+849
+00:39:46,080 --> 00:39:49,560
+Spirit Guardians isn't just 
+damage, it creates difficult 
+
+850
+00:39:49,560 --> 00:39:51,840
+terrain. 
+It halves your movement speed. 
+
+851
+00:39:52,000 --> 00:39:55,720
+So you have Orihorn in Pearland 
+running up the stairs trying to 
+
+852
+00:39:55,720 --> 00:39:58,720
+close the gap and they are 
+suddenly wading through spectral
+
+853
+00:39:58,720 --> 00:40:00,760
+devils that are tearing their 
+souls apart. 
+
+854
+00:40:01,040 --> 00:40:04,040
+They can't move fast enough to 
+get out of the radius. 
+
+855
+00:40:04,320 --> 00:40:06,800
+They took a beating, I admit. 
+A beating. 
+
+856
+00:40:06,960 --> 00:40:10,080
+They were shredded. 
+Orihorn and Pearland were both 
+
+857
+00:40:10,080 --> 00:40:13,120
+rendered unconscious. 
+That is, two party members down 
+
+858
+00:40:13,120 --> 00:40:15,480
+in rounds. 
+And look at the psychological 
+
+859
+00:40:15,480 --> 00:40:18,480
+toll. 
+Orihorn's cat fled the scene. 
+
+860
+00:40:19,200 --> 00:40:23,760
+The Beastmaster bond, Yeah. 
+Exactly, that bond is 
+
+861
+00:40:23,760 --> 00:40:27,920
+supernatural for the animal to 
+panic and run ignoring its 
+
+862
+00:40:27,920 --> 00:40:30,920
+masters command. 
+The level of fear and necrotic 
+
+863
+00:40:30,920 --> 00:40:33,280
+energy in that room must have 
+been off the charts. 
+
+864
+00:40:33,800 --> 00:40:37,160
+And don't forget Dharman, he was
+poisoned by an invisible imp. 
+
+865
+00:40:37,560 --> 00:40:40,560
+A superficial puncture, yes, but
+do they have antitoxin? 
+
+866
+00:40:40,760 --> 00:40:43,080
+Do they have a lesser 
+restoration spell prepared now 
+
+867
+00:40:43,080 --> 00:40:46,640
+that tracks the doors Ash? 
+No, they're broken. 
+
+868
+00:40:47,120 --> 00:40:49,480
+And yet they retreated 
+successfully. 
+
+869
+00:40:49,760 --> 00:40:53,120
+That is a tactical win. 
+In a worst case scenario, you're
+
+870
+00:40:53,120 --> 00:40:56,360
+focusing on the damage taken, 
+I'm focusing on the extraction. 
+
+871
+00:40:56,680 --> 00:40:58,680
+Extraction. 
+They ran away. 
+
+872
+00:40:58,920 --> 00:41:02,680
+Radley had the presence of mind 
+despite the chaos, despite the 
+
+873
+00:41:02,680 --> 00:41:06,240
+devil clong at him to cast fire 
+bolts into the storeroom. 
+
+874
+00:41:06,520 --> 00:41:10,040
+He created a smokescreen, A 
+distraction to delay pursuit. 
+
+875
+00:41:10,280 --> 00:41:13,480
+That is veteran thinking. 
+They didn't leave anyone behind.
+
+876
+00:41:13,680 --> 00:41:16,480
+Radley and Ismark carried the 
+fallen bodies out. 
+
+877
+00:41:16,760 --> 00:41:20,320
+Perlin, to his credit, regained 
+consciousness and walked, but 
+
+878
+00:41:20,320 --> 00:41:22,800
+Radley carried Yurihorn all the 
+way out. 
+
+879
+00:41:23,000 --> 00:41:26,280
+That shows unit cohesion. 
+It shows desperation. 
+
+880
+00:41:26,600 --> 00:41:29,000
+They ran between houses like 
+rats. 
+
+881
+00:41:29,400 --> 00:41:32,360
+They dropped Yurihorn in the 
+dirt to bind his bleeding 
+
+882
+00:41:32,360 --> 00:41:34,520
+wounds. 
+They didn't even dare go for the
+
+883
+00:41:34,520 --> 00:41:36,800
+main gates. 
+They had to scramble over the 
+
+884
+00:41:36,800 --> 00:41:38,720
+wall to escape to the Wizards of
+Wine. 
+
+885
+00:41:39,280 --> 00:41:42,160
+They are now battered. 
+Yuri Horn's cat is prowling 
+
+886
+00:41:42,160 --> 00:41:44,400
+nervously and they have nothing 
+to show for it. 
+
+887
+00:41:44,680 --> 00:41:49,120
+No amulet, no dead lady walked 
+her, just injuries, A poisoned 
+
+888
+00:41:49,120 --> 00:41:52,280
+rogue and a furious ally. 
+They have intelligence. 
+
+889
+00:41:52,440 --> 00:41:54,560
+They know what Lady Walker is 
+capable of now. 
+
+890
+00:41:54,800 --> 00:41:56,960
+They know the amulet isn't 
+easily found. 
+
+891
+00:41:57,120 --> 00:41:59,280
+And they have lost the moral 
+high ground. 
+
+892
+00:41:59,760 --> 00:42:03,320
+Which leads us to the most 
+critical point, the revelation, 
+
+893
+00:42:03,720 --> 00:42:06,280
+the scene in the tree line 
+outside the walls. 
+
+894
+00:42:06,840 --> 00:42:09,920
+This is where the pragmatic 
+argument just crumbles for me. 
+
+895
+00:42:10,080 --> 00:42:13,920
+I think it holds up perfectly. 
+Picture the scene, they are 
+
+896
+00:42:13,920 --> 00:42:17,600
+outside the walls patching 
+wounds Is Mark is agitated, 
+
+897
+00:42:17,600 --> 00:42:20,000
+rightfully so. 
+He wants to go back in. 
+
+898
+00:42:20,000 --> 00:42:23,040
+He's talking about saving Arena 
+from the chaos of Valaki. 
+
+899
+00:42:23,200 --> 00:42:24,640
+He thinks she's still in the 
+town. 
+
+900
+00:42:25,000 --> 00:42:26,680
+The party finally tells him the 
+truth. 
+
+901
+00:42:26,840 --> 00:42:29,880
+She isn't in Valaki. 
+She was taken by the mob and 
+
+902
+00:42:29,880 --> 00:42:32,440
+given distraught. 
+And you think this was the right
+
+903
+00:42:32,440 --> 00:42:35,720
+time to tell him while he's 
+wiping Devil Icker off his 
+
+904
+00:42:35,720 --> 00:42:37,840
+blade? 
+It was the only time they 
+
+905
+00:42:37,840 --> 00:42:40,440
+couldn't hide it anymore. 
+If they let him run back into 
+
+906
+00:42:40,440 --> 00:42:42,960
+Valaki, he dies to the guards of
+the vampires. 
+
+907
+00:42:43,280 --> 00:42:45,720
+They needed to stop him from 
+running into a slaughterhouse. 
+
+908
+00:42:45,800 --> 00:42:49,200
+They told him because they were 
+cornered, not because they 
+
+909
+00:42:49,200 --> 00:42:51,560
+respected him. 
+And look at his reaction. 
+
+910
+00:42:51,920 --> 00:42:55,880
+The session notes are specific. 
+Ismark wasn't just mad. 
+
+911
+00:42:55,880 --> 00:42:59,560
+He was incredulous. 
+He swears in frustration. 
+
+912
+00:42:59,560 --> 00:43:02,560
+He rebukes them. 
+This isn't just a disagreement 
+
+913
+00:43:02,560 --> 00:43:04,920
+on tactics. 
+He feels betrayed. 
+
+914
+00:43:05,080 --> 00:43:08,160
+He demands they go to Castle 
+Wavenloft immediately. 
+
+915
+00:43:08,400 --> 00:43:10,400
+And the party stood their ground
+with logic. 
+
+916
+00:43:10,640 --> 00:43:12,240
+This is why I respect their 
+play. 
+
+917
+00:43:12,480 --> 00:43:16,240
+They didn't cave to his emotion,
+they told him unapologetically. 
+
+918
+00:43:16,480 --> 00:43:20,240
+We cannot confront Straud 
+without the Amulet of Ravenkind.
+
+919
+00:43:20,440 --> 00:43:23,440
+This is an objective fact. 
+They believe this artifact is 
+
+920
+00:43:23,440 --> 00:43:25,960
+the key to creating sunlight, 
+which is the only thing that 
+
+921
+00:43:25,960 --> 00:43:28,360
+evens the odds against the 
+vampire Lord is. 
+
+922
+00:43:28,360 --> 00:43:31,040
+Mark's anger is emotional. 
+The party stands as strategic. 
+
+923
+00:43:31,280 --> 00:43:34,240
+Strategic. 
+They sound like cold blooded 
+
+924
+00:43:34,240 --> 00:43:36,720
+manipulators. 
+Sorry we lied to you about your 
+
+925
+00:43:36,720 --> 00:43:39,760
+sister being kidnapped by a 
+monster, but we really needed 
+
+926
+00:43:39,760 --> 00:43:42,760
+you to tank that devil for us. 
+Now sit down and shut up. 
+
+927
+00:43:43,080 --> 00:43:45,160
+But it worked. 
+They placated him. 
+
+928
+00:43:45,360 --> 00:43:49,400
+He fell into a brooding silence.
+That silence means he is still 
+
+929
+00:43:49,400 --> 00:43:51,560
+following them. 
+He didn't attack them. 
+
+930
+00:43:51,680 --> 00:43:54,320
+He didn't leave. 
+He went with them to the winery.
+
+931
+00:43:54,560 --> 00:43:57,880
+He went to the winery because he
+has nowhere else to go. 
+
+932
+00:43:58,240 --> 00:44:00,360
+But you aren't misreading that 
+silence. 
+
+933
+00:44:00,720 --> 00:44:02,720
+Abroading silence is not 
+consent. 
+
+934
+00:44:02,960 --> 00:44:06,960
+It is resentment stewing. 
+You have a powerful warrior who 
+
+935
+00:44:06,960 --> 00:44:09,160
+now knows you view him as a 
+tool. 
+
+936
+00:44:09,480 --> 00:44:12,680
+He knows you withheld the most 
+important information in his 
+
+937
+00:44:12,680 --> 00:44:14,920
+life just to get him to swing a 
+sword. 
+
+938
+00:44:15,160 --> 00:44:17,320
+He's still a resource they have 
+access to. 
+
+939
+00:44:17,720 --> 00:44:21,040
+For how long? 
+Trust is a resource in this game
+
+940
+00:44:21,280 --> 00:44:23,800
+just as much as hit points or 
+spell slots. 
+
+941
+00:44:24,240 --> 00:44:27,520
+The party spent all their trust 
+capital on this failed heist. 
+
+942
+00:44:28,000 --> 00:44:31,240
+Izmark is a ticking time bomb. 
+What happens when they get close
+
+943
+00:44:31,240 --> 00:44:34,040
+to Ravenloft? 
+What happens when Straud offers 
+
+944
+00:44:34,040 --> 00:44:36,880
+Izmark a deal? 
+Bring me the amulet and I'll let
+
+945
+00:44:36,880 --> 00:44:39,320
+you see her. 
+Izmark hates Straud. 
+
+946
+00:44:39,560 --> 00:44:42,720
+He won't turn. 
+But he might hate the party now 
+
+947
+00:44:42,720 --> 00:44:46,960
+too, or at least not trust them 
+to watch his back. 
+
+948
+00:44:47,320 --> 00:44:50,360
+If he abandons them in a 
+critical moment or charges in 
+
+949
+00:44:50,360 --> 00:44:53,640
+recklessly because he refuses to
+listen to their plans anymore, 
+
+950
+00:44:54,080 --> 00:44:57,000
+that creates A vulnerability 
+that the amulet, if they ever 
+
+951
+00:44:57,000 --> 00:45:00,560
+find it, can't fix. 
+That's a risk, certainly, but 
+
+952
+00:45:00,560 --> 00:45:02,160
+let's look at the alternative 
+again. 
+
+953
+00:45:02,720 --> 00:45:06,240
+If they hadn't lied. 
+Is Mark runs to Ravenloft alone 
+
+954
+00:45:06,240 --> 00:45:08,600
+and dies. 
+The party tries to take walked 
+
+955
+00:45:08,600 --> 00:45:11,040
+her house alone and likely dies 
+to the Wardens. 
+
+956
+00:45:11,040 --> 00:45:12,880
+And the devil without is Mark's 
+help. 
+
+957
+00:45:13,200 --> 00:45:16,320
+The lie bought them another day.
+It bought them a chance to rest 
+
+958
+00:45:16,320 --> 00:45:19,080
+at the Wizards of Wine. 
+Your horn used primeval 
+
+959
+00:45:19,080 --> 00:45:21,640
+awareness and confirmed the imp 
+wasn't pursuing them. 
+
+960
+00:45:21,640 --> 00:45:25,360
+They're safe for the moment. 
+Safe but hollowed out. 
+
+961
+00:45:25,560 --> 00:45:29,200
+They are resting. 
+Yes, Yuri Horn is conscious 
+
+962
+00:45:29,200 --> 00:45:31,240
+again, but the dynamic has 
+shifted. 
+
+963
+00:45:31,360 --> 00:45:33,840
+They are no longer heroes 
+leading a rebellion. 
+
+964
+00:45:33,960 --> 00:45:37,320
+They are desperate survivors 
+manipulating their friends. 
+
+965
+00:45:37,440 --> 00:45:43,080
+Sometimes in Borovia, that is 
+the only way to be a hero. 
+
+966
+00:45:43,360 --> 00:45:47,920
+You have to make the hard calls.
+They prioritize the mission over
+
+967
+00:45:47,920 --> 00:45:50,640
+feelings. 
+And in doing so, they may have 
+
+968
+00:45:50,640 --> 00:45:53,320
+doomed the mission by rotting it
+from the inside. 
+
+969
+00:45:53,920 --> 00:45:58,000
+Let's move to our conclusion. 
+We are looking at a party in a 
+
+970
+00:45:58,040 --> 00:46:00,880
+dire state. 
+Trxador is dead and cremated. 
+
+971
+00:46:01,240 --> 00:46:03,400
+The Amulet of Ravenkind is still
+missing. 
+
+972
+00:46:03,400 --> 00:46:05,760
+The party is hiding at the 
+Wizards of Wine, licking their 
+
+973
+00:46:05,760 --> 00:46:07,920
+wounds. 
+And the psychological state is 
+
+974
+00:46:07,920 --> 00:46:10,160
+just as bad. 
+You have a poisoned rogue. 
+
+975
+00:46:10,560 --> 00:46:13,240
+Dermont is tough, but poison is 
+insidious. 
+
+976
+00:46:13,760 --> 00:46:16,600
+You have a humiliated 
+Beastmaster whose cat is 
+
+977
+00:46:16,600 --> 00:46:20,120
+nervous, which is a terrible 
+sign, and you have an ally in 
+
+978
+00:46:20,120 --> 00:46:24,160
+Ismark who is silent, angry and 
+watching them with suspicious 
+
+979
+00:46:24,160 --> 00:46:26,560
+eyes. 
+Despite all that, I maintain 
+
+980
+00:46:26,560 --> 00:46:28,840
+that the party made the 
+necessary choices. 
+
+981
+00:46:29,160 --> 00:46:31,360
+The world of Barovia is 
+unforgiving. 
+
+982
+00:46:31,800 --> 00:46:34,880
+They attempted A decapitation 
+strike on Lady Walker to 
+
+983
+00:46:34,880 --> 00:46:39,080
+retrieve a vital artifact. 
+It failed, yes, but the logic 
+
+984
+00:46:39,080 --> 00:46:41,240
+behind utilizing Ismark was 
+sound. 
+
+985
+00:46:41,840 --> 00:46:44,480
+They needed his strength to 
+survive and the evidence of the 
+
+986
+00:46:44,480 --> 00:46:46,640
+battle. 
+The devil, the Spirit Guardians,
+
+987
+00:46:46,960 --> 00:46:49,080
+proves they would not have 
+walked out of there without him.
+
+988
+00:46:49,600 --> 00:46:51,800
+They preserved their lives to 
+fight another day. 
+
+989
+00:46:52,160 --> 00:46:55,280
+But at what price? 
+I conclude that the party has 
+
+990
+00:46:55,280 --> 00:46:58,520
+traded their moral compass for 
+survival, and it wasn't a good 
+
+991
+00:46:58,520 --> 00:47:00,760
+trade. 
+They failed to get the item, 
+
+992
+00:47:01,000 --> 00:47:04,080
+they failed to kill the target, 
+and they succeeded only in 
+
+993
+00:47:04,080 --> 00:47:07,720
+alienating one of the few 
+powerful allies they have left. 
+
+994
+00:47:08,240 --> 00:47:11,600
+By treating is Mark as a pawn, 
+they have sown seeds of distrust
+
+995
+00:47:11,600 --> 00:47:14,880
+that will likely blossom at the 
+worst possible moment, perhaps 
+
+996
+00:47:14,880 --> 00:47:16,680
+at the gates of Ravenloft 
+itself. 
+
+997
+00:47:17,000 --> 00:47:20,000
+That remains to be seen, but 
+what is clear is that the 
+
+998
+00:47:20,000 --> 00:47:23,600
+tension between is Mark and the 
+party is now the most volatile 
+
+999
+00:47:23,600 --> 00:47:27,280
+element in this campaign. 
+They are together at the winery,
+
+1000
+00:47:27,320 --> 00:47:30,680
+but they are not united. 
+And that lack of unity is 
+
+1001
+00:47:30,680 --> 00:47:34,480
+exactly what Strat exploits. 
+A fascinating point to end on. 
+
+1002
+00:47:34,640 --> 00:47:36,560
+Thank you for joining us on the 
+debate. 
+
+1003
+00:47:37,080 --> 00:47:39,880
+Today. 
+We're looking at session 26AD 
+
+1004
+00:47:39,880 --> 00:47:43,200
+and D narrative covering a 
+heist, a devil fight, and a 
+
+1005
+00:47:43,200 --> 00:47:45,360
+pretty intense character 
+revelation. 
+
+1006
+00:47:45,600 --> 00:47:47,880
+Yeah, a really interesting piece
+to dive into. 
+
+1007
+00:47:47,880 --> 00:47:51,120
+So let's jump right in. 
+A key theme I saw here was this 
+
+1008
+00:47:51,120 --> 00:47:55,080
+challenge of pacing, and it 
+starts right away, the opening 
+
+1009
+00:47:55,080 --> 00:47:58,800
+sequence in the root cellar. 
+It really slows the narrative 
+
+1010
+00:47:58,800 --> 00:48:01,280
+momentum without a payoff. 
+It weakens the hook. 
+
+1011
+00:48:01,480 --> 00:48:04,600
+It really does. 
+It's it's what I'd call a false 
+
+1012
+00:48:04,600 --> 00:48:05,520
+start. 
+A false. 
+
+1013
+00:48:05,520 --> 00:48:07,960
+Start. 
+OK, yeah, because functionally 
+
+1014
+00:48:07,960 --> 00:48:09,600
+it's accurate to the game, 
+right? 
+
+1015
+00:48:09,920 --> 00:48:12,040
+The players check a room, find 
+nothing. 
+
+1016
+00:48:12,040 --> 00:48:15,800
+A spell fails, but narratively 
+it just deflates all the 
+
+1017
+00:48:15,800 --> 00:48:17,600
+tension. 
+It feels like a list. 
+
+1018
+00:48:17,800 --> 00:48:20,640
+Exactly a list of procedural 
+checks. 
+
+1019
+00:48:21,040 --> 00:48:23,960
+You're primed for this exciting 
+heist, but the first paragraph 
+
+1020
+00:48:23,960 --> 00:48:26,280
+is just a description of things 
+not happening. 
+
+1021
+00:48:26,640 --> 00:48:29,480
+Right. 
+It's a log book, not a story. 
+
+1022
+00:48:29,880 --> 00:48:33,440
+So how do we strengthen that? 
+What's the alternative to just, 
+
+1023
+00:48:33,440 --> 00:48:36,920
+you know, reporting the failure?
+Well, the suggestion is to use 
+
+1024
+00:48:36,920 --> 00:48:42,120
+this idea of failing forward. 
+If a scene has no loot and no 
+
+1025
+00:48:42,120 --> 00:48:46,160
+combat, it absolutely has to 
+have atmosphere or lore that 
+
+1026
+00:48:46,160 --> 00:48:48,360
+raises the stakes for what's 
+coming next. 
+
+1027
+00:48:48,920 --> 00:48:51,640
+You have to take the nothing 
+they found and make it an 
+
+1028
+00:48:51,640 --> 00:48:53,480
+ominous nothing. 
+I like that. 
+
+1029
+00:48:53,840 --> 00:48:56,800
+So not just emptiness, but a 
+threatening emptiness. 
+
+1030
+00:48:57,160 --> 00:48:59,840
+Can you give us a concrete 
+example with that pentagram? 
+
+1031
+00:48:59,840 --> 00:49:03,720
+Sure, so the text says they find
+the pentagram, but finding 
+
+1032
+00:49:03,720 --> 00:49:05,640
+nothing else, they prepare to 
+ascend. 
+
+1033
+00:49:05,880 --> 00:49:08,880
+Right, a missed opportunity. 
+A huge 1. 
+
+1034
+00:49:09,360 --> 00:49:12,720
+Instead of just saying finding 
+nothing else, you could describe
+
+1035
+00:49:12,720 --> 00:49:15,360
+the dust on the floor. 
+Maybe it's recently been 
+
+1036
+00:49:15,360 --> 00:49:18,560
+disturbed, implying the amulet 
+was moved just moments before 
+
+1037
+00:49:18,560 --> 00:49:20,480
+they got there. 
+Oh, that's good. 
+
+1038
+00:49:20,600 --> 00:49:24,080
+It changes the feeling from we 
+picked the wrong room which is 
+
+1039
+00:49:24,080 --> 00:49:28,160
+boring to we just missed them 
+which immediately ramps up the 
+
+1040
+00:49:28,160 --> 00:49:30,400
+urgency. 
+Turns a dead end into a near 
+
+1041
+00:49:30,400 --> 00:49:33,440
+miss and the spell failure that 
+felt very binary. 
+
+1042
+00:49:33,720 --> 00:49:36,560
+The spell does not detect it. 
+Yeah, exactly. 
+
+1043
+00:49:36,840 --> 00:49:39,440
+We can reframe that. 
+Instead of just saying the spell
+
+1044
+00:49:39,440 --> 00:49:41,880
+failed, describe the sensation 
+of it failing. 
+
+1045
+00:49:42,080 --> 00:49:45,960
+Maybe the magic hits a a void, a
+kind of suffocating magical 
+
+1046
+00:49:45,960 --> 00:49:48,320
+silence. 
+So it's not just a wasted spell 
+
+1047
+00:49:48,320 --> 00:49:49,600
+slot. 
+Not at all. 
+
+1048
+00:49:49,960 --> 00:49:52,760
+It becomes a narrative clue 
+about Lady Walker's power. 
+
+1049
+00:49:53,080 --> 00:49:55,160
+It tells the reader she's 
+prepared for this. 
+
+1050
+00:49:55,360 --> 00:49:58,080
+It's a villain reveal, not just 
+a mechanical failure. 
+
+1051
+00:49:58,320 --> 00:50:01,120
+And then just to tie it up, the 
+movement from the cellar to 
+
+1052
+00:50:01,120 --> 00:50:03,000
+upstairs. 
+Just condense it. 
+
+1053
+00:50:03,360 --> 00:50:05,920
+Combine the cellar and the 
+ascent into one fluid motion, 
+
+1054
+00:50:06,040 --> 00:50:10,040
+something like finding only a 
+chilling, empty pentagram below.
+
+1055
+00:50:10,240 --> 00:50:13,360
+The party was forced upward 
+toward the sound of murmuring 
+
+1056
+00:50:13,360 --> 00:50:15,200
+voices. 
+It keeps things moving. 
+
+1057
+00:50:15,480 --> 00:50:18,480
+Excellent. 
+OK, moving on, let's talk about 
+
+1058
+00:50:18,480 --> 00:50:20,840
+that first fight, the skirmish 
+in the mud room. 
+
+1059
+00:50:21,280 --> 00:50:24,080
+The description relies a little 
+too heavily on mechanical 
+
+1060
+00:50:24,080 --> 00:50:28,440
+outcomes rather than the chaotic
+reality of the space. 
+
+1061
+00:50:28,640 --> 00:50:30,320
+Right. 
+You have all these great details
+
+1062
+00:50:30,320 --> 00:50:33,400
+mentioned, narrow confines, 
+household supplies, but they're 
+
+1063
+00:50:33,400 --> 00:50:35,960
+not really leveraged. 
+It's all a bit abrupt, isn't it?
+
+1064
+00:50:36,280 --> 00:50:39,400
+From a botched stealth attempt 
+to a guard being hammered to 
+
+1065
+00:50:39,400 --> 00:50:41,000
+death. 
+Very abrupt. 
+
+1066
+00:50:41,520 --> 00:50:44,960
+It reads like a video game log. 
+Stealth failed, combat 
+
+1067
+00:50:44,960 --> 00:50:48,080
+initiated, enemy defeated. 
+We're missing the how? 
+
+1068
+00:50:48,560 --> 00:50:52,800
+I agree it moves too fast, so 
+the suggestion here is to lean 
+
+1069
+00:50:52,800 --> 00:50:55,640
+into the claustrophobia. 
+Use the clutter to make the 
+
+1070
+00:50:55,640 --> 00:50:58,680
+violence feel more desperate. 
+Exactly. 
+
+1071
+00:50:58,680 --> 00:51:01,840
+We need to know why the attack 
+failed in those confines, The 
+
+1072
+00:51:01,840 --> 00:51:04,560
+text says the rapier scrapes 
+along the wall. 
+
+1073
+00:51:04,680 --> 00:51:07,040
+Let's expand on that. 
+OK, describe it. 
+
+1074
+00:51:07,040 --> 00:51:09,880
+Getting tangled in a hanging 
+coat or hitting a door frame 
+
+1075
+00:51:09,880 --> 00:51:13,000
+with a loud clang show the 
+frustration of trying to use a 
+
+1076
+00:51:13,000 --> 00:51:15,600
+finesse weapon in a tiny, 
+cramped space. 
+
+1077
+00:51:16,080 --> 00:51:18,480
+It makes the failure feel 
+physical, not just like a bad 
+
+1078
+00:51:18,480 --> 00:51:20,680
+roll. 
+And that phrase hammered to 
+
+1079
+00:51:20,680 --> 00:51:22,800
+death. 
+It's intense, but. 
+
+1080
+00:51:23,240 --> 00:51:25,280
+It's abstract. 
+Let's make it visceral. 
+
+1081
+00:51:25,400 --> 00:51:28,160
+Use the environment. 
+Did Radley smash the guard 
+
+1082
+00:51:28,160 --> 00:51:31,560
+against the wall into the bench 
+and the noise? 
+
+1083
+00:51:31,760 --> 00:51:34,040
+Describe the sickening thud 
+against the wood. 
+
+1084
+00:51:34,560 --> 00:51:36,520
+That's why the alarm gets raised
+so fast. 
+
+1085
+00:51:36,840 --> 00:51:39,280
+Violence is loud. 
+Right, you can't hide that 
+
+1086
+00:51:39,280 --> 00:51:41,960
+sound, which leads them to 
+hiding in the. 
+
+1087
+00:51:41,960 --> 00:51:44,920
+Storeroom, and this is a great 
+opportunity for contrast. 
+
+1088
+00:51:45,280 --> 00:51:47,680
+The text mentions common 
+household supplies. 
+
+1089
+00:51:48,520 --> 00:51:53,560
+Don't just list them, Juxtapose 
+those normal things, brooms, 
+
+1090
+00:51:53,560 --> 00:51:56,960
+sacks of flour, with these 
+bloodied adventurers hiding 
+
+1091
+00:51:56,960 --> 00:51:59,680
+among them. 
+That collision of the domestic 
+
+1092
+00:51:59,680 --> 00:52:02,800
+and the violent, that creates a 
+much stronger image. 
+
+1093
+00:52:03,080 --> 00:52:06,200
+It really highlights that the 
+party are the intruders here. 
+
+1094
+00:52:06,440 --> 00:52:10,120
+It grounds the scene, makes it 
+feel wrong, which is perfect for
+
+1095
+00:52:10,120 --> 00:52:12,840
+a heist. 
+OK, let's get to the big set 
+
+1096
+00:52:12,840 --> 00:52:15,080
+piece, the climax and the 
+parlor. 
+
+1097
+00:52:15,240 --> 00:52:17,640
+The big fight. 
+The argument here is that it 
+
+1098
+00:52:17,640 --> 00:52:20,920
+lists the combatants well 
+enough, but it it misses an 
+
+1099
+00:52:20,920 --> 00:52:24,520
+opportunity to showcase the 
+specific horror of Lady Walker's
+
+1100
+00:52:24,520 --> 00:52:27,520
+magic. 
+Yes, this is Ravenloft after 
+
+1101
+00:52:27,520 --> 00:52:29,240
+all. 
+It's supposed to be gothic 
+
+1102
+00:52:29,240 --> 00:52:31,080
+horror. 
+But the descriptions are very 
+
+1103
+00:52:31,080 --> 00:52:33,960
+functional. 
+Necromantic Bolts summons a 
+
+1104
+00:52:33,960 --> 00:52:36,280
+devil. 
+It's all very tactical. 
+
+1105
+00:52:36,480 --> 00:52:39,640
+It treats the devil like just 
+another monster with a block of 
+
+1106
+00:52:39,640 --> 00:52:42,760
+hit points, Not a terrifying 
+supernatural event. 
+
+1107
+00:52:43,080 --> 00:52:46,520
+There's no terror factor. 
+So the suggestion is to shift 
+
+1108
+00:52:46,520 --> 00:52:51,200
+focus from the tactical exchange
+to the the psychological impact 
+
+1109
+00:52:51,200 --> 00:52:53,000
+of it all. 
+Precisely. 
+
+1110
+00:52:53,240 --> 00:52:54,600
+Let's start with the devil 
+summoning. 
+
+1111
+00:52:54,880 --> 00:52:57,280
+The text just says she summons a
+devil. 
+
+1112
+00:52:57,760 --> 00:53:00,080
+That's it. 
+So dry it sounds like she's 
+
+1113
+00:53:00,080 --> 00:53:01,760
+ordering a cab. 
+Right. 
+
+1114
+00:53:02,120 --> 00:53:04,120
+So let's add that sensory 
+assault. 
+
+1115
+00:53:04,400 --> 00:53:08,400
+The smell of sulfur overpowering
+old perfume, a sudden bone 
+
+1116
+00:53:08,400 --> 00:53:12,560
+chilling drop in temperature. 
+And is Mark's reaction, his cry 
+
+1117
+00:53:12,560 --> 00:53:15,680
+of despair. 
+That's not just a sound, that's 
+
+1118
+00:53:15,680 --> 00:53:19,160
+the reaction of a brave man 
+seeing a literal fiend from the 
+
+1119
+00:53:19,160 --> 00:53:21,080
+Hells. 
+That anchors the horror for the 
+
+1120
+00:53:21,080 --> 00:53:22,680
+reader. 
+It really does. 
+
+1121
+00:53:23,120 --> 00:53:25,840
+If he's terrified, we understand
+the stakes. 
+
+1122
+00:53:25,920 --> 00:53:28,560
+OK, and what about the Spirit 
+Guardians? 
+
+1123
+00:53:28,840 --> 00:53:32,960
+The text says they're spectral 
+devils that tear and stab. 
+
+1124
+00:53:33,440 --> 00:53:35,280
+That's a decent start, but we 
+can push it. 
+
+1125
+00:53:35,280 --> 00:53:37,880
+Expand on that. 
+Are they screaming faces 
+
+1126
+00:53:38,040 --> 00:53:41,560
+grasping translucent claws? 
+And when they take down Yuri, 
+
+1127
+00:53:41,560 --> 00:53:43,880
+Horn and Purlon make it feel 
+visceral. 
+
+1128
+00:53:43,880 --> 00:53:46,360
+Not just hitting zero hit 
+points. 
+
+1129
+00:53:46,560 --> 00:53:51,480
+No, they're being overwhelmed by
+spectral torment dragged down 
+
+1130
+00:53:51,480 --> 00:53:54,640
+Into Darkness. 
+It raises the stakes from we 
+
+1131
+00:53:54,640 --> 00:53:58,560
+need a healing potion to our 
+souls are under attack. 
+
+1132
+00:53:58,920 --> 00:54:01,400
+I see it really changes the 
+flavor. 
+
+1133
+00:54:01,640 --> 00:54:04,200
+And what about the Imp? 
+There's that great little detail
+
+1134
+00:54:04,200 --> 00:54:06,240
+in there. 
+Oh I love this bit. 
+
+1135
+00:54:06,640 --> 00:54:10,800
+He gets stung and the text says 
+he still hears the flapping of 
+
+1136
+00:54:10,800 --> 00:54:12,560
+its wings. 
+Yeah, that's brilliant. 
+
+1137
+00:54:12,840 --> 00:54:16,280
+So make that the focus. 
+Focus on the invisibility, the 
+
+1138
+00:54:16,280 --> 00:54:20,120
+paranoia it creates. 
+He's poisoned, he's hurt, he 
+
+1139
+00:54:20,120 --> 00:54:22,800
+can't see his attacker, but he 
+can hear it. 
+
+1140
+00:54:23,200 --> 00:54:26,760
+That's pure horror. 
+Describe him swinging at empty 
+
+1141
+00:54:26,760 --> 00:54:30,440
+air, flinching at every sound. 
+It puts the reader right inside 
+
+1142
+00:54:30,440 --> 00:54:32,520
+his head. 
+It adds that psychological 
+
+1143
+00:54:32,520 --> 00:54:36,720
+stress to the physical damage. 
+OK, let's move to our final and 
+
+1144
+00:54:36,720 --> 00:54:40,200
+maybe most critical point, the 
+aftermath with his mark. 
+
+1145
+00:54:42,040 --> 00:54:46,200
+The big reveal, right? 
+And the issue is that this huge 
+
+1146
+00:54:46,200 --> 00:54:50,440
+emotional climax telling Ismark 
+the truth about his sister is 
+
+1147
+00:54:50,440 --> 00:54:54,240
+summarized so heavily it just 
+robs the scene of its dramatic 
+
+1148
+00:54:54,240 --> 00:54:55,920
+weight. 
+It really does. 
+
+1149
+00:54:56,200 --> 00:54:58,960
+This is arguably the most 
+important character moment of 
+
+1150
+00:54:58,960 --> 00:55:02,440
+the entire campaign so far. 
+They lied to him and the 
+
+1151
+00:55:02,440 --> 00:55:05,200
+narrative just says the party 
+finally tells him the truth. 
+
+1152
+00:55:05,200 --> 00:55:07,520
+It's like we're watching the 
+scene through a telescope. 
+
+1153
+00:55:07,640 --> 00:55:10,160
+Yeah, we're fast forwarding 
+through the best part of the 
+
+1154
+00:55:10,160 --> 00:55:11,960
+movie. 
+So the feedback is clear. 
+
+1155
+00:55:12,200 --> 00:55:15,480
+Slow down, use dialogue, use 
+body language. 
+
+1156
+00:55:15,600 --> 00:55:18,520
+Show us the trust breaking. 
+We need to zoom in. 
+
+1157
+00:55:18,600 --> 00:55:22,000
+It's that classic. 
+Show, don't tell, the text says 
+
+1158
+00:55:22,000 --> 00:55:23,720
+is. 
+Mark is incredulous. 
+
+1159
+00:55:24,080 --> 00:55:26,680
+That's an internal state. 
+How do we see that? 
+
+1160
+00:55:26,720 --> 00:55:30,000
+Give us some examples. 
+How do you show Incredulous 
+
+1161
+00:55:30,040 --> 00:55:33,080
+physically? 
+OK, well instead of just saying 
+
+1162
+00:55:33,080 --> 00:55:36,000
+it, describe him physically 
+stopping what he's doing. 
+
+1163
+00:55:36,000 --> 00:55:38,480
+He's binding Urehorn's wounds, 
+right? 
+
+1164
+00:55:38,840 --> 00:55:41,800
+A teammate, right? 
+The moment the truth comes out, 
+
+1165
+00:55:41,960 --> 00:55:45,960
+his hands should just stop. 
+He pulls away. 
+
+1166
+00:55:46,320 --> 00:55:50,120
+Describe the heavy silence that 
+falls over the group before they
+
+1167
+00:55:50,120 --> 00:55:52,760
+confess. 
+And the rebuke, The text says he
+
+1168
+00:55:52,760 --> 00:55:55,480
+rebukes them. 
+It sounds almost administrative.
+
+1169
+00:55:55,600 --> 00:55:58,040
+It does. 
+We need to give his anger 
+
+1170
+00:55:58,040 --> 00:56:01,240
+specific weight. 
+Does he threaten to leave them? 
+
+1171
+00:56:01,560 --> 00:56:04,480
+Does he look at Radley, who's 
+holding the wounded or a horn 
+
+1172
+00:56:04,480 --> 00:56:08,200
+with just utter disgust? 
+We need to feel the heat of that
+
+1173
+00:56:08,200 --> 00:56:10,080
+moment. 
+And then they try to placate him
+
+1174
+00:56:10,080 --> 00:56:11,760
+with the excuse about the 
+amulet. 
+
+1175
+00:56:11,800 --> 00:56:15,160
+Yeah, and the text says he's 
+placated for the moment. 
+
+1176
+00:56:15,920 --> 00:56:18,760
+That word placated, it feels too
+tidy. 
+
+1177
+00:56:18,760 --> 00:56:20,760
+Doesn't. 
+It it implies the conflict is 
+
+1178
+00:56:20,760 --> 00:56:22,440
+resolved. 
+Exactly. 
+
+1179
+00:56:23,120 --> 00:56:26,920
+It's too neat. 
+I challenge the rider to explore
+
+1180
+00:56:26,920 --> 00:56:30,000
+that tension. 
+Does is Mark actually believe 
+
+1181
+00:56:30,000 --> 00:56:32,840
+them, or does he just realize 
+he's helpless without them? 
+
+1182
+00:56:33,000 --> 00:56:35,640
+That brooding silence shouldn't 
+be acceptance. 
+
+1183
+00:56:35,760 --> 00:56:38,760
+It should be resentment. 
+A simmering, dangerous 
+
+1184
+00:56:38,760 --> 00:56:41,200
+resentment. 
+He isn't placated. 
+
+1185
+00:56:41,200 --> 00:56:43,720
+He's trapped. 
+He has to work with the people 
+
+1186
+00:56:43,720 --> 00:56:46,560
+who failed his sister because 
+they're his only hope. 
+
+1187
+00:56:46,800 --> 00:56:49,080
+That's a much richer, darker 
+dynamic. 
+
+1188
+00:56:49,160 --> 00:56:52,240
+That turns the ending from a 
+wrap up into a cliffhanger. 
+
+1189
+00:56:52,240 --> 00:56:56,200
+It changes his mark from a 
+simple NPC into a ticking time 
+
+1190
+00:56:56,200 --> 00:56:57,080
+bomb. 
+Exactly. 
+
+1191
+00:56:57,080 --> 00:57:00,480
+OK, we've covered a lot of 
+ground To recap the main advice 
+
+1192
+00:57:00,480 --> 00:57:03,040
+here. 
+First, turn those procedural 
+
+1193
+00:57:03,040 --> 00:57:05,240
+failures into atmospheric 
+tension. 
+
+1194
+00:57:05,560 --> 00:57:07,440
+An empty room should feel 
+threatening. 
+
+1195
+00:57:07,640 --> 00:57:10,200
+A failed spell should reveal 
+something about the world. 
+
+1196
+00:57:11,640 --> 00:57:15,200
+Use the failure. 
+Second, use the environment to 
+
+1197
+00:57:15,200 --> 00:57:18,760
+make combat visceral. 
+Don't just say a room is narrow,
+
+1198
+00:57:18,880 --> 00:57:22,000
+show a sword hitting a wall. 
+Make it messy. 
+
+1199
+00:57:22,400 --> 00:57:26,800
+Let the space affect the action.
+3rd Elevate spell descriptions 
+
+1200
+00:57:26,800 --> 00:57:30,560
+beyond just mechanics. 
+Describe the experience of the 
+
+1201
+00:57:30,560 --> 00:57:33,760
+magic, the horror of it. 
+Make it feel real. 
+
+1202
+00:57:33,840 --> 00:57:37,600
+And finally, and maybe most 
+importantly, zoom in on those 
+
+1203
+00:57:37,600 --> 00:57:40,800
+crucial dialogue scenes when 
+trust is broken. 
+
+1204
+00:57:41,000 --> 00:57:42,800
+Don't summarize. 
+Slow down. 
+
+1205
+00:57:43,000 --> 00:57:46,280
+Let the silence do the work. 
+I really want to encourage the 
+
+1206
+00:57:46,280 --> 00:57:49,760
+listener here to treat the 
+session log less like a record 
+
+1207
+00:57:49,760 --> 00:57:52,120
+and more like a story that needs
+to be shaped. 
+
+1208
+00:57:52,600 --> 00:57:54,960
+It's easy to transcribe your 
+notes, but the art is in 
+
+1209
+00:57:54,960 --> 00:57:57,800
+interpreting them. 
+And honestly, I'm really curious
+
+1210
+00:57:57,800 --> 00:58:00,160
+to see how that tension with is 
+Mark plays out. 
+
+1211
+00:58:00,520 --> 00:58:02,880
+That brooding silence is a 
+powder keg. 
+
+1212
+00:58:03,120 --> 00:58:05,800
+It absolutely is. 
+I'd strongly encourage them to 
+
+1213
+00:58:05,800 --> 00:58:08,000
+submit the next sessions log. 
+I want to see if they can 
+
+1214
+00:58:08,000 --> 00:58:10,760
+maintain that resentment it. 
+Definitely feels like the party 
+
+1215
+00:58:10,760 --> 00:58:12,560
+is walking on thin ice with him 
+now. 
+
+1216
+00:58:12,880 --> 00:58:14,840
+We look forward to reading what 
+comes next. 
+
+1217
+00:58:15,400 --> 00:58:17,400
+Thank you for tuning in to the 
+critique. 
+
+1218
+00:58:17,840 --> 00:58:19,480
+Keep. 
+Writing session 26. 
+
+1219
+00:58:20,480 --> 00:58:23,240
+All right, so here's the setup. 
+The party teams up with his 
+
+1220
+00:58:23,240 --> 00:58:26,040
+Mark, the town's new leader, to 
+go back to Valaki. 
+
+1221
+00:58:26,440 --> 00:58:29,160
+Their mission is a super high 
+stakes heist. 
+
+1222
+00:58:29,160 --> 00:58:31,800
+They've got to steal a holy 
+artifact from Lady Walker's 
+
+1223
+00:58:31,800 --> 00:58:34,200
+house. 
+First up, the infiltration was a
+
+1224
+00:58:34,200 --> 00:58:37,600
+total mess from the start. 
+Their magic to find the artifact
+
+1225
+00:58:37,840 --> 00:58:41,160
+totally failed and their stealth
+plan fell apart the second they 
+
+1226
+00:58:41,160 --> 00:58:43,560
+were inside. 
+They had to take out guards and 
+
+1227
+00:58:43,560 --> 00:58:46,720
+alarm was raised and they were 
+forced to just rush blindly into
+
+1228
+00:58:46,720 --> 00:58:49,440
+the mansion. 
+Second, they walk straight into 
+
+1229
+00:58:49,440 --> 00:58:51,160
+a magical trap. 
+Lady walked. 
+
+1230
+00:58:51,160 --> 00:58:54,280
+Her summons devils and a vortex 
+of spectral spirits that just 
+
+1231
+00:58:54,360 --> 00:58:56,920
+overwhelms them. 
+Soon half the team is knocked 
+
+1232
+00:58:56,920 --> 00:58:59,120
+unconscious. 
+The survivors have to start a 
+
+1233
+00:58:59,120 --> 00:59:01,960
+fire for a distraction just to 
+drag their friends over the city
+
+1234
+00:59:01,960 --> 00:59:04,920
+walls and escape. 
+And finally, this is where the 
+
+1235
+00:59:04,920 --> 00:59:08,160
+trust completely breaks down. 
+Once they're safe is Mark 
+
+1236
+00:59:08,160 --> 00:59:09,920
+demands they go rescue his 
+sister. 
+
+1237
+00:59:10,280 --> 00:59:12,200
+But then the party admits the 
+truth. 
+
+1238
+00:59:12,280 --> 00:59:16,080
+They let a mob give her to straw
+days ago is Mark is furious. 
+
+1239
+00:59:16,200 --> 00:59:19,880
+He realized he was just used as 
+a pawn and that alliance is left
+
+1240
+00:59:19,880 --> 00:59:22,840
+in absolute ruins. 
+So yeah, this session was a 
+
+1241
+00:59:22,840 --> 00:59:25,120
+catastrophic failure on all 
+fronts. 
+
+1242
+00:59:25,320 --> 00:59:27,520
+They're missing the artifact and
+they've shattered a key 
+
+1243
+00:59:27,520 --> 00:59:30,160
+friendship. 
+Battered and exposed, the party 
+
+1244
+00:59:30,160 --> 00:59:33,280
+is left with nothing but that 
+broken alliance and long retreat
+
+1245
+00:59:33,280 --> 00:59:34,080
+to the winery.

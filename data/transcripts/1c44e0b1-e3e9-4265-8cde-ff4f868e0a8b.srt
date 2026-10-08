@@ -1,0 +1,7325 @@
+1
+00:00:00,040 --> 00:00:02,200
+Welcome back to the Deep Dive. 
+This is where we take your 
+
+2
+00:00:02,200 --> 00:00:04,040
+source material, really pull it 
+apart. 
+
+3
+00:00:04,040 --> 00:00:06,240
+Look at all the pieces. 
+Yeah, get down to the essential 
+
+4
+00:00:06,240 --> 00:00:07,240
+architecture. 
+Exactly. 
+
+5
+00:00:07,240 --> 00:00:11,360
+So you can be truly well 
+informed and today, wow, we are 
+
+6
+00:00:11,360 --> 00:00:17,080
+wrestling with something well, 
+profound, I think, and frankly 
+
+7
+00:00:17,680 --> 00:00:19,600
+kind of confusing A. 
+Big shift. 
+
+8
+00:00:19,600 --> 00:00:22,040
+Yeah, A. 
+Huge shift in American political
+
+9
+00:00:22,040 --> 00:00:24,720
+aesthetics. 
+We're talking about the flag, 
+
+10
+00:00:24,720 --> 00:00:27,760
+the founders, you know, the 
+actual language of patriotism. 
+
+11
+00:00:27,760 --> 00:00:31,040
+Things that felt very settled 
+for a while, or at least settled
+
+12
+00:00:31,040 --> 00:00:32,439
+in certain circles. 
+Right. 
+
+13
+00:00:32,439 --> 00:00:34,480
+For what? 
+The better part of the last 
+
+14
+00:00:34,480 --> 00:00:37,000
+maybe 2 decades, especially 
+among, let's call it the 
+
+15
+00:00:37,000 --> 00:00:40,400
+credentialed cultural 
+establishment national symbols. 
+
+16
+00:00:40,400 --> 00:00:42,600
+They were often viewed with, 
+well, skepticism. 
+
+17
+00:00:42,880 --> 00:00:47,960
+Sometimes outright disdain even.
+Yeah, patriotism felt provincial
+
+18
+00:00:48,560 --> 00:00:49,320
+suspect. 
+Totally. 
+
+19
+00:00:49,320 --> 00:00:51,800
+The flag was suspect. 
+The National History was mostly 
+
+20
+00:00:51,800 --> 00:00:55,160
+something you apologize for. 
+A source of critique, primarily.
+
+21
+00:00:55,160 --> 00:00:57,360
+Suddenly, I mean really 
+dramatically, that seems to have
+
+22
+00:00:57,360 --> 00:00:58,760
+flipped. 
+Completely inverted. 
+
+23
+00:00:59,080 --> 00:01:02,280
+We're seeing what your sources 
+are calling The Great Patriotic 
+
+24
+00:01:02,280 --> 00:01:07,760
+Heist, this same establishment 
+now enthusiastically waving the 
+
+25
+00:01:07,760 --> 00:01:09,360
+flag. 
+Quoting the founding document. 
+
+26
+00:01:09,360 --> 00:01:12,960
+Engaging in these, you know, 
+really robust, very visible 
+
+27
+00:01:12,960 --> 00:01:15,880
+displays of Americana. 
+It's striking. 
+
+28
+00:01:15,880 --> 00:01:17,760
+It is, and it forces the 
+question. 
+
+29
+00:01:17,760 --> 00:01:19,440
+Which is our mission today, 
+right? 
+
+30
+00:01:19,600 --> 00:01:23,360
+To figure out the core intent 
+here, and maybe more 
+
+31
+00:01:23,360 --> 00:01:26,800
+importantly, the potential 
+consequences of this this 
+
+32
+00:01:26,800 --> 00:01:28,200
+inversion. 
+Is it real? 
+
+33
+00:01:28,240 --> 00:01:32,240
+Is this a genuine, maybe 
+necessary civic evolution? 
+
+34
+00:01:32,240 --> 00:01:36,000
+Like a fundamental heartfelt re 
+engagement with the country's 
+
+35
+00:01:36,000 --> 00:01:37,240
+identity. 
+Is it theatre? 
+
+36
+00:01:37,640 --> 00:01:39,720
+Or is it just strategic 
+political theatre? 
+
+37
+00:01:39,880 --> 00:01:43,280
+A calculated costume change, you
+know, designed purely to win 
+
+38
+00:01:43,280 --> 00:01:46,080
+back the Cultural Sunderground. 
+Performance versus reality. 
+
+39
+00:01:46,080 --> 00:01:48,760
+Is it real or is it performance?
+That's the core question. 
+
+40
+00:01:48,760 --> 00:01:52,960
+And that tension right there 
+between genuine belief and let's
+
+41
+00:01:52,960 --> 00:01:56,400
+say calculated performance, 
+that's really the philosophical 
+
+42
+00:01:56,400 --> 00:01:57,880
+bedrock for this whole deep 
+dive. 
+
+43
+00:01:58,040 --> 00:02:01,200
+You really had to start with a 
+serious warning, a philosophical
+
+44
+00:02:01,200 --> 00:02:04,600
+one from Jean Paul Sarge way 
+back. 
+
+45
+00:02:04,960 --> 00:02:07,840
+He gave us this key principle 
+for understanding this kind of, 
+
+46
+00:02:09,360 --> 00:02:11,840
+well, self-conscious political 
+turn, he said. 
+
+47
+00:02:11,920 --> 00:02:13,720
+You become what you pretend to 
+be. 
+
+48
+00:02:13,720 --> 00:02:15,440
+So be careful what you pretend 
+to be. 
+
+49
+00:02:15,640 --> 00:02:18,080
+Wow, OK, that lands heavily 
+here. 
+
+50
+00:02:18,080 --> 00:02:21,000
+It does, and it's not hyperbole.
+Not in the context of American 
+
+51
+00:02:21,000 --> 00:02:24,280
+civic life, anyway. 
+We're a nation that has, in many
+
+52
+00:02:24,280 --> 00:02:26,520
+ways, always acted itself into 
+being. 
+
+53
+00:02:26,520 --> 00:02:28,240
+Performing our way into 
+existence. 
+
+54
+00:02:28,240 --> 00:02:29,200
+Almost. 
+Exactly. 
+
+55
+00:02:29,400 --> 00:02:31,880
+Performance isn't just, you 
+know, deception here. 
+
+56
+00:02:31,880 --> 00:02:34,120
+Historically, it's often been 
+the very first stage of 
+
+57
+00:02:34,120 --> 00:02:36,080
+becoming. 
+So if the progressive 
+
+58
+00:02:36,080 --> 00:02:38,920
+establishment is now pretending 
+to be patriotic. 
+
+59
+00:02:38,960 --> 00:02:40,480
+Right. 
+Adopting the rituals, the 
+
+60
+00:02:40,480 --> 00:02:42,920
+language, the symbols. 
+Then the danger isn't just that 
+
+61
+00:02:42,920 --> 00:02:45,480
+they're being hypocritical. 
+No, the deeper danger, the 
+
+62
+00:02:45,480 --> 00:02:49,240
+Sartrian danger, is that they 
+might succeed entirely, that the
+
+63
+00:02:49,240 --> 00:02:52,240
+costume, as you put it, could 
+actually fuse to their skin. 
+
+64
+00:02:52,240 --> 00:02:54,720
+Changing not just their election
+strategy. 
+
+65
+00:02:54,720 --> 00:02:58,160
+But their very ontology, their 
+fundamental being. 
+
+66
+00:02:58,160 --> 00:02:59,800
+OK. 
+Ontology, the nature of being, 
+
+67
+00:02:59,800 --> 00:03:02,440
+that's yeah, that's a heavy 
+concept, but I see why it's 
+
+68
+00:03:02,440 --> 00:03:03,880
+critical here. 
+It really is. 
+
+69
+00:03:04,000 --> 00:03:08,320
+So we're exploring these two 
+powerful competing viewpoints 
+
+70
+00:03:08,320 --> 00:03:10,200
+based on the sources you've 
+provided, right? 
+
+71
+00:03:10,440 --> 00:03:14,720
+One argues this new patriotism 
+is essentially bad faith, a 
+
+72
+00:03:14,720 --> 00:03:18,200
+dangerous performance, a 
+strategic lie that risks 
+
+73
+00:03:18,200 --> 00:03:21,480
+creating this kind of 
+self-righteous new orthodoxy. 
+
+74
+00:03:22,280 --> 00:03:25,080
+The negative view. 
+And the other viewpoint argues 
+
+75
+00:03:25,080 --> 00:03:27,440
+no, this is necessary. 
+It's civic pedagogy. 
+
+76
+00:03:27,600 --> 00:03:30,880
+It's a vital lesson in how the 
+Republic actually renews itself 
+
+77
+00:03:30,880 --> 00:03:32,480
+by. 
+Contesting ownership of its own 
+
+78
+00:03:32,480 --> 00:03:34,280
+ideals. 
+Exactly following a long 
+
+79
+00:03:34,280 --> 00:03:36,120
+historical pattern. 
+So to cut through all this 
+
+80
+00:03:36,120 --> 00:03:38,880
+complexity, to really understand
+how we got to this very 
+
+81
+00:03:38,880 --> 00:03:44,080
+specific, almost choreographed 
+moment, we need a map A. 
+
+82
+00:03:44,240 --> 00:03:46,000
+Framework. 
+Yeah, a framework, and the one 
+
+83
+00:03:46,000 --> 00:03:49,760
+that seems most useful here from
+the sources is the Hegelian 
+
+84
+00:03:49,760 --> 00:03:51,000
+dialectic. 
+Thesis. 
+
+85
+00:03:51,040 --> 00:03:52,560
+Antithesis. 
+Synthesis. 
+
+86
+00:03:52,680 --> 00:03:54,600
+Precisely. 
+Think of it like a historical 
+
+87
+00:03:54,600 --> 00:03:57,080
+pendulum swinging back and 
+forth, sometimes violently. 
+
+88
+00:03:57,160 --> 00:04:01,040
+OK, this model lets us track the
+progression phase by phase, how 
+
+89
+00:04:01,040 --> 00:04:04,280
+the political culture shifted, 
+leading us right to this current
+
+90
+00:04:04,680 --> 00:04:06,160
+wealth. 
+Strategic Inversion. 
+
+91
+00:04:06,360 --> 00:04:10,560
+OK, let's unpack that history. 
+Opposition reaction The starting
+
+92
+00:04:10,560 --> 00:04:14,440
+point, the dominant culture, say
+through the 2010, the system 
+
+93
+00:04:14,440 --> 00:04:16,160
+that kind of invited the 
+backlash. 
+
+94
+00:04:16,240 --> 00:04:18,240
+Right. 
+The sources defined this as the 
+
+95
+00:04:18,240 --> 00:04:21,040
+thesis, the managerial moral 
+order. 
+
+96
+00:04:21,040 --> 00:04:22,800
+A managerial moral order. 
+OK. 
+
+97
+00:04:22,920 --> 00:04:26,400
+And this period, it's really 
+about this seamless merger, 
+
+98
+00:04:26,400 --> 00:04:28,880
+almost high velocity. 
+And merger between what? 
+
+99
+00:04:28,960 --> 00:04:32,560
+Between global capitalism on one
+hand and progressive virtue on 
+
+100
+00:04:32,560 --> 00:04:34,120
+the other, they just flowed 
+together. 
+
+101
+00:04:34,280 --> 00:04:38,120
+So this class, it wasn't defined
+by ideology in the old sense, 
+
+102
+00:04:38,120 --> 00:04:40,640
+like left versus right. 
+Not primarily. 
+
+103
+00:04:40,640 --> 00:04:44,160
+It was more defined by 
+expertise, by control over 
+
+104
+00:04:44,160 --> 00:04:45,760
+processes. 
+Technocratic. 
+
+105
+00:04:46,280 --> 00:04:49,920
+Very technocratic, deeply 
+moralizing too, and 
+
+106
+00:04:49,920 --> 00:04:52,440
+fundamentally therapeutic and 
+how it approached governance. 
+
+107
+00:04:52,440 --> 00:04:54,360
+What does that mean? 
+Therapeutic governance? 
+
+108
+00:04:54,360 --> 00:04:56,600
+What does that look like? 
+It means you govern less 
+
+109
+00:04:56,600 --> 00:04:59,280
+through, say, bold political 
+commands, and more through 
+
+110
+00:04:59,280 --> 00:05:01,680
+administration, like managing 
+people. 
+
+111
+00:05:02,200 --> 00:05:04,920
+The goal if you wanted to run 
+society, was to treat it like a 
+
+112
+00:05:04,920 --> 00:05:06,280
+huge HR. 
+Department. 
+
+113
+00:05:06,280 --> 00:05:07,640
+An HR department? 
+Seriously. 
+
+114
+00:05:07,840 --> 00:05:12,000
+Yeah, the focus was all on 
+compliance process, internal 
+
+115
+00:05:12,000 --> 00:05:16,160
+audits, and maybe above all, the
+mandatory display of empathy. 
+
+116
+00:05:16,160 --> 00:05:19,520
+Display being the keyword there.
+Absolutely, it had to be seen, 
+
+117
+00:05:19,840 --> 00:05:21,680
+it had to be performed according
+to the rules. 
+
+118
+00:05:21,880 --> 00:05:25,520
+And how did this, this 
+managerial class view things 
+
+119
+00:05:25,520 --> 00:05:28,520
+like patriotism, national 
+identity? 
+
+120
+00:05:28,520 --> 00:05:30,840
+With suspicion. 
+Deep suspicion. 
+
+121
+00:05:31,080 --> 00:05:34,120
+Often it was seen as a threat 
+really, to their global 
+
+122
+00:05:34,280 --> 00:05:37,240
+technocratic project. 
+Well, patriotism. 
+
+123
+00:05:37,480 --> 00:05:39,160
+You know the kind, filthy, the 
+average person. 
+
+124
+00:05:39,160 --> 00:05:42,000
+It was dismissed, seen as 
+provincial sentimentality. 
+
+125
+00:05:42,000 --> 00:05:43,840
+Something quaint, maybe a bit 
+embarrassing. 
+
+126
+00:05:43,840 --> 00:05:45,800
+Exactly. 
+Suitable for, I don't know, 
+
+127
+00:05:45,800 --> 00:05:49,080
+local sports teams, maybe 
+veterans parades, but not for 
+
+128
+00:05:49,080 --> 00:05:52,120
+serious people dealing with 
+complex global issues. 
+
+129
+00:05:52,200 --> 00:05:54,600
+The sources called it the low 
+church religion of the 
+
+130
+00:05:54,640 --> 00:05:55,960
+unenlightened. 
+Ouch. 
+
+131
+00:05:56,080 --> 00:05:59,480
+Yeah, a belief system for those 
+who lacked the right 
+
+132
+00:05:59,480 --> 00:06:02,440
+credentials, the right degrees, 
+the right understanding of 
+
+133
+00:06:02,440 --> 00:06:04,480
+sophisticated global 
+interconnectedness. 
+
+134
+00:06:04,640 --> 00:06:06,720
+So if you were part of this 
+class, your focus was 
+
+135
+00:06:07,000 --> 00:06:09,000
+international. 
+International equity, climate 
+
+136
+00:06:09,000 --> 00:06:11,200
+protocols, Complex policy 
+analysis. 
+
+137
+00:06:11,440 --> 00:06:13,920
+You handle the important high 
+minded global virtue stuff. 
+
+138
+00:06:14,320 --> 00:06:17,920
+While the uncredentialed masses 
+back home. 
+
+139
+00:06:17,920 --> 00:06:21,480
+They were sort of left to handle
+the cultural plumbing, the 
+
+140
+00:06:21,480 --> 00:06:26,000
+messy, nostalgic, maybe slightly
+embarrassing sentimentality of 
+
+141
+00:06:26,000 --> 00:06:27,520
+flag waving. 
+There's a real sense of 
+
+142
+00:06:27,520 --> 00:06:30,360
+hierarchy there. 
+Absolutely, and the problem was 
+
+143
+00:06:30,760 --> 00:06:34,040
+their governing style. 
+Even with all the language of 
+
+144
+00:06:34,040 --> 00:06:38,400
+inclusion and empathy, it felt 
+inherently paternalistic. 
+
+145
+00:06:38,600 --> 00:06:40,600
+How so? 
+It basically tried to replace 
+
+146
+00:06:40,600 --> 00:06:45,280
+things like faith, tradition, 
+maybe local identity with 
+
+147
+00:06:45,280 --> 00:06:48,160
+credentialing. 
+If you have the right degrees, 
+
+148
+00:06:48,360 --> 00:06:51,320
+use the approved language, the 
+latest acronyms, the current 
+
+149
+00:06:51,320 --> 00:06:53,560
+terminology, then you were 
+deemed virtuous. 
+
+150
+00:06:53,720 --> 00:06:55,920
+Yeah, capable of leadership. 
+And if you didn't? 
+
+151
+00:06:56,040 --> 00:06:58,520
+You were relegated to the realm 
+of the managed the people who 
+
+152
+00:06:58,520 --> 00:07:01,520
+needed guidance. 
+And this approach, predictably I
+
+153
+00:07:01,520 --> 00:07:02,960
+guess, had a crucial 
+consequence. 
+
+154
+00:07:02,960 --> 00:07:05,200
+Yeah, a fatal 1. 
+Politically speaking, it bred 
+
+155
+00:07:05,200 --> 00:07:07,560
+deep widespread moral 
+resentment. 
+
+156
+00:07:07,560 --> 00:07:10,200
+Moral resentment, OK, the 
+sources really highlight this. 
+
+157
+00:07:10,200 --> 00:07:12,160
+The population being managed, 
+they eventually started to 
+
+158
+00:07:12,160 --> 00:07:15,560
+notice something that this 
+mandatory empathy, it always 
+
+159
+00:07:15,560 --> 00:07:18,080
+seemed to flow downward from the
+credentialed to the 
+
+160
+00:07:18,080 --> 00:07:21,160
+uncredentialed. 
+Never outward or upward. 
+
+161
+00:07:21,160 --> 00:07:22,920
+Rarely outward, almost never 
+upward. 
+
+162
+00:07:23,120 --> 00:07:26,760
+And this polite, process driven 
+paternalism coming from the 
+
+163
+00:07:26,760 --> 00:07:30,360
+aware classes, it started to 
+feel less like enlightened 
+
+164
+00:07:30,360 --> 00:07:31,640
+leadership. 
+And more like. 
+
+165
+00:07:31,640 --> 00:07:34,960
+More like what the sources call 
+a soft despotism of tone. 
+
+166
+00:07:35,360 --> 00:07:38,120
+A soft despotism of tone. 
+Let's break that down because 
+
+167
+00:07:38,120 --> 00:07:40,360
+that's a really critical 
+insight, I think. 
+
+168
+00:07:40,360 --> 00:07:42,720
+It is. 
+It's not about, you know, tanks 
+
+169
+00:07:42,720 --> 00:07:45,000
+in the streets or obvious 
+oppression, no. 
+
+170
+00:07:45,000 --> 00:07:47,320
+Secret police. 
+No, it's about language 
+
+171
+00:07:47,320 --> 00:07:51,560
+policing, institutional norm 
+control, that pervasive feeling 
+
+172
+00:07:51,560 --> 00:07:53,400
+that you are constantly being 
+corrected. 
+
+173
+00:07:53,440 --> 00:07:56,480
+Or implicitly accused of some 
+kind of moral failure. 
+
+174
+00:07:56,480 --> 00:07:58,560
+Exactly. 
+Just for existing outside of 
+
+175
+00:07:58,560 --> 00:08:01,680
+that specific managerial bubble.
+Think about the shift from 
+
+176
+00:08:01,680 --> 00:08:05,400
+debating policy substance to 
+what, to mandatory sensitivity 
+
+177
+00:08:05,400 --> 00:08:07,520
+training. 
+The replacement of political 
+
+178
+00:08:07,520 --> 00:08:09,280
+argument with compliance 
+procedures. 
+
+179
+00:08:10,040 --> 00:08:13,080
+It's control, but exercise, not 
+by force. 
+
+180
+00:08:13,520 --> 00:08:16,440
+But by mandatory performance, 
+you have to perform the right 
+
+181
+00:08:16,440 --> 00:08:18,240
+kind of sensitivity. 
+Precisely. 
+
+182
+00:08:18,240 --> 00:08:21,240
+You felt constantly monitored, 
+not by the state, maybe, but by 
+
+183
+00:08:21,240 --> 00:08:24,560
+the relentless moralizing gaze 
+of your own institutions. 
+
+184
+00:08:24,840 --> 00:08:28,080
+Your HR department like you 
+said, your university, your 
+
+185
+00:08:28,080 --> 00:08:31,120
+social media feed even. 
+Yes, and that simmering 
+
+186
+00:08:31,120 --> 00:08:34,520
+resentment, that feeling of 
+being perpetually managed, 
+
+187
+00:08:34,840 --> 00:08:38,080
+corrected, judged. 
+It created the perfect 
+
+188
+00:08:38,080 --> 00:08:41,159
+conditions for the backlash, the
+inevitable backlash. 
+
+189
+00:08:41,520 --> 00:08:43,720
+Which brings us right to that 
+counter reaction, the 
+
+190
+00:08:43,720 --> 00:08:47,000
+antithesis, the populist revolt.
+Right. 
+
+191
+00:08:47,000 --> 00:08:49,280
+And this wasn't just one thing, 
+it was this collision of 
+
+192
+00:08:49,280 --> 00:08:52,280
+grievances, different groups, 
+different complaints, but 
+
+193
+00:08:52,280 --> 00:08:55,200
+finding common ground. 
+Fueling movements like Bernie 
+
+194
+00:08:55,200 --> 00:08:58,400
+Sanders on the left and much 
+more visibly, obviously the Man 
+
+195
+00:08:58,400 --> 00:09:00,160
+G movement on the right. 
+Yeah. 
+
+196
+00:09:00,200 --> 00:09:02,400
+And what's really fascinating, 
+looking at how the sources frame
+
+197
+00:09:02,400 --> 00:09:05,680
+it, is this idea that the 
+movement was fundamentally about
+
+198
+00:09:05,880 --> 00:09:09,000
+recognizing a shared enemy. 
+Transcending the usual left, 
+
+199
+00:09:09,000 --> 00:09:11,040
+right divide. 
+For a moment, yes, the 
+
+200
+00:09:11,040 --> 00:09:15,000
+dispossessed left angry about 
+globalization, economic 
+
+201
+00:09:15,000 --> 00:09:18,000
+extraction, feeling left behind.
+And the alienated right? 
+
+202
+00:09:18,000 --> 00:09:19,840
+Angry about cultural 
+marginalization? 
+
+203
+00:09:19,840 --> 00:09:21,760
+Feeling look down upon 
+dismissed. 
+
+204
+00:09:21,760 --> 00:09:24,560
+They looked across that 
+political chasm and they saw the
+
+205
+00:09:24,560 --> 00:09:26,200
+same target. 
+The credentialed moral 
+
+206
+00:09:26,200 --> 00:09:28,120
+technocracy. 
+The managers. 
+
+207
+00:09:28,360 --> 00:09:31,880
+The people who ran everything 
+and seemed to judge everyone. 
+
+208
+00:09:31,960 --> 00:09:34,760
+And that shared recognition? 
+It led to something powerful, at
+
+209
+00:09:34,760 --> 00:09:37,040
+least temporarily. 
+Yeah, the source is called the 
+
+210
+00:09:37,040 --> 00:09:39,560
+Populist Alchemy. 
+It was like the first attempt at
+
+211
+00:09:39,560 --> 00:09:41,240
+a new synthesis. 
+An alchemy? 
+
+212
+00:09:41,280 --> 00:09:43,880
+Mixing what? 
+Mixing that old populist left 
+
+213
+00:09:43,880 --> 00:09:49,200
+anger about economics, anti 
+globalism, pro worker sentiment 
+
+214
+00:09:49,720 --> 00:09:53,320
+with the populist rights, 
+cultural defiance embodied by 
+
+215
+00:09:53,320 --> 00:09:56,880
+the flag, by traditional faith, 
+by the idea of sovereignty. 
+
+216
+00:09:57,280 --> 00:10:00,880
+So a coalition forged basically 
+in the shared experience of 
+
+217
+00:10:00,880 --> 00:10:02,760
+being looked down upon by the 
+elites. 
+
+218
+00:10:02,760 --> 00:10:05,280
+Pretty much shared resentment as
+a binding agent. 
+
+219
+00:10:05,360 --> 00:10:07,600
+And into this steps Donald 
+Trump. 
+
+220
+00:10:08,360 --> 00:10:11,000
+The perfect symbol, perhaps? 
+He really channeled that energy,
+
+221
+00:10:11,000 --> 00:10:13,680
+didn't he? 
+He became the image of the 
+
+222
+00:10:13,760 --> 00:10:16,600
+unapologetic American. 
+The guy who refused to adopt the
+
+223
+00:10:16,600 --> 00:10:19,240
+new moral language. 
+Refused compliance, defied the 
+
+224
+00:10:19,240 --> 00:10:23,160
+managers, and in doing so he 
+became the perfect antagonist to
+
+225
+00:10:23,160 --> 00:10:26,720
+that managerial thesis. 
+He was maybe for a weird brief 
+
+226
+00:10:26,720 --> 00:10:30,960
+moment, this kind of feral, 
+almost post ideological middle 
+
+227
+00:10:30,960 --> 00:10:32,920
+finger aimed right at the center
+of power. 
+
+228
+00:10:33,080 --> 00:10:36,840
+Yeah, that captures some of it. 
+And that moment, the anger, felt
+
+229
+00:10:36,840 --> 00:10:39,720
+authentic to many. 
+But, and here's the but. 
+
+230
+00:10:39,760 --> 00:10:42,320
+Here's where that Sir Train 
+warning starts to echo again, 
+
+231
+00:10:42,800 --> 00:10:46,800
+because as the sources 
+meticulously detail the tragedy 
+
+232
+00:10:46,800 --> 00:10:50,120
+of this revolt, what was it is 
+that it seemed to quickly freeze
+
+233
+00:10:50,120 --> 00:10:53,160
+into self caricature. 
+The rebellion itself became a 
+
+234
+00:10:53,160 --> 00:10:55,520
+kind of costume. 
+OK, I want to push on this a 
+
+235
+00:10:55,520 --> 00:10:58,400
+bit. 
+How do the sources draw that 
+
+236
+00:10:58,400 --> 00:11:00,600
+line? 
+When does an authentic movement 
+
+237
+00:11:00,600 --> 00:11:03,760
+stop being about substance? 
+And become addicted to theater. 
+
+238
+00:11:03,760 --> 00:11:06,040
+Yeah, how do you know? 
+That's a crucial distinction, 
+
+239
+00:11:06,320 --> 00:11:10,080
+and the analysis suggests the 
+transition happened when the act
+
+240
+00:11:10,080 --> 00:11:12,240
+of defiance became an end in 
+itself. 
+
+241
+00:11:12,280 --> 00:11:14,640
+Rather than a means to actual 
+reform. 
+
+242
+00:11:14,640 --> 00:11:17,280
+Exactly. 
+The original populist energy, 
+
+243
+00:11:17,280 --> 00:11:20,960
+left and right, wanted to 
+fundamentally change how the 
+
+244
+00:11:20,960 --> 00:11:23,080
+country was governed, how the 
+economy worked. 
+
+245
+00:11:23,280 --> 00:11:25,960
+But the costume? 
+Yeah, the persona of the 
+
+246
+00:11:25,960 --> 00:11:28,160
+unapologetic rebel. 
+It was just too rewarding 
+
+247
+00:11:28,400 --> 00:11:31,960
+emotionally, politically, 
+socially within that tribe, the 
+
+248
+00:11:31,960 --> 00:11:34,440
+movement got addicted to the 
+theater of defiance. 
+
+249
+00:11:34,440 --> 00:11:37,240
+They enjoyed making the managers
+angry more than they enjoyed the
+
+250
+00:11:37,240 --> 00:11:40,760
+hard work of actual governance. 
+That seems to be the argument. 
+
+251
+00:11:41,720 --> 00:11:44,000
+The performance took precedence 
+over the policy. 
+
+252
+00:11:44,600 --> 00:11:48,080
+It became about triggering the 
+elites owning the libs rather 
+
+253
+00:11:48,080 --> 00:11:50,720
+than building something new. 
+So it did break the old orders 
+
+254
+00:11:50,720 --> 00:11:53,680
+monopoly on meaning. 
+It absolutely did that, smashed 
+
+255
+00:11:53,680 --> 00:11:56,160
+it in some ways. 
+But it became a performance 
+
+256
+00:11:56,160 --> 00:12:00,280
+obsessed with maintaining its 
+own image, the perpetual 
+
+257
+00:12:00,280 --> 00:12:03,000
+outsider, even when it held 
+significant power. 
+
+258
+00:12:03,160 --> 00:12:05,560
+Right. 
+And that breach, that successful
+
+259
+00:12:05,560 --> 00:12:09,560
+interruption of the managerial 
+monopoly, that's precisely what 
+
+260
+00:12:09,560 --> 00:12:12,600
+forced the center, the 
+establishment, to attempt its 
+
+261
+00:12:12,640 --> 00:12:15,720
+own strategic reversal. 
+Which brings us back to the main
+
+262
+00:12:15,720 --> 00:12:20,320
+event, the counter antithesis, 
+the great patriotic Heist. 
+
+263
+00:12:20,440 --> 00:12:22,520
+The inversion. 
+This is where we return to that 
+
+264
+00:12:22,520 --> 00:12:25,480
+core observation. 
+The progressive left the 
+
+265
+00:12:25,480 --> 00:12:27,760
+establishment. 
+They realized they had an 
+
+266
+00:12:27,760 --> 00:12:30,640
+existential problem, A. 
+Political survival problem. 
+
+267
+00:12:30,640 --> 00:12:33,880
+They could no longer just mock 
+the flag or the founders or 
+
+268
+00:12:33,880 --> 00:12:37,040
+National History without 
+seriously alienating the public 
+
+269
+00:12:37,080 --> 00:12:40,040
+right, especially those working 
+class voters they desperately 
+
+270
+00:12:40,040 --> 00:12:42,400
+needed to win elections. 
+The dismissal strategy wasn't 
+
+271
+00:12:42,400 --> 00:12:44,000
+working anymore. 
+It was backfiring. 
+
+272
+00:12:44,040 --> 00:12:47,040
+So the decision was made. 
+If you can't beat them, Co 
+
+273
+00:12:47,040 --> 00:12:48,880
+optim. 
+Steal it back instead. 
+
+274
+00:12:49,240 --> 00:12:51,560
+The strategy was to steal it 
+back. 
+
+275
+00:12:52,280 --> 00:12:55,360
+This feels like a pure strategic
+inversion, a highly 
+
+276
+00:12:55,360 --> 00:12:57,280
+self-conscious pivot in 
+aesthetics. 
+
+277
+00:12:57,280 --> 00:12:58,880
+Oh absolutely. 
+And you see the aesthetic 
+
+278
+00:12:58,880 --> 00:13:00,760
+changes everywhere now, like. 
+What? 
+
+279
+00:13:00,960 --> 00:13:04,000
+Give us examples. 
+Well, the progressive left is 
+
+280
+00:13:04,000 --> 00:13:06,960
+now actively blending its social
+justice rhetoric with 
+
+281
+00:13:06,960 --> 00:13:12,160
+Revolutionary War iconography. 
+Like tricorn hats at a climate 
+
+282
+00:13:12,160 --> 00:13:14,480
+rally. 
+Maybe not that literal, but you 
+
+283
+00:13:14,480 --> 00:13:18,040
+see things like No kings, that 
+old revolutionary slogan 
+
+284
+00:13:18,040 --> 00:13:20,320
+repurpose for very progressive 
+causes. 
+
+285
+00:13:20,760 --> 00:13:24,600
+You see inclusive 1776 art 
+installations. 
+
+286
+00:13:24,600 --> 00:13:28,280
+OK, you hear media commentators,
+people who maybe spend years 
+
+287
+00:13:28,280 --> 00:13:31,160
+criticizing America's founding 
+or history, now suddenly, quite 
+
+288
+00:13:31,160 --> 00:13:34,480
+sincerely it seems, referring to
+our Republic without a trace of 
+
+289
+00:13:34,480 --> 00:13:36,320
+irony. 
+And the meaning of patriotism 
+
+290
+00:13:36,320 --> 00:13:40,280
+itself is being shifted, recast.
+Fundamentally recast to align it
+
+291
+00:13:40,280 --> 00:13:42,000
+with that managerial worldview 
+we talked about. 
+
+292
+00:13:42,320 --> 00:13:45,480
+So it's no longer primarily 
+about, say, shared sacrifice or 
+
+293
+00:13:45,480 --> 00:13:47,960
+military strength or national 
+competition less. 
+
+294
+00:13:47,960 --> 00:13:50,000
+About that and more 
+strategically packaged, well 
+
+295
+00:13:50,000 --> 00:13:51,800
+this source is called, call it 
+progressive therapy. 
+
+296
+00:13:52,000 --> 00:13:54,280
+Progressive therapy? 
+How does that work? 
+
+297
+00:13:54,840 --> 00:13:57,280
+Patriotism as therapy. 
+Think about it. 
+
+298
+00:13:57,720 --> 00:14:01,360
+When the credential class feels 
+anxious about populism, rising 
+
+299
+00:14:01,680 --> 00:14:05,600
+climate instability, maybe 
+institutional collapse, the act 
+
+300
+00:14:05,600 --> 00:14:09,320
+of claiming national symbolism, 
+saying no, we are the true 
+
+301
+00:14:09,320 --> 00:14:11,160
+patriots. 
+We defend democracy. 
+
+302
+00:14:12,120 --> 00:14:14,400
+It's an act of emotional 
+regulation. 
+
+303
+00:14:14,520 --> 00:14:16,840
+It soothes the anxiety. 
+OK. 
+
+304
+00:14:17,200 --> 00:14:20,000
+It makes them feel better, more 
+grounded, more in control. 
+
+305
+00:14:20,200 --> 00:14:22,840
+Exactly. 
+It shifts the emphasis away from
+
+306
+00:14:22,840 --> 00:14:26,120
+say, land of the free in a 
+traditional sense towards 
+
+307
+00:14:26,120 --> 00:14:28,880
+something more like safe space 
+of the self aware. 
+
+308
+00:14:29,600 --> 00:14:31,240
+We aren't celebrating what the 
+country is. 
+
+309
+00:14:31,240 --> 00:14:33,520
+Maybe warts and all. 
+We're celebrating what we 
+
+310
+00:14:33,520 --> 00:14:37,200
+believe the country should be. 
+And by asserting that ideal 
+
+311
+00:14:37,280 --> 00:14:41,160
+loudly and patriotically, we 
+feel morally superior and maybe 
+
+312
+00:14:41,160 --> 00:14:42,920
+less anxious about the parts we 
+don't like. 
+
+313
+00:14:42,920 --> 00:14:46,000
+Which locks us right back into 
+that philosophical core, the 
+
+314
+00:14:46,000 --> 00:14:48,800
+Sartrian trap. 
+Bad faith as national mood. 
+
+315
+00:14:49,320 --> 00:14:51,600
+Precisely. 
+You said earlier bad faith isn't
+
+316
+00:14:51,600 --> 00:14:53,560
+just hypocrisy. 
+We need to give the listener A 
+
+317
+00:14:53,560 --> 00:14:56,240
+clearer sense of that because 
+it's the existential threat the 
+
+318
+00:14:56,240 --> 00:14:57,720
+sources seem to be warning 
+about. 
+
+319
+00:14:58,120 --> 00:15:00,680
+Right. 
+Bad faith or movies fois, in 
+
+320
+00:15:00,680 --> 00:15:03,840
+Sartre's French, isn't really 
+about lying to other people. 
+
+321
+00:15:04,320 --> 00:15:08,720
+It's about lying to yourself. 
+Sartre defined it as the self in
+
+322
+00:15:08,720 --> 00:15:11,960
+flight from its own freedom. 
+We know deep down, maybe 
+
+323
+00:15:11,960 --> 00:15:14,880
+unconsciously, that we are 
+constantly defining ourselves 
+
+324
+00:15:14,880 --> 00:15:17,760
+through our choices, that we are
+fundamentally free to be 
+
+325
+00:15:17,760 --> 00:15:19,880
+otherwise. 
+But freedom is scary. 
+
+326
+00:15:19,880 --> 00:15:22,960
+That responsibility is heavy. 
+Terrifying for Sartre. 
+
+327
+00:15:23,360 --> 00:15:27,280
+So to escape that burden, we 
+adopt fixed roles. 
+
+328
+00:15:27,520 --> 00:15:30,680
+We pretend the role is us, like 
+a waiter, a professor, a 
+
+329
+00:15:30,680 --> 00:15:33,520
+politician. 
+We act the part so completely 
+
+330
+00:15:33,760 --> 00:15:37,040
+that we convince ourselves the 
+role defines us, erasing the 
+
+331
+00:15:37,040 --> 00:15:39,360
+terrifying freedom to choose 
+differently tomorrow. 
+
+332
+00:15:39,880 --> 00:15:42,880
+We stop questioning the role. 
+So the classic example is the 
+
+333
+00:15:42,880 --> 00:15:45,440
+waiter who tries so hard to be 
+the perfect waiter. 
+
+334
+00:15:45,440 --> 00:15:47,320
+He stops questioning whether he 
+is a waiter. 
+
+335
+00:15:47,760 --> 00:15:50,960
+He just becomes the waiter. 
+He fuses with the role, loses 
+
+336
+00:15:50,960 --> 00:15:53,040
+his freedom within it. 
+And for the progressive 
+
+337
+00:15:53,040 --> 00:15:55,000
+establishment performing 
+patriotism now? 
+
+338
+00:15:55,320 --> 00:15:58,360
+The danger isn't just that 
+they're faking it badly or 
+
+339
+00:15:58,360 --> 00:16:00,800
+hypocritically. 
+The real danger is what the 
+
+340
+00:16:00,800 --> 00:16:03,360
+sources call ontological 
+experimentation. 
+
+341
+00:16:03,600 --> 00:16:07,440
+Ontological experimentation. 
+Trying on a new way of being. 
+
+342
+00:16:07,520 --> 00:16:09,720
+Exactly. 
+They're trying on this patriotic
+
+343
+00:16:09,720 --> 00:16:12,760
+costume, and they might actually
+succeed in making it permanent, 
+
+344
+00:16:13,280 --> 00:16:15,440
+fusing with it. 
+And why is that success 
+
+345
+00:16:15,440 --> 00:16:19,360
+dangerous? 
+Because it could be spiritually 
+
+346
+00:16:19,360 --> 00:16:22,040
+dangerous. 
+In a sense, the identity of this
+
+347
+00:16:22,040 --> 00:16:25,800
+class for a long time was built 
+on critique, on rebellion 
+
+348
+00:16:25,800 --> 00:16:29,240
+against tradition, on a moral 
+superiority derived from 
+
+349
+00:16:29,240 --> 00:16:31,760
+identifying historical failures 
+and injustices. 
+
+350
+00:16:31,760 --> 00:16:34,640
+But now they're being forced 
+into affirmation or choosing 
+
+351
+00:16:34,640 --> 00:16:37,000
+affirmation. 
+They're choosing to perform love
+
+352
+00:16:37,000 --> 00:16:40,960
+for the very thing they or their
+recent predecessors often mocked
+
+353
+00:16:40,960 --> 00:16:44,360
+or critiqued, or at least 
+choosing to perform that love 
+
+354
+00:16:44,680 --> 00:16:46,960
+very publicly. 
+And the performance might work 
+
+355
+00:16:46,960 --> 00:16:49,120
+too well. 
+It might work so completely that
+
+356
+00:16:49,120 --> 00:16:51,360
+they actually transform into 
+what they're pretending to be. 
+
+357
+00:16:51,560 --> 00:16:54,080
+Leading to a new kind of 
+orthodoxy, a rigid 1. 
+
+358
+00:16:54,080 --> 00:16:56,120
+Exactly. 
+The original managerial moral 
+
+359
+00:16:56,120 --> 00:16:59,400
+order, fuse, technocracy, and a 
+certain kind of virtue. 
+
+360
+00:16:59,680 --> 00:17:02,880
+This new version, this synthesis
+we're heading towards, it risks 
+
+361
+00:17:02,880 --> 00:17:06,119
+fusing progressive morality with
+a kind of forced compliance. 
+
+362
+00:17:06,319 --> 00:17:08,839
+They might become the 
+bureaucratic, self-righteous 
+
+363
+00:17:08,839 --> 00:17:10,640
+patriots they are currently 
+mimicking. 
+
+364
+00:17:10,760 --> 00:17:15,160
+Enforcing a patriotism of 
+paperwork, of correct opinions, 
+
+365
+00:17:15,160 --> 00:17:18,680
+of institutional alignment. 
+That's the Sartre and Trap laid 
+
+366
+00:17:18,680 --> 00:17:20,160
+bare. 
+OK, but now we have to pivot 
+
+367
+00:17:20,720 --> 00:17:23,079
+because there's a powerful 
+challenge to this whole Sartre 
+
+368
+00:17:23,079 --> 00:17:25,920
+and warning, right? 
+Absolutely the opposing view, 
+
+369
+00:17:25,920 --> 00:17:28,200
+which the sources also explore 
+in depth. 
+
+370
+00:17:28,200 --> 00:17:31,840
+Which argues that this 
+performance is acting. 
+
+371
+00:17:32,200 --> 00:17:34,800
+It isn't necessarily deceptive 
+or dangerous. 
+
+372
+00:17:35,480 --> 00:17:38,640
+In fact, it might just be how 
+America works, how it's always 
+
+373
+00:17:38,640 --> 00:17:40,560
+worked. 
+That all genuine civic renewal 
+
+374
+00:17:40,560 --> 00:17:44,120
+starts by acting the part first.
+That's the core idea, yeah. 
+
+375
+00:17:44,320 --> 00:17:47,240
+And here we bring in another 
+philosopher, George Santiana. 
+
+376
+00:17:47,440 --> 00:17:50,120
+OK, what did he say? 
+He had this insight. 
+
+377
+00:17:50,960 --> 00:17:53,960
+Nothing was ever born without 
+pretending to be something else 
+
+378
+00:17:53,960 --> 00:17:56,000
+first. 
+Interesting that nothing was 
+
+379
+00:17:56,000 --> 00:17:58,880
+ever born without pretending. 
+The historical argument based on
+
+380
+00:17:58,880 --> 00:18:02,160
+that is that in America, before 
+you get a deeply held, unified 
+
+381
+00:18:02,160 --> 00:18:06,040
+national belief, you often get a
+shared ritual, a performance. 
+
+382
+00:18:06,080 --> 00:18:08,920
+Something you do together, even 
+if you don't all believe it the 
+
+383
+00:18:08,920 --> 00:18:10,600
+same way yet. 
+Exactly. 
+
+384
+00:18:10,920 --> 00:18:13,840
+A performance that allows the 
+belief to actually form over 
+
+385
+00:18:13,840 --> 00:18:16,200
+time. 
+What looks like cynical mimicry 
+
+386
+00:18:16,200 --> 00:18:18,000
+today? 
+Might just be the necessary 
+
+387
+00:18:18,000 --> 00:18:21,160
+muscle memory, the practice 
+required for conviction to 
+
+388
+00:18:21,160 --> 00:18:24,840
+actually take root tomorrow. 
+That's the counter argument, and
+
+389
+00:18:24,840 --> 00:18:28,480
+in this longer view, the idea 
+that the flag must belong to 
+
+390
+00:18:28,480 --> 00:18:32,160
+only one faction, say 
+conservatives or the right. 
+
+391
+00:18:32,200 --> 00:18:33,880
+That's just historically 
+illiterate. 
+
+392
+00:18:33,880 --> 00:18:37,040
+Completely according to this 
+perspective, the flag as 
+
+393
+00:18:37,040 --> 00:18:40,000
+described in our sources is more
+like a battlefield symbol. 
+
+394
+00:18:40,120 --> 00:18:42,720
+Always being fought over. 
+Constantly being fought over, 
+
+395
+00:18:42,720 --> 00:18:46,480
+seized, remade by each 
+generation to fit the crisis of 
+
+396
+00:18:46,480 --> 00:18:48,720
+its time. 
+So the progressive move isn't 
+
+397
+00:18:48,720 --> 00:18:52,240
+necessarily theft. 
+It's simply the latest turn in 
+
+398
+00:18:52,240 --> 00:18:54,600
+an ancient, ongoing contest for 
+ownership. 
+
+399
+00:18:54,840 --> 00:18:58,960
+OK, to really appreciate that, 
+we need to slow down and trace 
+
+400
+00:18:58,960 --> 00:19:01,320
+that history. 
+Look for moments when the 
+
+401
+00:19:01,320 --> 00:19:04,720
+vocabulary of belonging, what it
+means to be American, was 
+
+402
+00:19:04,720 --> 00:19:06,680
+successfully grabbed and 
+redefined. 
+
+403
+00:19:06,680 --> 00:19:08,920
+Especially by those who didn't 
+traditionally seem to own. 
+
+404
+00:19:08,920 --> 00:19:12,880
+It all right, let's start at the
+beginning, 1776 to 1865, the 
+
+405
+00:19:12,880 --> 00:19:15,480
+founding and was often called 
+the second founding. 
+
+406
+00:19:15,680 --> 00:19:18,360
+Right. 
+And patriotism, Then it began 
+
+407
+00:19:18,360 --> 00:19:20,360
+fundamentally as an act of 
+rebellion, no? 
+
+408
+00:19:20,360 --> 00:19:21,920
+Kings. 
+Exactly. 
+
+409
+00:19:21,920 --> 00:19:25,800
+Profoundly pro accountability 
+and a tyranny, it was a shared 
+
+410
+00:19:25,800 --> 00:19:27,920
+commitment to a constitutional 
+ideal. 
+
+411
+00:19:28,320 --> 00:19:31,600
+And the key here, the sources 
+note, is that early American 
+
+412
+00:19:31,600 --> 00:19:33,920
+identity was civic, 
+constitutional. 
+
+413
+00:19:33,920 --> 00:19:36,920
+Yes, defined by shared ideas and
+laws. 
+
+414
+00:19:37,120 --> 00:19:39,160
+Not by ethnicity, not by 
+bloodline. 
+
+415
+00:19:39,160 --> 00:19:42,000
+That was crucial. 
+Then comes the Civil War, the 
+
+416
+00:19:42,000 --> 00:19:45,360
+ultimate contest over what that 
+constitutional identity actually
+
+417
+00:19:45,360 --> 00:19:46,520
+meant. 
+Absolutely. 
+
+418
+00:19:47,000 --> 00:19:50,720
+And Lincoln's Gettysburg Address
+that's presented as the ultimate
+
+419
+00:19:50,720 --> 00:19:54,160
+act of reappropriation, of 
+redefining patriotism. 
+
+420
+00:19:54,920 --> 00:19:58,600
+He reframed patriotism not as 
+celebrating a finished, perfect 
+
+421
+00:19:58,600 --> 00:20:01,680
+thing, but as moral continuity. 
+Unfinished work. 
+
+422
+00:20:01,800 --> 00:20:05,120
+Exactly defining the country is 
+unfinished work, a debt owed to 
+
+423
+00:20:05,120 --> 00:20:07,280
+the ideals of equality laid out 
+in the Declaration. 
+
+424
+00:20:07,280 --> 00:20:09,600
+He essentially stole the 
+founding fathers back from the 
+
+425
+00:20:09,600 --> 00:20:11,800
+slaveholders. 
+You could argue that by 
+
+426
+00:20:11,800 --> 00:20:14,560
+insisting that the nation score 
+identity, its reason for being 
+
+427
+00:20:14,760 --> 00:20:17,200
+was dedicated to that 
+proposition that all men are 
+
+428
+00:20:17,200 --> 00:20:20,840
+created equal. 
+That was a profound, strategic 
+
+429
+00:20:20,880 --> 00:20:23,120
+and necessary act of 
+redefinition. 
+
+430
+00:20:23,320 --> 00:20:25,960
+Absolutely necessary for the 
+union, survival and moral 
+
+431
+00:20:25,960 --> 00:20:29,320
+purpose. 
+OK, moving forward, 1890 to 
+
+432
+00:20:29,320 --> 00:20:34,440
+1945, the Progressive Era in the
+World wars, a very different 
+
+433
+00:20:34,440 --> 00:20:35,520
+time. 
+Totally different. 
+
+434
+00:20:36,000 --> 00:20:40,400
+Mass immigration, brutal 
+industrialization, huge wealth 
+
+435
+00:20:40,400 --> 00:20:42,960
+inequality. 
+Society was fracturing. 
+
+436
+00:20:42,960 --> 00:20:46,080
+So just waving the flag from 
+1776 wasn't going to cut it 
+
+437
+00:20:46,080 --> 00:20:47,520
+anymore. 
+It wasn't enough to unite 
+
+438
+00:20:47,520 --> 00:20:48,600
+people. 
+Not enough. 
+
+439
+00:20:48,960 --> 00:20:52,520
+The era demanded a new 
+narrative, a new definition of 
+
+440
+00:20:52,520 --> 00:20:55,280
+what patriotism required. 
+And reformers stepped in. 
+
+441
+00:20:55,480 --> 00:20:58,000
+People like Jane Addams, 
+Theodore Roosevelt, they 
+
+442
+00:20:58,000 --> 00:21:00,800
+pioneered with the sources 
+called Social patriotism. 
+
+443
+00:21:00,800 --> 00:21:02,800
+Social patriotism? 
+What's that? 
+
+444
+00:21:02,800 --> 00:21:06,640
+They explicitly linked loving 
+your country with social service
+
+445
+00:21:06,760 --> 00:21:09,160
+with civic duty. 
+So patriotism means? 
+
+446
+00:21:09,160 --> 00:21:12,800
+It means cleaning up the slums, 
+ensuring public health, building
+
+447
+00:21:12,800 --> 00:21:14,720
+and supporting public schools 
+for everyone. 
+
+448
+00:21:15,000 --> 00:21:17,280
+It became about service to 
+others within the national 
+
+449
+00:21:17,280 --> 00:21:18,520
+community. 
+Taking care of the nation's 
+
+450
+00:21:18,520 --> 00:21:20,560
+people. 
+Right then the world wars came 
+
+451
+00:21:20,560 --> 00:21:23,800
+along and solidified. 
+This collectivism demanded huge 
+
+452
+00:21:23,800 --> 00:21:25,360
+sacrifice for the national 
+effort. 
+
+453
+00:21:25,480 --> 00:21:28,680
+But as the sources remind us, 
+this collective patriotism 
+
+454
+00:21:28,680 --> 00:21:32,400
+wasn't always inclusive. 
+No, it often came at a moral 
+
+455
+00:21:32,400 --> 00:21:37,080
+cost, the most glaring example 
+being the tragic internment of 
+
+456
+00:21:37,080 --> 00:21:39,360
+Japanese Americans during World 
+War 2. 
+
+457
+00:21:39,880 --> 00:21:43,440
+Patriotism defined who belonged,
+but also who didn't. 
+
+458
+00:21:43,480 --> 00:21:48,560
+OK then we hit 1945 to 1975 Cold
+War confidence and 
+
+459
+00:21:48,560 --> 00:21:52,400
+counterculture post war boom. 
+Yeah, and for a brief moment, 
+
+460
+00:21:52,720 --> 00:21:56,480
+the flag seemed like a settled 
+symbol again, almost like a a 
+
+461
+00:21:56,480 --> 00:21:58,120
+corporate logo. 
+For what? 
+
+462
+00:21:58,440 --> 00:22:01,920
+For American prosperity, 
+democracy, consumer goods being 
+
+463
+00:22:01,920 --> 00:22:04,240
+sold around the world, it was 
+kind of flattened, 
+
+464
+00:22:04,240 --> 00:22:06,000
+commercialized, maybe taken for 
+granted. 
+
+465
+00:22:06,120 --> 00:22:08,480
+And that flatness, that 
+confidence, made the collapse 
+
+466
+00:22:08,480 --> 00:22:10,760
+during the Vietnam era even more
+spectacular. 
+
+467
+00:22:10,760 --> 00:22:13,760
+Exactly the moral authority of 
+that commercialized corporate 
+
+468
+00:22:13,760 --> 00:22:16,720
+flag was shattered for many, 
+which led directly to the 
+
+469
+00:22:16,720 --> 00:22:19,560
+countercultural revolt. 
+Flag burning protests. 
+
+470
+00:22:19,560 --> 00:22:22,360
+Yes, but here's the paradox the 
+sources want us to really 
+
+471
+00:22:22,360 --> 00:22:24,520
+grapple with What is it That 
+flag burning? 
+
+472
+00:22:24,520 --> 00:22:27,800
+While obviously deeply offensive
+to many Americans, for some who 
+
+473
+00:22:27,800 --> 00:22:30,280
+did it, it was actually an act 
+of higher patriotism. 
+
+474
+00:22:30,480 --> 00:22:32,680
+How can burning the flag be 
+patriotic? 
+
+475
+00:22:32,840 --> 00:22:36,200
+It was framed as an appeal to 
+the Republic's own unfulfilled 
+
+476
+00:22:36,200 --> 00:22:38,000
+ideals. 
+Liberty. 
+
+477
+00:22:38,080 --> 00:22:40,360
+Dissent. 
+Constitutional protection. 
+
+478
+00:22:40,640 --> 00:22:43,400
+Peace. 
+So they were saying this flag 
+
+479
+00:22:43,400 --> 00:22:45,600
+represents ideals you are 
+betraying. 
+
+480
+00:22:45,600 --> 00:22:47,960
+Essentially, yes. 
+I care about the promise of this
+
+481
+00:22:47,960 --> 00:22:51,480
+country, the idea of this flag, 
+so much that I am willing to 
+
+482
+00:22:51,480 --> 00:22:54,880
+commit this shocking act to 
+challenge the state when it 
+
+483
+00:22:54,880 --> 00:22:58,280
+betrays that promise. 
+It's a complicated claim, but 
+
+484
+00:22:58,280 --> 00:22:59,880
+historically significant. 
+OK. 
+
+485
+00:23:00,080 --> 00:23:04,680
+Then the next phase, 1976 to 
+2001, from the Bicentennial to 
+
+486
+00:23:04,680 --> 00:23:08,120
+9/11. 
+This era feels largely defined 
+
+487
+00:23:08,120 --> 00:23:10,600
+by a kind of therapeutic 
+nostalgia, according to the 
+
+488
+00:23:10,600 --> 00:23:12,320
+analysis. 
+Therapeutic nostalgia. 
+
+489
+00:23:12,320 --> 00:23:15,440
+Yeah, the bicentennial in 76 was
+partly a national attempt to 
+
+490
+00:23:15,440 --> 00:23:18,440
+heal, to get over the trauma of 
+Vietnam and Watergate. 
+
+491
+00:23:18,440 --> 00:23:20,000
+Lots of tall ships and 
+fireworks. 
+
+492
+00:23:20,000 --> 00:23:23,200
+And Reagan tapped into that. 
+Masterfully, he skillfully 
+
+493
+00:23:23,200 --> 00:23:26,240
+merged that nostalgia for a 
+simpler pass with a narrative of
+
+494
+00:23:26,240 --> 00:23:28,760
+economic prosperity and national
+strength. 
+
+495
+00:23:28,920 --> 00:23:31,880
+He effectively monopolized the 
+emotional terrain of nationalism
+
+496
+00:23:31,880 --> 00:23:33,400
+for a while. 
+And where was the left during 
+
+497
+00:23:33,400 --> 00:23:35,880
+this period? 
+Well, having associated the flag
+
+498
+00:23:35,880 --> 00:23:38,760
+so strongly with the Vietnam 
+War, with the military 
+
+499
+00:23:38,760 --> 00:23:42,640
+industrial complex, maybe with 
+that corporate logo idea, they 
+
+500
+00:23:42,640 --> 00:23:45,000
+largely retreated. 
+Retreated into what? 
+
+501
+00:23:45,160 --> 00:23:48,560
+Into identity politics, mostly 
+focusing on group identities 
+
+502
+00:23:48,560 --> 00:23:52,040
+rather than a national one, they
+effectively ceded the entire 
+
+503
+00:23:52,040 --> 00:23:55,160
+concept of national belonging, 
+the language of patriotism, 
+
+504
+00:23:55,320 --> 00:23:58,640
+almost entirely to the right. 
+And that dynamic mostly held 
+
+505
+00:23:58,640 --> 00:24:02,240
+until. 
+Until 911, which very briefly 
+
+506
+00:24:02,520 --> 00:24:06,000
+forced a kind of unity, a unity 
+through shared grief, a 
+
+507
+00:24:06,000 --> 00:24:09,160
+temporary truce in the culture 
+wars, everyone flew the flag. 
+
+508
+00:24:09,200 --> 00:24:12,560
+But it didn't last, no. 
+That trust, that unity, it 
+
+509
+00:24:12,680 --> 00:24:15,120
+eroded pretty quickly, 
+especially with the controversy 
+
+510
+00:24:15,120 --> 00:24:17,960
+over the Iraq war and then the 
+2008 financial crisis. 
+
+511
+00:24:18,040 --> 00:24:20,840
+Which seemed to prove that the 
+managerial class wasn't just 
+
+512
+00:24:20,840 --> 00:24:23,440
+moralizing, but maybe also 
+incompetent. 
+
+513
+00:24:23,440 --> 00:24:26,080
+Yeah, it damaged their 
+credibility significantly, which
+
+514
+00:24:26,080 --> 00:24:28,920
+sets the stage for the next 
+phase. 2008 to 2020. 
+
+515
+00:24:28,920 --> 00:24:31,560
+The moralization of politics. 
+Obama's era. 
+
+516
+00:24:31,560 --> 00:24:33,040
+Rise of social media. 
+Right. 
+
+517
+00:24:33,040 --> 00:24:36,440
+Obama's rhetoric certainly tried
+to revive a kind of aspirational
+
+518
+00:24:36,440 --> 00:24:38,520
+civic pride, the hope and change
+idea. 
+
+519
+00:24:38,520 --> 00:24:42,000
+But the Coalition fractured. 
+It did the post crisis 
+
+520
+00:24:42,000 --> 00:24:46,040
+environment, the rise of social 
+media amplifying divisions, it 
+
+521
+00:24:46,040 --> 00:24:49,640
+fractured and cultural 
+progressivism gained dominance 
+
+522
+00:24:49,800 --> 00:24:51,280
+within that establishment 
+sphere. 
+
+523
+00:24:51,520 --> 00:24:53,560
+Focusing on. 
+Focusing heavily on defining 
+
+524
+00:24:53,560 --> 00:24:56,080
+virtue through the lens of 
+systemic oppression. 
+
+525
+00:24:56,840 --> 00:24:59,600
+Recognizing privilege. 
+Being aware of historical 
+
+526
+00:24:59,600 --> 00:25:01,760
+injustices. 
+Which had a direct impact on how
+
+527
+00:25:01,760 --> 00:25:05,240
+patriotism was viewed. 
+A huge impact patriotism itself 
+
+528
+00:25:05,240 --> 00:25:09,160
+became in many influential 
+circles recoded as privilege, 
+
+529
+00:25:09,920 --> 00:25:13,200
+meaning displays of national 
+pride were often scrutinized, 
+
+530
+00:25:13,480 --> 00:25:17,480
+seen as naive at best, or maybe 
+willful ignorance of ongoing 
+
+531
+00:25:17,480 --> 00:25:20,320
+injustices at worst. 
+So the flag became suspect 
+
+532
+00:25:20,320 --> 00:25:22,800
+again. 
+Explicitly suspect symbolizing 
+
+533
+00:25:22,800 --> 00:25:25,840
+for its critics things like 
+white male authority, systemic 
+
+534
+00:25:25,840 --> 00:25:28,960
+racism, military aggression, all
+the things the managerial class 
+
+535
+00:25:29,200 --> 00:25:31,760
+built on critique instinctively 
+rejected. 
+
+536
+00:25:31,800 --> 00:25:36,040
+Which brings us right up to the 
+present moment. 2024 to 2026 The
+
+537
+00:25:36,040 --> 00:25:38,480
+Reclamation Project. 
+The Great Patriotic Heist in 
+
+538
+00:25:38,480 --> 00:25:40,760
+action. 
+And the shock that forced this 
+
+539
+00:25:40,760 --> 00:25:43,560
+change, this reclamation, it 
+wasn't primarily moral. 
+
+540
+00:25:43,560 --> 00:25:46,640
+No, the sources argue, was 
+purely strategic, a cold 
+
+541
+00:25:46,640 --> 00:25:49,080
+political calculation. 
+The establishment realized. 
+
+542
+00:25:49,280 --> 00:25:52,640
+They realized they had ceded the
+fundamental language of 
+
+543
+00:25:52,640 --> 00:25:57,440
+belonging, of national identity.
+They left the field wide open 
+
+544
+00:25:57,440 --> 00:26:01,080
+for the populist right to define
+what it means to be an American.
+
+545
+00:26:01,280 --> 00:26:03,200
+And that was politically 
+suicidal for them. 
+
+546
+00:26:03,240 --> 00:26:05,240
+So they had to get back in the 
+game. 
+
+547
+00:26:05,240 --> 00:26:08,840
+Had to steal the symbols back 
+and the new progressive line. 
+
+548
+00:26:09,120 --> 00:26:12,560
+It's a political masterstroke 
+really built on that historical 
+
+549
+00:26:12,560 --> 00:26:13,760
+precedent we just walked 
+through. 
+
+550
+00:26:13,760 --> 00:26:16,520
+What's the line? 
+Democracy itself is patriotic. 
+
+551
+00:26:16,720 --> 00:26:19,320
+Protecting democracy is the 
+highest form of patriotism. 
+
+552
+00:26:20,400 --> 00:26:23,640
+So the goal isn't to reject the 
+national story anymore. 
+
+553
+00:26:23,800 --> 00:26:27,040
+No, that failed politically. 
+The goal now is to embrace the 
+
+554
+00:26:27,040 --> 00:26:30,440
+story but insist they are the 
+ones best suited to finish it. 
+
+555
+00:26:30,680 --> 00:26:32,920
+Finish it How? 
+Every civil rights advance, 
+
+556
+00:26:32,920 --> 00:26:35,720
+every Environmental Protection 
+measure, every social justice 
+
+557
+00:26:35,720 --> 00:26:39,560
+initiative, it's framed not as 
+an anti American critique 
+
+558
+00:26:39,560 --> 00:26:42,640
+anymore, as an act of 
+completion, honoring the 
+
+559
+00:26:42,640 --> 00:26:46,720
+promise, fulfilling the ideals, 
+cashing that promissory note 
+
+560
+00:26:46,720 --> 00:26:49,040
+that King talked about. 
+And the sources argue this 
+
+561
+00:26:49,040 --> 00:26:52,360
+reappropriation, this heist, is 
+defensible because it's how 
+
+562
+00:26:52,360 --> 00:26:55,080
+things have always worked. 
+Entirely defensible from that 
+
+563
+00:26:55,080 --> 00:26:58,960
+historical perspective, they 
+point to strong precedent for 
+
+564
+00:26:58,960 --> 00:27:01,760
+reappropriation. 
+Like Lincoln, as we discussed. 
+
+565
+00:27:01,760 --> 00:27:03,840
+Lincoln reappropriated the 
+Founders. 
+
+566
+00:27:04,200 --> 00:27:08,800
+FDR, with his four freedoms, 
+explicitly redefined the flag to
+
+567
+00:27:08,800 --> 00:27:10,680
+include economic and social 
+welfare. 
+
+568
+00:27:10,960 --> 00:27:14,480
+He connected patriotism to the 
+right to a job, a secure home. 
+
+569
+00:27:14,600 --> 00:27:17,120
+He made the New Deal patriotic. 
+Exactly. 
+
+570
+00:27:17,360 --> 00:27:20,560
+And Martin Luther King Junior's 
+promissory note sermon may be 
+
+571
+00:27:20,560 --> 00:27:24,160
+the most powerful example 
+describing American ideals as a 
+
+572
+00:27:24,160 --> 00:27:27,440
+debt, a check written by the 
+founders that keeps bouncing. 
+
+573
+00:27:27,720 --> 00:27:30,120
+And demanding the nation honor 
+its own commitment. 
+
+574
+00:27:30,120 --> 00:27:33,400
+Yes, the argument is the current
+progressive turn is just the 
+
+575
+00:27:33,400 --> 00:27:35,600
+latest iteration of this. 
+Maybe adding a layer of 
+
+576
+00:27:35,600 --> 00:27:37,680
+self-awareness? 
+Maybe corporate efficiency? 
+
+577
+00:27:37,680 --> 00:27:40,680
+To this ancient American habit 
+of redefining what the flag 
+
+578
+00:27:40,680 --> 00:27:42,600
+means. 
+They're performing necessary 
+
+579
+00:27:42,600 --> 00:27:46,240
+civic pedagogy, teaching the 
+nation what patriotism should 
+
+580
+00:27:46,240 --> 00:27:47,640
+mean. 
+Now that's the defense. 
+
+581
+00:27:47,640 --> 00:27:50,120
+OK, so we've got the 
+philosophical warning, Sartre's 
+
+582
+00:27:50,120 --> 00:27:52,000
+bad faith and the historical 
+defense. 
+
+583
+00:27:52,000 --> 00:27:55,560
+Santiana's performance as the 
+start of becoming. 2 owerful 
+
+584
+00:27:55,560 --> 00:27:57,400
+lenses. 
+Now let's really dig into the 
+
+585
+00:27:57,400 --> 00:28:01,320
+present moment, analyze the true
+nature of this new synthesis, 
+
+586
+00:28:01,320 --> 00:28:04,560
+this progressive patriotism, and
+let's start by acknowledging the
+
+587
+00:28:04,560 --> 00:28:07,880
+case for it, why it might 
+actually work, or why it might 
+
+588
+00:28:07,880 --> 00:28:11,400
+even be sincere or at least 
+strategically necessary. 
+
+589
+00:28:11,440 --> 00:28:13,120
+Right. 
+And the first big reason the 
+
+590
+00:28:13,120 --> 00:28:16,120
+sources cite for why this 
+performance might stick, why it 
+
+591
+00:28:16,120 --> 00:28:18,760
+might be more than just a 
+performance, is the realization 
+
+592
+00:28:18,760 --> 00:28:21,920
+that guilt alone fails. 
+Guilt alone fails. 
+
+593
+00:28:21,920 --> 00:28:25,360
+Meaning the moral exhaustion of 
+the 20 tens, that relentless 
+
+594
+00:28:25,360 --> 00:28:29,080
+focus on historical wrongs, the 
+constant atmosphere of apology 
+
+595
+00:28:29,080 --> 00:28:31,280
+and critique. 
+It proves something. 
+
+596
+00:28:31,440 --> 00:28:33,040
+What? 
+That you can't sustain a 
+
+597
+00:28:33,040 --> 00:28:36,520
+political consensus, let alone 
+govern effectively when the 
+
+598
+00:28:36,520 --> 00:28:39,760
+primary unifying emotion you 
+offer is collective shame or 
+
+599
+00:28:39,760 --> 00:28:43,240
+perpetual self critique. 
+Critique is easy, maybe, but 
+
+600
+00:28:43,240 --> 00:28:46,800
+governance needs something more 
+positive affirmation. 
+
+601
+00:28:46,800 --> 00:28:48,520
+Exactly. 
+If you want to mobilize a 
+
+602
+00:28:48,520 --> 00:28:51,640
+diverse country, you need to 
+offer a shared path forward, not
+
+603
+00:28:51,640 --> 00:28:53,200
+just a shared apology for the 
+past. 
+
+604
+00:28:53,200 --> 00:28:56,560
+So reframing progressive goals, 
+Equality, environmentalism, 
+
+605
+00:28:56,560 --> 00:28:59,760
+social justice. 
+Reframing them as expressions of
+
+606
+00:28:59,760 --> 00:29:03,960
+national pride rather than as a 
+renunciation of a flawed past 
+
+607
+00:29:04,480 --> 00:29:07,440
+that builds an absolutely 
+crucial emotional bridge. 
+
+608
+00:29:07,440 --> 00:29:10,520
+Back to the mainstream, back to 
+people who might have felt 
+
+609
+00:29:10,520 --> 00:29:12,400
+alienated by the constant 
+critique. 
+
+610
+00:29:12,400 --> 00:29:15,000
+Precisely. 
+It replaces that feeling of 
+
+611
+00:29:15,000 --> 00:29:17,800
+endless correction with a sense 
+of aspirational unity. 
+
+612
+00:29:18,600 --> 00:29:22,080
+Let's Make America fulfill its 
+Promise is a much more inviting 
+
+613
+00:29:22,080 --> 00:29:24,200
+message than America has always 
+been terrible. 
+
+614
+00:29:24,200 --> 00:29:25,760
+OK. 
+That makes sense strategically. 
+
+615
+00:29:25,760 --> 00:29:28,680
+What's the second point? 
+2nd is the strategy of updating 
+
+616
+00:29:28,680 --> 00:29:32,400
+the Canon, expanding who counts 
+as a founder essentially. 
+
+617
+00:29:32,400 --> 00:29:34,400
+How does that work? 
+When the establishment starts 
+
+618
+00:29:34,400 --> 00:29:38,040
+quoting figures like Frederick 
+Douglass, Susan B Anthony, WEB 
+
+619
+00:29:38,040 --> 00:29:40,480
+Dubois, right alongside 
+Jefferson and Madison. 
+
+620
+00:29:40,480 --> 00:29:42,600
+They're making a statement. 
+They're making an explicit 
+
+621
+00:29:42,600 --> 00:29:45,760
+argument the American Revolution
+was interrupted. 
+
+622
+00:29:46,000 --> 00:29:48,920
+It wasn't finished in 1776 or 
+1787. 
+
+623
+00:29:48,960 --> 00:29:50,880
+So this isn't about diluting the
+founding. 
+
+624
+00:29:50,880 --> 00:29:53,440
+No, the argument is that it's 
+about extending it, that the 
+
+625
+00:29:53,440 --> 00:29:56,480
+Canon of American ideals is 
+inherently expandable. 
+
+626
+00:29:56,560 --> 00:29:59,560
+Every major civil rights 
+advance, every expansion of 
+
+627
+00:29:59,560 --> 00:30:01,640
+liberty. 
+Is framed as honoring the 
+
+628
+00:30:01,640 --> 00:30:05,040
+Founders original intent, even 
+if the founders themselves 
+
+629
+00:30:05,040 --> 00:30:06,920
+didn't fully live up to it. 
+Exactly. 
+
+630
+00:30:06,920 --> 00:30:09,840
+It's completing their work, 
+making the promise real for 
+
+631
+00:30:09,840 --> 00:30:11,800
+everyone. 
+And that makes the American 
+
+632
+00:30:11,800 --> 00:30:16,360
+creed, the core ideas more 
+portable, more accessible to a 
+
+633
+00:30:16,360 --> 00:30:18,520
+really diverse, pluralist 
+society. 
+
+634
+00:30:18,520 --> 00:30:20,440
+Absolutely. 
+It transforms the national 
+
+635
+00:30:20,440 --> 00:30:23,840
+narrative from one may be 
+centered on a few white male 
+
+636
+00:30:23,840 --> 00:30:27,360
+land owners. 
+Into a continuous story, a story
+
+637
+00:30:27,360 --> 00:30:30,320
+of contested liberation, a 
+struggle that includes everyone 
+
+638
+00:30:30,320 --> 00:30:33,240
+who fought to make the country 
+better, closer to its ideals. 
+
+639
+00:30:33,360 --> 00:30:36,640
+A belief in liberty and equality
+that transcends ancestry or 
+
+640
+00:30:36,640 --> 00:30:39,000
+origin. 
+That's really the only kind of 
+
+641
+00:30:39,000 --> 00:30:41,960
+patriotism that can work in a 
+truly diverse modern nation. 
+
+642
+00:30:42,360 --> 00:30:44,880
+That's the argument OK. 
+And the third reason why this 
+
+643
+00:30:44,880 --> 00:30:49,320
+might be working. 3rd, they are 
+actively, consciously closing 
+
+644
+00:30:49,480 --> 00:30:52,720
+the emotional intelligence gap. 
+The EI gap between whom? 
+
+645
+00:30:52,720 --> 00:30:55,720
+Between the managerial left and,
+well, the rest of the country, 
+
+646
+00:30:55,720 --> 00:30:58,440
+perhaps for too long, that 
+establishment seemed to believe 
+
+647
+00:30:58,440 --> 00:31:01,480
+that superior policy papers and 
+charts and facts would 
+
+648
+00:31:01,480 --> 00:31:04,080
+automatically win the day. 
+The technocratic belief and 
+
+649
+00:31:04,080 --> 00:31:06,280
+reason, right? 
+But they learned a painful 
+
+650
+00:31:06,280 --> 00:31:08,120
+lesson, especially in the Trump 
+era. 
+
+651
+00:31:08,240 --> 00:31:11,240
+Which was? 
+Facts persuade, maybe, but 
+
+652
+00:31:11,240 --> 00:31:15,880
+feelings mobilize. 
+Emotion drives politics far more
+
+653
+00:31:15,880 --> 00:31:19,160
+than logic does. 
+So a democracy run purely by 
+
+654
+00:31:19,160 --> 00:31:22,960
+spreadsheets and policy briefs? 
+Cannot, in the long run, outlast
+
+655
+00:31:22,960 --> 00:31:27,720
+one fueled by powerful symbols, 
+shared songs, deep visceral 
+
+656
+00:31:27,720 --> 00:31:30,920
+affection, even if that 
+affection is sometimes messy or 
+
+657
+00:31:30,920 --> 00:31:33,520
+irrational. 
+So by reclaiming national 
+
+658
+00:31:33,520 --> 00:31:36,720
+symbols, the flag, the anthems, 
+the history. 
+
+659
+00:31:36,760 --> 00:31:40,720
+The establishment is realizing, 
+or perhaps relearning, that they
+
+660
+00:31:40,720 --> 00:31:43,360
+have to master the emotional 
+language of belonging. 
+
+661
+00:31:43,520 --> 00:31:45,600
+You have to speak to the heart, 
+not just the head. 
+
+662
+00:31:45,880 --> 00:31:48,000
+You can't govern a story you 
+refuse to tell. 
+
+663
+00:31:48,000 --> 00:31:50,200
+Exactly. 
+And now they're actively trying 
+
+664
+00:31:50,200 --> 00:31:52,720
+to write themselves back into 
+that national story in a 
+
+665
+00:31:52,720 --> 00:31:55,320
+starring role. 
+OK, that's a strong case for why
+
+666
+00:31:55,320 --> 00:31:57,720
+this might be effective, maybe 
+even necessary from their 
+
+667
+00:31:57,720 --> 00:31:59,400
+perspective. 
+It is but. 
+
+668
+00:31:59,560 --> 00:32:02,280
+But that strategic mastery 
+immediately leads us back to the
+
+669
+00:32:02,280 --> 00:32:04,200
+critique. 
+The critique of artifice. 
+
+670
+00:32:04,680 --> 00:32:06,920
+The uncomfortable reality of the
+second synthesis. 
+
+671
+00:32:07,160 --> 00:32:09,480
+Right. 
+If this is indeed working, if 
+
+672
+00:32:09,480 --> 00:32:13,240
+this performance is succeeding, 
+what exactly are we creating? 
+
+673
+00:32:13,240 --> 00:32:14,800
+What does this new synthesis 
+look? 
+
+674
+00:32:14,800 --> 00:32:17,360
+Like and the sources define this
+outcome as. 
+
+675
+00:32:17,360 --> 00:32:20,800
+As synthetic patriotism. 
+Synthetic, meaning artificial 
+
+676
+00:32:20,800 --> 00:32:23,480
+manufactured. 
+Pride that is managed by 
+
+677
+00:32:23,480 --> 00:32:26,160
+professionals, belonging that is
+distributed through 
+
+678
+00:32:26,160 --> 00:32:28,880
+institutional channels with 
+rules and guidelines. 
+
+679
+00:32:28,920 --> 00:32:32,440
+OK, where do we see evidence of 
+this synthetic quality? 
+
+680
+00:32:32,520 --> 00:32:34,400
+Well, look at the slogans. 
+They're noble enough. 
+
+681
+00:32:34,400 --> 00:32:36,680
+Sure. 
+Defend democracy, freedom for 
+
+682
+00:32:36,680 --> 00:32:38,400
+all, love of country, love of 
+justice. 
+
+683
+00:32:38,440 --> 00:32:43,720
+All good things, but notice they
+are also inherently antiseptic. 
+
+684
+00:32:43,960 --> 00:32:46,080
+Antiseptic clean. 
+Sterile. 
+
+685
+00:32:46,080 --> 00:32:48,720
+Exactly. 
+Carefully curated focus group 
+
+686
+00:32:48,720 --> 00:32:51,840
+for maximum compliance and 
+minimum offense, minimum risk. 
+
+687
+00:32:51,960 --> 00:32:57,000
+They lack the the raw quality, 
+the messy, maybe even dangerous 
+
+688
+00:32:57,000 --> 00:32:59,760
+energy of spontaneous belief or 
+fierce dissent. 
+
+689
+00:32:59,800 --> 00:33:01,920
+Precisely. 
+It's the difference the sources 
+
+690
+00:33:01,920 --> 00:33:05,360
+draw between the quote sweaty 
+beer stained patriotism of 
+
+691
+00:33:05,360 --> 00:33:08,200
+barbecues and gun ranges. 
+That kind of unmanaged 
+
+692
+00:33:08,200 --> 00:33:11,080
+grassroots emotion. 
+Versus patriotism as a brand 
+
+693
+00:33:11,080 --> 00:33:13,960
+activation. 
+Managed, clean, predictable. 
+
+694
+00:33:14,200 --> 00:33:17,240
+The flag. 
+In this new context, it risks 
+
+695
+00:33:17,280 --> 00:33:20,480
+becoming What was the phrase? 
+A corporate logo for decency. 
+
+696
+00:33:20,600 --> 00:33:22,760
+Woof, a corporate logo for 
+decency. 
+
+697
+00:33:22,920 --> 00:33:26,720
+Sterilized focus grouped. 
+Safe for all institutional 
+
+698
+00:33:26,720 --> 00:33:29,400
+investors in HR departments. 
+That's the critique. 
+
+699
+00:33:29,600 --> 00:33:33,480
+And this synthesized patriotism,
+if it takes hold, inevitably 
+
+700
+00:33:33,480 --> 00:33:36,800
+produces what the sources 
+satirically call the United 
+
+701
+00:33:36,800 --> 00:33:39,240
+States of HR. 
+The United States of HR. 
+
+702
+00:33:39,240 --> 00:33:41,440
+That's a powerful image. 
+What does it imply? 
+
+703
+00:33:41,640 --> 00:33:44,600
+It implies that the danger isn't
+necessarily malice or evil 
+
+704
+00:33:44,600 --> 00:33:46,720
+intent. 
+It's professional control. 
+
+705
+00:33:46,720 --> 00:33:48,680
+It's management taking over 
+everything. 
+
+706
+00:33:48,680 --> 00:33:51,520
+So freedom in this context gets 
+redefined. 
+
+707
+00:33:51,680 --> 00:33:55,120
+It suddenly gets redefined as 
+the right to participate safely 
+
+708
+00:33:55,120 --> 00:33:56,720
+in the collective performance of
+virtue. 
+
+709
+00:33:56,880 --> 00:33:58,800
+Safely meaning. 
+Meaning within approved 
+
+710
+00:33:58,800 --> 00:34:02,280
+boundaries, following the rules,
+using the right language. 
+
+711
+00:34:02,280 --> 00:34:04,560
+Think about it. 
+It's a managed environment. 
+
+712
+00:34:04,800 --> 00:34:07,880
+Consensus is strongly preferred 
+over messy contestation. 
+
+713
+00:34:08,080 --> 00:34:10,920
+Belonging is granted or 
+validated through compliance 
+
+714
+00:34:10,920 --> 00:34:13,880
+with institutional values. 
+So your patriotism isn't 
+
+715
+00:34:13,880 --> 00:34:16,840
+demonstrated by, say, 
+sacrificing for the country or 
+
+716
+00:34:16,840 --> 00:34:19,920
+challenging power. 
+No, it's demonstrated by using 
+
+717
+00:34:19,920 --> 00:34:23,520
+the correct approved language, 
+attending the mandatory 
+
+718
+00:34:23,520 --> 00:34:26,560
+diversity and inclusion 
+workshops, aligning yourself 
+
+719
+00:34:26,560 --> 00:34:29,360
+visibly with the current 
+progressive orthodoxy. 
+
+720
+00:34:29,480 --> 00:34:32,400
+And all of this is done under 
+the banner of defending 
+
+721
+00:34:32,400 --> 00:34:33,679
+democracy. 
+Right. 
+
+722
+00:34:33,880 --> 00:34:37,120
+Democracy becomes synonymous 
+with compliance with the 
+
+723
+00:34:37,120 --> 00:34:39,159
+approved institutional 
+narrative. 
+
+724
+00:34:39,360 --> 00:34:42,600
+This tension then culminates in 
+this bizarre fusion of 
+
+725
+00:34:42,600 --> 00:34:45,560
+opposites. 
+Yeah, ostensibly you have the 
+
+726
+00:34:45,560 --> 00:34:48,600
+woke manager in the corporate 
+office and the Mad J trucker out
+
+727
+00:34:48,600 --> 00:34:50,239
+on the highway. 
+And now they're both performing 
+
+728
+00:34:50,239 --> 00:34:52,880
+love for the same country, 
+waving the same flag. 
+
+729
+00:34:52,920 --> 00:34:56,560
+They might be, but the critical 
+point is they love it or perform
+
+730
+00:34:56,560 --> 00:34:59,000
+loving it for fundamentally 
+opposite reasons. 
+
+731
+00:34:59,040 --> 00:35:02,120
+OK, explain that the manager 
+loves the country because. 
+
+732
+00:35:02,280 --> 00:35:05,600
+The manager in this framework 
+loves the country for its 
+
+733
+00:35:05,600 --> 00:35:09,040
+potential, for what it should 
+be, its capacity for moral 
+
+734
+00:35:09,040 --> 00:35:12,480
+correction, for progress. 
+They love the ideals yet to be 
+
+735
+00:35:12,480 --> 00:35:14,240
+achieved. 
+I love the distance between the 
+
+736
+00:35:14,240 --> 00:35:16,880
+flawed reality and the perfect 
+aspiration. 
+
+737
+00:35:17,200 --> 00:35:20,360
+You could say that they love the
+project of improvement managed 
+
+738
+00:35:20,360 --> 00:35:23,600
+by people like them and the. 
+Truckers, the populist, They 
+
+739
+00:35:23,600 --> 00:35:26,960
+love the country because. 
+They love its defiance, its 
+
+740
+00:35:26,960 --> 00:35:30,040
+history of rebellion against 
+elites, against that managerial 
+
+741
+00:35:30,040 --> 00:35:33,920
+class, its freedom as they see 
+it to speak unfiltered truth, to
+
+742
+00:35:33,920 --> 00:35:36,360
+reject centralized control and 
+process. 
+
+743
+00:35:36,560 --> 00:35:40,480
+So 1 loves the potential for 
+managed perfection, the other 
+
+744
+00:35:40,480 --> 00:35:42,920
+loves the freedom of unmanaged 
+defiance. 
+
+745
+00:35:43,080 --> 00:35:45,960
+Exactly. 
+And the synthesis that tries to 
+
+746
+00:35:45,960 --> 00:35:50,040
+contain both of these opposing 
+instincts, that's where the 
+
+747
+00:35:50,040 --> 00:35:52,640
+looming danger lies. 
+Which the sources identify as a 
+
+748
+00:35:52,640 --> 00:35:53,680
+new form. 
+Of moral. 
+
+749
+00:35:53,680 --> 00:35:55,320
+Nationalism, moral nationalism. 
+OK. 
+
+750
+00:35:55,320 --> 00:35:57,840
+We need to linger on this 
+because this feels like the core
+
+751
+00:35:57,840 --> 00:36:00,400
+risk they're outlining. 
+It absolutely is. 
+
+752
+00:36:00,400 --> 00:36:03,000
+It's the fusion of that 
+progressive empathy or the 
+
+753
+00:36:03,000 --> 00:36:05,280
+performance of. 
+It with centralized control, 
+
+754
+00:36:05,520 --> 00:36:08,720
+with management. 
+Yes, unity achieved not through 
+
+755
+00:36:08,720 --> 00:36:11,440
+shared identity, maybe, but 
+through pervasive supervision, 
+
+756
+00:36:11,640 --> 00:36:14,400
+through ensuring everyone 
+adheres to the same moral 
+
+757
+00:36:14,400 --> 00:36:17,120
+framework. 
+So moral nationalism insists 
+
+758
+00:36:17,120 --> 00:36:20,120
+that for the country to be good,
+you must adhere to a specific 
+
+759
+00:36:20,120 --> 00:36:23,080
+set of moral precepts defined by
+the managers. 
+
+760
+00:36:23,120 --> 00:36:25,720
+Precisely. 
+And if you question the policy, 
+
+761
+00:36:25,720 --> 00:36:28,280
+if you descend from the values, 
+if you use the wrong language, 
+
+762
+00:36:28,880 --> 00:36:30,640
+you're not just a political 
+opponent anymore. 
+
+763
+00:36:30,800 --> 00:36:34,200
+You're a moral failure, an enemy
+of democracy itself. 
+
+764
+00:36:34,760 --> 00:36:38,320
+That's the danger. 
+This kind of patriotism doesn't 
+
+765
+00:36:38,320 --> 00:36:42,040
+primarily ask you to fight for 
+the country, it asks you to 
+
+766
+00:36:42,040 --> 00:36:45,360
+comply with its certified 
+institutional values. 
+
+767
+00:36:45,360 --> 00:36:49,320
+It transforms critique not into 
+debate, but into compliance. 
+
+768
+00:36:49,320 --> 00:36:51,840
+That's the end point of 
+synthetic patriotism, according 
+
+769
+00:36:51,840 --> 00:36:54,920
+to this critique. 
+OK, so Hegel's dialectic keeps 
+
+770
+00:36:54,920 --> 00:36:57,480
+rolling. 
+Every synthesis hardens becomes 
+
+771
+00:36:57,480 --> 00:36:59,720
+the new thesis, the new status 
+quo. 
+
+772
+00:36:59,720 --> 00:37:02,160
+Which inevitably creates the 
+conditions for its own 
+
+773
+00:37:02,160 --> 00:37:02,920
+opposition. 
+Yeah. 
+
+774
+00:37:02,920 --> 00:37:06,080
+So now we need to look at the 
+consequences if the progressive 
+
+775
+00:37:06,080 --> 00:37:08,680
+establishment actually succeeds 
+in this, if they achieve the 
+
+776
+00:37:08,680 --> 00:37:10,640
+professionalization of 
+sincerity. 
+
+777
+00:37:10,640 --> 00:37:12,120
+Yeah, and this is the great 
+irony. 
+
+778
+00:37:12,120 --> 00:37:15,080
+The sources point out the 
+institutional left, which maybe 
+
+779
+00:37:15,080 --> 00:37:18,280
+wasn't great at winning the old 
+culture war on purely economic 
+
+780
+00:37:18,280 --> 00:37:20,960
+or traditional grounds. 
+They are profoundly adept at 
+
+781
+00:37:20,960 --> 00:37:24,520
+institutionalizing things. 
+Masters of it, even something as
+
+782
+00:37:24,520 --> 00:37:27,920
+seemingly unmanageable as 
+rebellion or authenticity, they 
+
+783
+00:37:27,920 --> 00:37:30,280
+might actually succeed where the
+populist right failed. 
+
+784
+00:37:30,280 --> 00:37:32,800
+How? 
+By making authenticity itself a 
+
+785
+00:37:32,800 --> 00:37:34,960
+bureaucratic mandate. 
+Exactly. 
+
+786
+00:37:35,240 --> 00:37:38,640
+By professionalizing sincerity, 
+turning it into a measurable 
+
+787
+00:37:38,640 --> 00:37:41,640
+outcome, a policy goal. 
+So we have to ask that really 
+
+788
+00:37:41,640 --> 00:37:45,120
+difficult question, what 
+actually happens when anti 
+
+789
+00:37:45,120 --> 00:37:48,480
+establishment sentiment or the 
+performance of it becomes a 
+
+790
+00:37:48,480 --> 00:37:51,280
+civil service requirement? 
+Yeah, when the symbols of 
+
+791
+00:37:51,280 --> 00:37:55,160
+rebellion, maybe even quitting 
+radical thinkers, are approved 
+
+792
+00:37:55,160 --> 00:37:58,080
+and distributed by the 
+establishment itself through 
+
+793
+00:37:58,080 --> 00:38:00,360
+official channels. 
+The flag becomes just another 
+
+794
+00:38:00,360 --> 00:38:02,640
+compliance symbol. 
+A check box on the corporate 
+
+795
+00:38:02,640 --> 00:38:06,000
+diversity audit. 
+Patriotism becomes a managed 
+
+796
+00:38:06,000 --> 00:38:09,320
+brand asset, demonstrating the 
+institution's alignment with 
+
+797
+00:38:09,320 --> 00:38:11,760
+approved values. 
+This is where that Sartreon 
+
+798
+00:38:11,760 --> 00:38:14,400
+warning about pretending comes 
+roaring back. 
+
+799
+00:38:14,560 --> 00:38:17,200
+It transitions into the true 
+prophecy of bureaucratic 
+
+800
+00:38:17,200 --> 00:38:18,960
+patriotism. 
+The danger isn't that the 
+
+801
+00:38:18,960 --> 00:38:20,400
+performance remains. 
+Hollow. 
+
+802
+00:38:20,400 --> 00:38:22,000
+No. 
+The deeper danger is that it 
+
+803
+00:38:22,000 --> 00:38:25,000
+becomes real, but real in the 
+worst possible way. 
+
+804
+00:38:25,000 --> 00:38:25,840
+How? 
+So. 
+
+805
+00:38:25,840 --> 00:38:27,760
+Self-righteous. 
+Pervasive. 
+
+806
+00:38:27,920 --> 00:38:31,320
+Institutionally inescapable. 
+Managed from the top down. 
+
+807
+00:38:31,360 --> 00:38:34,920
+It transitions from a chosen 
+performance, maybe strategic, to
+
+808
+00:38:34,960 --> 00:38:39,120
+sincerity by decree. 
+Yes, the flag hangs in every 
+
+809
+00:38:39,120 --> 00:38:40,640
+classroom, every corporate 
+lobby. 
+
+810
+00:38:40,960 --> 00:38:44,600
+Not because of organic love or 
+local pride, but because it's 
+
+811
+00:38:44,600 --> 00:38:46,400
+policy. 
+It's mandated. 
+
+812
+00:38:46,520 --> 00:38:49,760
+It's a nationalism that might 
+quote James Baldwin or Audra 
+
+813
+00:38:49,760 --> 00:38:51,440
+Lord instead of Thomas 
+Jefferson. 
+
+814
+00:38:51,440 --> 00:38:54,480
+But it still demands the same 
+kind of top down obedience, 
+
+815
+00:38:55,040 --> 00:38:58,160
+often enforced, as the sources 
+suggest, with extensive 
+
+816
+00:38:58,320 --> 00:39:02,040
+mandatory paperwork, training 
+modules, compliance reports. 
+
+817
+00:39:02,040 --> 00:39:05,240
+It's a nationalism that comes 
+with that friendly, empathetic, 
+
+818
+00:39:05,240 --> 00:39:08,200
+managerial smile. 
+But that smile has an audit 
+
+819
+00:39:08,200 --> 00:39:10,880
+trail attached. 
+Performance reviews based on 
+
+820
+00:39:10,880 --> 00:39:14,440
+demonstrated alignment. 
+So this new orthodoxy, even with
+
+821
+00:39:14,440 --> 00:39:17,040
+its language of democracy and 
+inclusion, it's still 
+
+822
+00:39:17,040 --> 00:39:20,680
+fundamentally about control. 
+Control enforced from above by 
+
+823
+00:39:20,680 --> 00:39:24,160
+the managerial class defining 
+the parameters of acceptable 
+
+824
+00:39:24,160 --> 00:39:27,000
+civic thought and behavior. 
+And this enforced virtue, this 
+
+825
+00:39:27,000 --> 00:39:30,000
+managed patriotism, it 
+immediately creates its own 
+
+826
+00:39:30,000 --> 00:39:32,560
+vulnerabilities. 
+Its own potential weaknesses and
+
+827
+00:39:32,560 --> 00:39:35,280
+honest risks. 
+It plants the seeds of its own 
+
+828
+00:39:35,280 --> 00:39:37,920
+destruction. 
+And the primary risk as outlined
+
+829
+00:39:37,920 --> 00:39:39,880
+in the sources you gave us? 
+Is sanctimony. 
+
+830
+00:39:39,880 --> 00:39:41,760
+Sanctimony. 
+Self righteousness. 
+
+831
+00:39:41,920 --> 00:39:45,520
+The inherent belief that moral 
+virtue belongs exclusively to 
+
+832
+00:39:45,520 --> 00:39:48,960
+one political tribe, the self 
+aware, the educated, the 
+
+833
+00:39:48,960 --> 00:39:52,080
+credentialed, those who use the 
+right language and hold the 
+
+834
+00:39:52,080 --> 00:39:54,560
+right opinions. 
+And if this new patriotism 
+
+835
+00:39:54,560 --> 00:39:57,640
+ossifies, if it hardens into 
+what the sources call a 
+
+836
+00:39:57,640 --> 00:40:00,560
+sermonizing technocracy? 
+Where every national symbol 
+
+837
+00:40:00,560 --> 00:40:03,600
+comes with a mandatory lecture 
+on its proper interpretation. 
+
+838
+00:40:03,680 --> 00:40:07,360
+It risks recreating the very 
+thing that caused the backlash 
+
+839
+00:40:07,360 --> 00:40:08,800
+in the first place. 
+Exactly. 
+
+840
+00:40:08,960 --> 00:40:13,000
+It risks recreating that soft 
+despotism of tone, that feeling 
+
+841
+00:40:13,000 --> 00:40:16,200
+of being constantly lectured and
+managed that birthed the 
+
+842
+00:40:16,200 --> 00:40:19,600
+populist revolt. 
+History as we know, as a dark 
+
+843
+00:40:19,600 --> 00:40:21,480
+sense of humor. 
+It loves to repeat its 
+
+844
+00:40:21,480 --> 00:40:23,200
+contradictions. 
+And that failure of 
+
+845
+00:40:23,200 --> 00:40:26,840
+self-awareness, that potential 
+for sanctimony, it guarantees 
+
+846
+00:40:26,840 --> 00:40:29,960
+the inevitability of the next 
+revolt, the next antithesis. 
+
+847
+00:40:29,960 --> 00:40:33,160
+Because every managed 
+authenticity, every enforced 
+
+848
+00:40:33,160 --> 00:40:35,800
+sincerity, eventually breeds its
+opposite. 
+
+849
+00:40:35,880 --> 00:40:39,760
+So once inclusive patriotism, 
+this synthetic managed version 
+
+850
+00:40:39,760 --> 00:40:42,480
+becomes the default civic 
+orthodoxy, the expected 
+
+851
+00:40:42,480 --> 00:40:44,960
+performance in every school, 
+every workplace, every 
+
+852
+00:40:44,960 --> 00:40:47,400
+institution, a fresh. 
+Rebellion is almost certain to 
+
+853
+00:40:47,400 --> 00:40:49,760
+erupt, probably from the margins
+again. 
+
+854
+00:40:50,000 --> 00:40:53,680
+And who leads this next revolt? 
+What does it look like? 
+
+855
+00:40:53,680 --> 00:40:57,200
+The sources speculate it might 
+come from the genuinely 
+
+856
+00:40:57,200 --> 00:41:02,200
+apolitical, or maybe the post 
+political the young maybe those 
+
+857
+00:41:02,200 --> 00:41:04,840
+completely burned out by the 
+endless culture wars of the 
+
+858
+00:41:04,840 --> 00:41:08,040
+previous generation. 
+Maybe veterans disillusioned 
+
+859
+00:41:08,040 --> 00:41:11,600
+with all political performances,
+those who feel fundamentally 
+
+860
+00:41:11,600 --> 00:41:14,360
+alienated by the performance 
+required by both the managerial 
+
+861
+00:41:14,360 --> 00:41:17,440
+left and the populist right. 
+They reject the whole. 
+
+862
+00:41:17,480 --> 00:41:19,200
+Game. 
+They reject not just the woke 
+
+863
+00:41:19,200 --> 00:41:22,400
+moralism and the Maggie A 
+populism, but the entire 
+
+864
+00:41:22,400 --> 00:41:25,680
+machinery of choreographed 
+political performance itself. 
+
+865
+00:41:25,680 --> 00:41:27,720
+They're looking for purity, 
+maybe. 
+
+866
+00:41:27,840 --> 00:41:31,360
+Yeah, something the sources 
+describe as brutally real, 
+
+867
+00:41:31,480 --> 00:41:33,640
+stripped of hashtags and 
+choreography. 
+
+868
+00:41:33,640 --> 00:41:36,040
+Something authentic that isn't 
+managed or branded. 
+
+869
+00:41:36,040 --> 00:41:39,560
+Yes, a generation that finds 
+managed patriotism, however 
+
+870
+00:41:39,560 --> 00:41:41,760
+well-intentioned, completely 
+suffocating. 
+
+871
+00:41:41,840 --> 00:41:43,240
+It might not wave any flag at 
+all. 
+
+872
+00:41:43,360 --> 00:41:46,320
+Or they might find an entirely 
+new symbol, something that 
+
+873
+00:41:46,320 --> 00:41:49,400
+represents a quest for sincerity
+completely unchanted by 
+
+874
+00:41:49,400 --> 00:41:51,560
+political management or 
+corporate branding. 
+
+875
+00:41:51,760 --> 00:41:55,720
+It's possible they'll seek an 
+authentic expression of self or 
+
+876
+00:41:55,720 --> 00:41:58,880
+community that is defined 
+neither by compliance with the 
+
+877
+00:41:58,880 --> 00:42:02,240
+new order nor by nostalgic 
+defiance against it. 
+
+878
+00:42:02,920 --> 00:42:05,600
+Something else entirely. 
+But underneath all this back and
+
+879
+00:42:05,600 --> 00:42:09,800
+forth, this thesis, antithesis, 
+synthesis, the core truth 
+
+880
+00:42:09,800 --> 00:42:13,440
+remains that this constant 
+contest is the American 
+
+881
+00:42:13,440 --> 00:42:15,560
+metabolism. 
+That's a great way to put it. 
+
+882
+00:42:16,160 --> 00:42:19,280
+The country doesn't actually 
+seem to reconcile its deep, 
+
+883
+00:42:19,280 --> 00:42:22,280
+painful contradictions. 
+You know, slavery versus 
+
+884
+00:42:22,280 --> 00:42:25,920
+liberty, wealth versus equality,
+individualism versus community. 
+
+885
+00:42:25,920 --> 00:42:27,800
+It does what instead. 
+It markets them. 
+
+886
+00:42:27,840 --> 00:42:30,040
+It performs them. 
+The performance becomes the 
+
+887
+00:42:30,040 --> 00:42:32,960
+product, the brand, and 
+eventually that product. 
+
+888
+00:42:32,960 --> 00:42:36,040
+That performance becomes the 
+accepted creed for a while. 
+
+889
+00:42:36,040 --> 00:42:38,560
+So the strength of the Republic 
+may be paradoxically. 
+
+890
+00:42:38,560 --> 00:42:41,960
+Is that the flag never gets to 
+rest, that it remains violently 
+
+891
+00:42:41,960 --> 00:42:44,640
+contested? 
+That it has to insist on meaning
+
+892
+00:42:44,640 --> 00:42:47,160
+different things to different 
+people all at the same time. 
+
+893
+00:42:47,160 --> 00:42:50,320
+That seems to be the argument. 
+The left's current embrace of 
+
+894
+00:42:50,320 --> 00:42:52,000
+patriotism isn't the end of the 
+story. 
+
+895
+00:42:52,280 --> 00:42:54,120
+It can't. 
+Be it's simply the next 
+
+896
+00:42:54,120 --> 00:42:56,560
+necessary chapter. 
+Ensuring that the unfinished, 
+
+897
+00:42:56,560 --> 00:43:00,920
+contested, maybe unresolvable 
+business of America just keeps 
+
+898
+00:43:00,920 --> 00:43:02,600
+going. 
+The dialectic continues. 
+
+899
+00:43:02,800 --> 00:43:04,560
+Hashtags tag outro. 
+Wow. 
+
+900
+00:43:04,560 --> 00:43:09,520
+OK, so we have journeyed all the
+way from the managerial thesis 
+
+901
+00:43:09,520 --> 00:43:11,640
+of the 20 tens. 
+The HR department running the 
+
+902
+00:43:11,640 --> 00:43:14,280
+world. 
+Right through the messy, defiant
+
+903
+00:43:14,280 --> 00:43:16,200
+populist revolt. 
+The breaking of the old 
+
+904
+00:43:16,200 --> 00:43:18,600
+consensus. 
+And landed squarely in this 
+
+905
+00:43:18,600 --> 00:43:22,280
+current synthesis a kind of 
+multicultural, corporately 
+
+906
+00:43:22,280 --> 00:43:27,040
+managed patriotism, designed, it
+seems, to restore order and 
+
+907
+00:43:27,040 --> 00:43:30,000
+reassert a specific kind of 
+moral authority. 
+
+908
+00:43:30,280 --> 00:43:32,840
+Yeah, the sources have given us 
+really profound map, I think, 
+
+909
+00:43:32,840 --> 00:43:35,720
+for navigating what feels like a
+confusingly synchronized, almost
+
+910
+00:43:35,720 --> 00:43:37,560
+choreographed civic landscape 
+right now. 
+
+911
+00:43:37,560 --> 00:43:39,640
+It really clarifies the 
+underlying dynamics. 
+
+912
+00:43:39,640 --> 00:43:42,560
+And we end by locking right back
+into that core philosophical 
+
+913
+00:43:42,560 --> 00:43:44,640
+tensions, Sartre on one side, 
+Hegel on the other. 
+
+914
+00:43:44,640 --> 00:43:46,680
+Performance versus historical 
+process. 
+
+915
+00:43:46,680 --> 00:43:48,080
+And the vital recognition from 
+both. 
+
+916
+00:43:48,080 --> 00:43:50,280
+Really, every synthesis is 
+temporary. 
+
+917
+00:43:50,360 --> 00:43:53,560
+It will become the new thesis, 
+and every act of bad faith, 
+
+918
+00:43:53,560 --> 00:43:57,360
+every sustained performance of a
+chosen role, eventually risks 
+
+919
+00:43:57,360 --> 00:44:00,040
+hardening into ontology. 
+It rewrites who you are. 
+
+920
+00:44:00,200 --> 00:44:04,120
+It fundamentally rewrites the 
+culture it seeks to inhabit, and
+
+921
+00:44:04,120 --> 00:44:07,040
+we are watching the American 
+identity try to rewrite itself 
+
+922
+00:44:07,120 --> 00:44:10,200
+right now in real time through 
+this performance. 
+
+923
+00:44:10,400 --> 00:44:13,800
+So our final take away for you, 
+the listener, based on 
+
+924
+00:44:13,800 --> 00:44:17,280
+everything we've unpacked today,
+is this, this new patriotic 
+
+925
+00:44:17,280 --> 00:44:19,720
+synthesis. 
+It will likely be highly 
+
+926
+00:44:19,720 --> 00:44:21,560
+successful, at least in the 
+short term. 
+
+927
+00:44:21,640 --> 00:44:23,960
+It will look good on camera. 
+It'll be promoted everywhere. 
+
+928
+00:44:23,960 --> 00:44:26,000
+It will feel safe, reassuring to
+many. 
+
+929
+00:44:26,440 --> 00:44:29,400
+It will sound profoundly 
+sincere, especially coming from 
+
+930
+00:44:29,400 --> 00:44:32,320
+institutions we trust. 
+And according to the critical 
+
+931
+00:44:32,320 --> 00:44:35,400
+analysis we've explored today, 
+that very success, that 
+
+932
+00:44:35,400 --> 00:44:40,000
+seamlessness, that sincerity, 
+that is precisely why it could 
+
+933
+00:44:40,000 --> 00:44:42,200
+be dangerous. 
+Because the moment the line 
+
+934
+00:44:42,200 --> 00:44:45,040
+vanishes, the line between the 
+chosen role of the virtuous 
+
+935
+00:44:45,040 --> 00:44:47,840
+patriot and the live reality of 
+bureaucratic control and 
+
+936
+00:44:47,840 --> 00:44:50,760
+compliance. 
+The new orthodoxy is born, maybe
+
+937
+00:44:50,760 --> 00:44:52,760
+without us even noticing the 
+shift. 
+
+938
+00:44:52,760 --> 00:44:57,720
+And that leaves us and you with 
+that central unresolved dilemma,
+
+939
+00:44:58,320 --> 00:45:00,880
+the question the American 
+dialectic seems to always circle
+
+940
+00:45:00,880 --> 00:45:04,040
+back to the question for you to 
+consider long after this deep 
+
+941
+00:45:04,040 --> 00:45:05,800
+dive ends. 
+When you're faced with the 
+
+942
+00:45:05,800 --> 00:45:08,680
+nation's deep contradictions, 
+its hypocrisy is in its 
+
+943
+00:45:08,680 --> 00:45:11,280
+aspirations. 
+Which is worse, the lie that 
+
+944
+00:45:11,280 --> 00:45:13,240
+offends or the truth that 
+terrifies? 
+
+945
+00:45:13,240 --> 00:45:16,640
+Because the pattern suggests we 
+Americans will continue to act 
+
+946
+00:45:16,640 --> 00:45:20,280
+out the answer first, perhaps 
+for a long time, before we ever 
+
+947
+00:45:20,280 --> 00:45:21,920
+find the courage to name it 
+truthfully. 
+
+948
+00:45:21,920 --> 00:45:25,680
+So we encourage you observe how 
+performance shapes reality in 
+
+949
+00:45:25,680 --> 00:45:27,360
+your own life, in your 
+communities, and your 
+
+950
+00:45:27,360 --> 00:45:31,080
+institutions, and recognize that
+this contest over the flag, this
+
+951
+00:45:31,080 --> 00:45:35,120
+messy ongoing struggle over who 
+gets to define what this 
+
+952
+00:45:35,120 --> 00:45:37,440
+Republic means. 
+That struggle is the Republic. 
+
+953
+00:45:37,520 --> 00:45:40,360
+It might be the greatest and 
+most necessary duty of being. 
+
+954
+00:45:40,840 --> 00:45:44,520
+Our subject today is, is 
+something quite visible lately, 
+
+955
+00:45:44,680 --> 00:45:47,960
+this shift within the American 
+progressive establishment, 
+
+956
+00:45:48,120 --> 00:45:51,680
+specifically the well, the 
+sudden and quite enthusiastic 
+
+957
+00:45:51,680 --> 00:45:55,480
+embrace of patriotic symbols, 
+nationalistic rhetoric. 
+
+958
+00:45:55,800 --> 00:45:58,920
+You know, we're seeing figures, 
+institutions that maybe once 
+
+959
+00:45:58,920 --> 00:46:01,680
+treated the flag or the founding
+documents with a certain 
+
+960
+00:46:01,680 --> 00:46:04,680
+skepticism, now quoting 
+Jefferson without apparent 
+
+961
+00:46:04,680 --> 00:46:08,120
+irony, holding no kings rallies 
+and using the phrase our 
+
+962
+00:46:08,120 --> 00:46:11,840
+Republic quite frequently, 
+almost almost defensively, it 
+
+963
+00:46:11,840 --> 00:46:13,280
+seems sometimes. 
+Mm Hmm. 
+
+964
+00:46:13,720 --> 00:46:15,800
+And it's definitely not a minor 
+shift, is it? 
+
+965
+00:46:16,160 --> 00:46:18,280
+I mean, the source material 
+we're looking at frames as 
+
+966
+00:46:18,280 --> 00:46:21,520
+phenomenon, not just as some 
+kind of a political rebranding 
+
+967
+00:46:21,520 --> 00:46:25,160
+exercise, but potentially as a 
+real turning point in the 
+
+968
+00:46:25,160 --> 00:46:27,960
+American dialectic. 
+It forces us, I think, to ask 
+
+969
+00:46:27,960 --> 00:46:30,120
+some pretty fundamental 
+questions about political 
+
+970
+00:46:30,120 --> 00:46:33,600
+sincerity and maybe even the 
+nature of civic duty itself. 
+
+971
+00:46:33,840 --> 00:46:36,360
+Absolutely. 
+So the core question before us 
+
+972
+00:46:36,360 --> 00:46:38,920
+today, the real heart of the 
+debate is this. 
+
+973
+00:46:39,360 --> 00:46:42,480
+Does this new progressive 
+patriotism represent a frankly 
+
+974
+00:46:42,480 --> 00:46:45,520
+dangerous act of what the source
+material calls bad faith? 
+
+975
+00:46:45,520 --> 00:46:48,040
+You know, a calculated 
+performance that's just destined
+
+976
+00:46:48,040 --> 00:46:50,880
+to harden into a kind of 
+self-righteous bureaucratic 
+
+977
+00:46:50,880 --> 00:46:53,640
+orthodoxy. 
+Or, alternatively, is it 
+
+978
+00:46:53,640 --> 00:46:57,400
+actually a necessary, perhaps 
+even genuine act of civic 
+
+979
+00:46:57,400 --> 00:47:01,080
+pedagogy, a kind of reclamation 
+that's actually required for the
+
+980
+00:47:01,080 --> 00:47:03,080
+Republic self correction? 
+Right. 
+
+981
+00:47:03,080 --> 00:47:07,240
+And I'll be arguing that what 
+we're seeing is essentially A 
+
+982
+00:47:07,280 --> 00:47:11,400
+genuine and I think necessary 
+civic evolution. 
+
+983
+00:47:12,080 --> 00:47:15,040
+It follows a pattern we've seen 
+before, historically speaking, 
+
+984
+00:47:15,360 --> 00:47:20,040
+the idea that, well, all civic 
+renewal begins as performance. 
+
+985
+00:47:20,280 --> 00:47:24,360
+And I'm going to argue that this
+is better understood as, let's 
+
+986
+00:47:24,360 --> 00:47:28,440
+call it the Great Patriotic 
+Heist, a synthetic and I 
+
+987
+00:47:28,440 --> 00:47:31,640
+believe, deeply dangerous 
+political maneuver toward what I
+
+988
+00:47:31,640 --> 00:47:34,880
+worry could become a kind of 
+sincerity by decree. 
+
+989
+00:47:35,320 --> 00:47:39,880
+OK, well let me start then by 
+laying out why I think this 
+
+990
+00:47:39,880 --> 00:47:43,920
+shift, even if it looks a bit 
+awkward or, you know, stage 
+
+991
+00:47:43,920 --> 00:47:47,880
+managed at first, is actually 
+fundamentally necessary very for
+
+992
+00:47:47,880 --> 00:47:51,960
+the political body to survive. 
+Critics might dismiss it as 
+
+993
+00:47:51,960 --> 00:47:55,880
+mimicry or just calculated 
+politics, but I think it could 
+
+994
+00:47:55,880 --> 00:47:58,360
+very well become what the source
+calls muscle memory. 
+
+995
+00:47:58,720 --> 00:48:01,600
+And that's really how genuine 
+belief systems often form. 
+
+996
+00:48:02,680 --> 00:48:05,520
+The historical context, I think 
+really supports this view. 
+
+997
+00:48:06,040 --> 00:48:09,640
+If you look back, all 
+significant civic renewal tends 
+
+998
+00:48:09,640 --> 00:48:13,960
+to start as ritual, as public 
+performance, before it really 
+
+999
+00:48:13,960 --> 00:48:17,400
+hardens into deep conviction. 
+The material reminds us of 
+
+1000
+00:48:17,400 --> 00:48:19,080
+Santiana's observation, doesn't 
+it? 
+
+1001
+00:48:19,080 --> 00:48:22,360
+That nothing was ever born 
+without pretending to be 
+
+1002
+00:48:22,360 --> 00:48:25,360
+something else first. 
+In a way, we're performing the 
+
+1003
+00:48:25,360 --> 00:48:30,120
+future we hope to inhabit. 
+I can see why history might seem
+
+1004
+00:48:30,120 --> 00:48:34,840
+to provide, well, a permissive 
+framework for this, but I tend 
+
+1005
+00:48:34,840 --> 00:48:39,000
+to frame it quite differently. 
+For me, this shift seems driven 
+
+1006
+00:48:39,000 --> 00:48:42,880
+much more by a kind of deep 
+narrative panic, you know, a 
+
+1007
+00:48:42,880 --> 00:48:47,640
+panic that really set in after 
+the the populist revolt expose 
+
+1008
+00:48:47,640 --> 00:48:51,320
+this massive vulnerability in 
+the establishment's, let's say, 
+
+1009
+00:48:51,400 --> 00:48:53,520
+emotional connection to the 
+country. 
+
+1010
+00:48:54,120 --> 00:48:56,720
+So what we're witnessing, I 
+think, is some pretty profound 
+
+1011
+00:48:56,720 --> 00:49:00,280
+ontological experimentation the 
+progressive establishment is 
+
+1012
+00:49:00,280 --> 00:49:04,000
+deliberately trying on this 
+patriotic costume that maybe 
+
+1013
+00:49:04,000 --> 00:49:07,480
+they secretly fear, or perhaps 
+desperately hope will eventually
+
+1014
+00:49:07,480 --> 00:49:11,600
+just fuse right onto their skin.
+But hang on, is it just trying 
+
+1015
+00:49:11,600 --> 00:49:15,880
+on a costume, or is it perhaps 
+an act of reclamation? 
+
+1016
+00:49:16,360 --> 00:49:19,480
+Because that seems deeply woven 
+into the fabric of American 
+
+1017
+00:49:19,480 --> 00:49:21,880
+history. 
+I mean, think about our major 
+
+1018
+00:49:21,880 --> 00:49:25,960
+moments of moral progress. 
+Lincoln, for example, he 
+
+1019
+00:49:25,960 --> 00:49:29,920
+effectively reappropriated the 
+founders from the slaveholders 
+
+1020
+00:49:30,000 --> 00:49:32,200
+who claimed exclusive ownership,
+didn't he? 
+
+1021
+00:49:32,680 --> 00:49:36,440
+He defined the nation not just 
+by who we were then, but by the,
+
+1022
+00:49:36,440 --> 00:49:39,760
+quote, unfinished work we owed 
+to the world. 
+
+1023
+00:49:40,520 --> 00:49:44,120
+Or Martin Luther King Junior 
+using America's foundational 
+
+1024
+00:49:44,120 --> 00:49:49,000
+ideals, the Declaration itself 
+as a kind of promissory note, a 
+
+1025
+00:49:49,000 --> 00:49:51,320
+debt the country simply had to 
+honor. 
+
+1026
+00:49:51,960 --> 00:49:55,320
+What we're seeing now, well, it 
+looks to me like the latest 
+
+1027
+00:49:55,320 --> 00:49:59,120
+version of that same process, 
+not some sudden, out of the blue
+
+1028
+00:49:59,120 --> 00:49:59,920
+invention. 
+But. 
+
+1029
+00:49:59,920 --> 00:50:02,920
+Isn't there a key difference 
+there that historical 
+
+1030
+00:50:02,920 --> 00:50:06,160
+reclamation you mentioned, it 
+was largely driven by outsiders,
+
+1031
+00:50:06,160 --> 00:50:07,760
+wasn't it? 
+Abolitionists. 
+
+1032
+00:50:07,760 --> 00:50:11,200
+Civil rights figures, people 
+forcing the system to bend 
+
+1033
+00:50:11,200 --> 00:50:14,720
+toward its own stated ideals, 
+using those ideals almost as a 
+
+1034
+00:50:14,720 --> 00:50:17,000
+weapon against the existing 
+establishment. 
+
+1035
+00:50:17,440 --> 00:50:20,640
+This current shift, it seems to 
+be coming from the inside. 
+
+1036
+00:50:20,920 --> 00:50:23,640
+It's the establishment itself 
+performing the change. 
+
+1037
+00:50:23,920 --> 00:50:25,760
+And that difference feels 
+crucial to me. 
+
+1038
+00:50:26,080 --> 00:50:29,440
+It brings us towards something 
+like, well, Sart's concept of 
+
+1039
+00:50:29,440 --> 00:50:32,000
+bad faith. 
+And this isn't just, you know, 
+
+1040
+00:50:32,000 --> 00:50:35,440
+simple hypocrisy, which implies 
+you know the truth and 
+
+1041
+00:50:35,440 --> 00:50:38,360
+consciously choose to lie. 
+This feels more like that 
+
+1042
+00:50:38,360 --> 00:50:41,840
+Sertrian bad faith, the 
+establishment choosing to hide 
+
+1043
+00:50:41,840 --> 00:50:44,760
+from the, let's face it, 
+difficult truth that they are 
+
+1044
+00:50:44,760 --> 00:50:46,960
+actively performing this 
+identity right now. 
+
+1045
+00:50:47,640 --> 00:50:50,320
+They're playing the patriotic 
+role so completely, almost 
+
+1046
+00:50:50,320 --> 00:50:53,920
+desperately, until the role 
+itself becomes mandatory, a kind
+
+1047
+00:50:53,920 --> 00:50:56,760
+of self-imposed cage. 
+It feels like an attempt to 
+
+1048
+00:50:56,760 --> 00:51:01,120
+negate their own past critiques 
+by adopting the aesthetics of 
+
+1049
+00:51:01,120 --> 00:51:03,720
+the very system they once seemed
+to oppose. 
+
+1050
+00:51:03,880 --> 00:51:08,200
+OK, I hear you on the cage 
+metaphor for national identity, 
+
+1051
+00:51:08,400 --> 00:51:12,160
+and I agree any codified civic 
+identity certainly risks 
+
+1052
+00:51:12,160 --> 00:51:14,880
+becoming restrictive. 
+But isn't that choice of 
+
+1053
+00:51:14,880 --> 00:51:18,480
+identity also necessary for 
+stability, for survival even? 
+
+1054
+00:51:18,880 --> 00:51:23,120
+Why is choosing an aspirational 
+patriotic identity, especially 1
+
+1055
+00:51:23,120 --> 00:51:26,360
+based on the proposition of 
+equality, necessarily a cage 
+
+1056
+00:51:26,360 --> 00:51:28,720
+rather than, say, a necessary 
+foundation? 
+
+1057
+00:51:28,800 --> 00:51:31,840
+Because the danger, as I see it,
+isn't that the performance is 
+
+1058
+00:51:31,840 --> 00:51:34,880
+hollow or fake. 
+The source material actually 
+
+1059
+00:51:34,880 --> 00:51:37,600
+suggests it might become real in
+the worst way. 
+
+1060
+00:51:38,200 --> 00:51:41,120
+If this shift actually succeeds,
+the worry is that it 
+
+1061
+00:51:41,120 --> 00:51:45,240
+institutionalizes a kind of 
+moral nationalism that fuses 
+
+1062
+00:51:45,240 --> 00:51:48,520
+empathy with control, and that 
+leads directly to what the 
+
+1063
+00:51:48,520 --> 00:51:51,840
+source rather chillingly names 
+the United States of HR. 
+
+1064
+00:51:52,360 --> 00:51:54,720
+Think about that. 
+This isn't a state controlled 
+
+1065
+00:51:54,720 --> 00:51:57,120
+by, you know, jingoistic 
+military figures. 
+
+1066
+00:51:57,440 --> 00:52:00,720
+It's potentially a kind of soft 
+despotism where compliance with 
+
+1067
+00:52:00,720 --> 00:52:04,600
+a very specific set of approved 
+progressive values, things like 
+
+1068
+00:52:04,600 --> 00:52:07,120
+diversity metrics or 
+environmental stewardship 
+
+1069
+00:52:07,120 --> 00:52:10,080
+targets, gets mistaken for 
+genuine freedom. 
+
+1070
+00:52:10,480 --> 00:52:13,160
+The flag in that scenario 
+becomes almost like the logo for
+
+1071
+00:52:13,160 --> 00:52:18,280
+internal corporate compliance. 
+I just don't quite buy that the 
+
+1072
+00:52:18,280 --> 00:52:23,400
+primary outcome here is going to
+be some sort of totalitarian HR 
+
+1073
+00:52:23,400 --> 00:52:26,280
+department running the country. 
+I suppose I come in it from a 
+
+1074
+00:52:26,280 --> 00:52:28,880
+different angle. 
+The practical and frankly, the 
+
+1075
+00:52:28,880 --> 00:52:32,840
+emotional necessity, guilt 
+alone, relentless critique. 
+
+1076
+00:52:32,840 --> 00:52:35,560
+That just can't hold a complex 
+democracy together, can it? 
+
+1077
+00:52:35,840 --> 00:52:38,080
+Especially not in today's 
+fragmented information 
+
+1078
+00:52:38,080 --> 00:52:39,920
+environment. 
+You need some level of 
+
+1079
+00:52:39,920 --> 00:52:42,280
+affection. 
+You need common songs, common 
+
+1080
+00:52:42,280 --> 00:52:45,840
+symbols. 
+This new patriotism, I think, is
+
+1081
+00:52:45,840 --> 00:52:48,920
+simply the latest attempt to 
+translate that old idea that 
+
+1082
+00:52:48,920 --> 00:52:51,000
+America is a proposition, not a 
+tribe. 
+
+1083
+00:52:51,400 --> 00:52:54,400
+We simply need something more 
+visceral, more felt than 
+
+1084
+00:52:54,400 --> 00:52:58,120
+spreadsheets and policy papers, 
+if we want to outlast the appeal
+
+1085
+00:52:58,120 --> 00:53:02,720
+of, say, raw ethno nationalism. 
+OK, I understand prioritizing 
+
+1086
+00:53:02,720 --> 00:53:05,800
+that need for affection to fill 
+what you see as an emotional 
+
+1087
+00:53:05,800 --> 00:53:08,440
+vacuum. 
+But let me push back a bit on 
+
+1088
+00:53:08,440 --> 00:53:11,760
+the nature of that necessity. 
+If this is truly about meeting a
+
+1089
+00:53:11,760 --> 00:53:15,640
+desperate emotional need, why 
+does it feel so, well, 
+
+1090
+00:53:15,960 --> 00:53:18,520
+inorganic? 
+I mean, I challenge the 
+
+1091
+00:53:18,520 --> 00:53:22,200
+sincerity by calling this 
+synthetic patriotism. 
+
+1092
+00:53:22,760 --> 00:53:25,280
+It feels like pride that's being
+managed by communications 
+
+1093
+00:53:25,280 --> 00:53:28,120
+professionals, distributed 
+through institutions, think 
+
+1094
+00:53:28,120 --> 00:53:31,000
+tanks, media platforms. 
+It feels less like a genuine 
+
+1095
+00:53:31,000 --> 00:53:33,840
+change of heart and more like 
+the establishment learning the 
+
+1096
+00:53:33,840 --> 00:53:37,280
+right kind of cosplay, if you 
+will, needed to absorb the 
+
+1097
+00:53:37,280 --> 00:53:40,440
+aesthetics and the emotional 
+power of the populist revolt, 
+
+1098
+00:53:40,440 --> 00:53:43,680
+its antithesis, and ultimately 
+neutralize its energy. 
+
+1099
+00:53:44,080 --> 00:53:47,440
+It looks like a calculated 
+institutional defense mechanism,
+
+1100
+00:53:47,680 --> 00:53:50,360
+not some spontaneous civic 
+awakening from below. 
+
+1101
+00:53:50,480 --> 00:53:54,240
+Well, it might be calculated, 
+sure, but calculation doesn't 
+
+1102
+00:53:54,240 --> 00:53:56,160
+automatically negate its 
+function. 
+
+1103
+00:53:56,400 --> 00:53:59,800
+The performance itself can still
+serve a crucial and I'd argue 
+
+1104
+00:53:59,800 --> 00:54:03,680
+necessary function with the 
+source calls civic pedagogy. 
+
+1105
+00:54:03,960 --> 00:54:06,960
+How do citizens learn shared 
+ideals and values? 
+
+1106
+00:54:07,240 --> 00:54:09,560
+Often through public rituals, 
+through symbols, through 
+
+1107
+00:54:09,560 --> 00:54:12,840
+declared affections, even if 
+they feel a bit forced at first.
+
+1108
+00:54:13,440 --> 00:54:17,440
+This current shift looks like an
+explicit effort to reframe 
+
+1109
+00:54:17,440 --> 00:54:20,880
+equality, inclusion, and 
+environmental stewardship as 
+
+1110
+00:54:20,880 --> 00:54:24,920
+expressions of profound national
+pride rather than renunciations 
+
+1111
+00:54:24,920 --> 00:54:26,600
+of it. 
+And that seems like building an 
+
+1112
+00:54:26,600 --> 00:54:30,080
+absolutely essential emotional 
+bridge back towards the 
+
+1113
+00:54:30,080 --> 00:54:33,680
+political mainstream, especially
+after the let's call it moral 
+
+1114
+00:54:33,680 --> 00:54:37,360
+exhaustion of the 20 tens, when 
+progressive politics often felt 
+
+1115
+00:54:37,360 --> 00:54:39,920
+defined almost solely by 
+critique and rejection. 
+
+1116
+00:54:41,120 --> 00:54:44,760
+But that calculated reframing, 
+that synthesis you describe, 
+
+1117
+00:54:44,960 --> 00:54:48,080
+that's precisely where I see the
+danger lurking, because it 
+
+1118
+00:54:48,080 --> 00:54:51,440
+attempts to sanitize control. 
+I have to disagree pretty 
+
+1119
+00:54:51,440 --> 00:54:54,200
+profoundly about the likely 
+outcome of this synthesis. 
+
+1120
+00:54:54,640 --> 00:54:57,800
+I see the current blend, this 
+mix of progressive moral 
+
+1121
+00:54:57,800 --> 00:55:01,800
+vocabulary with a kind of 
+populist aesthetic or affect, as
+
+1122
+00:55:01,800 --> 00:55:04,440
+basically an extension of the 
+founding promise. 
+
+1123
+00:55:04,960 --> 00:55:08,280
+It's making explicit what many 
+have argued all along, that the 
+
+1124
+00:55:08,280 --> 00:55:11,920
+original American Revolution 
+was, in a sense, interrupted, 
+
+1125
+00:55:11,920 --> 00:55:14,520
+not finished. 
+The source material itself 
+
+1126
+00:55:14,520 --> 00:55:17,440
+points to the deliberate 
+inclusion now of figures like 
+
+1127
+00:55:17,440 --> 00:55:19,360
+Frederick Douglass and Susan B 
+Anthony. 
+
+1128
+00:55:19,360 --> 00:55:22,360
+Alongside Jefferson is, you 
+know, proof that the Canon is 
+
+1129
+00:55:22,360 --> 00:55:25,160
+being updated, made more honest,
+not diluted. 
+
+1130
+00:55:25,720 --> 00:55:29,640
+To me, this looks like an 
+inclusive moral nationalism, an 
+
+1131
+00:55:29,640 --> 00:55:32,640
+aspirational step towards the 
+nation we're actually supposed 
+
+1132
+00:55:32,640 --> 00:55:34,600
+to be. 
+That's certainly a compelling 
+
+1133
+00:55:34,600 --> 00:55:37,760
+argument for the intent behind 
+the update, I grant you that. 
+
+1134
+00:55:38,000 --> 00:55:41,440
+But I'm just not convinced about
+the benevolent outcome, largely 
+
+1135
+00:55:41,440 --> 00:55:44,640
+because history tends to show us
+how power actually works. 
+
+1136
+00:55:44,960 --> 00:55:48,400
+And I'd bring up the Hegelian 
+dialectic here, which, as you 
+
+1137
+00:55:48,400 --> 00:55:52,120
+know, dictates that every 
+successful synthesis eventually 
+
+1138
+00:55:52,120 --> 00:55:55,840
+becomes the new thesis, and, 
+crucially, every performance 
+
+1139
+00:55:55,840 --> 00:55:59,520
+becomes the new orthodoxy. 
+We're not just debating abstract
+
+1140
+00:55:59,520 --> 00:56:02,360
+ideals here. 
+We're debating managerial power 
+
+1141
+00:56:02,360 --> 00:56:05,080
+structures. 
+This new patriotic synthesis, I 
+
+1142
+00:56:05,080 --> 00:56:07,720
+worry, risks being monstrous 
+precisely because it 
+
+1143
+00:56:07,720 --> 00:56:11,760
+institutionalizes compliance. 
+It seems to demand obedience to 
+
+1144
+00:56:11,800 --> 00:56:15,280
+a specific, very current set of 
+progressive moral values. 
+
+1145
+00:56:15,680 --> 00:56:19,480
+In that world, the flag stops 
+being a symbol of, say, defiant 
+
+1146
+00:56:19,480 --> 00:56:23,320
+risk or even shared, complicated
+history, and instead become 
+
+1147
+00:56:23,320 --> 00:56:26,160
+something more like a corporate 
+logo for decency. 
+
+1148
+00:56:26,400 --> 00:56:30,440
+OK, the idea that this 
+aspirational patriotism will 
+
+1149
+00:56:30,440 --> 00:56:33,920
+inevitably morph into an 
+instrument of oppression, I 
+
+1150
+00:56:33,920 --> 00:56:37,240
+think that underestimates the 
+foundational American, maybe 
+
+1151
+00:56:37,240 --> 00:56:40,640
+even human resistance to 
+mandatory belief. 
+
+1152
+00:56:41,080 --> 00:56:43,640
+We are, after all, a nation 
+pretty much built on 
+
+1153
+00:56:43,640 --> 00:56:46,120
+disagreement. 
+You're concerned about control. 
+
+1154
+00:56:46,120 --> 00:56:49,600
+It's valid, of course it is, but
+it has to be weighed against the
+
+1155
+00:56:49,600 --> 00:56:53,080
+necessary function of having any
+shared story at all. 
+
+1156
+00:56:53,600 --> 00:56:56,200
+You're focusing on the 
+managerial risk, but I'd argue 
+
+1157
+00:56:56,200 --> 00:57:00,120
+the attempt to create some kind 
+of shared aspirational narrative
+
+1158
+00:57:00,400 --> 00:57:03,560
+is actually a necessary 
+safeguard against the sheer 
+
+1159
+00:57:03,560 --> 00:57:06,800
+nihilism that can be born from 
+constant shame and self 
+
+1160
+00:57:06,800 --> 00:57:09,240
+flagellation. 
+But the specific danger, I 
+
+1161
+00:57:09,240 --> 00:57:12,200
+think, lies in the 
+institutionalization of this 
+
+1162
+00:57:12,240 --> 00:57:16,360
+managerial moral order precisely
+because of who seems to be 
+
+1163
+00:57:16,360 --> 00:57:20,560
+leading the charge this time. 
+The left arguably has always 
+
+1164
+00:57:20,560 --> 00:57:23,560
+been better at 
+institutionalizing things, you 
+
+1165
+00:57:23,560 --> 00:57:26,840
+know, creating nonprofits, 
+staffing government agencies, 
+
+1166
+00:57:26,960 --> 00:57:30,840
+shaping HR policy. 
+And that means potentially they 
+
+1167
+00:57:30,840 --> 00:57:33,920
+might actually succeed where the
+right failed by 
+
+1168
+00:57:33,920 --> 00:57:37,320
+professionalizing sincerity. 
+And when you professionalize 
+
+1169
+00:57:37,320 --> 00:57:40,480
+sincerity, the patriotism risks 
+becoming mandatory. 
+
+1170
+00:57:41,000 --> 00:57:44,480
+The flag becomes, as I suggested
+earlier, the compliance symbol, 
+
+1171
+00:57:45,000 --> 00:57:48,000
+and that results in that 
+dangerous synthesis, sincerity 
+
+1172
+00:57:48,000 --> 00:57:50,280
+by decree. 
+It might look like a friendly 
+
+1173
+00:57:50,280 --> 00:57:54,360
+face, sure, but ultimately it's 
+a smile with paperwork attached.
+
+1174
+00:57:54,800 --> 00:57:58,120
+How can you really have freedom 
+if dissent itself gets labeled 
+
+1175
+00:57:58,120 --> 00:58:01,800
+as unpatriotic or even worse, 
+simply noncompliant? 
+
+1176
+00:58:02,120 --> 00:58:04,960
+I absolutely understand the 
+skepticism toward any kind of 
+
+1177
+00:58:04,960 --> 00:58:08,280
+top down morality, I really do. 
+But have you fully considered 
+
+1178
+00:58:08,280 --> 00:58:11,400
+the alternative threat? 
+The danger of emotional nihilism
+
+1179
+00:58:11,400 --> 00:58:14,440
+frankly seems far greater to me 
+than a few bureaucratic hurdles.
+
+1180
+00:58:14,440 --> 00:58:18,360
+A Republic that dedicates itself
+only to critique, only to self 
+
+1181
+00:58:18,360 --> 00:58:20,480
+dissection. 
+Well, it eventually forgets how 
+
+1182
+00:58:20,480 --> 00:58:23,520
+to love itself, doesn't it? 
+So this new move, even if it 
+
+1183
+00:58:23,520 --> 00:58:26,280
+starts out feeling synthetic, 
+seems to me to be seeking a 
+
+1184
+00:58:26,280 --> 00:58:29,320
+critical middle path, somewhere 
+between jingoistic chauvinism on
+
+1185
+00:58:29,320 --> 00:58:31,840
+one side and debilitating shame 
+on the other. 
+
+1186
+00:58:32,320 --> 00:58:34,960
+It seems to acknowledge what the
+source calls the emotional 
+
+1187
+00:58:34,960 --> 00:58:37,240
+intelligence gap in recent 
+progressive politics, 
+
+1188
+00:58:37,560 --> 00:58:40,080
+recognizing that maybe we need 
+to provide some positive 
+
+1189
+00:58:40,080 --> 00:58:43,640
+affection for institutions if we
+expect them to survive rigorous 
+
+1190
+00:58:43,640 --> 00:58:47,200
+criticism. 
+If we just reject this kind of 
+
+1191
+00:58:47,200 --> 00:58:52,120
+civic evolution out of hand, we 
+risk leaving the entire field of
+
+1192
+00:58:52,120 --> 00:58:56,520
+national affection to those who 
+define love of country in the 
+
+1193
+00:58:56,520 --> 00:59:01,320
+narrowest, most tribal, and 
+often exclusionary terms. 
+
+1194
+00:59:02,040 --> 00:59:06,000
+You worry about soft despotism. 
+I worry more about civic 
+
+1195
+00:59:06,000 --> 00:59:09,440
+evaporation altogether. 
+But civic love enforced by the 
+
+1196
+00:59:09,440 --> 00:59:12,040
+managers, well, that isn't 
+really love, is it? 
+
+1197
+00:59:12,480 --> 00:59:15,880
+It's soft despotism disguises 
+communal improvement. 
+
+1198
+00:59:16,200 --> 00:59:19,440
+And for me, that brings us right
+back to Sartre, your original 
+
+1199
+00:59:19,440 --> 00:59:21,800
+warning. 
+When you choose to negate your 
+
+1200
+00:59:21,800 --> 00:59:25,640
+own freedom by simply assuming a
+pre written role, you risk 
+
+1201
+00:59:25,640 --> 00:59:29,320
+becoming enslaved by that very 
+performance you're arguing for. 
+
+1202
+00:59:29,320 --> 00:59:34,320
+A necessity that I fear in 
+practice risks erasing genuine, 
+
+1203
+00:59:34,440 --> 00:59:37,360
+necessary dissent. 
+And I believe the effort to 
+
+1204
+00:59:37,360 --> 00:59:42,600
+redirect populist energy and the
+national story toward pluralism 
+
+1205
+00:59:42,880 --> 00:59:46,320
+rather than just letting it 
+devolve into nativist nostalgia 
+
+1206
+00:59:46,720 --> 00:59:50,560
+is probably the only viable path
+towards self correction we have 
+
+1207
+00:59:50,560 --> 00:59:53,960
+right now. 
+The performance, however clumsy 
+
+1208
+00:59:53,960 --> 00:59:57,680
+it might seem initially, might 
+be the only tool available to 
+
+1209
+00:59:57,680 --> 00:59:59,920
+forge some kind of common 
+language again. 
+
+1210
+00:59:59,920 --> 01:00:04,200
+So we've explored this. 
+This profound tension between 
+
+1211
+01:00:04,200 --> 01:00:08,080
+historical necessity, as you see
+it, and political sincerity, as 
+
+1212
+01:00:08,080 --> 01:00:12,200
+I worry about it, inherent in 
+this pretty dramatic political 
+
+1213
+01:00:12,200 --> 01:00:15,600
+shift, Let me just reiterate the
+Sartre and warning that really 
+
+1214
+01:00:15,600 --> 01:00:18,880
+guides my position here. 
+Pretending long enough to be 
+
+1215
+01:00:18,880 --> 01:00:22,600
+patriotic risks erasing the line
+between the political role and, 
+
+1216
+01:00:22,880 --> 01:00:26,240
+well, personal reality. 
+It risks hardening calculated 
+
+1217
+01:00:26,240 --> 01:00:30,360
+bad faith into a kind of 
+mandatory national culture, the 
+
+1218
+01:00:30,360 --> 01:00:34,320
+potential for a multicultural, 
+corporately managed patriotism 
+
+1219
+01:00:34,320 --> 01:00:36,560
+that enforces sincerity by 
+decree. 
+
+1220
+01:00:37,040 --> 01:00:40,040
+That feels like a profound 
+threat to genuine freedom and 
+
+1221
+01:00:40,040 --> 01:00:43,160
+authentic civic descent. 
+We have to remain vigilant, I 
+
+1222
+01:00:43,160 --> 01:00:45,960
+think, against the flag becoming
+just a symbol of required 
+
+1223
+01:00:45,960 --> 01:00:49,000
+conformity enforced by those who
+are best at managing the 
+
+1224
+01:00:49,000 --> 01:00:52,320
+paperwork. 
+And I'll reiterate the what I 
+
+1225
+01:00:52,320 --> 01:00:55,520
+see as the necessary historical 
+perspective. 
+
+1226
+01:00:56,320 --> 01:01:00,800
+This country tends to digest its
+contradictions by fighting about
+
+1227
+01:01:00,800 --> 01:01:05,560
+them, usually quite publicly. 
+The flag survives and maybe even
+
+1228
+01:01:05,560 --> 01:01:08,840
+remains useful, precisely 
+because it remains contested 
+
+1229
+01:01:08,840 --> 01:01:11,480
+territory, meaning different 
+things to different groups of 
+
+1230
+01:01:11,480 --> 01:01:14,720
+citizens at different times. 
+So whether this progressive 
+
+1231
+01:01:14,720 --> 01:01:19,080
+patriotism is ultimately just a 
+strategic rebrand or signals A 
+
+1232
+01:01:19,080 --> 01:01:23,480
+genuine revival, well, it seems 
+to me part of the long, often 
+
+1233
+01:01:23,480 --> 01:01:25,680
+messy American pattern of self 
+correction. 
+
+1234
+01:01:26,200 --> 01:01:29,040
+It reminds us that loving your 
+country, in whatever form that 
+
+1235
+01:01:29,040 --> 01:01:33,080
+takes, is maybe the shared duty 
+of everyone who argues about its
+
+1236
+01:01:33,080 --> 01:01:36,640
+meaning, even, and perhaps 
+especially those who started out
+
+1237
+01:01:36,640 --> 01:01:38,560
+as the country's sharpest 
+critics. 
+
+1238
+01:01:38,720 --> 01:01:42,640
+Indeed, and the material makes 
+it quite clear that this debate 
+
+1239
+01:01:42,640 --> 01:01:45,160
+leaves a core tension 
+unresolved. 
+
+1240
+01:01:45,160 --> 01:01:48,440
+Really, for the listener, it's 
+that tension between two 
+
+1241
+01:01:48,440 --> 01:01:52,120
+different forms of political 
+threat which is ultimately worse
+
+1242
+01:01:52,120 --> 01:01:55,360
+for the future of the Republic, 
+the lie that offends or the 
+
+1243
+01:01:55,360 --> 01:01:58,800
+truth that terrifies. 
+And regardless of our 
+
+1244
+01:01:58,800 --> 01:02:02,320
+intellectual conclusions here 
+today, the country itself, as it
+
+1245
+01:02:02,320 --> 01:02:05,280
+always seems to do, will 
+probably just act it out. 
+
+1246
+01:02:05,360 --> 01:02:08,040
+Archer. 
+And Hegel, quite powerfully, I 
+
+1247
+01:02:08,040 --> 01:02:11,400
+think, to look at the left's 
+turn towards patriotism, asking 
+
+1248
+01:02:11,400 --> 01:02:14,800
+if it's performance or, you 
+know, genuine evolution. 
+
+1249
+01:02:15,320 --> 01:02:19,200
+It's definitely ambitious, 
+philosophically deep, but that 
+
+1250
+01:02:19,200 --> 01:02:22,000
+ambition brings challenges, 
+especially with complex 
+
+1251
+01:02:22,000 --> 01:02:25,160
+frameworks. 
+Maybe we start there with the 
+
+1252
+01:02:25,160 --> 01:02:28,200
+clarity of the structure. 
+Right, the Hegelian dialectic. 
+
+1253
+01:02:28,360 --> 01:02:31,760
+It's the backbone here. 
+Thesis, managerial moral order, 
+
+1254
+01:02:31,960 --> 01:02:37,000
+antithesis, populist revolt. 
+But then it gets a bit intricate
+
+1255
+01:02:37,000 --> 01:02:40,040
+with the synthesis. 
+Yeah, that's the friction point 
+
+1256
+01:02:40,040 --> 01:02:42,360
+for me. 
+The dialectic is a great tool, 
+
+1257
+01:02:42,360 --> 01:02:46,800
+but the way the sequence unfolds
+here, well, it needs clear 
+
+1258
+01:02:46,800 --> 01:02:50,720
+signposting. 
+So topic one, while the Hegelian
+
+1259
+01:02:50,720 --> 01:02:53,360
+application is strong, the 
+structural terms need 
+
+1260
+01:02:53,360 --> 01:02:56,360
+streamlining for clarity. 
+OK, so the material calls the 
+
+1261
+01:02:56,360 --> 01:03:00,840
+populist revolt MAGA the 
+antithesis, but then labels MAGA
+
+1262
+01:03:00,840 --> 01:03:04,480
+itself the first synthesis. 
+It's actually, And then you get 
+
+1263
+01:03:04,480 --> 01:03:08,640
+the Great Patriotic Heist as a 
+counter antithesis, which then 
+
+1264
+01:03:08,640 --> 01:03:11,840
+leads to synthetic patriotism as
+the second synthesis. 
+
+1265
+01:03:13,120 --> 01:03:15,320
+And look, the concern isn't that
+it's wrong. 
+
+1266
+01:03:15,560 --> 01:03:19,200
+Maybe reality is that messy. 
+But the weakness is that this 
+
+1267
+01:03:19,200 --> 01:03:22,440
+dense layering risks confusing 
+even a careful reader. 
+
+1268
+01:03:22,880 --> 01:03:24,640
+Which synthesis is the main 
+event? 
+
+1269
+01:03:24,920 --> 01:03:27,800
+Where's the focus? 
+It kind of blurs the path to the
+
+1270
+01:03:27,800 --> 01:03:29,920
+final point about progressive 
+patriotism. 
+
+1271
+01:03:29,960 --> 01:03:33,360
+But isn't that complexity part 
+of the point, reflecting the 
+
+1272
+01:03:33,360 --> 01:03:38,000
+actual messiness of, well, now? 
+Are we trying to oversimplify? 
+
+1273
+01:03:38,200 --> 01:03:41,080
+I don't think it's about 
+oversimplifying reality, it's 
+
+1274
+01:03:41,080 --> 01:03:43,760
+about sharpening the writer's 
+argument about that reality. 
+
+1275
+01:03:44,080 --> 01:03:48,360
+So the suggestion is streamline 
+The terms make the progression 
+
+1276
+01:03:48,360 --> 01:03:51,120
+towards that final synthesis, 
+the progressive 1, crystal 
+
+1277
+01:03:51,120 --> 01:03:53,080
+clear. 
+Right, because that's the real 
+
+1278
+01:03:53,080 --> 01:03:54,880
+subject under the microscope 
+here. 
+
+1279
+01:03:55,040 --> 01:03:59,120
+Precisely. 
+So one concrete way, maybe just 
+
+1280
+01:03:59,120 --> 01:04:03,600
+label the populist revolt the 
+full antithesis, then reserve 
+
+1281
+01:04:03,600 --> 01:04:06,680
+synthesis only for the final 
+synthetic patriotism. 
+
+1282
+01:04:07,280 --> 01:04:11,320
+That gives you a cleaner thesis.
+Antithesis Synthesis arc focused
+
+1283
+01:04:11,320 --> 01:04:14,400
+on the main argument. 
+OK, see that. 
+
+1284
+01:04:14,920 --> 01:04:17,920
+But what if the author really 
+wants to keep both MAGA and 
+
+1285
+01:04:17,920 --> 01:04:21,600
+progressive patriotism as 
+distinct synthesis showing sort 
+
+1286
+01:04:21,600 --> 01:04:24,600
+of parallel resolutions? 
+That's definitely possible. 
+
+1287
+01:04:24,920 --> 01:04:28,840
+It's a sophisticated take, but 
+if they do that, the text 
+
+1288
+01:04:28,880 --> 01:04:32,560
+absolutely has to spell out what
+specific contradiction each 
+
+1289
+01:04:32,560 --> 01:04:36,880
+synthesis resolves. 
+Like, OK, MAGA resolves this 
+
+1290
+01:04:36,880 --> 01:04:39,840
+tension, pause. 
+Now, moving on, the progressive 
+
+1291
+01:04:39,840 --> 01:04:42,080
+synthesis addresses this 
+contradiction. 
+
+1292
+01:04:42,440 --> 01:04:45,760
+So explicitly signpost each 
+stage and its function. 
+
+1293
+01:04:45,920 --> 01:04:48,720
+Exactly. 
+Make the complexity a feature, 
+
+1294
+01:04:48,720 --> 01:04:50,880
+not a bug. 
+By guiding the reader through it
+
+1295
+01:04:50,880 --> 01:04:54,560
+very deliberately, it reinforces
+the analysis instead of 
+
+1296
+01:04:54,560 --> 01:04:57,360
+obscuring it. 
+OK, structure clarified. 
+
+1297
+01:04:57,720 --> 01:05:01,360
+Let's shift gears slightly. 
+What about the the weight and 
+
+1298
+01:05:01,360 --> 01:05:04,520
+placement of the core arguments?
+I'm thinking specifically about 
+
+1299
+01:05:04,520 --> 01:05:07,880
+the Sartre and warning versus 
+the historical counter argument.
+
+1300
+01:05:08,160 --> 01:05:10,840
+Yeah, that's the second big 
+area. 
+
+1301
+01:05:11,040 --> 01:05:14,240
+You've got these two really 
+powerful perspectives, Sartre on
+
+1302
+01:05:14,240 --> 01:05:17,960
+the existential danger, Santiana
+on historical renewal. 
+
+1303
+01:05:18,240 --> 01:05:22,560
+But they feel kind of separate, 
+and that separation, I think, 
+
+1304
+01:05:22,560 --> 01:05:25,000
+actually weakens the punch of 
+the main argument. 
+
+1305
+01:05:25,200 --> 01:05:28,320
+The main essay You become what 
+you pretend to be. 
+
+1306
+01:05:28,560 --> 01:05:31,960
+It sets up this really stark 
+warning, performative patriotism
+
+1307
+01:05:31,960 --> 01:05:35,440
+becoming real, but in the worst 
+way, very urgent. 
+
+1308
+01:05:35,560 --> 01:05:38,840
+Super urgent that existential 
+threat lands hard. 
+
+1309
+01:05:39,080 --> 01:05:42,680
+But then much later we get this 
+detailed counter section. 
+
+1310
+01:05:42,880 --> 01:05:44,920
+The whole reinvention of the 
+flag piece. 
+
+1311
+01:05:45,240 --> 01:05:49,040
+It's thorough, it's historical. 
+But it arrives so late it almost
+
+1312
+01:05:49,040 --> 01:05:52,480
+feels like a different essay. 
+And the weakness there is that 
+
+1313
+01:05:52,480 --> 01:05:56,480
+it unintentionally dials down 
+the urgency of the initial 
+
+1314
+01:05:56,480 --> 01:05:59,240
+Sartre and warning. 
+It shifts the focus from 
+
+1315
+01:05:59,240 --> 01:06:02,720
+philosophical danger to, well, 
+historical precedent. 
+
+1316
+01:06:02,720 --> 01:06:06,520
+Almost like civic lessons, it 
+feels tacked on, maybe pulling 
+
+1317
+01:06:06,520 --> 01:06:11,400
+focus from that really original 
+idea about synthetic sincerity. 
+
+1318
+01:06:11,600 --> 01:06:15,360
+So the reader gets this jolt of 
+existential dread and then later
+
+1319
+01:06:15,360 --> 01:06:18,520
+a kind of historical corrective.
+Does it feel connected enough? 
+
+1320
+01:06:18,760 --> 01:06:21,680
+That's the question. 
+Are we asking the reader to do 
+
+1321
+01:06:21,680 --> 01:06:24,680
+too much work connecting the 
+dots between the philosophical 
+
+1322
+01:06:24,680 --> 01:06:30,520
+risk and the historical context?
+So the suggestion is integrate 
+
+1323
+01:06:30,520 --> 01:06:34,080
+them, weave that historical 
+evidence, the Santiana angle, 
+
+1324
+01:06:34,320 --> 01:06:36,480
+into the main flow of the Sartre
+in argument. 
+
+1325
+01:06:36,840 --> 01:06:38,680
+Instead of a separate block. 
+Right. 
+
+1326
+01:06:38,880 --> 01:06:42,640
+Let the core warning absorb that
+history, engage with it 
+
+1327
+01:06:42,640 --> 01:06:46,520
+directly, and then transcend it.
+It makes the final synthesis, 
+
+1328
+01:06:46,640 --> 01:06:49,400
+the main warning, feel stronger,
+more grounded. 
+
+1329
+01:06:49,720 --> 01:06:53,880
+I can see that strengthening the
+flow, but isn't their value in 
+
+1330
+01:06:53,880 --> 01:06:56,520
+presenting it as a distinct 
+counter? 
+
+1331
+01:06:56,840 --> 01:07:00,680
+Doesn't that show intellectual 
+honesty, acknowledging the other
+
+1332
+01:07:00,680 --> 01:07:02,840
+side fully? 
+That's a fairpoint, we don't 
+
+1333
+01:07:02,840 --> 01:07:06,160
+want to lose that nuance, but 
+you can maintain that honesty by
+
+1334
+01:07:06,160 --> 01:07:09,440
+integrating the history as 
+context or specific counter 
+
+1335
+01:07:09,440 --> 01:07:12,440
+examples within the main 
+argument rather than a full 
+
+1336
+01:07:12,440 --> 01:07:15,400
+separate rebuttal. 
+OK, so for instance, how would 
+
+1337
+01:07:15,400 --> 01:07:18,360
+that look? 
+Well a concrete example instead 
+
+1338
+01:07:18,360 --> 01:07:22,360
+of the whole separate section. 
+Bring in Lincoln or MLK using 
+
+1339
+01:07:22,360 --> 01:07:26,120
+American ideals or those anti 
+war vets reclaiming the flag. 
+
+1340
+01:07:26,280 --> 01:07:30,600
+Bring those examples in earlier.
+And use them to contrast to say 
+
+1341
+01:07:30,800 --> 01:07:34,040
+this is what they did, but the 
+current performance is different
+
+1342
+01:07:34,040 --> 01:07:35,760
+because. 
+Exactly. 
+
+1343
+01:07:35,760 --> 01:07:38,360
+It sharpens the critique. 
+It highlights the difference 
+
+1344
+01:07:38,360 --> 01:07:42,080
+between what the writer sees as 
+authentic civic evolution versus
+
+1345
+01:07:42,080 --> 01:07:45,560
+this specific synthetic managed 
+version they're worried about. 
+
+1346
+01:07:45,960 --> 01:07:48,880
+The history then serves to 
+clarify the present danger. 
+
+1347
+01:07:49,520 --> 01:07:52,840
+Or another way, maybe use the 
+historical shifts in language. 
+
+1348
+01:07:52,840 --> 01:07:56,840
+You know how belonging was 
+talked about from 1776 versus 
+
+1349
+01:07:56,840 --> 01:07:59,880
+2001. 
+Use that as scaffolding within 
+
+1350
+01:07:59,880 --> 01:08:02,080
+the body paragraphs. 
+Yeah, build it in. 
+
+1351
+01:08:02,080 --> 01:08:04,680
+So the conclusion can then 
+circle back hard to the main 
+
+1352
+01:08:04,680 --> 01:08:07,040
+point. 
+Belief enforced from above, even
+
+1353
+01:08:07,040 --> 01:08:09,400
+with historical nods, is still 
+control. 
+
+1354
+01:08:09,560 --> 01:08:12,400
+It keeps the focus on that 
+institutional bad faith idea. 
+
+1355
+01:08:12,480 --> 01:08:15,400
+That works beautifully. 
+It keeps the rigor but improves 
+
+1356
+01:08:15,400 --> 01:08:19,000
+the narrative Dr. significantly.
+OK, which brings us, I think to 
+
+1357
+01:08:19,000 --> 01:08:21,800
+the core warning, learning 
+itself, this United States of 
+
+1358
+01:08:21,800 --> 01:08:26,080
+HR, the sincerity by decree, 
+it's a really chilling concept. 
+
+1359
+01:08:26,680 --> 01:08:29,120
+How do we make that land with 
+maximum impact? 
+
+1360
+01:08:29,439 --> 01:08:33,160
+That's the final piece. 
+To really make that central 
+
+1361
+01:08:33,160 --> 01:08:36,800
+warning hit home, the 
+performance becoming real in the
+
+1362
+01:08:36,800 --> 01:08:39,560
+worst way. 
+We need to translate those 
+
+1363
+01:08:39,560 --> 01:08:44,479
+powerful but abstract ideas into
+very concrete, recognizable 
+
+1364
+01:08:44,479 --> 01:08:47,040
+examples. 
+That's our third topic sentence.
+
+1365
+01:08:47,720 --> 01:08:49,479
+Right now the language is 
+evocative. 
+
+1366
+01:08:49,479 --> 01:08:53,560
+Definitely moral nationalism, 
+fusing empathy with control. 
+
+1367
+01:08:54,200 --> 01:08:58,840
+The flag as a compliance symbol,
+A smile with paperwork attached.
+
+1368
+01:08:59,240 --> 01:09:02,800
+Great phrases. 
+Absolutely killer phrases, but 
+
+1369
+01:09:02,800 --> 01:09:05,960
+the weakness is that they remain
+slightly philosophical, a bit 
+
+1370
+01:09:05,960 --> 01:09:08,359
+generalized. 
+It makes it harder for the 
+
+1371
+01:09:08,359 --> 01:09:11,479
+reader to really picture the 
+everyday reality of this 
+
+1372
+01:09:11,479 --> 01:09:13,760
+managerial control being 
+critiqued. 
+
+1373
+01:09:14,120 --> 01:09:17,279
+What does it feel like? 
+We need to take the Sartre in 
+
+1374
+01:09:17,279 --> 01:09:20,359
+bad faith out of the seminar 
+room and put it into the office.
+
+1375
+01:09:20,359 --> 01:09:23,760
+Maybe. 
+Exactly so the suggestion is 
+
+1376
+01:09:24,120 --> 01:09:27,760
+provide vivid practical 
+illustrations show how this 
+
+1377
+01:09:27,760 --> 01:09:31,880
+moral nationalism manifests in 
+actual contemporary settings, 
+
+1378
+01:09:32,120 --> 01:09:34,800
+corporate life, institutions, 
+culture. 
+
+1379
+01:09:35,120 --> 01:09:38,200
+Ground the abstract risk in 
+tangible outcomes. 
+
+1380
+01:09:38,560 --> 01:09:41,760
+Make that compliance symbol 
+something you have to click on. 
+
+1381
+01:09:42,160 --> 01:09:45,160
+OK, Yeah. 
+So, thinking about that flag as 
+
+1382
+01:09:45,160 --> 01:09:48,040
+a compliance symbol, how does 
+that actually show up on a 
+
+1383
+01:09:48,040 --> 01:09:50,399
+Tuesday morning? 
+Well, concretely maybe it looks 
+
+1384
+01:09:50,399 --> 01:09:54,279
+like mandatory love of country, 
+love of justice training modules
+
+1385
+01:09:54,279 --> 01:09:56,400
+you have to complete for your 
+performance review. 
+
+1386
+01:09:56,600 --> 01:10:00,080
+Framed as Wellness or belonging,
+not politics. 
+
+1387
+01:10:00,280 --> 01:10:04,360
+Or tying national holidays like 
+Memorial Day or July 4th to 
+
+1388
+01:10:04,360 --> 01:10:07,360
+hitting specific corporate 
+diversity and inclusion metrics 
+
+1389
+01:10:07,680 --> 01:10:11,160
+so expressing patriotism becomes
+literally a KPI. 
+
+1390
+01:10:11,360 --> 01:10:14,520
+Oh yeah, imagine that quarterly 
+review. 
+
+1391
+01:10:14,640 --> 01:10:17,800
+Your civic belonging score is 
+below target. 
+
+1392
+01:10:18,320 --> 01:10:21,920
+That makes the managerial 
+control instantly, painfully 
+
+1393
+01:10:21,920 --> 01:10:24,240
+real. 
+That's concrete and the 
+
+1394
+01:10:24,240 --> 01:10:27,680
+therapeutic state idea. 
+How does dissent get managed? 
+
+1395
+01:10:28,080 --> 01:10:30,920
+We need to illustrate that too, 
+not through force, but through 
+
+1396
+01:10:31,280 --> 01:10:36,560
+emotional or managerial framing.
+So maybe examples like public 
+
+1397
+01:10:36,560 --> 01:10:41,560
+shaming campaigns or specific 
+language codes where disagreeing
+
+1398
+01:10:41,560 --> 01:10:45,640
+isn't just wrong, it means you 
+lack belonging or have moral 
+
+1399
+01:10:45,640 --> 01:10:49,000
+resentment. 
+Basically pathologizing dissent.
+
+1400
+01:10:49,240 --> 01:10:52,480
+Precisely if you don't perform 
+the required sincerity, you're 
+
+1401
+01:10:52,480 --> 01:10:55,800
+not just incorrect, you're 
+psychologically flawed. 
+
+1402
+01:10:55,800 --> 01:10:58,880
+Maybe need counseling. 
+That's how the smile with 
+
+1403
+01:10:58,880 --> 01:11:01,320
+paperwork attached becomes truly
+chilling. 
+
+1404
+01:11:01,480 --> 01:11:04,560
+It translates bad faith into HR 
+policy. 
+
+1405
+01:11:04,720 --> 01:11:08,200
+OK, this is really shaping up. 
+It's already such a strong 
+
+1406
+01:11:08,200 --> 01:11:11,200
+analysis tying philosophy to the
+present moment. 
+
+1407
+01:11:11,640 --> 01:11:14,960
+These three areas seem key to 
+making it even sharper. 
+
+1408
+01:11:15,080 --> 01:11:18,320
+Absolutely. 
+So to re tap the actionable 
+
+1409
+01:11:18,320 --> 01:11:21,960
+advice, first clarify that 
+Hegelian structure. 
+
+1410
+01:11:22,720 --> 01:11:26,360
+Either streamline the terms or 
+if keeping multiple synthesis, 
+
+1411
+01:11:26,560 --> 01:11:29,200
+explicitly define the function 
+of each stage. 
+
+1412
+01:11:29,240 --> 01:11:31,800
+Got it. 
+Second, weave the historical 
+
+1413
+01:11:31,800 --> 01:11:34,400
+counter arguments directly into 
+the main essay. 
+
+1414
+01:11:34,800 --> 01:11:38,680
+Use the Santana perspective and 
+historical examples to enrich 
+
+1415
+01:11:38,680 --> 01:11:41,880
+and challenge the Sartre and 
+warning from within, not from a 
+
+1416
+01:11:41,880 --> 01:11:43,320
+separate section. 
+Right. 
+
+1417
+01:11:43,360 --> 01:11:47,120
+Make it part of the flow. 
+And 3rd, make that central 
+
+1418
+01:11:47,120 --> 01:11:50,520
+warning about sincerity by 
+decree concrete. 
+
+1419
+01:11:50,800 --> 01:11:53,840
+Translate the abstract 
+philosophical dangers into 
+
+1420
+01:11:53,880 --> 01:11:58,320
+vivid, specific examples of 
+institutional, corporate, or 
+
+1421
+01:11:58,320 --> 01:12:01,160
+cultural control that readers 
+can immediately recognize. 
+
+1422
+01:12:01,200 --> 01:12:04,640
+It's excellent material already.
+These suggestions are really 
+
+1423
+01:12:04,640 --> 01:12:09,240
+about maximizing its coherence 
+and its urgency for the reader. 
+
+1424
+01:12:09,320 --> 01:12:11,800
+Exactly. 
+It's high caliber work. 
+
+1425
+01:12:12,000 --> 01:12:14,920
+We think these refinements will 
+really elevate its impact. 
+
+1426
+01:12:15,240 --> 01:12:18,560
+We're definitely looking forward
+to seeing how these ideas might 
+
+1427
+01:12:18,560 --> 01:12:21,240
+be incorporated. 
+Please feel free to implement 
+
+1428
+01:12:21,240 --> 01:12:23,920
+these suggestions and send the 
+revised work back. 
+
+1429
+01:12:23,920 --> 01:12:26,520
+Progressive patriotism and the 
+American dialectic. 
+
+1430
+01:12:27,200 --> 01:12:30,160
+OK, So what we're looking at 
+here is how the progressive left
+
+1431
+01:12:30,160 --> 01:12:33,320
+seems to be really leaning into 
+patriotism lately. 
+
+1432
+01:12:33,720 --> 01:12:35,600
+But it feels kind of like a 
+performance, right? 
+
+1433
+01:12:36,120 --> 01:12:38,720
+And the worry, like the 
+philosopher Jean Paul Sartre 
+
+1434
+01:12:38,720 --> 01:12:42,120
+warned, is that this act could 
+actually become a real belief. 
+
+1435
+01:12:42,200 --> 01:12:44,560
+And that could seriously change 
+things in American culture. 
+
+1436
+01:12:44,960 --> 01:12:48,080
+First off, there's this core 
+danger Sartre called bad faith. 
+
+1437
+01:12:48,440 --> 01:12:50,680
+Basically, it's like self 
+deception. 
+
+1438
+01:12:50,960 --> 01:12:54,160
+You pretend to be something and 
+then poof, you actually become 
+
+1439
+01:12:54,160 --> 01:12:56,640
+it. 
+So the left's current patriotic 
+
+1440
+01:12:56,640 --> 01:13:00,280
+vibe, you know, things like no 
+Kings rallies, maybe it started 
+
+1441
+01:13:00,280 --> 01:13:03,040
+as mimicry. 
+But hey, in America, pretending 
+
+1442
+01:13:03,040 --> 01:13:05,440
+has often been step one to 
+actually becoming something, 
+
+1443
+01:13:05,440 --> 01:13:08,240
+right? 
+The risk this pretend patriotism
+
+1444
+01:13:08,240 --> 01:13:11,360
+gets real hardens into this kind
+of self-righteous official 
+
+1445
+01:13:11,360 --> 01:13:13,200
+nationalism that doesn't feel 
+genuine. 
+
+1446
+01:13:13,480 --> 01:13:15,680
+Second, let's talk about what's 
+driving this shift. 
+
+1447
+01:13:16,160 --> 01:13:17,920
+Think of it like a political 
+back and forth. 
+
+1448
+01:13:18,280 --> 01:13:21,280
+You had the sort of managerial, 
+technocratic mood of the 20 
+
+1449
+01:13:21,280 --> 01:13:23,800
+tens. 
+Then the populist MAGA thing 
+
+1450
+01:13:23,800 --> 01:13:27,160
+pushed back against that. 
+Now the left's move, this great 
+
+1451
+01:13:27,160 --> 01:13:30,480
+patriotic heist is kind of like 
+the next step they're taking 
+
+1452
+01:13:30,480 --> 01:13:33,640
+populist style, mixing social 
+justice talk with Revolutionary 
+
+1453
+01:13:33,640 --> 01:13:36,680
+War vibes, basically trying to 
+create this synthetic 
+
+1454
+01:13:36,680 --> 01:13:38,720
+patriotism. 
+And finally, what's the 
+
+1455
+01:13:38,720 --> 01:13:41,440
+potential outcome here? 
+Well, the sources warned about a
+
+1456
+01:13:41,440 --> 01:13:44,920
+new standard, a kind of diverse,
+corporate approved patriotism 
+
+1457
+01:13:45,080 --> 01:13:47,840
+where sincerity is like, 
+professionalized and freedom 
+
+1458
+01:13:47,840 --> 01:13:50,120
+starts looking a lot like just 
+going along. 
+
+1459
+01:13:50,680 --> 01:13:52,840
+But this kind of forced 
+sincerity, it's almost 
+
+1460
+01:13:52,840 --> 01:13:55,920
+guaranteed to spark a reaction 
+down the line, a new rebellion 
+
+1461
+01:13:55,920 --> 01:13:58,880
+looking for something, you know,
+raw and real, not managed. 
+
+1462
+01:13:59,400 --> 01:14:03,000
+So the essential take away it's 
+that the American story often 
+
+1463
+01:14:03,000 --> 01:14:05,600
+moves in these cycles where 
+today's political performance 
+
+1464
+01:14:05,600 --> 01:14:08,560
+becomes tomorrow's official 
+belief, which then just tease up
+
+1465
+01:14:08,560 --> 01:14:10,440
+the next pushback against 
+feeling managed.
+

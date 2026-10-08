@@ -1,0 +1,3335 @@
+1
+00:00:00,040 --> 00:00:02,920
+Have you ever, you know, stopped
+and wondered if the news you're 
+
+2
+00:00:02,920 --> 00:00:07,680
+seeing right here at home could 
+maybe be influenced subtly by 
+
+3
+00:00:07,680 --> 00:00:11,320
+our own government? 
+Like in ways similar to how 
+
+4
+00:00:11,320 --> 00:00:13,400
+other countries push their 
+messages abroad. 
+
+5
+00:00:13,640 --> 00:00:15,840
+It's a really interesting 
+question, maybe a bit unsettling
+
+6
+00:00:15,840 --> 00:00:17,080
+at first glance. 
+Right. 
+
+7
+00:00:17,440 --> 00:00:21,040
+But it actually leads us down 
+this fascinating path, looking 
+
+8
+00:00:21,040 --> 00:00:24,360
+into a really pivotal bit of 
+American law and history. 
+
+9
+00:00:24,360 --> 00:00:26,800
+It really does. 
+So today we're doing a deep dive
+
+10
+00:00:26,800 --> 00:00:30,600
+into the Smith Munde Act. 
+This was a month landmark law 
+
+11
+00:00:30,600 --> 00:00:35,280
+from way back in 1948, and it 
+was basically America's original
+
+12
+00:00:35,280 --> 00:00:38,120
+firewall against the government 
+pushing its own messages 
+
+13
+00:00:38,120 --> 00:00:40,320
+domestically. 
+Yeah, the no domestic propaganda
+
+14
+00:00:40,320 --> 00:00:41,760
+rule, essentially. 
+Exactly. 
+
+15
+00:00:42,000 --> 00:00:45,800
+So our mission here is to unpack
+how this law built up that wall,
+
+16
+00:00:45,800 --> 00:00:48,360
+that barrier between U.S. 
+government info campaigns and 
+
+17
+00:00:48,360 --> 00:00:51,680
+the American public. 
+And then, crucially, look at how
+
+18
+00:00:51,680 --> 00:00:54,800
+it's rollback in 2013 pretty 
+much blurred those lines, 
+
+19
+00:00:54,800 --> 00:00:56,920
+especially now, you know, in the
+digital age. 
+
+20
+00:00:57,040 --> 00:00:58,720
+It's not just some dusty old 
+law. 
+
+21
+00:00:58,720 --> 00:01:02,240
+It really gets to the heart of 
+trust, information flow, and 
+
+22
+00:01:02,240 --> 00:01:04,480
+this new reality. 
+We're in this sort of borderless
+
+23
+00:01:04,480 --> 00:01:06,960
+information war. 
+And for this deep dive, we're 
+
+24
+00:01:06,960 --> 00:01:09,960
+leaning heavily on some great 
+source material, right? 
+
+25
+00:01:10,080 --> 00:01:12,840
+Specifically, an analysis of the
+ACT itself. 
+
+26
+00:01:12,840 --> 00:01:15,840
+Yes, exactly. 
+A detailed analysis by Chris 
+
+27
+00:01:15,840 --> 00:01:19,280
+Abraham which really helps trace
+the law's journey. 
+
+28
+00:01:19,280 --> 00:01:21,600
+You know, from its post World 
+War Two start all the way 
+
+29
+00:01:21,600 --> 00:01:24,320
+through its big update, the 
+modernization. 
+
+30
+00:01:24,600 --> 00:01:27,520
+So it gives that context the 
+changes how it all fits into the
+
+31
+00:01:27,520 --> 00:01:29,440
+bigger picture of global 
+information stuff. 
+
+32
+00:01:29,520 --> 00:01:31,760
+It really does. 
+It provides that historical 
+
+33
+00:01:31,760 --> 00:01:34,800
+backdrop, the legislative nitty 
+gritty, and helps us see how a 
+
+34
+00:01:34,800 --> 00:01:38,680
+country like the US, committed 
+to democracy and openness, has 
+
+35
+00:01:38,680 --> 00:01:42,600
+tried to handle the sheer power 
+of information both outwards on 
+
+36
+00:01:42,600 --> 00:01:45,520
+the world stage and inwards at 
+home. 
+
+37
+00:01:45,760 --> 00:01:48,280
+OK, so let's dive in. 
+Let's go back to 1948. 
+
+38
+00:01:48,680 --> 00:01:51,080
+Can you paint a picture for us? 
+What was the world like then, 
+
+39
+00:01:51,080 --> 00:01:53,480
+and how did that whole 
+atmosphere lead to this act 
+
+40
+00:01:53,480 --> 00:01:54,960
+being created? 
+Absolutely. 
+
+41
+00:01:54,960 --> 00:01:58,240
+So picture this the world's 
+still catching its breath after 
+
+42
+00:01:58,240 --> 00:02:02,600
+World War 2A, war that showed 
+brutally just how powerful 
+
+43
+00:02:02,600 --> 00:02:05,360
+psychological warfare and mass 
+communication could be. 
+
+44
+00:02:05,640 --> 00:02:07,680
+Yeah, the impact was huge. 
+Huge. 
+
+45
+00:02:07,960 --> 00:02:10,479
+And even as things settled, a 
+new fight was brewing. 
+
+46
+00:02:11,000 --> 00:02:13,760
+The Cold War, this big 
+ideological struggle. 
+
+47
+00:02:13,960 --> 00:02:16,680
+And everyone understood that 
+information, strategic 
+
+48
+00:02:16,680 --> 00:02:19,920
+messaging, well, it was going to
+be a weapon just as potent as 
+
+49
+00:02:19,920 --> 00:02:21,680
+any tank or bomb. 
+Makes sense. 
+
+50
+00:02:22,040 --> 00:02:25,080
+So the US Information and 
+Educational Exchange Act, that's
+
+51
+00:02:25,080 --> 00:02:28,080
+its official name. 
+Soon known as Smith, Munt was 
+
+52
+00:02:28,080 --> 00:02:31,560
+born right into that climate. 
+Lawmakers had the lessons of 
+
+53
+00:02:31,560 --> 00:02:33,720
+wartime propaganda fresh in 
+their minds. 
+
+54
+00:02:34,000 --> 00:02:36,520
+Very fresh. 
+So the need to project American 
+
+55
+00:02:36,520 --> 00:02:40,440
+values, push back against the 
+Soviet bloc, ideas that must 
+
+56
+00:02:40,440 --> 00:02:43,520
+have been front and center. 
+A clear external focus for the 
+
+57
+00:02:43,520 --> 00:02:44,960
+ACT then. 
+Precisely. 
+
+58
+00:02:45,280 --> 00:02:47,840
+The main goal stated right up 
+front was external. 
+
+59
+00:02:48,000 --> 00:02:50,440
+It gave the US government, 
+mostly the State Department, the
+
+60
+00:02:50,440 --> 00:02:53,320
+green light to create and spread
+information and cultural 
+
+61
+00:02:53,320 --> 00:02:55,880
+programs abroad. 
+OK, so things like promoting 
+
+62
+00:02:55,880 --> 00:02:58,640
+American values, democracy, 
+countering what other nations 
+
+63
+00:02:58,640 --> 00:02:59,600
+were saying. 
+Exactly. 
+
+64
+00:02:59,600 --> 00:03:02,320
+Think of it as America's big 
+global PR push. 
+
+65
+00:03:02,360 --> 00:03:05,280
+Winning hearts and minds, 
+building understanding, shoring 
+
+66
+00:03:05,280 --> 00:03:07,680
+up alliances. 
+It let agencies like the Voice 
+
+67
+00:03:07,680 --> 00:03:12,280
+of America VOA broadcast widely.
+We share news, American culture 
+
+68
+00:03:12,400 --> 00:03:15,080
+with people overseas. 
+But here's a fascinating bit, 
+
+69
+00:03:15,080 --> 00:03:17,280
+maybe the most important part of
+the original act. 
+
+70
+00:03:18,320 --> 00:03:21,800
+It allowed this outward push. 
+But what was the crucial 
+
+71
+00:03:21,800 --> 00:03:24,840
+counterbalance? 
+Second part The safeguard they 
+
+72
+00:03:24,840 --> 00:03:28,680
+insisted on for messages aimed 
+inward at Americans. 
+
+73
+00:03:28,720 --> 00:03:31,040
+And that's where they do that 
+really clear line. 
+
+74
+00:03:31,040 --> 00:03:35,240
+The ACT explicitly forbade, 
+using those same tools, the 
+
+75
+00:03:35,240 --> 00:03:38,480
+messages the techniques 
+developed for foreign audiences,
+
+76
+00:03:38,480 --> 00:03:40,600
+turning them inward on the 
+American public. 
+
+77
+00:03:40,600 --> 00:03:43,040
+So it wasn't just a side note. 
+Oh no, not at all. 
+
+78
+00:03:43,040 --> 00:03:46,160
+It was a core principle, a 
+deliberate legal barrier. 
+
+79
+00:03:46,480 --> 00:03:49,040
+They wanted to shield U.S. 
+citizens from their own 
+
+80
+00:03:49,040 --> 00:03:51,600
+government's messaging machine 
+inside the country. 
+
+81
+00:03:51,960 --> 00:03:54,160
+Lawmakers got it. 
+The power to shape opinions 
+
+82
+00:03:54,160 --> 00:03:57,000
+abroad could easily become the 
+power to manipulate at home. 
+
+83
+00:03:57,320 --> 00:03:59,760
+And they absolutely wanted to 
+prevent that. 
+
+84
+00:04:00,120 --> 00:04:02,440
+And this ban wasn't just 
+theoretical, it came straight 
+
+85
+00:04:02,440 --> 00:04:04,320
+from the hard lessons of World 
+War 2, right? 
+
+86
+00:04:04,760 --> 00:04:08,760
+What specific examples of 
+wartime propaganda really stuck 
+
+87
+00:04:08,760 --> 00:04:10,480
+with lawmakers? 
+Absolutely. 
+
+88
+00:04:10,480 --> 00:04:12,760
+The logic was very practical. 
+Learn the hard way. 
+
+89
+00:04:12,760 --> 00:04:16,800
+During the war, the US saw first
+hand from both sides, Allied and
+
+90
+00:04:16,800 --> 00:04:21,240
+Axis, just how potent propaganda
+could be, almost terrifyingly 
+
+91
+00:04:21,240 --> 00:04:24,120
+so. 
+Shaping morale, public opinion, 
+
+92
+00:04:24,120 --> 00:04:26,600
+even firing up or demoralizing 
+troops did. 
+
+93
+00:04:26,600 --> 00:04:28,960
+You give some examples. 
+Sure, take the Axis side. 
+
+94
+00:04:29,040 --> 00:04:31,120
+You have the infamous Tokyo 
+Rose. 
+
+95
+00:04:31,120 --> 00:04:34,080
+Actually a few different English
+speaking women broadcasting for 
+
+96
+00:04:34,080 --> 00:04:36,640
+Radio Tokyo. 
+Their shows were insidious. 
+
+97
+00:04:36,960 --> 00:04:40,280
+They'd play popular American 
+Music, then weave in cynical 
+
+98
+00:04:40,280 --> 00:04:43,040
+comments about the war, about 
+soldiers, wives back home being 
+
+99
+00:04:43,040 --> 00:04:45,720
+unfaithful. 
+It was pure psychological 
+
+100
+00:04:45,720 --> 00:04:48,040
+warfare playing on fear and 
+loneliness. 
+
+101
+00:04:48,040 --> 00:04:51,200
+Wow, that's dark. 
+And then you had Nazi Germany's 
+
+102
+00:04:51,200 --> 00:04:54,440
+Lord haha William Joyce. 
+He broadcast in English to 
+
+103
+00:04:54,440 --> 00:04:56,080
+Britain. 
+He was clever, mixing bits of 
+
+104
+00:04:56,080 --> 00:04:59,040
+truth like reporting actual 
+bombing phase with demoralizing 
+
+105
+00:04:59,040 --> 00:05:02,200
+spins and exaggerations trying 
+to create panic. 
+
+106
+00:05:02,200 --> 00:05:04,480
+So division. 
+These weren't just news reports,
+
+107
+00:05:04,480 --> 00:05:06,960
+they were calculated psyops. 
+It's chilling to think about 
+
+108
+00:05:06,960 --> 00:05:08,880
+that direct psychological 
+impact. 
+
+109
+00:05:08,880 --> 00:05:11,480
+But it wasn't just the access 
+using these tools, right? 
+
+110
+00:05:11,480 --> 00:05:13,960
+The allies had their own 
+information operations, too. 
+
+111
+00:05:14,280 --> 00:05:15,920
+How did that play into the US 
+thinking? 
+
+112
+00:05:16,080 --> 00:05:17,760
+Right. 
+The Allies were also effective. 
+
+113
+00:05:18,040 --> 00:05:20,520
+Britain's BBC World Service, for
+instance. 
+
+114
+00:05:20,760 --> 00:05:24,520
+It became this vital source of 
+credible news in Nazi occupied 
+
+115
+00:05:24,520 --> 00:05:26,760
+Europe. 
+It was a powerful counter to 
+
+116
+00:05:26,760 --> 00:05:30,760
+Nazi propaganda, offering a 
+steady, factual voice that 
+
+117
+00:05:30,760 --> 00:05:33,240
+boosted morale and shaped 
+opinion. 
+
+118
+00:05:33,560 --> 00:05:37,400
+So the US saw this power wanted 
+its own tools for the global 
+
+119
+00:05:37,400 --> 00:05:39,280
+information fight. 
+Exactly. 
+
+120
+00:05:39,440 --> 00:05:41,560
+But they also recognize the 
+danger. 
+
+121
+00:05:41,880 --> 00:05:44,400
+If foreign enemies could 
+manipulate populations with 
+
+122
+00:05:44,400 --> 00:05:47,280
+information, imagine how much 
+more effective, how much more 
+
+123
+00:05:47,280 --> 00:05:49,680
+dangerous that manipulation 
+could be if it came from your 
+
+124
+00:05:49,680 --> 00:05:51,680
+own government. 
+So that was the core fear, 
+
+125
+00:05:52,480 --> 00:05:54,800
+domestic manipulation. 
+How do they think that would 
+
+126
+00:05:54,800 --> 00:05:57,000
+damage public trust if it wasn't
+prevented? 
+
+127
+00:05:57,000 --> 00:05:58,320
+That was the absolute part of 
+it. 
+
+128
+00:05:58,480 --> 00:06:01,200
+Lawmakers deeply understood that
+if agencies like the State 
+
+129
+00:06:01,200 --> 00:06:04,920
+Department, maybe even the CIA, 
+could legally run info campaigns
+
+130
+00:06:04,920 --> 00:06:07,520
+inside the US, it would just 
+shred public trust. 
+
+131
+00:06:07,720 --> 00:06:10,840
+Trust in government, yes, but 
+also, crucially, trust in the 
+
+132
+00:06:10,840 --> 00:06:11,760
+media. 
+How so? 
+
+133
+00:06:11,960 --> 00:06:14,280
+Well, think about it. 
+If people couldn't tell the 
+
+134
+00:06:14,280 --> 00:06:17,720
+difference between independent 
+news reporting and stuff 
+
+135
+00:06:17,960 --> 00:06:21,280
+produced or pushed by the 
+government, every news story, 
+
+136
+00:06:21,280 --> 00:06:24,240
+every piece of information 
+becomes suspect, right? 
+
+137
+00:06:24,560 --> 00:06:27,120
+How could you trust what you 
+read or heard if you thought 
+
+138
+00:06:27,120 --> 00:06:29,760
+your own government might be 
+behind it, trying to sway you? 
+
+139
+00:06:29,880 --> 00:06:33,600
+So it was about protecting that 
+separation between independent 
+
+140
+00:06:33,600 --> 00:06:36,520
+journalism, which is supposed to
+hold power accountable, right, 
+
+141
+00:06:36,720 --> 00:06:39,800
+and government communication, 
+which could easily slide into 
+
+142
+00:06:39,800 --> 00:06:41,200
+propaganda. 
+Precisely. 
+
+143
+00:06:41,480 --> 00:06:44,040
+It was about building and 
+keeping that public trust. 
+
+144
+00:06:44,280 --> 00:06:47,320
+The fear was that blurring those
+lines would erode the very 
+
+145
+00:06:47,320 --> 00:06:50,120
+foundation of an informed public
+in a democracy. 
+
+146
+00:06:50,440 --> 00:06:53,440
+They wanted a legal guarantee, 
+basically, that Americans could 
+
+147
+00:06:53,440 --> 00:06:56,400
+assume their government wasn't 
+making the news or entertainment
+
+148
+00:06:56,400 --> 00:06:59,400
+they consumed at home just to 
+shape their politics. 
+
+149
+00:06:59,680 --> 00:07:03,040
+And this firewall, as our source
+calls it, wasn't just symbolic, 
+
+150
+00:07:03,040 --> 00:07:05,400
+it was strict. 
+Incredibly strict, designed to 
+
+151
+00:07:05,400 --> 00:07:08,400
+be a real bureaucratic wall. 
+The rules were super clear, 
+
+152
+00:07:08,560 --> 00:07:10,880
+meant to enforce that 
+separation, keep the domestic 
+
+153
+00:07:10,880 --> 00:07:12,680
+information space, you know, 
+clean. 
+
+154
+00:07:12,880 --> 00:07:16,840
+For instance, Voice of America, 
+VOA, a key part of US 
+
+155
+00:07:16,840 --> 00:07:19,960
+international messaging, could 
+beam its shows, its news, its 
+
+156
+00:07:19,960 --> 00:07:23,480
+cultural stuff into places like 
+Cuba, the USSR, China. 
+
+157
+00:07:24,080 --> 00:07:25,520
+No problem. 
+But. 
+
+158
+00:07:25,680 --> 00:07:28,680
+But, and this is the kicker, 
+they were legally banned from 
+
+159
+00:07:28,680 --> 00:07:32,800
+broadcasting that exact same 
+content into, say, Kansas. 
+
+160
+00:07:33,280 --> 00:07:35,000
+Wow. 
+Not to Kansas. 
+
+161
+00:07:35,000 --> 00:07:37,400
+Not to Kansas. 
+It was a strict geographic and 
+
+162
+00:07:37,400 --> 00:07:39,720
+legal line, not just a 
+suggestion. 
+
+163
+00:07:39,720 --> 00:07:42,040
+That level of deliberate 
+separation is amazing. 
+
+164
+00:07:42,040 --> 00:07:45,040
+So US embassies overseas could 
+hand out pamphlets about 
+
+165
+00:07:45,040 --> 00:07:47,560
+democracy, American value. 
+It's really to foreign 
+
+166
+00:07:47,560 --> 00:07:49,400
+population. 
+But those same pamphlets 
+
+167
+00:07:49,400 --> 00:07:51,480
+couldn't legally be given out in
+Los Angeles. 
+
+168
+00:07:51,480 --> 00:07:53,440
+No, not in LA, not anywhere in 
+the US. 
+
+169
+00:07:53,440 --> 00:07:56,640
+It wasn't just broadcast, it was
+any information material created
+
+170
+00:07:56,640 --> 00:07:58,480
+by the government for foreign 
+eyes and ears. 
+
+171
+00:07:58,480 --> 00:08:00,480
+It was kept behind this this 
+wall. 
+
+172
+00:08:00,480 --> 00:08:04,280
+So there was this explicit is it
+legal promise baked into the law
+
+173
+00:08:04,600 --> 00:08:07,640
+that Americans were shielded 
+from their own government's info
+
+174
+00:08:07,640 --> 00:08:09,560
+campaigns? 
+You could assume the news at 
+
+175
+00:08:09,560 --> 00:08:11,640
+home wasn't government produced 
+spin. 
+
+176
+00:08:11,760 --> 00:08:13,960
+Exactly. 
+It was seen as fundamental to an
+
+177
+00:08:13,960 --> 00:08:17,800
+open, democratic society, a 
+really core principle back then,
+
+178
+00:08:17,800 --> 00:08:19,840
+OK. 
+Let's jump forward now, decades 
+
+179
+00:08:19,840 --> 00:08:23,480
+later, from the tight controls 
+of 1948 to the completely 
+
+180
+00:08:23,480 --> 00:08:26,960
+different world of, say, 2013. 
+What was the main thing that 
+
+181
+00:08:26,960 --> 00:08:30,160
+changed everything, especially 
+how information moved around the
+
+182
+00:08:30,160 --> 00:08:31,480
+globe? 
+Oh hands down. 
+
+183
+00:08:31,480 --> 00:08:34,640
+It was the Internet and the 
+explosion of digital 
+
+184
+00:08:34,640 --> 00:08:37,600
+communication that came with it.
+This wasn't just a small tweak, 
+
+185
+00:08:37,600 --> 00:08:40,720
+it was a revolution. 
+It basically smashed those old 
+
+186
+00:08:40,720 --> 00:08:43,760
+geographic firewalls. 
+Right, the old rules just didn't
+
+187
+00:08:43,760 --> 00:08:45,040
+fit anymore. 
+Not at all. 
+
+188
+00:08:45,280 --> 00:08:48,000
+Rules designed for radio waves 
+and paper pamphlets started 
+
+189
+00:08:48,000 --> 00:08:50,560
+looking really outdated. 
+Kind of like trying to use a 
+
+190
+00:08:50,560 --> 00:08:53,880
+typewriter in the age of e-mail.
+Information that used to be 
+
+191
+00:08:53,880 --> 00:08:57,040
+contained by broadcast range or 
+physical delivery could now zip 
+
+192
+00:08:57,040 --> 00:09:01,040
+across the planet instantly. 
+Made the old legal lines really 
+
+193
+00:09:01,040 --> 00:09:04,360
+hard to maintain. 
+And this borderless information 
+
+194
+00:09:04,360 --> 00:09:07,760
+flow created what people started
+calling the boomerang effect. 
+
+195
+00:09:07,960 --> 00:09:09,400
+Can you explain that what it 
+looked? 
+
+196
+00:09:09,400 --> 00:09:12,600
+Like, sure, the boomerang effect
+is basically when content made 
+
+197
+00:09:12,600 --> 00:09:15,520
+for a foreign audience 
+inevitably finds its way back 
+
+198
+00:09:15,520 --> 00:09:19,240
+into the US. 
+So imagine VOA produces a video,
+
+199
+00:09:19,240 --> 00:09:22,080
+maybe something tailored for an 
+Afghan radio station, right? 
+
+200
+00:09:22,080 --> 00:09:25,560
+Talking about an American view 
+on a local issue, or maybe a 
+
+201
+00:09:25,560 --> 00:09:28,360
+cultural exchange. 
+OK, before the Internet, that 
+
+202
+00:09:28,360 --> 00:09:30,720
+video mostly stayed where it was
+intended. 
+
+203
+00:09:31,000 --> 00:09:35,280
+But by 2013, that same video 
+gets uploaded to YouTube, or 
+
+204
+00:09:35,280 --> 00:09:38,840
+maybe a VOA article gets posted 
+on their website, and instantly 
+
+205
+00:09:38,840 --> 00:09:40,560
+it's not just for Afghans 
+anymore. 
+
+206
+00:09:40,680 --> 00:09:44,360
+Anyone anywhere can see it, 
+including someone sitting in 
+
+207
+00:09:44,360 --> 00:09:46,200
+Cleveland, OH. 
+And social media just threw 
+
+208
+00:09:46,200 --> 00:09:47,520
+gasoline on that fire, right? 
+Yeah. 
+
+209
+00:09:47,520 --> 00:09:49,560
+Made it even harder to control 
+where things ended. 
+
+210
+00:09:49,560 --> 00:09:51,880
+UP totally amplified it. 
+It wasn't even about someone 
+
+211
+00:09:51,880 --> 00:09:55,400
+actively looking for it anymore.
+By 2013 social media algorithms 
+
+212
+00:09:55,400 --> 00:09:58,120
+weren't checking passports, they
+were pushing stuff based on 
+
+213
+00:09:58,120 --> 00:10:01,440
+engagement. 
+So a VOA piece meant for Central
+
+214
+00:10:01,440 --> 00:10:03,760
+Asia, if it got popular there, 
+got shared. 
+
+215
+00:10:03,800 --> 00:10:05,920
+The algorithm could push it into
+American feeds. 
+
+216
+00:10:06,080 --> 00:10:09,080
+Exactly without anyone in the US
+ever requesting it. 
+
+217
+00:10:09,480 --> 00:10:12,320
+A friend abroad shares a link. 
+A new site picks it up. 
+
+218
+00:10:12,920 --> 00:10:15,360
+The content was essentially 
+pulling itself into the domestic
+
+219
+00:10:15,360 --> 00:10:17,840
+space. 
+The old legal barrier designed 
+
+220
+00:10:17,840 --> 00:10:20,000
+for a world where you pushed 
+information out. 
+
+221
+00:10:20,360 --> 00:10:21,920
+It just became kind of 
+irrelevant. 
+
+222
+00:10:22,200 --> 00:10:24,280
+How do you stop information 
+crossing borders when the 
+
+223
+00:10:24,280 --> 00:10:26,520
+borders are digital and 
+everything's shareable? 
+
+224
+00:10:26,840 --> 00:10:30,120
+So this practical problem, this 
+boomerang, it obviously sparked 
+
+225
+00:10:30,120 --> 00:10:32,640
+a big debate about the Smith 
+Munn Act itself. 
+
+226
+00:10:33,000 --> 00:10:35,760
+What were the main arguments 
+from people who wanted to change
+
+227
+00:10:35,760 --> 00:10:38,280
+the law? 
+Well, the supporters of change 
+
+228
+00:10:38,280 --> 00:10:41,920
+basically argued, look, this old
+rule is meaningless in the age 
+
+229
+00:10:41,920 --> 00:10:45,240
+of Facebook and Twitter. 
+They felt pretending the wall 
+
+230
+00:10:45,240 --> 00:10:47,560
+still worked when digital 
+reality had poked it full of 
+
+231
+00:10:47,560 --> 00:10:51,640
+holes was frankly naive. 
+So better to just admit reality.
+
+232
+00:10:51,680 --> 00:10:54,920
+Their core argument was exactly 
+that transparency was better 
+
+233
+00:10:54,920 --> 00:10:56,560
+than pretending the wall still 
+existed. 
+
+234
+00:10:56,800 --> 00:10:59,560
+If the content was already out 
+there, accessible to anyone 
+
+235
+00:10:59,560 --> 00:11:02,600
+online, why keep a law that 
+didn't match reality? 
+
+236
+00:11:02,920 --> 00:11:05,600
+They thought it was better to be
+upfront, let the content to be 
+
+237
+00:11:05,600 --> 00:11:08,120
+openly available instead of 
+having it sweep back in 
+
+238
+00:11:08,120 --> 00:11:10,720
+unofficially. 
+But the critics, they saw it 
+
+239
+00:11:10,720 --> 00:11:12,920
+very differently. 
+They weren't just seeing a 
+
+240
+00:11:12,920 --> 00:11:15,400
+practical adjustment. 
+They saw a real danger, right? 
+
+241
+00:11:15,760 --> 00:11:19,200
+What were their big fears? 
+Oh yeah, Opponents were deeply 
+
+242
+00:11:19,200 --> 00:11:21,560
+concerned. 
+They use phrases like opening 
+
+243
+00:11:21,560 --> 00:11:24,440
+the floodgates. 
+They saw it as giving a legal 
+
+244
+00:11:24,440 --> 00:11:28,120
+green light for U.S. government 
+propaganda to be consumed by its
+
+245
+00:11:28,200 --> 00:11:30,800
+own citizen. 
+Chinese wall was gone, they 
+
+246
+00:11:30,800 --> 00:11:33,040
+said. 
+Exactly that clear legal 
+
+247
+00:11:33,040 --> 00:11:35,680
+separation between foreign 
+messaging and the domestic 
+
+248
+00:11:35,680 --> 00:11:36,680
+infosphere? 
+Gone. 
+
+249
+00:11:37,280 --> 00:11:39,760
+Their worry wasn't just about 
+access, it was about 
+
+250
+00:11:39,760 --> 00:11:43,000
+legitimizing that access. 
+They feared that killing the ban
+
+251
+00:11:43,000 --> 00:11:45,440
+would normalize Americans 
+consuming government made 
+
+252
+00:11:45,440 --> 00:11:48,840
+messages, potentially dulling 
+critical thinking and damaging 
+
+253
+00:11:48,840 --> 00:11:50,840
+trust in independent media even 
+further. 
+
+254
+00:11:51,280 --> 00:11:54,120
+A really fundamental worry about
+the integrity of our information
+
+255
+00:11:54,120 --> 00:11:56,280
+environment here at home. 
+Which leads us right to the 
+
+256
+00:11:56,280 --> 00:12:00,240
+change itself, the Smith Mont. 
+Modernization Act of 2012. 
+
+257
+00:12:00,800 --> 00:12:04,520
+It took effect in July 2013. 
+How did this actually change the
+
+258
+00:12:04,520 --> 00:12:07,080
+rules on the ground? 
+Well, it pretty much dismantled 
+
+259
+00:12:07,080 --> 00:12:10,680
+the old domestic ban. 
+It legally allowed the State 
+
+260
+00:12:10,680 --> 00:12:14,760
+Department and the US Agency for
+Global Media, USA, GM, the 
+
+261
+00:12:14,760 --> 00:12:19,440
+agency that overseas VOA, Radio 
+Free Europe, Radio Liberty, et 
+
+262
+00:12:19,440 --> 00:12:20,840
+cetera. 
+It used to be the Broadcasting 
+
+263
+00:12:20,840 --> 00:12:23,600
+Board of Governors. 
+It allowed them to make their 
+
+264
+00:12:23,600 --> 00:12:26,440
+foreign focused content 
+available inside the United 
+
+265
+00:12:26,440 --> 00:12:28,560
+States. 
+This was huge. 
+
+266
+00:12:28,880 --> 00:12:32,640
+A 70 year old legal firewall 
+officially torn down. 
+
+267
+00:12:32,920 --> 00:12:36,120
+It was no longer illegal for an 
+American citizen to tune into a 
+
+268
+00:12:36,120 --> 00:12:39,760
+VOA broadcast, even if it was 
+made for, say, North Africa. 
+
+269
+00:12:40,200 --> 00:12:44,160
+Now, there was that specific 
+phrase in the law upon request, 
+
+270
+00:12:44,880 --> 00:12:48,400
+but even with that wording, the 
+lines blurred almost instantly, 
+
+271
+00:12:48,400 --> 00:12:50,760
+didn't they? 
+How did that upon request part 
+
+272
+00:12:50,760 --> 00:12:53,000
+become, well, practically 
+meaningless? 
+
+273
+00:12:53,000 --> 00:12:55,280
+It really did upon request. 
+Sounded like it kept some 
+
+274
+00:12:55,280 --> 00:12:57,640
+barrier up, like you had to 
+actively seek it out. 
+
+275
+00:12:57,640 --> 00:12:59,680
+But in the digital world it 
+doesn't really work that way. 
+
+276
+00:12:59,680 --> 00:13:02,480
+If VOA puts a story on YouTube, 
+is clicking on it in your feed 
+
+277
+00:13:02,600 --> 00:13:05,040
+really requesting it? 
+In the old sense, probably not. 
+
+278
+00:13:05,240 --> 00:13:08,840
+Anyone anywhere can find it with
+a search, click a link someone 
+
+279
+00:13:08,840 --> 00:13:11,560
+shared, or just have it pop up 
+thanks to an algorithm. 
+
+280
+00:13:11,800 --> 00:13:14,480
+Social media algorithms don't 
+care if you requested it. 
+
+281
+00:13:14,880 --> 00:13:17,480
+They push what's popular or what
+they think you'll click on. 
+
+282
+00:13:18,080 --> 00:13:21,480
+So basically the content became 
+available everywhere online by 
+
+283
+00:13:21,480 --> 00:13:24,840
+default upon request. 
+Ended up being more of a legal 
+
+284
+00:13:24,840 --> 00:13:27,320
+formality than a real practical 
+hurdle. 
+
+285
+00:13:27,640 --> 00:13:31,760
+You used that analogy before the
+export, only beer or soda. 
+
+286
+00:13:32,000 --> 00:13:33,320
+Can you flesh that out a bit 
+more? 
+
+287
+00:13:33,320 --> 00:13:35,360
+How does it show the shift after
+2013? 
+
+288
+00:13:35,600 --> 00:13:39,160
+Yeah, I think it helps clarify 
+things before 2013. 
+
+289
+00:13:39,160 --> 00:13:41,400
+Think of America's propaganda 
+vintage. 
+
+290
+00:13:41,600 --> 00:13:45,080
+It's info and cultural stuff 
+designed to promote US values 
+
+291
+00:13:45,080 --> 00:13:49,040
+abroad as strictly for export, 
+like a special beer brewed only 
+
+292
+00:13:49,040 --> 00:13:51,400
+for international markets, 
+legally barred from being sold 
+
+293
+00:13:51,400 --> 00:13:53,480
+at home. 
+Americans were supposed to get 
+
+294
+00:13:53,480 --> 00:13:56,600
+their news and info from private
+independent media, a clear 
+
+295
+00:13:56,600 --> 00:13:59,560
+separation. 
+The Smith Munt Act was the law 
+
+296
+00:13:59,560 --> 00:14:02,040
+keeping the export brew off the 
+domestic shelves. 
+
+297
+00:14:02,040 --> 00:14:04,320
+And sometimes those export 
+versions might even have 
+
+298
+00:14:04,320 --> 00:14:07,120
+different ingredients right 
+tailored for a specific foreign 
+
+299
+00:14:07,120 --> 00:14:09,160
+taste. 
+The point was separation. 
+
+300
+00:14:09,320 --> 00:14:11,200
+Exactly. 
+Different ingredients because 
+
+301
+00:14:11,200 --> 00:14:14,160
+the purpose was different. 
+Domestic audiences were meant to
+
+302
+00:14:14,160 --> 00:14:17,360
+get their view of the world from
+independent sources, free from 
+
+303
+00:14:17,360 --> 00:14:21,480
+government strategic spin. 
+But after 2013, that export 
+
+304
+00:14:21,480 --> 00:14:23,240
+product could also be sold at 
+home. 
+
+305
+00:14:23,400 --> 00:14:25,600
+And that's the core worry for 
+critics. 
+
+306
+00:14:26,120 --> 00:14:27,880
+That's the crux of it, they 
+argue. 
+
+307
+00:14:27,880 --> 00:14:31,760
+It risks diluting public trust, 
+eroding the separation between 
+
+308
+00:14:31,760 --> 00:14:34,080
+government PR and independent 
+journalism. 
+
+309
+00:14:34,440 --> 00:14:37,720
+If the government is now allowed
+to put content out there that 
+
+310
+00:14:37,720 --> 00:14:40,960
+Americans can consume, how do 
+people tell the difference? 
+
+311
+00:14:41,040 --> 00:14:43,520
+How do you evaluate something 
+that looks like news but 
+
+312
+00:14:43,520 --> 00:14:46,520
+actually came from a government 
+agency with a specific goal in 
+
+313
+00:14:46,520 --> 00:14:48,040
+mind? 
+While their proponents would 
+
+314
+00:14:48,040 --> 00:14:52,040
+say, look, it's naive to think a
+separation still existed anyway 
+
+315
+00:14:52,040 --> 00:14:54,560
+given the Internet, But the 
+question lingers for a lot of 
+
+316
+00:14:54,560 --> 00:14:56,680
+people. 
+What's the psychological impact?
+
+317
+00:14:57,080 --> 00:15:00,320
+What does it do to trust in 
+Media, Trust in government info,
+
+318
+00:15:00,560 --> 00:15:02,720
+when that legal firewall is just
+gone? 
+
+319
+00:15:02,840 --> 00:15:07,000
+It feeds into this wider issue 
+with some experts call a crisis 
+
+320
+00:15:07,000 --> 00:15:11,280
+of epistemic trust. 
+When that line blurs, even well 
+
+321
+00:15:11,280 --> 00:15:14,000
+meaning government messages can 
+start to look suspicious. 
+
+322
+00:15:14,280 --> 00:15:18,160
+It forces you, the listener, to 
+constantly ask, is this real 
+
+323
+00:15:18,160 --> 00:15:21,440
+news or is it spin? 
+Is it independent or is it 
+
+324
+00:15:21,440 --> 00:15:23,720
+designed to influence me? 
+That sounds exhausting. 
+
+325
+00:15:23,760 --> 00:15:27,160
+It is this constant need for 
+vigilance, for source checking, 
+
+326
+00:15:27,160 --> 00:15:29,560
+everything. 
+It breeds cynicism not just 
+
+327
+00:15:29,560 --> 00:15:32,280
+about government, but about all 
+information sources. 
+
+328
+00:15:32,760 --> 00:15:36,400
+And that cynicism unfortunately 
+makes people more vulnerable to 
+
+329
+00:15:36,520 --> 00:15:38,520
+actual disinformation from 
+anywhere. 
+
+330
+00:15:38,520 --> 00:15:41,240
+Because the old markers of 
+what's trustworthy feel less 
+
+331
+00:15:41,240 --> 00:15:44,120
+reliable. 
+The ground feels less solid. 
+
+332
+00:15:44,400 --> 00:15:47,320
+This really hits at a 
+fundamental aspect of state 
+
+333
+00:15:47,320 --> 00:15:50,360
+power itself, doesn't it? 
+Propaganda or strategic 
+
+334
+00:15:50,360 --> 00:15:52,680
+messaging? 
+It's as much a tool in the 
+
+335
+00:15:52,680 --> 00:15:55,760
+state's toolkit as the military 
+or the economy. 
+
+336
+00:15:56,040 --> 00:15:57,720
+Is it fair to say every country 
+does this? 
+
+337
+00:15:57,760 --> 00:16:00,400
+Oh absolutely. 
+Propaganda, if we use the broad 
+
+338
+00:16:00,400 --> 00:16:03,320
+definition strategic messaging 
+to shape opinions, interactions,
+
+339
+00:16:03,320 --> 00:16:06,520
+is a universal statecraft tool. 
+It's fundamental to how nations 
+
+340
+00:16:06,520 --> 00:16:08,480
+operate internally and 
+externally. 
+
+341
+00:16:08,520 --> 00:16:09,840
+Though governments prefer other 
+terms. 
+
+342
+00:16:09,920 --> 00:16:12,360
+Right, definitely. 
+They'll often use public 
+
+343
+00:16:12,360 --> 00:16:15,280
+diplomacy or strategic 
+communication, especially for 
+
+344
+00:16:15,280 --> 00:16:18,920
+overseas stuff, to avoid the 
+negative baggage of propaganda. 
+
+345
+00:16:19,440 --> 00:16:23,440
+But the core idea is influenced 
+through information highlighting
+
+346
+00:16:23,440 --> 00:16:25,560
+values, building understanding, 
+countering rivals. 
+
+347
+00:16:25,760 --> 00:16:28,480
+Nations just differ in how open 
+they are about it and the 
+
+348
+00:16:28,480 --> 00:16:31,560
+specific methods they use, but 
+they all do it. 
+
+349
+00:16:31,560 --> 00:16:33,960
+It's a constant part of 
+international relations. 
+
+350
+00:16:34,120 --> 00:16:37,240
+And within that, there's the 
+concept of soft power, coined by
+
+351
+00:16:37,240 --> 00:16:40,320
+Joseph Nye, not about force, but
+attraction. 
+
+352
+00:16:40,680 --> 00:16:43,640
+Exactly. 
+Joseph Nye's idea of soft power 
+
+353
+00:16:43,640 --> 00:16:46,960
+is a nation's ability to get 
+others to want what it wants, 
+
+354
+00:16:47,120 --> 00:16:49,720
+not by threatening them or 
+paying them, but by making its 
+
+355
+00:16:49,720 --> 00:16:52,760
+culture, its values, its 
+policies seem attractive and 
+
+356
+00:16:52,760 --> 00:16:55,240
+legitimate, its persuasion 
+through appeal. 
+
+357
+00:16:55,240 --> 00:16:58,240
+Like Hollywood movies or music? 
+That's a classic example. 
+
+358
+00:16:58,320 --> 00:17:01,840
+The global appeal of American 
+pop culture can project an image
+
+359
+00:17:01,840 --> 00:17:04,920
+of dynamism, freedom, making 
+American ideals seem 
+
+360
+00:17:04,920 --> 00:17:07,599
+aspirational. 
+That kind of subtle influence 
+
+361
+00:17:07,599 --> 00:17:11,119
+can often achieve more long term
+than military threats or 
+
+362
+00:17:11,119 --> 00:17:13,760
+economic sanctions. 
+And during the Cold War, the US 
+
+363
+00:17:13,760 --> 00:17:15,480
+went all in on soft power, 
+didn't it? 
+
+364
+00:17:15,480 --> 00:17:18,160
+Billions invested. 
+What were some key examples? 
+
+365
+00:17:18,240 --> 00:17:21,720
+Massive investment think about 
+the big radio operations Radio 
+
+366
+00:17:21,720 --> 00:17:26,400
+Free Europe started in 1950. 
+It beamed uncensored news 
+
+367
+00:17:26,400 --> 00:17:29,600
+analysis culture into Soviet 
+controlled Eastern Europe. 
+
+368
+00:17:29,880 --> 00:17:33,240
+It was a lifeline, offering an 
+alternative to state media 
+
+369
+00:17:33,440 --> 00:17:36,280
+telling people news from their 
+own countries that they're 
+
+370
+00:17:36,360 --> 00:17:38,560
+governments were suppressing. 
+Giving them a connection to the 
+
+371
+00:17:38,560 --> 00:17:39,440
+outside. 
+Right. 
+
+372
+00:17:39,720 --> 00:17:43,200
+Then there was Radio Liberty 
+from 53, aimed right at the 
+
+373
+00:17:43,200 --> 00:17:46,240
+Soviet Union itself, trying to 
+foster dissent. 
+
+374
+00:17:46,360 --> 00:17:48,240
+Paint a picture of a different 
+reality. 
+
+375
+00:17:48,400 --> 00:17:51,480
+These weren't just news shows. 
+There were deliberate counter 
+
+376
+00:17:51,480 --> 00:17:55,320
+narratives pushing freedom, 
+democracy, prosperity, 
+
+377
+00:17:55,360 --> 00:17:57,120
+everything the Soviets stood 
+against. 
+
+378
+00:17:57,360 --> 00:17:59,800
+And it wasn't only radio. 
+There were more direct tactics 
+
+379
+00:17:59,800 --> 00:18:02,320
+to information warfare. 
+Absolutely. 
+
+380
+00:18:02,720 --> 00:18:05,480
+Beyond the broadcast, you have 
+tactical information warfare, 
+
+381
+00:18:05,480 --> 00:18:08,120
+often called psychological 
+operations or psyops. 
+
+382
+00:18:08,280 --> 00:18:11,280
+During Vietnam, for example, the
+US military dropped tons of 
+
+383
+00:18:11,280 --> 00:18:13,640
+leaflets over North Vietnam and 
+Vietcong areas. 
+
+384
+00:18:13,680 --> 00:18:16,760
+What did the leaflets say? 
+Messages designed to demoralize 
+
+385
+00:18:16,760 --> 00:18:19,960
+enemy troops, encourage them to 
+defect, explain US goals. 
+
+386
+00:18:20,280 --> 00:18:23,160
+Sometimes they even included 
+safe conduct passes for 
+
+387
+00:18:23,160 --> 00:18:25,760
+surrender. 
+It was a whole spectrum 
+
+388
+00:18:25,760 --> 00:18:28,720
+approach, mixing strategic 
+messaging with battlefield 
+
+389
+00:18:28,720 --> 00:18:30,960
+tactics. 
+But soft power was broader than 
+
+390
+00:18:30,960 --> 00:18:33,960
+just psyops, right? 
+Cultural diplomacy played a huge
+
+391
+00:18:34,000 --> 00:18:36,480
+role. 
+Huge cultural diplomacy was key.
+
+392
+00:18:36,480 --> 00:18:40,040
+You had the Fulbright program 
+started in 46, sending scholars 
+
+393
+00:18:40,040 --> 00:18:43,360
+back and forth, fostering 
+understanding, showcasing 
+
+394
+00:18:43,360 --> 00:18:47,400
+American openness, a subtle but 
+powerful counter to Soviet 
+
+395
+00:18:47,400 --> 00:18:49,280
+claims about America being 
+closed off. 
+
+396
+00:18:49,320 --> 00:18:51,760
+And the cultural exports? 
+Jazz tours. 
+
+397
+00:18:51,760 --> 00:18:55,400
+Oh yeah, iconic jazz tours with 
+people like Louis Armstrong, 
+
+398
+00:18:55,400 --> 00:18:58,560
+Dave Brubeck, hugely popular 
+behind the Iron Curtain. 
+
+399
+00:18:58,920 --> 00:19:02,080
+They conveyed this sense of 
+American freedom creativity that
+
+400
+00:19:02,080 --> 00:19:04,680
+really resonated. 
+Plus Hollywood films showing 
+
+401
+00:19:04,680 --> 00:19:08,080
+individual success, consumer 
+plenty, even agricultural shows 
+
+402
+00:19:08,080 --> 00:19:10,840
+displaying American tech and 
+abundance, all designed to send 
+
+403
+00:19:10,840 --> 00:19:13,680
+a message about American 
+freedom, innovation, prosperity,
+
+404
+00:19:13,920 --> 00:19:16,120
+often more effective because it 
+didn't feel like government 
+
+405
+00:19:16,120 --> 00:19:18,080
+propaganda. 
+Of course, the US wasn't the 
+
+406
+00:19:18,080 --> 00:19:19,760
+early one playing this game. 
+It's global. 
+
+407
+00:19:19,760 --> 00:19:21,320
+Other countries have their own 
+playbooks. 
+
+408
+00:19:21,480 --> 00:19:23,040
+Absolutely. 
+It's universal. 
+
+409
+00:19:23,280 --> 00:19:26,680
+Britain, for example, has the 
+BBC World Service, its global 
+
+410
+00:19:26,680 --> 00:19:29,680
+flagship broadcaster. 
+They position it carefully as 
+
+411
+00:19:29,760 --> 00:19:32,320
+independent news in dozens of 
+languages. 
+
+412
+00:19:32,320 --> 00:19:35,560
+But it serves British interest. 
+Undoubtedly, while maintaining 
+
+413
+00:19:35,560 --> 00:19:38,280
+journalistic standards, IT 
+projects an image of British 
+
+414
+00:19:38,280 --> 00:19:40,800
+stability, reliability, 
+democracy. 
+
+415
+00:19:41,360 --> 00:19:44,680
+It's often a go to news source 
+in places where local media is 
+
+416
+00:19:44,680 --> 00:19:47,320
+weak or controlled. 
+In America's rivals. 
+
+417
+00:19:47,680 --> 00:19:51,480
+Russia, you see similar moves. 
+Russia had Radio Moscow back in 
+
+418
+00:19:51,480 --> 00:19:54,760
+the Soviet days. 
+Later they launched RT Russia 
+
+419
+00:19:54,760 --> 00:19:58,280
+Today, basically the Soviet and 
+Russian versions of the same 
+
+420
+00:19:58,280 --> 00:19:59,800
+game. 
+What was their aim? 
+
+421
+00:19:59,800 --> 00:20:03,000
+Radio Moscow was the Kremlin's 
+voice pushing the party line, 
+
+422
+00:20:03,000 --> 00:20:06,960
+criticizing the West. 
+RT Post Cold War presents itself
+
+423
+00:20:06,960 --> 00:20:09,840
+as an alternative news source, 
+often highlighting Western 
+
+424
+00:20:09,840 --> 00:20:11,920
+problems, platforming dissenting
+voices. 
+
+425
+00:20:12,480 --> 00:20:14,960
+A more subtle way to question 
+the dominant western narrative 
+
+426
+00:20:14,960 --> 00:20:17,560
+project their worldview 
+sometimes stir up trouble in 
+
+427
+00:20:17,560 --> 00:20:20,040
+rival countries and. 
+China's got a massive global 
+
+428
+00:20:20,040 --> 00:20:24,000
+media footprint now. 
+Huge CGTN, the China Global 
+
+429
+00:20:24,000 --> 00:20:27,440
+Television Network, is Beijing's
+official mouthpiece worldwide, 
+
+430
+00:20:27,680 --> 00:20:30,840
+promoting China's economy, 
+culture, pushing back against 
+
+431
+00:20:30,840 --> 00:20:34,400
+criticism on human rights or 
+geopolitics, and more recently, 
+
+432
+00:20:34,400 --> 00:20:37,680
+you have the TikTok and WeChat 
+ecosystems. 
+
+433
+00:20:37,760 --> 00:20:40,680
+Not just apps. 
+Not just apps, they're powerful 
+
+434
+00:20:40,920 --> 00:20:44,600
+cultural influence channel with 
+state linked content moderation.
+
+435
+00:20:44,960 --> 00:20:48,160
+The algorithms, the rules about 
+what gets seen or suppressed, 
+
+436
+00:20:48,160 --> 00:20:51,480
+can subtly align with Beijing 
+views, influencing global 
+
+437
+00:20:51,480 --> 00:20:54,240
+perceptions on a massive scale, 
+often without users even 
+
+438
+00:20:54,240 --> 00:20:56,200
+realizing it. 
+Then you have the really overt 
+
+439
+00:20:56,200 --> 00:21:00,240
+stuff like N Koreas border, loud
+speakers for decades blasting 
+
+440
+00:21:00,240 --> 00:21:02,320
+propaganda South. 
+But you mentioned something 
+
+441
+00:21:02,320 --> 00:21:03,960
+interesting for our 2025 
+timeline. 
+
+442
+00:21:03,960 --> 00:21:05,440
+They dismantled the last one, 
+yeah. 
+
+443
+00:21:05,440 --> 00:21:08,200
+Reportedly dismantled the last 
+one on the border in 2025. 
+
+444
+00:21:08,200 --> 00:21:10,480
+It's fascinating. 
+For decades those speakers were 
+
+445
+00:21:10,480 --> 00:21:13,000
+a constant, unavoidable fixture 
+on the DMZ. 
+
+446
+00:21:13,320 --> 00:21:17,000
+Very direct loud psychological 
+warfare, patriotic songs, anti 
+
+447
+00:21:17,160 --> 00:21:19,560
+US stuff praising the Kims. 
+So why stop now? 
+
+448
+00:21:19,760 --> 00:21:22,880
+Well, it might signal a slight 
+thaw in relations in that 
+
+449
+00:21:22,880 --> 00:21:25,920
+specific spot, but it probably 
+also shows that even North Korea
+
+450
+00:21:25,920 --> 00:21:29,160
+recognizes that in the age of 
+digital media everywhere, a 
+
+451
+00:21:29,160 --> 00:21:32,840
+static loudspeaker, however 
+noisy, is less effective than 
+
+452
+00:21:32,840 --> 00:21:35,080
+maybe more subtle digital 
+campaigns. 
+
+453
+00:21:35,520 --> 00:21:38,680
+It might reflect a shift in 
+their own info strategy 
+
+454
+00:21:38,920 --> 00:21:41,040
+following the global trend 
+towards digital. 
+
+455
+00:21:41,040 --> 00:21:43,800
+It really drives home to the 
+point propaganda, strategic 
+
+456
+00:21:43,800 --> 00:21:46,600
+communication, whatever you call
+it, it's just part of how states
+
+457
+00:21:46,600 --> 00:21:49,680
+operate, always has been. 
+Exactly a universal tool. 
+
+458
+00:21:49,880 --> 00:21:53,200
+The methods change, the 
+transparency varies, but the 
+
+459
+00:21:53,200 --> 00:21:55,360
+game continues. 
+OK, let's try and map this out 
+
+460
+00:21:55,360 --> 00:21:57,640
+historically. 
+Put it on a timeline, See how 
+
+461
+00:21:57,640 --> 00:22:01,040
+information warfare and global 
+messaging evolved, adapting to 
+
+462
+00:22:01,040 --> 00:22:04,000
+world events and new tech. 
+We can start right back at WWI, 
+
+463
+00:22:04,000 --> 00:22:07,760
+right? 
+The WWI foundations, roughly 41 
+
+464
+00:22:07,760 --> 00:22:11,800
+to 45. the US set up the Office 
+of War Information, the OWI. 
+
+465
+00:22:11,800 --> 00:22:16,240
+It was huge, making films, radio
+shows, posters, leaflets and 
+
+466
+00:22:16,240 --> 00:22:19,760
+critically aimed at both foreign
+audiences and Americans at home.
+
+467
+00:22:19,800 --> 00:22:21,480
+So unified messaging during the 
+war. 
+
+468
+00:22:21,600 --> 00:22:23,800
+Totally. 
+Domestically, it was about 
+
+469
+00:22:23,800 --> 00:22:27,080
+morale, explaining the war, 
+pushing, rationing unity 
+
+470
+00:22:27,400 --> 00:22:30,320
+internationally, countering 
+enemy propaganda, rallying 
+
+471
+00:22:30,320 --> 00:22:33,960
+allies, centralized info control
+that you know people would 
+
+472
+00:22:33,960 --> 00:22:37,720
+question later in peacetime. 
+And Voice of America VOA started
+
+473
+00:22:37,720 --> 00:22:40,320
+then too, in 42. 
+What was its immediate job? 
+
+474
+00:22:40,760 --> 00:22:44,560
+VOA's first job was urgent 
+broadcast news into access 
+
+475
+00:22:44,560 --> 00:22:47,400
+territory. 
+Their famous first line was the 
+
+476
+00:22:47,400 --> 00:22:49,480
+news may be good or it may be 
+bad. 
+
+477
+00:22:49,640 --> 00:22:52,480
+We shall tell you the truth, a 
+direct shot and not see in 
+
+478
+00:22:52,480 --> 00:22:54,920
+Japanese lies. 
+They wanted to give an American 
+
+479
+00:22:54,920 --> 00:22:57,520
+perspective, counter enemy 
+stories, give facts to people 
+
+480
+00:22:57,520 --> 00:23:00,680
+under occupation, undermine 
+morale, encourage resistance. 
+
+481
+00:23:00,720 --> 00:23:03,440
+And the allies like Britain's 
+BBC Overseas service. 
+
+482
+00:23:03,440 --> 00:23:06,840
+Crucial the BBC was that vital 
+credible voice in occupied 
+
+483
+00:23:06,840 --> 00:23:09,640
+Europe, accurate news, coded 
+messages for resistance 
+
+484
+00:23:09,640 --> 00:23:12,400
+fighters, boosting morale, 
+really set a standard for 
+
+485
+00:23:12,400 --> 00:23:15,200
+international broadcasting, 
+while, as we said, the Axis had 
+
+486
+00:23:15,200 --> 00:23:18,200
+Tokyo Rose and Lord haha doing 
+their psychological warfare 
+
+487
+00:23:18,200 --> 00:23:19,920
+thing. 
+OK, Fast forward to the early 
+
+488
+00:23:19,920 --> 00:23:23,400
+Cold War 46 to 60. 
+We get the Smith Munt Act in 48,
+
+489
+00:23:23,800 --> 00:23:25,720
+that legal wall against domestic
+dissemination. 
+
+490
+00:23:25,720 --> 00:23:28,720
+We talked about setting the 
+rules for the new Cold War info 
+
+491
+00:23:28,720 --> 00:23:31,280
+fight. 
+Exactly, And the US ramps up 
+
+492
+00:23:31,280 --> 00:23:33,120
+broadcasts at its new 
+adversaries. 
+
+493
+00:23:33,560 --> 00:23:37,680
+Radio Free Europe RFE starts in 
+50 aiming at Eastern Bloc 
+
+494
+00:23:37,680 --> 00:23:41,640
+countries Uncensored news, 
+culture stuff their own 
+
+495
+00:23:41,640 --> 00:23:44,560
+governments were hiding, keeping
+hope alive, offering an 
+
+496
+00:23:44,560 --> 00:23:46,680
+alternative. 
+And Radio Liberty. 
+
+497
+00:23:46,880 --> 00:23:50,800
+RL followed in 53 and right at 
+the Soviet Union itself, 
+
+498
+00:23:51,000 --> 00:23:53,720
+broadcasting in loads of 
+languages across that vast 
+
+499
+00:23:53,720 --> 00:23:55,920
+empire. 
+Plus, the US poured money into 
+
+500
+00:23:55,920 --> 00:23:59,680
+cultural diplomacy, jazz tours, 
+art shows, Fulbright 
+
+501
+00:23:59,680 --> 00:24:02,600
+scholarships, all subtle ways to
+showcase American values, 
+
+502
+00:24:02,600 --> 00:24:05,360
+freedom, creativity, countering 
+the Soviet narrative. 
+
+503
+00:24:05,360 --> 00:24:08,400
+Well, the Soviets had Radio 
+Moscow and Tax News Agency 
+
+504
+00:24:08,400 --> 00:24:11,160
+pushing rely globally. 
+Yep, Radio Moscow was the 
+
+505
+00:24:11,160 --> 00:24:14,360
+Kremlin's voice worldwide, 
+nonstop praising communism, 
+
+506
+00:24:14,360 --> 00:24:17,080
+slamming capitalism. 
+TSS was the official news 
+
+507
+00:24:17,080 --> 00:24:19,320
+agency, super tightly 
+controlled, making sure 
+
+508
+00:24:19,320 --> 00:24:22,000
+everything fit the party line. 
+Masters of spin. 
+
+509
+00:24:22,200 --> 00:24:25,200
+And the BBC World Service just 
+kept growing its reputation. 
+
+510
+00:24:25,240 --> 00:24:27,480
+Became seen as the gold standard
+for many. 
+
+511
+00:24:27,760 --> 00:24:30,520
+Reliable, less overtly 
+propagandistic than others. 
+
+512
+00:24:30,760 --> 00:24:34,200
+Building trust globally. 
+Moving into the Vietnam era, 60s
+
+513
+00:24:34,200 --> 00:24:37,200
+and 70s, US psyops in Vietnam 
+really ramped up. 
+
+514
+00:24:37,200 --> 00:24:39,000
+What did that involve? 
+Very active. 
+
+515
+00:24:39,000 --> 00:24:43,280
+You had the Chuhoi, or Open Arms
+program, using leaflets dropped 
+
+516
+00:24:43,280 --> 00:24:46,440
+from planes, powerful loud 
+speakers on the ground, special 
+
+517
+00:24:46,440 --> 00:24:50,720
+radio stations like Armed Forces
+Radio, all urging Viet Cong and 
+
+518
+00:24:50,720 --> 00:24:54,200
+N Vietnamese soldiers to defect.
+Promising safety and better 
+
+519
+00:24:54,200 --> 00:24:55,320
+treatment. 
+Exactly. 
+
+520
+00:24:55,320 --> 00:24:58,960
+Promising food, medical care, 
+safe passage, Often featuring 
+
+521
+00:24:58,960 --> 00:25:00,800
+testimonials from actual 
+defectors. 
+
+522
+00:25:01,200 --> 00:25:04,560
+Direct tactical information 
+warfare aimed at breaking enemy 
+
+523
+00:25:04,560 --> 00:25:06,360
+morale. 
+And other voices emerged 
+
+524
+00:25:06,360 --> 00:25:10,040
+globally in this polarized time.
+Definitely Radio Havana, Cuba, 
+
+525
+00:25:10,040 --> 00:25:12,840
+starting in 61. 
+That was Castro's fiery voice, 
+
+526
+00:25:12,840 --> 00:25:15,680
+especially across Latin America 
+and Africa, spreading 
+
+527
+00:25:15,680 --> 00:25:19,080
+revolutionary ideas, supporting 
+liberation movements, offering a
+
+528
+00:25:19,080 --> 00:25:21,800
+stark alternative to the West 
+and China. 
+
+529
+00:25:22,040 --> 00:25:24,800
+Radio International pushed 
+Maoist ideals worldwide, 
+
+530
+00:25:24,800 --> 00:25:26,640
+challenging both the US and the 
+Soviets. 
+
+531
+00:25:26,840 --> 00:25:29,720
+Real counter narratives. 
+Then the late Cold War, the 80s,
+
+532
+00:25:30,080 --> 00:25:32,520
+Reagan's Project Truth. 
+What was that about? 
+
+533
+00:25:32,760 --> 00:25:34,760
+Reagan took a more aggressive 
+info stance. 
+
+534
+00:25:35,080 --> 00:25:37,760
+Project Truth was about directly
+confronting Soviet 
+
+535
+00:25:37,760 --> 00:25:40,000
+disinformation, which was 
+getting pretty sophisticated. 
+
+536
+00:25:40,320 --> 00:25:44,040
+The US wanted to expose Soviet 
+lies, highlight the contrast 
+
+537
+00:25:44,040 --> 00:25:46,560
+with democracy, go on the 
+offensive ideologically. 
+
+538
+00:25:46,560 --> 00:25:49,120
+While the Soviets doubled down 
+on active measures 
+
+539
+00:25:49,480 --> 00:25:52,600
+disinformation. 
+Oh yeah, Active measures was 
+
+540
+00:25:52,600 --> 00:25:55,040
+their term for all sorts of 
+covert influence. 
+
+541
+00:25:55,520 --> 00:25:58,200
+Propaganda, forgeries, political
+meddling. 
+
+542
+00:25:58,600 --> 00:26:01,680
+A prime example was that 
+horrible false story they spread
+
+543
+00:26:01,880 --> 00:26:04,960
+that AIDS was AUS bioweapon. 
+That was a Soviet active. 
+
+544
+00:26:04,960 --> 00:26:08,920
+Measure a major one designed 
+purely to damage the US image. 
+
+545
+00:26:09,080 --> 00:26:13,480
+So mistrust. 
+Meanwhile, RRL expanded 
+
+546
+00:26:13,480 --> 00:26:16,120
+broadcasting into Afghanistan 
+during the Soviet invasion 
+
+547
+00:26:16,120 --> 00:26:19,120
+there, trying to counter 
+Moscow's narrative to the Afghan
+
+548
+00:26:19,120 --> 00:26:20,920
+people. 
+Then the Berlin Wall falls. 
+
+549
+00:26:20,920 --> 00:26:24,960
+The Cold War ends the 90s Post 
+Cold War shift, the US 
+
+550
+00:26:24,960 --> 00:26:27,720
+information agency USIA gets 
+disbanded. 
+
+551
+00:26:27,800 --> 00:26:30,800
+Right in 99, it's public 
+diplomacy functions mostly got 
+
+552
+00:26:30,800 --> 00:26:33,800
+folded into the State Department
+signaled a shift integrating 
+
+553
+00:26:33,800 --> 00:26:36,240
+messaging more directly with 
+foreign policy rather than 
+
+554
+00:26:36,240 --> 00:26:38,560
+having a separate agency. 
+And we started seeing global 
+
+555
+00:26:38,560 --> 00:26:41,840
+news and public diplomacy 
+blurring, like CNN and the Gulf 
+
+556
+00:26:41,840 --> 00:26:43,160
+War. 
+Exactly. 
+
+557
+00:26:43,240 --> 00:26:46,680
+CNN's live 24/7 Gulf War 
+coverage was revolutionary. 
+
+558
+00:26:47,160 --> 00:26:50,040
+It gave everyone this immediate 
+view, but it also became this 
+
+559
+00:26:50,040 --> 00:26:54,320
+huge public diplomacy tool. 
+Intended or not, the images 
+
+560
+00:26:54,320 --> 00:26:57,960
+shaped global perception in real
+time, showed how independent 
+
+561
+00:26:57,960 --> 00:26:59,960
+media could become a channel for
+influence. 
+
+562
+00:27:00,160 --> 00:27:02,960
+And Russia, even while 
+struggling, started rebuilding 
+
+563
+00:27:02,960 --> 00:27:06,480
+its international broadcasting, 
+laying the groundwork for RT. 
+
+564
+00:27:06,520 --> 00:27:11,080
+Which brings us to the Internet 
+era and the post 911 World 2001,
+
+565
+00:27:11,080 --> 00:27:14,000
+2012. 
+New players like Al Jazeera 
+
+566
+00:27:14,000 --> 00:27:16,120
+emerge. 
+Al Jazeera was a game changer, 
+
+567
+00:27:16,160 --> 00:27:19,240
+gaining huge reach after 911. 
+Challenging Western narratives 
+
+568
+00:27:19,240 --> 00:27:22,320
+about the Middle East showed 
+that powerful global media could
+
+569
+00:27:22,320 --> 00:27:25,440
+come from outside the West. 
+Information flow wasn't just one
+
+570
+00:27:25,440 --> 00:27:27,280
+way anymore. 
+And U.S. military information 
+
+571
+00:27:27,280 --> 00:27:29,760
+operations expanded in Iraq and 
+Afghanistan. 
+
+572
+00:27:29,800 --> 00:27:32,280
+Big time. 
+More localized, sophisticated 
+
+573
+00:27:32,280 --> 00:27:35,520
+OPS, including covertly setting 
+up and running local radio and 
+
+574
+00:27:35,520 --> 00:27:38,800
+TV stations trying to counter 
+extremist messages, win hearts 
+
+575
+00:27:38,800 --> 00:27:41,520
+and minds, often making them 
+look like local outlets. 
+
+576
+00:27:41,880 --> 00:27:44,560
+But crucially, this is when the 
+Smith Munt firewall really 
+
+577
+00:27:44,560 --> 00:27:46,960
+started crumbling. 
+Online content posted abroad was
+
+578
+00:27:46,960 --> 00:27:50,200
+easily accessible at home. 
+The ban was becoming unworkable.
+
+579
+00:27:50,280 --> 00:27:53,280
+Which leads right back to the 
+Smith Munt Modernization Act of 
+
+580
+00:27:53,280 --> 00:27:57,360
+2013. 
+Lifting the domestic ban, USAGM 
+
+581
+00:27:57,360 --> 00:28:01,160
+could now make VOARRL content 
+available domestically. 
+
+582
+00:28:01,320 --> 00:28:04,320
+And the debate raged. 
+As we discussed, critics feared 
+
+583
+00:28:04,320 --> 00:28:06,800
+domestic propaganda. 
+Proponents said the Internet 
+
+584
+00:28:06,800 --> 00:28:09,760
+made the ban obsolete anyway. 
+But the law changed. 
+
+585
+00:28:09,760 --> 00:28:12,000
+What was forbidden was now 
+allowed. 
+
+586
+00:28:12,200 --> 00:28:15,320
+Ushering in the era we might 
+call the social media propaganda
+
+587
+00:28:15,320 --> 00:28:19,840
+wars from 2014 onward, Russia's 
+Internet research agency, the 
+
+588
+00:28:19,840 --> 00:28:23,000
+IRA, becomes infamous. 
+How do they use these platforms?
+
+589
+00:28:23,000 --> 00:28:26,160
+The IRA mastered social media 
+manipulation, not just old 
+
+590
+00:28:26,160 --> 00:28:28,280
+school propaganda. 
+They created fake accounts, 
+
+591
+00:28:28,280 --> 00:28:31,480
+bots, fake activist groups, 
+spreading divisive content, 
+
+592
+00:28:31,480 --> 00:28:35,040
+amplifying extremism, targeting 
+US elections, using Facebook, 
+
+593
+00:28:35,040 --> 00:28:38,320
+Twitter, Instagram to sow chaos,
+exploit divisions showed how 
+
+594
+00:28:38,320 --> 00:28:40,280
+vulnerable open societies were 
+online. 
+
+595
+00:28:40,280 --> 00:28:42,840
+And China's strategy with TikTok
+and WeChat? 
+
+596
+00:28:42,840 --> 00:28:45,400
+More subtle cultural influence. 
+Much more subtle. 
+
+597
+00:28:45,480 --> 00:28:49,280
+Often these platforms are huge 
+cultural influence channels with
+
+598
+00:28:49,280 --> 00:28:52,520
+state linked content moderation.
+The the algorithms, the 
+
+599
+00:28:52,520 --> 00:28:55,920
+censorship, even if not always 
+obvious, can shape narratives, 
+
+600
+00:28:55,920 --> 00:28:59,200
+suppressed criticism, promote 
+views aligned with Beijing, 
+
+601
+00:28:59,600 --> 00:29:03,000
+influencing potentially billions
+of users, often blending 
+
+602
+00:29:03,000 --> 00:29:06,040
+influence with entertainment. 
+Soft power at scale. 
+
+603
+00:29:06,040 --> 00:29:09,880
+And then 2025, the symbolic end 
+of North Korea's loudspeaker 
+
+604
+00:29:09,880 --> 00:29:12,600
+diplomacy. 
+Dismantling the last one. 
+
+605
+00:29:12,600 --> 00:29:14,560
+Yeah, that's symbolic end of an 
+era. 
+
+606
+00:29:14,640 --> 00:29:18,280
+Crude, loud physical propaganda 
+giving way completely to the 
+
+607
+00:29:18,280 --> 00:29:21,400
+digital battlefield, even for a 
+regime like North Korea. 
+
+608
+00:29:21,480 --> 00:29:25,120
+So after tracing all this 
+history, this evolution, what 
+
+609
+00:29:25,120 --> 00:29:27,840
+does it actually mean for you, 
+the listener, right now, in 
+
+610
+00:29:27,840 --> 00:29:29,080
+2025? 
+What's the bottom? 
+
+611
+00:29:29,080 --> 00:29:30,560
+Line The bottom line is 
+fundamental. 
+
+612
+00:29:30,560 --> 00:29:33,400
+The old Smith Munt world, the 
+one with clear borders for 
+
+613
+00:29:33,400 --> 00:29:36,120
+information controlled channels 
+like radio waves and print. 
+
+614
+00:29:36,560 --> 00:29:39,240
+That world is just. 
+Completely gone. 
+
+615
+00:29:39,360 --> 00:29:43,480
+Completely Today, information, 
+including state sponsored 
+
+616
+00:29:43,480 --> 00:29:47,240
+messages, is borderless. 
+And that's not mainly because 
+
+617
+00:29:47,240 --> 00:29:50,600
+the law changed in 2013. 
+It's because the medium changed.
+
+618
+00:29:50,960 --> 00:29:52,880
+The Internet broke those 
+barriers first. 
+
+619
+00:29:52,880 --> 00:29:55,840
+The 2013 law basically just 
+caught up legally, aligning the 
+
+620
+00:29:55,840 --> 00:29:58,560
+rules with the reality. 
+It acknowledged the situation 
+
+621
+00:29:58,560 --> 00:30:01,120
+technology had already created. 
+But the impact of that 
+
+622
+00:30:01,120 --> 00:30:04,800
+alignment, the psychological 
+cost for you, the listener, it's
+
+623
+00:30:04,800 --> 00:30:07,360
+significant, right? 
+That formal guarantee, that 
+
+624
+00:30:07,360 --> 00:30:10,680
+legal assurance that your own 
+government wasn't targeting you 
+
+625
+00:30:10,680 --> 00:30:12,960
+with its info campaigns at home?
+That's gone. 
+
+626
+00:30:13,040 --> 00:30:16,040
+It is, and it fits the global 
+pattern we've seen for every 
+
+627
+00:30:16,040 --> 00:30:18,480
+major power. 
+Now the message is potentially 
+
+628
+00:30:18,480 --> 00:30:20,720
+for everyone, everywhere all at 
+once. 
+
+629
+00:30:21,160 --> 00:30:25,000
+No neat split between foreign 
+and domestic anymore in the info
+
+630
+00:30:25,000 --> 00:30:26,920
+space so. 
+What does that mean practically?
+
+631
+00:30:27,040 --> 00:30:29,440
+It means you have a much bigger 
+responsibility now to be 
+
+632
+00:30:29,440 --> 00:30:32,400
+critical to really scrutinize 
+the information you consume. 
+
+633
+00:30:32,600 --> 00:30:34,960
+That default assumption that 
+government wasn't in this 
+
+634
+00:30:34,960 --> 00:30:37,400
+domestic messaging game? 
+The assumption Smith munt 
+
+635
+00:30:37,400 --> 00:30:40,120
+legally supported for decades? 
+You can't make that assumption 
+
+636
+00:30:40,120 --> 00:30:42,440
+anymore. 
+So what questions should you be 
+
+637
+00:30:42,440 --> 00:30:45,320
+asking yourself when you see 
+news or content online? 
+
+638
+00:30:45,760 --> 00:30:48,240
+Constantly ask, OK, where did 
+this really come from? 
+
+639
+00:30:48,400 --> 00:30:49,880
+Who made it? 
+Why? 
+
+640
+00:30:50,480 --> 00:30:54,040
+What was its original purpose? 
+Is this independent reporting or
+
+641
+00:30:54,040 --> 00:30:56,840
+is it a government message, 
+maybe originally for overseas, 
+
+642
+00:30:56,840 --> 00:30:59,320
+but now legally here for you to 
+see potentially with the 
+
+643
+00:30:59,320 --> 00:31:02,440
+strategic goal behind it? 
+And how does the platform, 
+
+644
+00:31:02,440 --> 00:31:06,040
+seeing it on Facebook, TikTok, a
+new site, how does that shape 
+
+645
+00:31:06,040 --> 00:31:07,920
+how it looks or how far it 
+travels? 
+
+646
+00:31:07,920 --> 00:31:10,000
+That's the new reality. 
+The lines are blurred. 
+
+647
+00:31:10,360 --> 00:31:12,600
+Government content can reach 
+Americans legally. 
+
+648
+00:31:12,880 --> 00:31:15,280
+Agencies can talk to domestic 
+media more freely. 
+
+649
+00:31:15,400 --> 00:31:17,880
+The global info war isn't 
+happening somewhere else. 
+
+650
+00:31:18,200 --> 00:31:20,920
+It's happening right here in 
+your feed, on your your screen. 
+
+651
+00:31:21,600 --> 00:31:25,400
+So wrapping this up, we've gone 
+from that strict 1948 band 
+
+652
+00:31:25,400 --> 00:31:27,760
+designed to shield Americans 
+from government messaging at 
+
+653
+00:31:27,760 --> 00:31:31,120
+home through decades of changing
+tactics and global information 
+
+654
+00:31:31,120 --> 00:31:34,320
+wars, right up to today's 
+borderless environment driven by
+
+655
+00:31:34,320 --> 00:31:38,080
+tech finally codified by that 
+2013 Modernization Act. 
+
+656
+00:31:38,240 --> 00:31:40,880
+And it's key to remember the law
+didn't create this borderless 
+
+657
+00:31:40,880 --> 00:31:43,080
+world, it just sort of rubber 
+stamped the reality. 
+
+658
+00:31:43,080 --> 00:31:46,320
+The Internet had already built 
+that old analog firewall. 
+
+659
+00:31:46,320 --> 00:31:48,880
+It was leaky long before they 
+officially took it down. 
+
+660
+00:31:49,560 --> 00:31:51,560
+So maybe a final thought for you
+to chew on. 
+
+661
+00:31:52,200 --> 00:31:55,320
+In this world where any state's 
+message can reach anyone 
+
+662
+00:31:55,360 --> 00:31:58,560
+anywhere, and the lines between 
+foreign influence and domestic 
+
+663
+00:31:58,560 --> 00:32:03,360
+news are so incredibly blurry, 
+how do we as a society maintain 
+
+664
+00:32:03,360 --> 00:32:06,840
+any kind of trust in our media? 
+And maybe more importantly, what
+
+665
+00:32:06,840 --> 00:32:10,760
+new heavy responsibilities fall 
+on each of us individually to 
+
+666
+00:32:10,760 --> 00:32:13,680
+constantly question, to evaluate
+every single thing we see in 
+
+667
+00:32:13,680 --> 00:32:16,400
+here, knowing that old legal 
+wall isn't there anymore?
+

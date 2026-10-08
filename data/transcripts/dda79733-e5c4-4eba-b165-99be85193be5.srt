@@ -1,0 +1,3490 @@
+1
+00:00:00,040 --> 00:00:03,520
+Welcome to the deep dive. 
+This is where we take a whole 
+
+2
+00:00:03,520 --> 00:00:07,560
+stack of different sources, 
+articles, sometimes research 
+
+3
+00:00:07,560 --> 00:00:10,800
+papers, our own notes, and we 
+really try to boil it all down. 
+
+4
+00:00:10,800 --> 00:00:15,880
+We pull up the key insights, the
+core ideas, basically giving you
+
+5
+00:00:15,880 --> 00:00:18,800
+a shortcut to being genuinely 
+well informed on a topic. 
+
+6
+00:00:18,880 --> 00:00:20,680
+Quickly but thoroughly. 
+Exactly. 
+
+7
+00:00:20,680 --> 00:00:24,520
+And hopefully with enough, you 
+know, surprising details and 
+
+8
+00:00:24,520 --> 00:00:26,960
+just genuine curiosity to keep 
+you listening. 
+
+9
+00:00:26,960 --> 00:00:28,880
+Absolutely. 
+So today we're diving into 
+
+10
+00:00:28,880 --> 00:00:32,840
+something I think is really 
+fascinating It it challenges a 
+
+11
+00:00:32,840 --> 00:00:35,600
+perception that's probably 
+pretty deep seated for a lot of 
+
+12
+00:00:35,600 --> 00:00:38,600
+us about, well, one of 
+histories, most recognizable 
+
+13
+00:00:38,600 --> 00:00:40,720
+figures. 
+Think about how we usually 
+
+14
+00:00:40,720 --> 00:00:43,400
+picture Jesus. 
+For many, myself included, 
+
+15
+00:00:43,400 --> 00:00:46,760
+sometimes it's this kind of 
+simplified, almost invincible 
+
+16
+00:00:46,760 --> 00:00:48,920
+image, right? 
+Right, the standard picture. 
+
+17
+00:00:48,920 --> 00:00:51,480
+Yeah, the Superman and Sandals 
+idea, someone called it. 
+
+18
+00:00:51,480 --> 00:00:54,000
+You know, untouchable. 
+Kind of floating above the 
+
+19
+00:00:54,000 --> 00:00:58,160
+messiness of being human. 
+Yeah, effortlessly dropping 
+
+20
+00:00:58,160 --> 00:01:01,280
+miracles like party favors. 
+Yeah, that phrase really 
+
+21
+00:01:01,280 --> 00:01:03,800
+captures it. 
+And this perception, one of our 
+
+22
+00:01:03,800 --> 00:01:06,520
+main sources, points out it 
+often comes from, well, bits and
+
+23
+00:01:06,520 --> 00:01:08,560
+pieces. 
+Pop Catholicism. 
+
+24
+00:01:08,680 --> 00:01:11,120
+Cultural shorthand? 
+Maybe the occasional Easter 
+
+25
+00:01:11,120 --> 00:01:12,640
+homily? 
+Christmas pageants. 
+
+26
+00:01:12,840 --> 00:01:14,640
+Oh, definitely. 
+Christmas pageants, stained 
+
+27
+00:01:14,640 --> 00:01:18,280
+glass windows, those old movies 
+where Jesus looks like this 
+
+28
+00:01:19,160 --> 00:01:21,720
+glowing Englishman who never 
+even breaks a sweat. 
+
+29
+00:01:22,240 --> 00:01:23,360
+Right. 
+Very serene. 
+
+30
+00:01:23,400 --> 00:01:26,200
+Very otherworldly. 
+And there's a comfort in that, 
+
+31
+00:01:26,200 --> 00:01:28,960
+isn't there? 
+Imagining this all powerful, 
+
+32
+00:01:28,960 --> 00:01:31,600
+completely unassailable divine 
+being. 
+
+33
+00:01:31,600 --> 00:01:33,360
+It feels safe. 
+It absolutely does. 
+
+34
+00:01:33,360 --> 00:01:35,400
+It provides a certain security 
+of familiarity. 
+
+35
+00:01:35,800 --> 00:01:38,080
+And those cultural narratives, 
+they're incredibly potent, 
+
+36
+00:01:38,080 --> 00:01:39,960
+visually appealing, easy to 
+grasp. 
+
+37
+00:01:40,200 --> 00:01:42,080
+Sure. 
+But, and this is the crucial 
+
+38
+00:01:42,080 --> 00:01:45,640
+part, what's really profound is 
+how those very idealized images,
+
+39
+00:01:45,680 --> 00:01:49,320
+while comforting, can sometimes 
+maybe inadvertently hide A much 
+
+40
+00:01:49,320 --> 00:01:51,760
+deeper truth, a more challenging
+one, maybe a truth about 
+
+41
+00:01:51,760 --> 00:01:55,960
+vulnerability and about the the 
+really interactive nature of 
+
+42
+00:01:55,960 --> 00:01:58,120
+spiritual power. 
+This common picture can 
+
+43
+00:01:58,120 --> 00:02:01,200
+sometimes feel like God. 
+Just, you know, cosplaying as a 
+
+44
+00:02:01,200 --> 00:02:02,760
+man. 
+Cosplaying a man Wow. 
+
+45
+00:02:03,200 --> 00:02:05,640
+Yeah, implying there wasn't a 
+genuine human experience there, 
+
+46
+00:02:05,640 --> 00:02:08,000
+no real dependence on anything 
+outside himself. 
+
+47
+00:02:08,600 --> 00:02:13,760
+It kind of bypasses the raw, 
+unfiltered reality that our 
+
+48
+00:02:13,760 --> 00:02:15,720
+sources for today really bring 
+to light. 
+
+49
+00:02:15,720 --> 00:02:19,040
+And honestly, that reality makes
+the story even more compelling. 
+
+50
+00:02:19,360 --> 00:02:21,360
+And that profound reality, 
+that's exactly what we're 
+
+51
+00:02:21,360 --> 00:02:24,040
+digging into today. 
+Our deep dive is going to center
+
+52
+00:02:24,040 --> 00:02:26,360
+on one specific moment from the 
+Gospels. 
+
+53
+00:02:26,800 --> 00:02:29,640
+It's often overlooked, actually.
+But for the author of this 
+
+54
+00:02:29,640 --> 00:02:32,720
+contemporary reflection we're 
+using, it was the moment that 
+
+55
+00:02:32,720 --> 00:02:36,920
+really quote broke him open. 
+It radically shifted his view. 
+
+56
+00:02:36,920 --> 00:02:39,880
+Which moment is that? 
+It's Jesus's return to his 
+
+57
+00:02:39,880 --> 00:02:45,000
+hometown Nazareth, a scene that 
+reveals, well, a far more human,
+
+58
+00:02:45,000 --> 00:02:48,080
+far more relational, and far 
+more vulnerable Jesus than maybe
+
+59
+00:02:48,080 --> 00:02:50,000
+we're used to seeing. 
+Nazareth. 
+
+60
+00:02:50,000 --> 00:02:53,760
+Yes, that's a powerful one. 
+Really cuts against the grain of
+
+61
+00:02:53,760 --> 00:02:55,320
+the usual miracle story. 
+Exactly. 
+
+62
+00:02:55,840 --> 00:02:59,200
+So yeah, to unpack this, this 
+pivotal moment, we'll be looking
+
+63
+00:02:59,200 --> 00:03:01,480
+mainly at the accounts in 
+Matthew, Mark and Luke, the 
+
+64
+00:03:01,480 --> 00:03:04,200
+synoptic gospels, right? 
+And we're pairing those with 
+
+65
+00:03:04,200 --> 00:03:07,800
+this really insightful modern 
+reflection you mentioned. 
+
+66
+00:03:08,160 --> 00:03:10,640
+But it helps bring a fresh 
+perspective to these ancient 
+
+67
+00:03:10,640 --> 00:03:13,680
+texts, kind of pulls back the 
+curtain on the side of Jesus 
+
+68
+00:03:13,680 --> 00:03:15,680
+that, well, it often gets 
+overshadowed. 
+
+69
+00:03:15,680 --> 00:03:18,280
+Yeah, definitely. 
+So our mission today is to 
+
+70
+00:03:18,280 --> 00:03:23,040
+really get into this rarely 
+discussed story, understand what
+
+71
+00:03:23,040 --> 00:03:25,480
+it might be saying about the 
+nature of power, the nature of 
+
+72
+00:03:25,480 --> 00:03:29,920
+faith, and ultimately figure out
+what it might mean for you 
+
+73
+00:03:30,560 --> 00:03:32,040
+listening right now in your own 
+life. 
+
+74
+00:03:32,880 --> 00:03:35,240
+OK, let's unpack this then let's
+try and put ourselves right 
+
+75
+00:03:35,240 --> 00:03:36,480
+there. 
+Picture the scene. 
+
+76
+00:03:37,120 --> 00:03:40,600
+We're in Nazareth inside the 
+synagogue, and it's crucial to 
+
+77
+00:03:40,600 --> 00:03:42,600
+remember this isn't just any 
+town. 
+
+78
+00:03:42,600 --> 00:03:45,640
+This is his hometown. 
+Jesus is coming to his hometown 
+
+79
+00:03:45,840 --> 00:03:47,960
+and teaching the people in their
+synagogue. 
+
+80
+00:03:47,960 --> 00:03:49,880
+The intimacy is key. 
+Absolutely. 
+
+81
+00:03:49,880 --> 00:03:51,640
+These aren't strangers who've 
+just heard rumors. 
+
+82
+00:03:51,800 --> 00:03:53,080
+These are the folks he grew up 
+with. 
+
+83
+00:03:53,360 --> 00:03:55,960
+Try and visualize it. 
+You know, the men he might have 
+
+84
+00:03:55,960 --> 00:03:58,840
+learned carpentry alongside. 
+Haggling over wood prices. 
+
+85
+00:03:59,160 --> 00:04:01,800
+Exactly. 
+The women who watched him grow 
+
+86
+00:04:01,800 --> 00:04:05,360
+up maybe shared knowing looks 
+with Mary, the kids he played 
+
+87
+00:04:05,360 --> 00:04:07,800
+with who knew him just as Joseph
+and Mary's boy. 
+
+88
+00:04:08,200 --> 00:04:09,960
+You know the kid down the 
+street. 
+
+89
+00:04:10,200 --> 00:04:13,520
+This is his community, his 
+childhood, his roots. 
+
+90
+00:04:13,720 --> 00:04:16,240
+It's that small town vibe where 
+everybody thinks they know 
+
+91
+00:04:16,240 --> 00:04:18,920
+everything about everyone else 
+and they definitely think they 
+
+92
+00:04:18,920 --> 00:04:20,839
+know him. 
+You've hit on something really 
+
+93
+00:04:20,839 --> 00:04:23,000
+critical there. 
+There's always a tension, isn't 
+
+94
+00:04:23,000 --> 00:04:25,400
+there? 
+When someone achieves something 
+
+95
+00:04:25,920 --> 00:04:30,280
+notable and then goes back home,
+Oh yeah, but for a profit, it's 
+
+96
+00:04:30,280 --> 00:04:32,360
+amplified. 
+There's this whole lifetime of 
+
+97
+00:04:32,360 --> 00:04:34,960
+shared history, mundane 
+interactions, just everyday 
+
+98
+00:04:34,960 --> 00:04:37,040
+stuff. 
+And that crease sees really deep
+
+99
+00:04:37,040 --> 00:04:39,240
+seated expectations. 
+Right, they have a box for him 
+
+100
+00:04:39,240 --> 00:04:40,120
+already. 
+Exactly. 
+
+101
+00:04:40,400 --> 00:04:42,960
+They knew she's the kid, she's 
+the young Craftsman working with
+
+102
+00:04:42,960 --> 00:04:44,560
+his dad, just part of the local 
+scene. 
+
+103
+00:04:45,160 --> 00:04:49,920
+So when he comes back now as 
+this charismatic teacher, maybe 
+
+104
+00:04:50,120 --> 00:04:54,240
+rumors of miracles swirling. 
+It directly challenges their 
+
+105
+00:04:54,240 --> 00:04:57,720
+fixed ideas about him. 
+And it implicitly challenges the
+
+106
+00:04:57,720 --> 00:05:02,240
+town's social structure, too. 
+This deep familiarity is ironic.
+
+107
+00:05:02,240 --> 00:05:03,360
+It could have been a source of 
+pride. 
+
+108
+00:05:03,360 --> 00:05:05,760
+Like hey look, one of ours made 
+good. 
+
+109
+00:05:05,760 --> 00:05:08,520
+Yeah, you'd think so. 
+Or, as we're about to see, it 
+
+110
+00:05:08,520 --> 00:05:11,960
+can become this huge, almost 
+like insurmountable wall, a 
+
+111
+00:05:11,960 --> 00:05:16,120
+barrier to actually accepting 
+his new authority, his true 
+
+112
+00:05:16,120 --> 00:05:18,400
+identity. 
+You can almost feel the mix in 
+
+113
+00:05:18,400 --> 00:05:21,120
+that synagogue, can't you? 
+A bit of curiosity, maybe. 
+
+114
+00:05:21,240 --> 00:05:23,800
+Sure, a little buzz, maybe some 
+hometown pride initially. 
+
+115
+00:05:24,040 --> 00:05:27,280
+But then quickly, it shifts. 
+Suspicion creeps in. 
+
+116
+00:05:27,280 --> 00:05:30,920
+Skepticism, maybe even a little 
+resentment. 
+
+117
+00:05:30,920 --> 00:05:35,280
+Like who does he think he is 
+that possessiveness over their 
+
+118
+00:05:35,280 --> 00:05:38,080
+local boy who dared to be 
+something more? 
+
+119
+00:05:38,080 --> 00:05:41,920
+That human tendency to keep 
+people in their boxes precisely 
+
+120
+00:05:41,920 --> 00:05:44,760
+and Matthews account, which is 
+one of our main gospel sources 
+
+121
+00:05:44,760 --> 00:05:47,400
+here, it captures this dynamic 
+just perfectly. 
+
+122
+00:05:47,720 --> 00:05:49,760
+The first reaction are modern 
+source notes. 
+
+123
+00:05:50,000 --> 00:05:51,480
+It is amazement. 
+Right. 
+
+124
+00:05:51,600 --> 00:05:54,000
+They hear him teach. 
+Yeah, they're hearing this guy, 
+
+125
+00:05:54,000 --> 00:05:56,840
+the one they knew from forever, 
+speak with this incredible 
+
+126
+00:05:56,840 --> 00:05:58,440
+wisdom. 
+Maybe they've heard whispers 
+
+127
+00:05:58,440 --> 00:05:59,840
+about things he's done 
+elsewhere. 
+
+128
+00:06:00,000 --> 00:06:02,920
+But that amazement, it almost 
+instantly starts to curdle. 
+
+129
+00:06:03,240 --> 00:06:05,200
+It turns sour fast. 
+It really does. 
+
+130
+00:06:05,200 --> 00:06:08,160
+It morphs into these pointed 
+questions, and they don't sound 
+
+131
+00:06:08,160 --> 00:06:10,800
+like genuine inquiries. 
+You know, they sound like 
+
+132
+00:06:10,880 --> 00:06:13,520
+defensive skepticism, almost an 
+accusation. 
+
+133
+00:06:13,520 --> 00:06:14,880
+Like they're cross examining. 
+Him. 
+
+134
+00:06:14,880 --> 00:06:18,760
+Exactly where did this man get 
+this wisdom in these miraculous 
+
+135
+00:06:18,760 --> 00:06:21,080
+powers? 
+It's less about understanding, 
+
+136
+00:06:21,160 --> 00:06:23,400
+more about challenging his right
+to have them. 
+
+137
+00:06:23,680 --> 00:06:25,760
+Undermining his legitimacy. 
+Totally. 
+
+138
+00:06:25,760 --> 00:06:29,000
+And then comes the kicker, the 
+dismissive familiarity, the 
+
+139
+00:06:29,000 --> 00:06:31,920
+thing that really pulls the rug 
+out from under his authority. 
+
+140
+00:06:32,360 --> 00:06:36,200
+Isn't this the carpenter's son? 
+Isn't his mother's name Mary? 
+
+141
+00:06:37,040 --> 00:06:40,400
+And aren't his brothers James, 
+Joseph, Simon and Judas? 
+
+142
+00:06:40,640 --> 00:06:44,320
+Aren't all his sisters with us? 
+Where then did this man get all 
+
+143
+00:06:44,320 --> 00:06:46,120
+these things? 
+Listing the whole family, 
+
+144
+00:06:46,280 --> 00:06:49,000
+basically saying we know you're 
+folks, you're one of us, don't 
+
+145
+00:06:49,000 --> 00:06:51,720
+get too big for your boots. 
+Right, and the text says they 
+
+146
+00:06:51,720 --> 00:06:54,120
+took offense at him. 
+It's that classic small town 
+
+147
+00:06:54,120 --> 00:06:56,080
+thing, isn't it? 
+Who does this guy think he is 
+
+148
+00:06:56,120 --> 00:06:58,080
+coming back here acting all 
+important? 
+
+149
+00:06:58,240 --> 00:07:00,800
+We changed his diapers. 
+Or, you know, the ancient 
+
+150
+00:07:00,800 --> 00:07:02,920
+equivalent. 
+And if we connect us to the 
+
+151
+00:07:02,920 --> 00:07:07,720
+bigger picture, that progression
+from amazement to offense, it's 
+
+152
+00:07:07,840 --> 00:07:11,200
+absolutely critical. 
+It reveals this deep human 
+
+153
+00:07:11,200 --> 00:07:15,040
+resistance, resistance to 
+change, resistance to letting 
+
+154
+00:07:15,040 --> 00:07:17,320
+people outgrow the roles we've 
+assigned them. 
+
+155
+00:07:18,000 --> 00:07:21,960
+They go from that initial 
+flicker of wonder, maybe even 
+
+156
+00:07:21,960 --> 00:07:26,360
+awe, straight to suspicion, and 
+then ultimately to this visceral
+
+157
+00:07:26,360 --> 00:07:29,960
+rejection. 
+And it's based entirely on their
+
+158
+00:07:29,960 --> 00:07:33,000
+prior knowledge. 
+They're intimate and, crucially,
+
+159
+00:07:33,320 --> 00:07:35,600
+their fixed idea of who he was. 
+Right. 
+
+160
+00:07:35,600 --> 00:07:37,400
+It's not about what he's saying 
+or doing. 
+
+161
+00:07:37,400 --> 00:07:39,560
+Exactly. 
+It's the classic, we know who 
+
+162
+00:07:39,560 --> 00:07:41,320
+you really are. 
+You're just like us, you can't 
+
+163
+00:07:41,320 --> 00:07:45,200
+possibly be anything more. 
+That phenomenon and mentioning 
+
+164
+00:07:45,200 --> 00:07:47,560
+the specific family members, 
+Mary, the brothers and sisters. 
+
+165
+00:07:47,560 --> 00:07:49,080
+And so that's not just adding 
+color. 
+
+166
+00:07:49,480 --> 00:07:52,320
+It highlights just how deeply 
+personal, how rooted this 
+
+167
+00:07:52,320 --> 00:07:54,200
+disbelief was. 
+Yeah, it wasn't abstract 
+
+168
+00:07:54,200 --> 00:07:55,480
+theology for them. 
+Not at all. 
+
+169
+00:07:55,480 --> 00:07:57,920
+It wasn't about the content of 
+his teaching, which Matthew 
+
+170
+00:07:57,920 --> 00:08:00,160
+implies was amazing. 
+It wasn't about evidence of 
+
+171
+00:08:00,160 --> 00:08:04,120
+miracles, it was purely about 
+his perceived identity, an 
+
+172
+00:08:04,120 --> 00:08:06,840
+identity that just didn't fit 
+their mental box for him. 
+
+173
+00:08:07,040 --> 00:08:11,240
+And Jesus's response as Matthew 
+records it, it's so poignant. 
+
+174
+00:08:11,240 --> 00:08:13,880
+It's not really a complaint, 
+more like a sad observation, 
+
+175
+00:08:13,880 --> 00:08:15,720
+almost a lament, right? 
+What does he say again? 
+
+176
+00:08:16,320 --> 00:08:20,560
+A prophet is not without honor 
+except in his own town and in 
+
+177
+00:08:20,560 --> 00:08:24,080
+his own home. 
+Yeah, it's not him whining about
+
+178
+00:08:24,080 --> 00:08:26,880
+her pride. 
+It's him recognizing this 
+
+179
+00:08:26,880 --> 00:08:30,600
+universal human thing, a 
+tendency that, let's be honest, 
+
+180
+00:08:30,600 --> 00:08:34,600
+still happens today. 
+We often undervalue or dismiss 
+
+181
+00:08:34,600 --> 00:08:37,480
+or just fail to see the 
+potential of those closest to 
+
+182
+00:08:37,480 --> 00:08:39,000
+us. 
+We're too familiar. 
+
+183
+00:08:39,120 --> 00:08:41,600
+We think we already know them. 
+Yeah, familiarity breeds 
+
+184
+00:08:41,600 --> 00:08:44,120
+contempt, or at least blindness 
+sometimes. 
+
+185
+00:08:44,120 --> 00:08:46,120
+Exactly. 
+Blindness to transformation. 
+
+186
+00:08:46,200 --> 00:08:47,480
+And here's where it gets really 
+stark. 
+
+187
+00:08:47,480 --> 00:08:50,200
+This is where that Superman and 
+Sandals image just starts to 
+
+188
+00:08:50,200 --> 00:08:53,360
+crack wide open. 
+Matthew's account gives us the 
+
+189
+00:08:53,360 --> 00:08:55,840
+consequence of this rejection, 
+and it's a line that just hangs 
+
+190
+00:08:55,840 --> 00:08:59,400
+in the air. 
+And he did not do many miracles 
+
+191
+00:08:59,400 --> 00:09:00,840
+there because of their lack of 
+faith. 
+
+192
+00:09:01,480 --> 00:09:04,440
+Notice that phrasing. 
+It doesn't say he chose not to, 
+
+193
+00:09:04,600 --> 00:09:06,520
+or that he withheld his power to
+punish them. 
+
+194
+00:09:06,760 --> 00:09:09,800
+It says he did not do them. 
+Which really suggests A 
+
+195
+00:09:09,800 --> 00:09:12,000
+limitation, doesn't it? 
+A constraint that's directly 
+
+196
+00:09:12,000 --> 00:09:15,560
+tied to their belief, or more 
+accurately, their profound lack 
+
+197
+00:09:15,560 --> 00:09:17,600
+of belief. 
+It's like their disbelief acted 
+
+198
+00:09:17,600 --> 00:09:20,680
+as a kind of dampener, a 
+spiritual short circuit. 
+
+199
+00:09:20,680 --> 00:09:23,440
+Yeah, that's a good way to put. 
+It this is absolutely the first 
+
+200
+00:09:23,440 --> 00:09:28,440
+major crack in that idealized 
+image of, you know, effortless, 
+
+201
+00:09:28,480 --> 00:09:32,760
+independent omnipotence. 
+It fundamentally suggests that 
+
+202
+00:09:33,320 --> 00:09:36,320
+his power, or at least how it 
+manifested, wasn't just this 
+
+203
+00:09:36,320 --> 00:09:40,320
+internal switch He could flip 
+anytime, anywhere, regardless of
+
+204
+00:09:40,320 --> 00:09:41,200
+the situation. 
+Right. 
+
+205
+00:09:41,320 --> 00:09:43,440
+It wasn't operating in a vacuum.
+Exactly. 
+
+206
+00:09:43,760 --> 00:09:48,760
+It introduces this profoundly 
+relational dynamic power working
+
+207
+00:09:48,760 --> 00:09:50,080
+in relation to the people 
+present. 
+
+208
+00:09:50,240 --> 00:09:52,920
+It wasn't about Jesus punishing 
+them, like you said, it feels 
+
+209
+00:09:52,920 --> 00:09:56,040
+more like a direct consequence, 
+almost like a law of spiritual 
+
+210
+00:09:56,040 --> 00:09:58,640
+physics was at play. 
+Spiritual physics, Yeah. 
+
+211
+00:09:58,640 --> 00:10:00,360
+Interesting. 
+Yeah, like the very atmosphere 
+
+212
+00:10:00,360 --> 00:10:02,680
+in that room, saturated with 
+their collective disbelief, 
+
+213
+00:10:02,680 --> 00:10:06,000
+their cynicism. 
+It created this, this barrier. 
+
+214
+00:10:06,000 --> 00:10:09,240
+Yeah, maybe an impenetrable 1. 
+He simply couldn't operate in 
+
+215
+00:10:09,240 --> 00:10:11,560
+the way he did elsewhere. 
+And that's not about weakness in
+
+216
+00:10:11,560 --> 00:10:13,800
+him. 
+It's a revelation about the 
+
+217
+00:10:13,800 --> 00:10:15,880
+nature of the power itself, how 
+it works. 
+
+218
+00:10:16,120 --> 00:10:19,280
+Wow. 
+OK, And Mark's account, our 
+
+219
+00:10:19,280 --> 00:10:22,920
+second gospel source here. 
+It just drives this point home 
+
+220
+00:10:22,920 --> 00:10:25,960
+even more bluntly. 
+It strips away any possible 
+
+221
+00:10:25,960 --> 00:10:28,920
+ambiguity. 
+Matthew says he did not do many 
+
+222
+00:10:28,920 --> 00:10:32,760
+miracles, but Mark states it 
+with this like undeniable, 
+
+223
+00:10:32,760 --> 00:10:36,120
+almost shocking force. 
+He says he could not do any 
+
+224
+00:10:36,120 --> 00:10:39,480
+miracles there except lay his 
+hands on a few sick people and 
+
+225
+00:10:39,480 --> 00:10:43,280
+heal them, and then adds he was 
+amazed at their lack of faith. 
+
+226
+00:10:43,520 --> 00:10:45,560
+OK, let's really zero in on that
+phrase. 
+
+227
+00:10:45,640 --> 00:10:47,840
+He could not the original Greek 
+verb. 
+
+228
+00:10:47,840 --> 00:10:50,800
+There you get dunato. 
+It translates very directly. 
+
+229
+00:10:50,800 --> 00:10:54,240
+It means he was not able. 
+It signifies an actual 
+
+230
+00:10:54,240 --> 00:10:56,480
+inability, not just an 
+unwillingness. 
+
+231
+00:10:57,080 --> 00:10:59,080
+It's huge. 
+Because it contrasts sharply 
+
+232
+00:10:59,080 --> 00:11:02,200
+with other times in the gospels 
+where Jesus maybe chooses not to
+
+233
+00:11:02,200 --> 00:11:05,080
+do miracle, perhaps because 
+people are just demanding a sign
+
+234
+00:11:05,080 --> 00:11:06,640
+or something like. 
+That right, testing him. 
+
+235
+00:11:06,640 --> 00:11:09,360
+Exactly. 
+But here Mark presents it as an 
+
+236
+00:11:09,360 --> 00:11:13,920
+inherent limitation 1 imposed by
+the external environment, the 
+
+237
+00:11:13,920 --> 00:11:16,720
+collective disbelief of the 
+crowd, that pervasive skepticism
+
+238
+00:11:16,720 --> 00:11:20,520
+in the synagogue he occurred in,
+an actual palpable barrier his 
+
+239
+00:11:20,520 --> 00:11:23,080
+power couldn't fully manifest. 
+It's really profound when you 
+
+240
+00:11:23,080 --> 00:11:25,360
+sit with it. 
+Yeah, it really is. 
+
+241
+00:11:25,360 --> 00:11:28,040
+Could not. 
+And just as significant is that 
+
+242
+00:11:28,040 --> 00:11:32,720
+detail Mark includes, Jesus was 
+amazed at their lack of faith. 
+
+243
+00:11:32,880 --> 00:11:34,840
+Right. 
+Even he was surprised. 
+
+244
+00:11:35,000 --> 00:11:38,120
+Apparently, this wasn't an 
+expected outcome for him. 
+
+245
+00:11:38,120 --> 00:11:41,120
+It wasn't just a hurdle he saw 
+coming and easily overcame. 
+
+246
+00:11:41,560 --> 00:11:43,360
+It was something that genuinely 
+astonished him. 
+
+247
+00:11:43,720 --> 00:11:45,760
+Maybe even, you know, 
+disappointed him deeply. 
+
+248
+00:11:45,760 --> 00:11:48,720
+It affected him, and the fact 
+that he could still manage to 
+
+249
+00:11:48,720 --> 00:11:52,960
+lay hands on a few sick people 
+and heal them, that actually 
+
+250
+00:11:52,960 --> 00:11:55,240
+highlights the contrast even 
+more starkly. 
+
+251
+00:11:55,240 --> 00:11:56,440
+Doesn't. 
+It how so? 
+
+252
+00:11:56,640 --> 00:12:00,040
+Well, it shows the severe 
+limitation on his power in that 
+
+253
+00:12:00,040 --> 00:12:03,400
+specific faithless air, as one 
+source puts it. 
+
+254
+00:12:03,640 --> 00:12:07,120
+It's like imagine a tiny spark 
+desperately trying to catch fire
+
+255
+00:12:07,120 --> 00:12:10,400
+in a room with almost no oxygen.
+OK, maybe in a few isolated 
+
+256
+00:12:10,400 --> 00:12:13,120
+pockets where a tiny bit of 
+belief or simple human needs 
+
+257
+00:12:13,120 --> 00:12:15,640
+still existed, a flicker of 
+healing was possible. 
+
+258
+00:12:16,240 --> 00:12:18,920
+But the overall atmosphere? 
+It was suffocating the flame. 
+
+259
+00:12:19,000 --> 00:12:20,920
+You're trying to turn on a light
+switch when the whole circuit 
+
+260
+00:12:20,920 --> 00:12:22,680
+board is dead. 
+Exactly. 
+
+261
+00:12:22,840 --> 00:12:26,200
+Or trying to charge a battery in
+an environment that actively 
+
+262
+00:12:26,200 --> 00:12:28,480
+drains the power faster than it 
+can come in. 
+
+263
+00:12:28,840 --> 00:12:31,960
+The few individual connections 
+where maybe some faith still 
+
+264
+00:12:31,960 --> 00:12:35,760
+existed allowed for a minimal 
+transfer of healing, but the 
+
+265
+00:12:35,760 --> 00:12:38,320
+overall atmosphere was just 
+completely prohibitive. 
+
+266
+00:12:38,320 --> 00:12:41,880
+Wow, OK, so Matthew says did 
+not, Marxist could not. 
+
+267
+00:12:41,880 --> 00:12:46,960
+And then Luke's account, our 
+third source, adds this really 
+
+268
+00:12:46,960 --> 00:12:49,520
+disturbing, violent twist. 
+Yeah, Lewd escalates it 
+
+269
+00:12:49,520 --> 00:12:52,400
+dramatically. 
+It goes way beyond just offense 
+
+270
+00:12:52,400 --> 00:12:54,640
+or disbelief. 
+It turns into outright 
+
+271
+00:12:54,640 --> 00:12:57,720
+hostility, act of aggression, 
+Luke writes. 
+
+272
+00:12:58,040 --> 00:13:00,520
+All the people in the synagogue 
+were furious when they heard 
+
+273
+00:13:00,520 --> 00:13:02,560
+this. 
+They got up, drove him out of 
+
+274
+00:13:02,560 --> 00:13:05,120
+the town, and took him to the 
+brow of the hill on which the 
+
+275
+00:13:05,120 --> 00:13:07,640
+town was built in order to throw
+him off the Cliff. 
+
+276
+00:13:08,320 --> 00:13:12,840
+I mean, just pause there. 
+Fury Attempted murder over words
+
+277
+00:13:12,840 --> 00:13:14,840
+spoken in a synagogue by someone
+they knew. 
+
+278
+00:13:14,840 --> 00:13:16,960
+It's shocking. 
+It's an absolutely terrifying 
+
+279
+00:13:16,960 --> 00:13:20,320
+escalation from skepticism to 
+fury to attempted lynching. 
+
+280
+00:13:20,480 --> 00:13:22,720
+It just reveals the visceral 
+threat they felt. 
+
+281
+00:13:22,880 --> 00:13:25,880
+His presence, his claims, his 
+challenging other expectations. 
+
+282
+00:13:26,400 --> 00:13:29,200
+It wasn't just ignored, it was 
+perceived as such a profound 
+
+283
+00:13:29,200 --> 00:13:32,120
+danger to their whole worldview.
+To their understanding of God, 
+
+284
+00:13:32,120 --> 00:13:34,640
+maybe. 
+Yes, and of prophecy and maybe 
+
+285
+00:13:34,640 --> 00:13:36,480
+just their comfortable small 
+town reality. 
+
+286
+00:13:36,640 --> 00:13:40,680
+It provoked this murderous rage.
+This isn't just about a prophet 
+
+287
+00:13:40,680 --> 00:13:43,720
+being dismissed politely. 
+This is a community so deeply 
+
+288
+00:13:43,720 --> 00:13:47,000
+invested in their static picture
+of him, Joseph's boy, that 
+
+289
+00:13:47,320 --> 00:13:49,960
+they'd rather kill him than let 
+him challenge that picture or 
+
+290
+00:13:49,960 --> 00:13:51,640
+redefine who they thought he 
+was. 
+
+291
+00:13:51,640 --> 00:13:53,520
+It's. 
+Intense, but then Luke adds that
+
+292
+00:13:53,520 --> 00:13:54,520
+other little. 
+Detail. 
+
+293
+00:13:55,080 --> 00:13:59,480
+Yes, the ending, but he walked 
+right through the crowd and went
+
+294
+00:13:59,480 --> 00:14:00,520
+on his way. 
+Right. 
+
+295
+00:14:00,640 --> 00:14:04,040
+What do you make of that? 
+Well, it's brief but powerful, 
+
+296
+00:14:04,040 --> 00:14:05,680
+isn't it? 
+It's this camera moment. 
+
+297
+00:14:05,880 --> 00:14:09,480
+It shows the kind of momentary 
+contained power, a sort of 
+
+298
+00:14:09,480 --> 00:14:12,600
+transcendent common control, 
+even right in the middle of this
+
+299
+00:14:12,600 --> 00:14:15,160
+murderous mob. 
+Yeah, not like a big flashy 
+
+300
+00:14:15,160 --> 00:14:16,880
+miracle. 
+No, not a pillar of fire or 
+
+301
+00:14:16,880 --> 00:14:19,400
+anything. 
+More like a quiet, almost 
+
+302
+00:14:19,480 --> 00:14:22,760
+surgical exercise of personal 
+authority enough to simply 
+
+303
+00:14:22,760 --> 00:14:26,120
+remove himself from a situation 
+that was clearly spiritually 
+
+304
+00:14:26,120 --> 00:14:27,880
+buried, barren, and physically 
+dangerous. 
+
+305
+00:14:28,040 --> 00:14:30,880
+He didn't engage the violence 
+didn't overpower them. 
+
+306
+00:14:30,880 --> 00:14:35,600
+He just walked through and then 
+wisely chose to leave. 
+
+307
+00:14:35,800 --> 00:14:40,400
+So this whole Nazareth incident,
+it really is, as our source 
+
+308
+00:14:40,400 --> 00:14:42,120
+says, the moment nobody talks 
+about, isn't it? 
+
+309
+00:14:42,120 --> 00:14:45,320
+I don't think it's glossed over.
+Yeah, when we think of Jesus, 
+
+310
+00:14:45,320 --> 00:14:48,520
+it's usually The Walking on 
+water, the feeding, the 5000, 
+
+311
+00:14:48,520 --> 00:14:51,600
+raising Lazarus, the big 
+triumphant moment. 
+
+312
+00:14:51,600 --> 00:14:53,120
+A highlight reel. 
+Exactly. 
+
+313
+00:14:53,720 --> 00:14:56,920
+But this scene? 
+This is Jesus, the Son of God, 
+
+314
+00:14:56,920 --> 00:14:59,560
+standing in his childhood 
+synagogue, getting heckled, 
+
+315
+00:14:59,600 --> 00:15:04,080
+dismissed and then facing a 
+lynch mob by the people he grew 
+
+316
+00:15:04,080 --> 00:15:06,960
+up with. 
+And crucially, in the face of 
+
+317
+00:15:06,960 --> 00:15:11,080
+their collective disbelief, the 
+Gospels tell us his power was 
+
+318
+00:15:11,080 --> 00:15:13,120
+limited. 
+You could not do many miracles 
+
+319
+00:15:13,120 --> 00:15:14,800
+there. 
+It shatters the simple image. 
+
+320
+00:15:14,880 --> 00:15:17,440
+Completely. 
+Our contemporary source puts it 
+
+321
+00:15:17,440 --> 00:15:20,080
+so powerfully. 
+The room itself, the very 
+
+322
+00:15:20,080 --> 00:15:22,760
+environment created by their 
+disbelief, literally made him 
+
+323
+00:15:22,760 --> 00:15:25,400
+powerless. 
+The faithless air choked the 
+
+324
+00:15:25,400 --> 00:15:27,960
+miracles like oxygen sucked out 
+of a flame. 
+
+325
+00:15:27,960 --> 00:15:29,800
+And here's where our 
+understanding really has to 
+
+326
+00:15:29,800 --> 00:15:31,600
+shift, doesn't it? 
+It is something far more 
+
+327
+00:15:31,600 --> 00:15:35,560
+nuanced, and maybe, in a strange
+way, more relatable. 
+
+328
+00:15:35,920 --> 00:15:38,680
+Because this is not the 
+triumphant, untouchable miracle 
+
+329
+00:15:38,680 --> 00:15:42,360
+worker we usually imagine. 
+This is Jesus, Son of God, yes, 
+
+330
+00:15:42,760 --> 00:15:46,880
+but also facing raw, gut 
+wrenching human rejection and 
+
+331
+00:15:47,200 --> 00:15:49,600
+having his ability to act at 
+least in that powerful, 
+
+332
+00:15:49,600 --> 00:15:53,160
+miraculous way, severely limited
+by that environment. 
+
+333
+00:15:53,800 --> 00:15:56,600
+Our source makes that brilliant 
+comparison. 
+
+334
+00:15:56,960 --> 00:15:59,640
+Superman doesn't need anybody. 
+He gets his power from the sun. 
+
+335
+00:15:59,800 --> 00:16:01,680
+He can take a bullet to the iron
+smirk. 
+
+336
+00:16:02,160 --> 00:16:05,040
+The people of Earth can't add to
+or take away from his strength. 
+
+337
+00:16:05,040 --> 00:16:06,640
+Yeah, he's totally 
+self-contained. 
+
+338
+00:16:06,640 --> 00:16:08,960
+Exactly. 
+Jesus isn't like that. 
+
+339
+00:16:09,160 --> 00:16:11,600
+And that vulnerability, that 
+apparent susceptibility to the 
+
+340
+00:16:11,600 --> 00:16:16,040
+environment, is what makes him 
+so heartbreakingly human, as the
+
+341
+00:16:16,040 --> 00:16:18,520
+author puts it, so utterly 
+within our grasp of 
+
+342
+00:16:18,520 --> 00:16:20,800
+understanding somehow. 
+Yeah, you can almost feel the 
+
+343
+00:16:20,800 --> 00:16:22,880
+sting of that rejection. 
+You can. 
+
+344
+00:16:23,120 --> 00:16:25,680
+He walks into rooms wide open, 
+ready to give everything. 
+
+345
+00:16:25,680 --> 00:16:29,200
+But this kind of shows us he's 
+also profoundly affected by the 
+
+346
+00:16:29,200 --> 00:16:32,440
+atmosphere, susceptible to the 
+collective disbelief, the 
+
+347
+00:16:32,440 --> 00:16:35,480
+cynicism, the closed minds and 
+hearts around him. 
+
+348
+00:16:35,960 --> 00:16:39,680
+His power, unlike Superman's 
+raw, independent force, is shown
+
+349
+00:16:39,680 --> 00:16:41,320
+here to be fundamentally 
+relational. 
+
+350
+00:16:41,600 --> 00:16:43,800
+Relational dependent on 
+connection. 
+
+351
+00:16:44,080 --> 00:16:47,640
+In some essential way, yes. 
+And that directly challenges the
+
+352
+00:16:47,640 --> 00:16:50,840
+common idea of divine 
+omnipotence as this totally 
+
+353
+00:16:50,840 --> 00:16:55,120
+independent, internal, always on
+force that just bulldozes 
+
+354
+00:16:55,120 --> 00:16:57,680
+through reality. 
+It introduces a kind of 
+
+355
+00:16:57,680 --> 00:17:00,240
+dependence. 
+Not dependence born of weakness,
+
+356
+00:17:00,240 --> 00:17:03,520
+maybe, but dependence based on 
+the need for connection, for 
+
+357
+00:17:03,520 --> 00:17:06,040
+receptivity from the very people
+he encounters. 
+
+358
+00:17:06,520 --> 00:17:10,160
+It paints a picture of a God who
+chooses, perhaps, to work with 
+
+359
+00:17:10,160 --> 00:17:14,040
+creation interactively, not just
+over it unilaterally. 
+
+360
+00:17:14,040 --> 00:17:16,200
+Which leads back to that phrase 
+you mentioned, spiritual 
+
+361
+00:17:16,200 --> 00:17:18,520
+physics. 
+Exactly this concept of 
+
+362
+00:17:18,520 --> 00:17:21,040
+vulnerability, this apparent 
+dependence on the environment, 
+
+363
+00:17:21,040 --> 00:17:24,040
+on the receptivity of others, it
+leads to this fascinating 
+
+364
+00:17:24,040 --> 00:17:26,880
+insight our source calls 
+spiritual physics. 
+
+365
+00:17:26,880 --> 00:17:29,960
+OK, unpack that a bit more. 
+The core idea is that the room 
+
+366
+00:17:29,960 --> 00:17:33,400
+itself made him powerless, that 
+the faithless air choked the 
+
+367
+00:17:33,400 --> 00:17:35,600
+miracles like oxygen sucked out 
+of a flame. 
+
+368
+00:17:36,000 --> 00:17:38,520
+The author is careful to say 
+this isn't Jesus being arrogant 
+
+369
+00:17:38,720 --> 00:17:41,000
+or punishing them. 
+Right, not withholding power out
+
+370
+00:17:41,000 --> 00:17:41,920
+of spite. 
+No. 
+
+371
+00:17:42,360 --> 00:17:45,200
+Instead, it's presented as a 
+fundamental principle, a kind of
+
+372
+00:17:45,200 --> 00:17:49,000
+spiritual physics governing how 
+divine power actually interacts 
+
+373
+00:17:49,000 --> 00:17:51,920
+with human reality. 
+So like a law of nature, but 
+
+374
+00:17:51,920 --> 00:17:53,560
+spiritual. 
+Sort of. 
+
+375
+00:17:54,080 --> 00:17:57,240
+The perspective suggests that 
+divine power, especially when 
+
+376
+00:17:57,240 --> 00:18:01,760
+it's interacting with us, flows 
+only where faith breathes life 
+
+377
+00:18:01,920 --> 00:18:04,720
+into it. 
+Without belief, without that 
+
+378
+00:18:04,720 --> 00:18:07,640
+receptive medium, that openness,
+there is no circuit. 
+
+379
+00:18:07,720 --> 00:18:09,640
+Without that faith, there is no 
+oxygen. 
+
+380
+00:18:10,400 --> 00:18:13,600
+It implies this fundamental, 
+almost natural law for how 
+
+381
+00:18:13,600 --> 00:18:15,520
+spiritual power operates in the 
+world. 
+
+382
+00:18:15,880 --> 00:18:19,000
+It needs a conductive medium. 
+It requires a connecting 
+
+383
+00:18:19,000 --> 00:18:21,200
+current, a living atmosphere to 
+work within. 
+
+384
+00:18:21,240 --> 00:18:23,520
+So God's power isn't just 
+imposed on us. 
+
+385
+00:18:23,720 --> 00:18:25,720
+Not necessarily, or at least not
+always. 
+
+386
+00:18:25,960 --> 00:18:28,800
+This view suggests it often 
+works with us or through our 
+
+387
+00:18:28,800 --> 00:18:31,320
+active participation, our 
+openness or receptivity. 
+
+388
+00:18:31,720 --> 00:18:34,080
+Think about electricity again. 
+The power plant generates vast 
+
+389
+00:18:34,080 --> 00:18:36,480
+amounts of energy, right? 
+But without the wires, the 
+
+390
+00:18:36,480 --> 00:18:38,480
+switches, the whole circuit 
+connecting it to your lamp. 
+
+391
+00:18:38,800 --> 00:18:42,000
+The light bulb stays dark. 
+The potential is there, but the 
+
+392
+00:18:42,000 --> 00:18:44,320
+conditions for its manifestation
+aren't met. 
+
+393
+00:18:44,320 --> 00:18:45,040
+OK. 
+That makes sense. 
+
+394
+00:18:45,320 --> 00:18:47,960
+Or sound. 
+My voice has potential sound, 
+
+395
+00:18:48,160 --> 00:18:50,920
+but it needs air to travel. 
+A microphone needs power to 
+
+396
+00:18:50,920 --> 00:18:53,040
+capture it. 
+Speakers need a current to 
+
+397
+00:18:53,080 --> 00:18:55,680
+amplify it. 
+Without the right medium, the 
+
+398
+00:18:55,680 --> 00:18:58,800
+right connections, the sound 
+doesn't reach you effectively. 
+
+399
+00:18:59,000 --> 00:19:00,440
+Got it. 
+So it really shifts the 
+
+400
+00:19:00,440 --> 00:19:04,000
+perception of Jesus's power. 
+Completely from this internal 
+
+401
+00:19:04,000 --> 00:19:07,480
+always on switch to something 
+that requires or at least 
+
+402
+00:19:07,480 --> 00:19:11,520
+invites external participation. 
+And that makes him, in a really 
+
+403
+00:19:11,520 --> 00:19:15,000
+profound way, dependent on the 
+very people he came to serve. 
+
+404
+00:19:15,240 --> 00:19:17,160
+Which is humbling, isn't? 
+It yeah, really humbling. 
+
+405
+00:19:17,320 --> 00:19:20,040
+That the Son of God felt the 
+sting of being dismissed by the 
+
+406
+00:19:20,040 --> 00:19:23,040
+people who should have known him
+best, and that their collective 
+
+407
+00:19:23,040 --> 00:19:26,640
+rejection, their lack of faith, 
+literally impacted his capacity 
+
+408
+00:19:26,640 --> 00:19:28,720
+to act to bring healing in that 
+place. 
+
+409
+00:19:28,720 --> 00:19:31,840
+It is heartbreakingly, 
+powerfully human. 
+
+410
+00:19:32,160 --> 00:19:36,480
+And yet, OK, this incident shows
+his vulnerability, his 
+
+411
+00:19:36,480 --> 00:19:40,240
+powerlessness in that specific 
+situation, but it also, 
+
+412
+00:19:40,360 --> 00:19:43,200
+paradoxically, maybe shows 
+incredible resilience. 
+
+413
+00:19:43,200 --> 00:19:44,760
+Absolutely. 
+That's a crucial part of the 
+
+414
+00:19:44,760 --> 00:19:46,680
+story. 
+He wasn't fragile, even though 
+
+415
+00:19:46,680 --> 00:19:49,320
+he was made, in a sense, 
+powerless there he was 
+
+416
+00:19:49,320 --> 00:19:53,560
+profoundly resilient. 
+So, well, he didn't stay and beg
+
+417
+00:19:53,560 --> 00:19:56,520
+them to believe, right? 
+He didn't try to force miracles 
+
+418
+00:19:56,520 --> 00:19:57,400
+into a. 
+Dead room? 
+
+419
+00:19:57,400 --> 00:19:58,960
+No. 
+He recognized the situation. 
+
+420
+00:19:58,960 --> 00:20:02,000
+Exactly. 
+He simply walked away, and the 
+
+421
+00:20:02,000 --> 00:20:04,360
+source emphasizes not. 
+Because he was offended, 
+
+422
+00:20:04,360 --> 00:20:07,520
+although maybe he was, but 
+fundamentally because there was 
+
+423
+00:20:07,520 --> 00:20:11,080
+literally nothing to work with. 
+He didn't just crumble under 
+
+424
+00:20:11,080 --> 00:20:13,240
+that rejection. 
+He adapted. 
+
+425
+00:20:13,320 --> 00:20:16,160
+He redirected his energy. 
+And that raises a really 
+
+426
+00:20:16,160 --> 00:20:18,680
+important point about the wisdom
+in that resilience. 
+
+427
+00:20:18,680 --> 00:20:20,720
+Yeah. 
+It's not about giving up easily 
+
+428
+00:20:20,720 --> 00:20:23,120
+when things get tough or running
+away from any challenge. 
+
+429
+00:20:23,400 --> 00:20:26,800
+It seems to be about recognizing
+where effort is actually futile 
+
+430
+00:20:27,240 --> 00:20:28,880
+because the fundamental 
+conditions aren't there. 
+
+431
+00:20:29,400 --> 00:20:31,680
+That lack of receptivity was 
+total. 
+
+432
+00:20:31,760 --> 00:20:34,240
+The soil was barren, as the 
+source says. 
+
+433
+00:20:34,240 --> 00:20:36,360
+Precisely. 
+Faith is the field where 
+
+434
+00:20:36,360 --> 00:20:38,880
+miracles grow. 
+In Nazareth, the soil was 
+
+435
+00:20:38,880 --> 00:20:41,440
+barren. 
+This wasn't Jesus deciding to 
+
+436
+00:20:41,440 --> 00:20:44,520
+withhold power as punishment. 
+It was, as the Source puts it, 
+
+437
+00:20:44,880 --> 00:20:47,800
+Jesus finding himself in a room 
+where his power simply cannot 
+
+438
+00:20:47,800 --> 00:20:50,960
+manifest because the necessary 
+conditions just weren't met. 
+
+439
+00:20:51,800 --> 00:20:54,120
+That's an act of profound 
+spiritual discernment, wouldn't 
+
+440
+00:20:54,120 --> 00:20:55,520
+you say? 
+Yeah, reading the room, 
+
+441
+00:20:55,520 --> 00:20:57,320
+spiritually speaking. 
+Exactly. 
+
+442
+00:20:57,520 --> 00:21:00,840
+And the few healings he did 
+manage, they become evidence of 
+
+443
+00:21:00,840 --> 00:21:02,680
+this. 
+There were those tiny sparks in 
+
+444
+00:21:02,680 --> 00:21:04,000
+an atmosphere that killed the 
+flame. 
+
+445
+00:21:04,320 --> 00:21:09,080
+So leaving wasn't weakness, it 
+was a strategic withdrawal, a 
+
+446
+00:21:09,080 --> 00:21:12,920
+redirection of his energy, his 
+presence, to places where it 
+
+447
+00:21:12,920 --> 00:21:15,080
+could be effective. 
+Instead of just banging his head
+
+448
+00:21:15,080 --> 00:21:16,320
+against a brick wall. 
+Right. 
+
+449
+00:21:16,480 --> 00:21:19,120
+It speaks to this deep 
+understanding of maybe spiritual
+
+450
+00:21:19,120 --> 00:21:22,080
+ecology. 
+You can't force growth in barren
+
+451
+00:21:22,080 --> 00:21:24,240
+soil. 
+Sometimes the wisest, most 
+
+452
+00:21:24,240 --> 00:21:28,480
+powerful thing you can do is 
+recognize when an environment is
+
+453
+00:21:28,480 --> 00:21:31,320
+simply not conducive to your 
+purpose and move to one that is.
+
+454
+00:21:31,480 --> 00:21:35,160
+It's about being wise with your 
+energy, even divine energy. 
+
+455
+00:21:35,160 --> 00:21:37,960
+That's a really powerful 
+contrast because Nazareth was 
+
+456
+00:21:37,960 --> 00:21:42,080
+barren, choked by disbelief. 
+But other places they burst with
+
+457
+00:21:42,080 --> 00:21:44,880
+healing, with activity. 
+Where faith lived, where the 
+
+458
+00:21:44,880 --> 00:21:46,880
+room breathe oxygen, power 
+erupted. 
+
+459
+00:21:47,400 --> 00:21:49,480
+And this brings us to another 
+fascinating point from our 
+
+460
+00:21:49,480 --> 00:21:51,320
+source, the role of the 
+disciples. 
+
+461
+00:21:51,360 --> 00:21:53,240
+Oh yeah, yes, often just seen as
+students. 
+
+462
+00:21:53,240 --> 00:21:55,640
+Right, but this source presents 
+them in a much more dynamic 
+
+463
+00:21:55,640 --> 00:21:57,040
+light. 
+Not just passive followers, but 
+
+464
+00:21:57,040 --> 00:21:58,840
+as his batteries, his Co 
+creators. 
+
+465
+00:21:58,840 --> 00:21:59,600
+Co creators. 
+Wow. 
+
+466
+00:22:00,080 --> 00:22:03,840
+Yeah, the idea is that their 
+belief, their receptivity, their
+
+467
+00:22:03,840 --> 00:22:07,600
+active participation, it 
+actually amplified his mission. 
+
+468
+00:22:07,680 --> 00:22:09,480
+That's a pretty radical idea, 
+isn't it? 
+
+469
+00:22:09,880 --> 00:22:11,880
+Shared power. 
+It feels like it. 
+
+470
+00:22:11,880 --> 00:22:14,320
+It really does reshape our 
+understanding of divine power. 
+
+471
+00:22:14,320 --> 00:22:17,440
+It's just it's not something 
+just solely possessed and kind 
+
+472
+00:22:17,440 --> 00:22:20,880
+of hoarded by God acting 
+unilaterally from above, right? 
+
+473
+00:22:21,240 --> 00:22:25,000
+But maybe something actively 
+multiplied, shared, even enabled
+
+474
+00:22:25,200 --> 00:22:28,520
+through human cooperation and 
+receptivity, the source says. 
+
+475
+00:22:29,120 --> 00:22:32,560
+He poured his power into them, 
+giving them authority to heal, 
+
+476
+00:22:32,560 --> 00:22:35,440
+to cast out demons, to preach 
+the Kingdom of God. 
+
+477
+00:22:35,640 --> 00:22:38,560
+He never hoarded divinity, he 
+multiplied it. 
+
+478
+00:22:38,560 --> 00:22:41,880
+He multiplied it, yeah. 
+This isn't just delegation like 
+
+479
+00:22:41,880 --> 00:22:45,920
+a CEO handing tasks down, it 
+feels more like a genuine Co 
+
+480
+00:22:45,920 --> 00:22:48,600
+creative partnership where the 
+disciples faith, their 
+
+481
+00:22:48,600 --> 00:22:51,360
+willingness, their openness 
+becomes an essential part of the
+
+482
+00:22:51,360 --> 00:22:54,320
+circuit, allows the power to 
+flow more strongly maybe. 
+
+483
+00:22:54,480 --> 00:22:56,880
+Can you think of other examples?
+Well, think about the story of 
+
+484
+00:22:56,880 --> 00:22:58,520
+the paralytic man lower through 
+the roof. 
+
+485
+00:22:58,800 --> 00:23:00,120
+Remember that one in Mark's 
+Gospel? 
+
+486
+00:23:00,120 --> 00:23:03,040
+Yeah, the four friends. 
+Exactly, Mark says. 
+
+487
+00:23:03,040 --> 00:23:06,720
+It wasn't just the paralyzed 
+man's faith, but when Jesus saw 
+
+488
+00:23:06,720 --> 00:23:09,920
+their faith, the faith of his 
+friends who went to such extreme
+
+489
+00:23:09,920 --> 00:23:12,720
+lengths that he acted and healed
+him. 
+
+490
+00:23:13,840 --> 00:23:15,080
+Right. 
+Their collective faith. 
+
+491
+00:23:15,160 --> 00:23:17,560
+Or Peter trying to walk on water
+in Matthew. 
+
+492
+00:23:18,360 --> 00:23:21,800
+For a moment, his faith connects
+him to Jesus's power, enables 
+
+493
+00:23:21,800 --> 00:23:25,840
+him to do the impossible until 
+doubt creeps in and the 
+
+494
+00:23:25,840 --> 00:23:27,600
+connection breaks. 
+OK, yeah. 
+
+495
+00:23:27,920 --> 00:23:30,680
+So this implies that our 
+collective belief, our shared 
+
+496
+00:23:30,680 --> 00:23:33,680
+intention, the communal 
+atmosphere we create, they can 
+
+497
+00:23:33,760 --> 00:23:37,520
+literally amplify or hinder the 
+good we want to see happen in 
+
+498
+00:23:37,520 --> 00:23:40,440
+our own lives, our communities, 
+maybe even bigger societal 
+
+499
+00:23:40,440 --> 00:23:42,000
+shifts. 
+So what does that mean for us 
+
+500
+00:23:42,000 --> 00:23:45,120
+then? 
+To be Co creators or batteries. 
+
+501
+00:23:45,160 --> 00:23:46,560
+Well, it's a huge question, 
+isn't it? 
+
+502
+00:23:46,840 --> 00:23:48,960
+It suggests that our spiritual 
+environment that when we 
+
+503
+00:23:48,960 --> 00:23:51,720
+cultivate in our active 
+participation in it can quite 
+
+504
+00:23:51,720 --> 00:23:55,160
+literally enable or disable the 
+flow of, well, call it grace, 
+
+505
+00:23:55,160 --> 00:23:58,360
+possibility, transformative 
+power, positive energy, whatever
+
+506
+00:23:58,360 --> 00:24:01,080
+language works for you, it puts 
+a lot more agency in our court. 
+
+507
+00:24:01,320 --> 00:24:03,920
+Yeah, it really does. 
+And Speaking of preparation for 
+
+508
+00:24:03,920 --> 00:24:06,800
+all this, pop culture often 
+gives this impression, right? 
+
+509
+00:24:06,800 --> 00:24:10,520
+That Jesus just kind of burst 
+onto the scene at age 30, like 
+
+510
+00:24:10,520 --> 00:24:12,600
+flipping a switch. 
+OK, miracle time. 
+
+511
+00:24:12,640 --> 00:24:15,280
+Yeah, the hidden years are often
+treated like a blank slate. 
+
+512
+00:24:15,280 --> 00:24:18,280
+Exactly. 
+But our source really pushes 
+
+513
+00:24:18,280 --> 00:24:21,160
+back against that. 
+It brings in this vital insight.
+
+514
+00:24:21,520 --> 00:24:27,200
+The 30 hidden years of his life 
+matter here to those decades, 
+
+515
+00:24:27,200 --> 00:24:30,400
+almost his entire life up to 
+that point, spent supposedly 
+
+516
+00:24:30,840 --> 00:24:35,200
+studying, praying, mastering 
+humility, living quietly. 
+
+517
+00:24:35,200 --> 00:24:37,000
+They weren't just empty time. 
+They were formative. 
+
+518
+00:24:37,280 --> 00:24:39,200
+Absolutely. 
+What's really fascinating is 
+
+519
+00:24:39,200 --> 00:24:41,800
+seeing those 30 years not just 
+as a waiting period, like a 
+
+520
+00:24:41,800 --> 00:24:46,600
+pause before the main event, but
+as essential training for this 
+
+521
+00:24:46,600 --> 00:24:50,280
+vulnerability, training for the 
+relational way his power work. 
+
+522
+00:24:50,280 --> 00:24:52,280
+Training for vulnerability, 
+That's interesting. 
+
+523
+00:24:52,280 --> 00:24:53,520
+Wasn't it? 
+It wasn't about, you know, 
+
+524
+00:24:53,520 --> 00:24:56,880
+bulking up spiritual muscles or 
+acquiring brute divine force. 
+
+525
+00:24:57,240 --> 00:24:59,760
+It seems it was more about 
+preparing for this nuanced, 
+
+526
+00:24:59,760 --> 00:25:02,720
+interactive way of being 
+powerful, a way that required 
+
+527
+00:25:02,720 --> 00:25:04,840
+connection and receptivity from 
+others. 
+
+528
+00:25:05,040 --> 00:25:06,520
+So what would that training look
+like? 
+
+529
+00:25:06,760 --> 00:25:09,320
+Well, imagine the depth of 
+humility you'd learn living 
+
+530
+00:25:09,400 --> 00:25:13,200
+quietly for decades. 
+The empathy gained from working 
+
+531
+00:25:13,200 --> 00:25:16,400
+a trade, being part of a small 
+community, observing human 
+
+532
+00:25:16,400 --> 00:25:20,120
+nature up close, participating 
+in synagogue life not as the 
+
+533
+00:25:20,120 --> 00:25:25,000
+main event but just as a member.
+Plus, presumably deep prayer 
+
+534
+00:25:25,120 --> 00:25:28,160
+study spiritual practice. 
+He wasn't just building internal
+
+535
+00:25:28,160 --> 00:25:30,480
+power then. 
+It seems he was also honing his 
+
+536
+00:25:30,480 --> 00:25:33,800
+capacity for relational 
+connection, for reading the 
+
+537
+00:25:33,800 --> 00:25:37,280
+spiritual atmosphere of a room, 
+perhaps for understanding the 
+
+538
+00:25:37,280 --> 00:25:40,120
+human heart. 
+The source notes that even by 
+
+539
+00:25:40,120 --> 00:25:42,800
+the time of the wedding at Cana,
+where he performs his first 
+
+540
+00:25:42,800 --> 00:25:45,880
+sign, he was seen as a rabbi. 
+With thority. 
+
+541
+00:25:46,280 --> 00:25:49,720
+He had presents. 
+Yet even then, back in Nazareth,
+
+542
+00:25:49,960 --> 00:25:53,520
+they saw only Joseph's boy. 
+Familiarity blinded them again. 
+
+543
+00:25:53,520 --> 00:25:56,200
+Exactly, they're familiarity 
+blinded them to the man in front
+
+544
+00:25:56,200 --> 00:25:58,400
+of them. 
+It just reinforces how powerful 
+
+545
+00:25:58,400 --> 00:26:01,480
+our prior perceptions are. 
+Fixed ideas about people can be.
+
+546
+00:26:01,640 --> 00:26:04,120
+They can literally block us from
+seeing who someone has become. 
+
+547
+00:26:04,120 --> 00:26:06,640
+The transformation that's 
+happened, regardless of the 
+
+548
+00:26:06,640 --> 00:26:09,240
+evidence right in front of us, 
+it really underscores that 
+
+549
+00:26:09,240 --> 00:26:11,960
+point. 
+Again, faith isn't a moral test 
+
+550
+00:26:12,000 --> 00:26:14,040
+like earning points to deserve a
+miracle. 
+
+551
+00:26:14,560 --> 00:26:18,280
+It's intrinsically the medium 
+through which God's power lives.
+
+552
+00:26:18,280 --> 00:26:21,000
+The medium, the atmosphere, the 
+oxygen. 
+
+553
+00:26:21,000 --> 00:26:23,200
+Exactly. 
+And in Nazareth there was no 
+
+554
+00:26:23,200 --> 00:26:27,080
+faith, only cynicism. 
+And so the potential for 
+
+555
+00:26:27,080 --> 00:26:29,360
+miracles just died in their 
+tracks. 
+
+556
+00:26:29,760 --> 00:26:32,080
+It's like trying to send an 
+electrical current through a 
+
+557
+00:26:32,080 --> 00:26:35,200
+completely severed wire, or 
+trying to teach something 
+
+558
+00:26:35,200 --> 00:26:37,400
+profound to someone whose mind 
+is slammed shut. 
+
+559
+00:26:37,800 --> 00:26:40,720
+Without the right medium, 
+without that spark of openness, 
+
+560
+00:26:40,960 --> 00:26:43,240
+the light just can't turn on. 
+And again, it wasn't him 
+
+561
+00:26:43,280 --> 00:26:45,840
+choosing to hold back. 
+It seems it was Jesus finding 
+
+562
+00:26:45,840 --> 00:26:49,320
+himself in a situation in a room
+where his power simply cannot 
+
+563
+00:26:49,320 --> 00:26:52,560
+manifest because of the very 
+nature of that power which needs
+
+564
+00:26:52,560 --> 00:26:54,440
+that relational connection, that
+receptive faith. 
+
+565
+00:26:54,680 --> 00:26:57,560
+Those few healings, they really 
+were just tiny sparks in an 
+
+566
+00:26:57,560 --> 00:27:01,640
+atmosphere that killed the OK. 
+So after digging into Nazareth, 
+
+567
+00:27:01,640 --> 00:27:05,240
+into this unexpected limitation,
+this vulnerability, what does 
+
+568
+00:27:05,240 --> 00:27:08,520
+this all mean for us, sitting 
+here, listening now in our own 
+
+569
+00:27:08,520 --> 00:27:10,440
+lives? 
+With the So what question? 
+
+570
+00:27:10,600 --> 00:27:12,480
+Yeah. 
+I mean, if this kind of 
+
+571
+00:27:12,480 --> 00:27:15,320
+spiritual limitation, this 
+environmental effect could 
+
+572
+00:27:15,320 --> 00:27:17,880
+happen to him, the Messiah, the 
+Son of God, well, how much more 
+
+573
+00:27:17,880 --> 00:27:19,440
+to us, right? 
+Right. 
+
+574
+00:27:19,880 --> 00:27:22,640
+If collective disbelief, 
+cynicism, just a negative 
+
+575
+00:27:22,640 --> 00:27:26,640
+atmosphere could hobble him in 
+that way, how can we expect to 
+
+576
+00:27:26,640 --> 00:27:28,840
+thrive when we surround 
+ourselves with people and 
+
+577
+00:27:28,840 --> 00:27:31,240
+environments that drain our 
+spirit and suffocate our 
+
+578
+00:27:31,240 --> 00:27:33,040
+potential? 
+That really brings it home, 
+
+579
+00:27:33,040 --> 00:27:33,800
+doesn't it? 
+Yeah. 
+
+580
+00:27:33,880 --> 00:27:36,960
+It moves this ancient story out 
+of the history books and makes 
+
+581
+00:27:36,960 --> 00:27:40,080
+it a powerful, immediate warning
+for our own lives. 
+
+582
+00:27:40,160 --> 00:27:40,880
+A. 
+Warning. 
+
+583
+00:27:40,880 --> 00:27:43,720
+Yeah, I think so. 
+The Nazareth scene isn't just a 
+
+584
+00:27:43,720 --> 00:27:49,120
+sad story about rejection. 
+It's a profound lesson about the
+
+585
+00:27:49,160 --> 00:27:53,200
+ecosystem of our own lives, our 
+spiritual, emotional, even 
+
+586
+00:27:53,200 --> 00:27:56,520
+creative ecosystems. 
+OK, it highlights this crucial 
+
+587
+00:27:56,520 --> 00:27:59,800
+need when we often overlook to 
+be incredibly intentional about 
+
+588
+00:27:59,800 --> 00:28:02,760
+the environments we choose to 
+spend time in, both physically 
+
+589
+00:28:02,760 --> 00:28:05,080
+and, you know, spiritually or 
+emotionally. 
+
+590
+00:28:05,080 --> 00:28:09,320
+Intentional better environments.
+Yeah, if even Jesus, according 
+
+591
+00:28:09,320 --> 00:28:12,000
+to these accounts, needed a 
+receptive, faith filled 
+
+592
+00:28:12,000 --> 00:28:15,680
+atmosphere for his power to 
+really flow, then we too 
+
+593
+00:28:15,680 --> 00:28:18,800
+absolutely need to stay close to
+those who breathe faith into us.
+
+594
+00:28:19,440 --> 00:28:22,120
+Those people, those places, 
+those activities that keep the 
+
+595
+00:28:22,120 --> 00:28:25,600
+current alive, that give the 
+Spirit or just positive energy, 
+
+596
+00:28:25,600 --> 00:28:28,640
+possibility, creativity, room to
+move. 
+
+597
+00:28:29,000 --> 00:28:30,520
+Jesus needed that. 
+So do we. 
+
+598
+00:28:30,520 --> 00:28:32,960
+Exactly. 
+Think about the rooms you walk 
+
+599
+00:28:32,960 --> 00:28:34,840
+into every day. 
+Maybe it's your workplace. 
+
+600
+00:28:35,000 --> 00:28:38,320
+Is the culture there one of 
+cynicism, negativity, or 
+
+601
+00:28:38,320 --> 00:28:40,600
+collaboration and encouragement?
+Good question. 
+
+602
+00:28:40,680 --> 00:28:42,640
+What about your personal 
+relationships? 
+
+603
+00:28:42,920 --> 00:28:45,360
+Do certain interactions leave 
+you feeling drained and 
+
+604
+00:28:45,360 --> 00:28:48,560
+diminished, or energized and 
+seen your social circles? 
+
+605
+00:28:48,560 --> 00:28:52,360
+Do conversations tend towards 
+gossip and complaint, or towards
+
+606
+00:28:52,360 --> 00:28:54,760
+shared hopes and mutual support?
+Even the stuff we consume 
+
+607
+00:28:54,800 --> 00:28:56,400
+online, maybe? 
+Absolutely. 
+
+608
+00:28:56,760 --> 00:28:59,720
+Does scrolling leave you feeling
+anxious and depleted or inspired
+
+609
+00:28:59,720 --> 00:29:02,040
+and connected? 
+Are these environments providing
+
+610
+00:29:02,040 --> 00:29:05,240
+the oxygen for your ideas, your 
+purpose, your well-being, your 
+
+611
+00:29:05,240 --> 00:29:09,320
+unique spark, or they actively 
+draining your spirit, stifling 
+
+612
+00:29:09,320 --> 00:29:11,560
+your potential? 
+It's not just about avoiding 
+
+613
+00:29:11,560 --> 00:29:13,840
+negativity then. 
+No, it's more active than that. 
+
+614
+00:29:13,840 --> 00:29:16,600
+It's about consciously seeking 
+out and cultivating 
+
+615
+00:29:16,600 --> 00:29:21,120
+environments, physical spaces, 
+communities, relationships, even
+
+616
+00:29:21,120 --> 00:29:24,320
+internal mindsets that enable 
+your own power grid to function.
+
+617
+00:29:24,320 --> 00:29:27,160
+Environments where you can 
+receive and transmit positive 
+
+618
+00:29:27,160 --> 00:29:31,240
+energy, purpose, creativity. 
+It's about tending the soil so 
+
+619
+00:29:31,240 --> 00:29:33,800
+that your potential, your 
+miracles, whatever they might 
+
+620
+00:29:33,800 --> 00:29:35,720
+be, actually have a chance to 
+grow. 
+
+621
+00:29:35,880 --> 00:29:38,800
+Wow. 
+That is a powerful challenge. 
+
+622
+00:29:38,800 --> 00:29:42,360
+And it makes this Nazareth scene
+with all its raw honesty, it's 
+
+623
+00:29:42,360 --> 00:29:45,840
+counterintuitive message, it 
+makes it feel like it should be 
+
+624
+00:29:45,840 --> 00:29:48,000
+iconic. 
+You know, it really should. 
+
+625
+00:29:48,000 --> 00:29:51,920
+It gives us this picture of a 
+Messiah who bleeds emotionally, 
+
+626
+00:29:51,920 --> 00:29:55,880
+who can be rendered powerless in
+the face of disbelief, who walks
+
+627
+00:29:55,880 --> 00:29:58,920
+away not in anger, maybe, but 
+just because the power grid is 
+
+628
+00:29:58,920 --> 00:30:00,360
+dead. 
+It's a challenging image. 
+
+629
+00:30:00,360 --> 00:30:02,320
+It is. 
+It's so much easier to paint him
+
+630
+00:30:02,320 --> 00:30:04,600
+as a glowing superhero, like our
+source says. 
+
+631
+00:30:04,600 --> 00:30:06,760
+Yeah, this distant figure of 
+effortless power. 
+
+632
+00:30:06,760 --> 00:30:10,240
+It's much harder to face this 
+raw vulnerability, this profound
+
+633
+00:30:10,240 --> 00:30:13,120
+relational dependence. 
+But maybe, maybe it's and that 
+
+634
+00:30:13,120 --> 00:30:16,400
+vulnerability that we find a 
+deeper, more resonant truth. 
+
+635
+00:30:16,480 --> 00:30:19,040
+I think that's exactly right. 
+And what's truly fascinating 
+
+636
+00:30:19,040 --> 00:30:21,760
+here is that counterintuitive 
+revelation that emerges. 
+
+637
+00:30:22,200 --> 00:30:25,800
+The Gospels, by having the 
+courage to show us this moment, 
+
+638
+00:30:25,800 --> 00:30:28,520
+to not airbrush out the 
+vulnerability and the 
+
+639
+00:30:28,520 --> 00:30:32,480
+limitation, they actually reveal
+a God whose power is not 
+
+640
+00:30:32,480 --> 00:30:35,920
+primarily over us, but with us. 
+With us, yeah. 
+
+641
+00:30:36,400 --> 00:30:41,000
+And paradoxically, that makes 
+him feel more divine, not less. 
+
+642
+00:30:41,400 --> 00:30:44,880
+It transforms our understanding 
+of divinity itself away from 
+
+643
+00:30:44,880 --> 00:30:48,880
+abstract, distant, unilateral 
+omnipotence towards a 
+
+644
+00:30:48,880 --> 00:30:51,440
+relational, interactive 
+presence, one that invites our 
+
+645
+00:30:51,440 --> 00:30:54,160
+participation rather than just 
+demanding our submission. 
+
+646
+00:30:54,400 --> 00:30:57,080
+It deepens the mystery, but it 
+also strengthens the potential 
+
+647
+00:30:57,080 --> 00:30:59,320
+for real connection. 
+And the author of that 
+
+648
+00:30:59,320 --> 00:31:00,920
+reflection? 
+Their motivation wasn't 
+
+649
+00:31:00,920 --> 00:31:03,520
+necessarily to preach or to 
+deconstruct just for kicks. 
+
+650
+00:31:03,800 --> 00:31:06,560
+It was simply, as they put it, 
+to share the Jesus I've been 
+
+651
+00:31:06,560 --> 00:31:08,200
+meeting. 
+The Jesus who experienced 
+
+652
+00:31:08,200 --> 00:31:09,680
+Nazareth. 
+Exactly. 
+
+653
+00:31:10,360 --> 00:31:13,200
+The one who walked into that 
+synagogue, ready to give, ready 
+
+654
+00:31:13,200 --> 00:31:15,880
+to heal, and found the air 
+sucked out of the room. 
+
+655
+00:31:16,120 --> 00:31:19,200
+The one whose power flickered 
+and died in the face of 
+
+656
+00:31:19,200 --> 00:31:23,560
+disbelief, and who still 
+resiliently kept going to find 
+
+657
+00:31:23,560 --> 00:31:27,480
+where the oxygen remained. 
+It's a powerful redefinition of 
+
+658
+00:31:27,480 --> 00:31:30,560
+strength, isn't it? 
+Not his limitless force, but his
+
+659
+00:31:30,560 --> 00:31:34,480
+persistent relational engagement
+even in vulnerability. 
+
+660
+00:31:34,720 --> 00:31:37,640
+So boiling it all down, the 
+ultimate take away from this 
+
+661
+00:31:37,640 --> 00:31:40,240
+deep dive seems to be this 
+really profound realization. 
+
+662
+00:31:40,440 --> 00:31:43,720
+If even the Son of God, the 
+Messiah, needed faith, that 
+
+663
+00:31:43,720 --> 00:31:47,600
+receptive atmosphere to breathe 
+life into his power, then faith 
+
+664
+00:31:47,600 --> 00:31:49,560
+isn't just, you know, an 
+internal belief system. 
+
+665
+00:31:49,560 --> 00:31:50,880
+It's not just a mental 
+agreement. 
+
+666
+00:31:50,880 --> 00:31:52,640
+More fundamental. 
+Yeah, it's the power grid 
+
+667
+00:31:52,640 --> 00:31:54,800
+itself. 
+It's the conduit, the 
+
+668
+00:31:54,800 --> 00:31:57,960
+atmosphere, the oxygen, the very
+condition that makes certain 
+
+669
+00:31:57,960 --> 00:32:00,920
+kinds of divine action, or maybe
+even just profound positive 
+
+670
+00:32:00,920 --> 00:32:04,160
+change possible. 
+And maybe, maybe that's the real
+
+671
+00:32:04,160 --> 00:32:05,120
+miracle. 
+Here what do you mean? 
+
+672
+00:32:05,280 --> 00:32:07,440
+Not just the flashy, 
+extraordinary events, the 
+
+673
+00:32:07,640 --> 00:32:11,400
+healings, The Walking on water, 
+whatever, but the very condition
+
+674
+00:32:11,400 --> 00:32:15,360
+of possibility that's created by
+belief, by that reciprocal 
+
+675
+00:32:15,360 --> 00:32:18,800
+connection between the divine 
+and the human, by our openness. 
+
+676
+00:32:19,320 --> 00:32:22,200
+It highlights the incredible, 
+maybe often underestimated, 
+
+677
+00:32:22,200 --> 00:32:25,800
+power of human faith, of our 
+collective receptivity, our 
+
+678
+00:32:25,800 --> 00:32:29,480
+openness, our trust in actually 
+enabling the Divine, or just 
+
+679
+00:32:29,480 --> 00:32:32,480
+enabling profound good to 
+manifest in our world. 
+
+680
+00:32:32,760 --> 00:32:35,520
+Wow, what a shift in 
+understanding that is. 
+
+681
+00:32:35,520 --> 00:32:38,920
+Moving from that distant, 
+untouchable God figure to 
+
+682
+00:32:38,920 --> 00:32:41,800
+someone deeply human, 
+vulnerable, profoundly 
+
+683
+00:32:41,800 --> 00:32:45,360
+relational, whose power is so 
+intricately linked to the 
+
+684
+00:32:45,360 --> 00:32:47,360
+presence of faith, to that 
+connection. 
+
+685
+00:32:47,600 --> 00:32:50,160
+It changes everything about how 
+you might think about your own 
+
+686
+00:32:50,160 --> 00:32:51,880
+role in things, doesn't it? 
+It really does. 
+
+687
+00:32:51,880 --> 00:32:54,880
+It puts a lot more agency and 
+maybe responsibility squarely 
+
+688
+00:32:54,880 --> 00:32:57,400
+back on us, too, on the 
+environments we create, the 
+
+689
+00:32:57,400 --> 00:32:59,600
+faith we cultivate, the 
+connections we foster. 
+
+690
+00:32:59,680 --> 00:33:02,320
+Indeed. 
+And maybe, just maybe, he's 
+
+691
+00:33:02,320 --> 00:33:05,280
+still walking into rooms today, 
+today, looking for oxygen. 
+
+692
+00:33:05,400 --> 00:33:08,760
+So the question maybe to leave 
+you, the listener with to just 
+
+693
+00:33:08,760 --> 00:33:12,640
+Mull over after this deep dive 
+is what kind of oxygen are you 
+
+694
+00:33:12,640 --> 00:33:15,440
+cultivating in your own life and
+your close relationships, in 
+
+695
+00:33:15,440 --> 00:33:17,680
+your communities, in the spaces 
+you inhabit? 
+
+696
+00:33:18,200 --> 00:33:20,600
+And what transformative 
+possibilities might open up for 
+
+697
+00:33:20,600 --> 00:33:24,400
+you, for others, when faith in 
+that broad sense of receptivity,
+
+698
+00:33:24,480 --> 00:33:28,080
+trust, openness, hope, When 
+that's allowed to truly breathe.
+

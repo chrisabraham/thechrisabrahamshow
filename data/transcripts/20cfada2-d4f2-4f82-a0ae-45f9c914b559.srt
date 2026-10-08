@@ -1,0 +1,6310 @@
+1
+00:00:00,040 --> 00:00:04,360
+This is the brief on hate 
+speech, free speech, and the 
+
+2
+00:00:04,360 --> 00:00:08,119
+latter of escalation. 
+OK, so the source material, it 
+
+3
+00:00:08,119 --> 00:00:10,200
+pushes back on treating words as
+violence. 
+
+4
+00:00:10,400 --> 00:00:14,320
+The argument using private power
+companies, online mobs for 
+
+5
+00:00:14,320 --> 00:00:17,280
+instant punishment of speech, 
+well that just kicks off a 
+
+6
+00:00:17,280 --> 00:00:20,680
+spiral that gets out of control.
+The ladder of escalation. 
+
+7
+00:00:21,120 --> 00:00:25,080
+Think 1914 Sarajevo. 
+One act sparked a global 
+
+8
+00:00:25,080 --> 00:00:27,120
+cascade, right? 
+Same idea. 
+
+9
+00:00:27,120 --> 00:00:30,520
+Now a tweet leads to pylons 
+getting fired, ruining 
+
+10
+00:00:30,520 --> 00:00:32,960
+reputations. 
+You just end up with shouting, 
+
+11
+00:00:33,160 --> 00:00:36,160
+not real debate. 
+Second, know the huge 
+
+12
+00:00:36,160 --> 00:00:38,520
+difference. 
+Legal limits versus private 
+
+13
+00:00:38,520 --> 00:00:41,400
+enforcement. 
+U.S. law like the Brandenburg 
+
+14
+00:00:41,400 --> 00:00:44,960
+rule has a high bar protecting 
+speech unless it directly 
+
+15
+00:00:44,960 --> 00:00:49,000
+incites immediate violence. 
+But platforms, employers, mobs. 
+
+16
+00:00:49,200 --> 00:00:52,320
+They don't follow that they're 
+efficient enforcers, using 
+
+17
+00:00:52,320 --> 00:00:55,120
+doxing or getting people fired 
+for instant punishment. 
+
+18
+00:00:55,720 --> 00:00:59,160
+Finally, how to stop it? 
+It's about protecting the 
+
+19
+00:00:59,160 --> 00:01:00,480
+square. 
+Basically. 
+
+20
+00:01:00,840 --> 00:01:05,200
+Use procedure, not immediacy. 
+Institutions need to step back 
+
+21
+00:01:05,200 --> 00:01:06,960
+from the quick hit of cancel 
+culture. 
+
+22
+00:01:07,280 --> 00:01:09,480
+Handle disputes formally, 
+legally. 
+
+23
+00:01:09,760 --> 00:01:12,200
+Let even ugly arguments happen 
+in public. 
+
+24
+00:01:12,520 --> 00:01:16,320
+Choose procedure over purge. 
+Those quick wins often breed 
+
+25
+00:01:16,320 --> 00:01:18,200
+much bigger conflicts down the 
+road. 
+
+26
+00:01:18,680 --> 00:01:22,880
+Welcome to the debate. 
+Our discussion today, It centers
+
+27
+00:01:22,880 --> 00:01:24,960
+on a really foundational 
+tension. 
+
+28
+00:01:25,280 --> 00:01:28,800
+It comes from source material 
+exploring the relationship 
+
+29
+00:01:28,800 --> 00:01:32,440
+between, well, public speech 
+that's seen as offensive and the
+
+30
+00:01:32,440 --> 00:01:35,840
+immediate impulse, often through
+private means, to punish it. 
+
+31
+00:01:36,080 --> 00:01:39,000
+You know, doxing, getting fired,
+social cancellation. 
+
+32
+00:01:39,400 --> 00:01:41,040
+Right. 
+And the central question we're 
+
+33
+00:01:41,040 --> 00:01:45,480
+grappling with is, is this 
+immediate non legal punishment 
+
+34
+00:01:45,680 --> 00:01:47,760
+of what's often called ugly 
+speech? 
+
+35
+00:01:48,480 --> 00:01:51,280
+Does it pose an inherent 
+systemic danger? 
+
+36
+00:01:51,560 --> 00:01:54,480
+Does it ignite some kind of 
+uncontrollable ladder of 
+
+37
+00:01:54,480 --> 00:01:56,720
+escalation threatening civil 
+society? 
+
+38
+00:01:56,920 --> 00:02:00,480
+Or, alternatively, are these 
+consequences just, well, 
+
+39
+00:02:00,560 --> 00:02:03,640
+unnecessary, maybe even 
+manageable part of modern civic 
+
+40
+00:02:03,640 --> 00:02:05,360
+accountability? 
+Exactly. 
+
+41
+00:02:05,640 --> 00:02:09,960
+And I'll be arguing that these 
+private punitive actions, they 
+
+42
+00:02:09,960 --> 00:02:14,000
+dangerously substitute 
+established legal procedure with
+
+43
+00:02:14,000 --> 00:02:18,560
+raw, immediate outrage. 
+And in doing so, they accelerate
+
+44
+00:02:18,560 --> 00:02:22,200
+conflict and create structural 
+vulnerabilities that I think 
+
+45
+00:02:22,200 --> 00:02:25,800
+mirror some historic patterns 
+of, frankly, global violence. 
+
+46
+00:02:26,160 --> 00:02:29,800
+OK, and I'll be arguing that 
+while yes, the consequences of 
+
+47
+00:02:29,800 --> 00:02:32,960
+being cancelled are severe, 
+often ruinous for the 
+
+48
+00:02:32,960 --> 00:02:36,280
+individual, the analogy that 
+links these localized social 
+
+49
+00:02:36,280 --> 00:02:39,200
+consequences to catastrophic 
+historical escalations like, 
+
+50
+00:02:39,200 --> 00:02:43,520
+say, world wars, well, it's 
+rhetorically powerful, sure, but
+
+51
+00:02:43,520 --> 00:02:45,720
+I think it ultimately overstates
+the risk. 
+
+52
+00:02:46,640 --> 00:02:50,160
+Private consequences, however 
+harsh, seem functionally 
+
+53
+00:02:50,160 --> 00:02:53,400
+distinct from the state level 
+mechanisms that truly Dr. 
+
+54
+00:02:53,400 --> 00:02:56,240
+structural conflict. 
+So the core of my position is 
+
+55
+00:02:56,240 --> 00:03:00,000
+this, advanced polities, they 
+really rely on procedural 
+
+56
+00:03:00,000 --> 00:03:03,760
+integrity, but we seem to be 
+increasingly substituting that 
+
+57
+00:03:03,760 --> 00:03:07,440
+with what I might call cathartic
+efficiency. 
+
+58
+00:03:07,760 --> 00:03:11,560
+The speed, the often anonymous 
+nature of private punishment 
+
+59
+00:03:11,600 --> 00:03:15,000
+where you have platforms, 
+employers, activist publics 
+
+60
+00:03:15,000 --> 00:03:18,680
+acting as these hyper efficient 
+enforcers is I think 
+
+61
+00:03:18,680 --> 00:03:21,680
+fundamentally corrosive. 
+The source material actually 
+
+62
+00:03:21,680 --> 00:03:24,760
+captures this perfectly when it 
+says words are being turned into
+
+63
+00:03:24,760 --> 00:03:27,280
+events, speech is being treated 
+as violence. 
+
+64
+00:03:27,640 --> 00:03:31,320
+And that transition, it creates 
+a dangerous political economy of
+
+65
+00:03:31,320 --> 00:03:34,440
+outrage where the 
+instrumentality of screaming 
+
+66
+00:03:34,440 --> 00:03:38,840
+replaces argument. 
+And this is critical because 
+
+67
+00:03:38,840 --> 00:03:42,280
+private power just bypasses 
+constitutional limits. 
+
+68
+00:03:42,560 --> 00:03:45,400
+It ignores legal doctrines like 
+Brandenburg, which, you know, 
+
+69
+00:03:45,400 --> 00:03:48,080
+sets a very high bar. 
+Speech has to incite imminent 
+
+70
+00:03:48,080 --> 00:03:50,200
+lawless action before the 
+government can step in. 
+
+71
+00:03:50,560 --> 00:03:55,360
+Private power operates at a much
+lower, much more subjective bar.
+
+72
+00:03:55,680 --> 00:03:59,320
+So when we empower these raw 
+instruments of private 
+
+73
+00:03:59,320 --> 00:04:02,840
+annihilation, we're basically 
+abandoning the necessary goal to
+
+74
+00:04:02,840 --> 00:04:06,600
+protect the square, that public 
+space where even ugly arguments 
+
+75
+00:04:06,600 --> 00:04:08,880
+need to be tolerated for 
+rocedural stability. 
+
+76
+00:04:09,280 --> 00:04:11,960
+And the result? 
+Well, you generate martyrs and 
+
+77
+00:04:11,960 --> 00:04:13,760
+this simmering political 
+resentment. 
+
+78
+00:04:14,120 --> 00:04:17,959
+Well, I come at this really from
+a need for conceptual clarity, 
+
+79
+00:04:18,160 --> 00:04:21,440
+especially regarding scale. 
+My thesis is that while 
+
+80
+00:04:21,440 --> 00:04:25,160
+professional ruin is absolutely 
+real and devastating, the 
+
+81
+00:04:25,160 --> 00:04:29,440
+analogy linking these sort of 
+localized consequences to huge 
+
+82
+00:04:29,440 --> 00:04:33,840
+structural global conflicts, it 
+feels strained when the source 
+
+83
+00:04:33,840 --> 00:04:37,480
+material uses the assassination 
+of Franz Ferdinand and Sarajevo 
+
+84
+00:04:37,560 --> 00:04:41,400
+or the Treaty of Versailles as a
+blunt illustration of how small 
+
+85
+00:04:41,400 --> 00:04:44,600
+axe cascade. 
+I'm sorry but I just don't quite
+
+86
+00:04:44,600 --> 00:04:47,960
+buy that firing someone for a, 
+let's say, shouty tweet 
+
+87
+00:04:48,120 --> 00:04:51,200
+genuinely creates the material 
+conditions for global war. 
+
+88
+00:04:51,600 --> 00:04:54,080
+Right. 
+The human impulse to punish 
+
+89
+00:04:54,120 --> 00:04:56,840
+offensive speech? 
+OK, the source acknowledges. 
+
+90
+00:04:56,840 --> 00:05:00,880
+It's an ugly human instinct. 
+It mentions the dueling code 
+
+91
+00:05:00,880 --> 00:05:05,600
+logic, but modern professional 
+consequence like being fired. 
+
+92
+00:05:05,880 --> 00:05:08,800
+It feels like a structural 
+response, maybe, but not 
+
+93
+00:05:08,800 --> 00:05:11,680
+necessarily a violent one. 
+In the same vein, it's a 
+
+94
+00:05:11,680 --> 00:05:14,400
+response to a perceived moral 
+breach within a specific 
+
+95
+00:05:14,400 --> 00:05:18,080
+context, usually employment or a
+platform's terms of service. 
+
+96
+00:05:18,440 --> 00:05:22,400
+And I think to avoid unnecessary
+structural panic, we should 
+
+97
+00:05:22,400 --> 00:05:26,200
+probably focus on these as 
+contained consequences rather 
+
+98
+00:05:26,200 --> 00:05:29,560
+than just assuming every single 
+purge generates unstoppable 
+
+99
+00:05:29,560 --> 00:05:32,680
+revolutionary radicalism. 
+You know, the way true political
+
+100
+00:05:32,680 --> 00:05:36,360
+purges might have fueled figures
+like Marx, Mao, or Che. 
+
+101
+00:05:36,720 --> 00:05:40,360
+That comparison of scale feels 
+like it misrepresents the actual
+
+102
+00:05:40,360 --> 00:05:44,200
+power dynamic at play today. 
+That WIV right parallel is 
+
+103
+00:05:44,200 --> 00:05:48,080
+powerful, I grant you, but it 
+does make me wonder, are we 
+
+104
+00:05:48,080 --> 00:05:51,040
+perhaps overstating the case? 
+Let's maybe dig into that 
+
+105
+00:05:51,040 --> 00:05:54,200
+analogy itself a bit more. 
+That's a compelling argument you
+
+106
+00:05:54,200 --> 00:05:56,120
+make about the danger of pure 
+outrage. 
+
+107
+00:05:56,160 --> 00:05:59,000
+But have you considered whether 
+that historical example of World
+
+108
+00:05:59,000 --> 00:06:02,720
+War One, which was, you know, a 
+systemic conflict based on 
+
+109
+00:06:02,720 --> 00:06:06,840
+entrenched national alliances, 
+complex mobilization schedules, 
+
+110
+00:06:07,160 --> 00:06:11,440
+deep material grievances? 
+Is it truly analogous to, say, 
+
+111
+00:06:11,440 --> 00:06:14,280
+an employer terminating an 
+employee over a viral video 
+
+112
+00:06:14,280 --> 00:06:16,560
+clip? 
+Like that student suggesting we 
+
+113
+00:06:16,560 --> 00:06:18,400
+should bring back political 
+assassinations? 
+
+114
+00:06:18,800 --> 00:06:21,240
+Doesn't that analogy maybe 
+stretch the concept of 
+
+115
+00:06:21,240 --> 00:06:25,280
+escalation a bit too far? 
+We're comparing state actions 
+
+116
+00:06:25,280 --> 00:06:28,920
+leading to war with essentially 
+private employment decisions. 
+
+117
+00:06:29,320 --> 00:06:33,200
+OK, I agree that linking a 
+single tweet to the outbreak of 
+
+118
+00:06:33,240 --> 00:06:37,520
+WWI, Yeah, that sounds like 
+hyperbole if you focus purely on
+
+119
+00:06:37,520 --> 00:06:41,400
+the actors involved. 
+Of course, firing an HR manager 
+
+120
+00:06:41,400 --> 00:06:44,360
+isn't the same as mobilizing the
+Imperial German Army. 
+
+121
+00:06:44,680 --> 00:06:46,520
+But let me offer a slightly 
+different perspective. 
+
+122
+00:06:46,560 --> 00:06:50,000
+I think the author is focusing 
+more on the logic of the system 
+
+123
+00:06:50,000 --> 00:06:53,000
+involved. 
+The logic. 
+
+124
+00:06:54,080 --> 00:06:56,840
+OK, Yeah. 
+The observation is that small 
+
+125
+00:06:56,840 --> 00:07:01,280
+acts of political violence map 
+into larger wars when the system
+
+126
+00:07:01,280 --> 00:07:04,640
+is brittle, or when fear and 
+revenge become the organizing 
+
+127
+00:07:04,640 --> 00:07:06,960
+logics. 
+The latter here. 
+
+128
+00:07:06,960 --> 00:07:09,480
+It's structural. 
+It's not necessarily physical. 
+
+129
+00:07:10,080 --> 00:07:13,360
+So treating a tweet as a major 
+political event and then 
+
+130
+00:07:13,360 --> 00:07:17,240
+circumventing established due 
+process or legal remedy to deal 
+
+131
+00:07:17,240 --> 00:07:20,840
+with it, that's substituting 
+what the source calls violence 
+
+132
+00:07:20,840 --> 00:07:23,080
+is currency over law is 
+currency. 
+
+133
+00:07:23,520 --> 00:07:26,320
+When the most reliable lever for
+political action becomes 
+
+134
+00:07:26,320 --> 00:07:29,840
+immediate performative outrage, 
+will actors learn to weaponize 
+
+135
+00:07:29,840 --> 00:07:30,320
+it? 
+Right. 
+
+136
+00:07:30,600 --> 00:07:33,520
+And that creates exactly the 
+kind of cycle of repression and 
+
+137
+00:07:33,520 --> 00:07:35,440
+new radicalism the source warns 
+about. 
+
+138
+00:07:35,920 --> 00:07:39,720
+And furthermore, that Versailles
+analogy, it warns that these 
+
+139
+00:07:39,720 --> 00:07:42,800
+punitive solutions, they aren't 
+really solutions at all. 
+
+140
+00:07:42,800 --> 00:07:46,560
+They might just be a long 
+ceasefire, allowing grievances 
+
+141
+00:07:46,560 --> 00:07:50,560
+to fester and maybe resurge 
+later in a much uglier way. 
+
+142
+00:07:50,720 --> 00:07:52,680
+But. 
+Who exactly is doing the 
+
+143
+00:07:52,680 --> 00:07:56,080
+escalating here? 
+If an employer decides that, 
+
+144
+00:07:56,080 --> 00:07:59,920
+say, the reputation risk of 
+employing someone who publicly 
+
+145
+00:07:59,920 --> 00:08:03,000
+advocates for assassination is 
+just too high for their 
+
+146
+00:08:03,000 --> 00:08:08,120
+business, isn't that a contained
+economic decision based on 
+
+147
+00:08:08,120 --> 00:08:11,920
+mitigating risks to the firm? 
+Why should a private entity be 
+
+148
+00:08:11,920 --> 00:08:15,800
+morally or even structurally 
+obligated to withstand that kind
+
+149
+00:08:15,800 --> 00:08:19,000
+of self-inflicted public 
+pressure just to maintain some 
+
+150
+00:08:19,000 --> 00:08:23,080
+abstract procedural purity? 
+The state has that obligation, 
+
+151
+00:08:23,080 --> 00:08:26,200
+sure, under the 1st Amendment, 
+but does a private business 
+
+152
+00:08:26,200 --> 00:08:28,520
+well. 
+I'd argue the obligation isn't 
+
+153
+00:08:28,520 --> 00:08:32,480
+purely moral, it's strategic. 
+When the decision to fire 
+
+154
+00:08:32,480 --> 00:08:35,840
+someone is driven purely by the 
+fear of a collective digital 
+
+155
+00:08:35,840 --> 00:08:39,440
+punishment, a Twitter mob, we're
+effectively teaching the public 
+
+156
+00:08:39,440 --> 00:08:42,400
+that the fastest path to 
+justice, or maybe just 
+
+157
+00:08:42,400 --> 00:08:45,240
+vengeance, is to bypass all 
+procedure entirely. 
+
+158
+00:08:45,560 --> 00:08:48,320
+We're training actors, 
+individuals, and groups to 
+
+159
+00:08:48,320 --> 00:08:51,960
+substitute established legal 
+mechanisms with raw outrage. 
+
+160
+00:08:52,240 --> 00:08:55,280
+And when we do that, I think we 
+increase the brittleness of the 
+
+161
+00:08:55,280 --> 00:08:58,200
+entire system. 
+We need institutions, both 
+
+162
+00:08:58,200 --> 00:09:01,040
+private and public, to 
+demonstrate some resilience to 
+
+163
+00:09:01,040 --> 00:09:05,160
+moral panic, strategically 
+choosing procedure over the, 
+
+164
+00:09:05,440 --> 00:09:08,280
+let's face it, cheap governance 
+of catharsis. 
+
+165
+00:09:08,880 --> 00:09:11,080
+OK. 
+And this leads right into the 
+
+166
+00:09:11,080 --> 00:09:15,720
+core danger, which is how we 
+define consequence. 
+
+167
+00:09:16,360 --> 00:09:20,160
+The source argues that the 
+private sector uses efficiency. 
+
+168
+00:09:20,520 --> 00:09:25,560
+You do not persuade, you cancel.
+You do not persuade, you void 
+
+169
+00:09:25,560 --> 00:09:28,800
+livelihoods. 
+And it suggests this constitutes
+
+170
+00:09:28,800 --> 00:09:32,800
+a kind of structural violence, 
+or even uses the term private 
+
+171
+00:09:32,800 --> 00:09:35,320
+lynchings. 
+The argument goes. 
+
+172
+00:09:35,320 --> 00:09:39,320
+If society generally agrees to 
+treat words as violence, then 
+
+173
+00:09:39,320 --> 00:09:42,880
+the inevitable response is that 
+others will answer with violence
+
+174
+00:09:42,880 --> 00:09:46,160
+too, whether literal or 
+structural, and that just 
+
+175
+00:09:46,160 --> 00:09:50,560
+perpetuates the spiral. 
+We have to resist this modern 
+
+176
+00:09:50,560 --> 00:09:54,640
+temptation to think that a quick
+purge of the offending person 
+
+177
+00:09:54,840 --> 00:09:58,440
+actually buys any lasting peace.
+An essay just come. 
+
+178
+00:09:58,440 --> 00:10:01,760
+At it from a different angle, 
+while termination is certainly 
+
+179
+00:10:01,760 --> 00:10:05,280
+ruinous, devastating even, I 
+think we have to maintain a 
+
+180
+00:10:05,280 --> 00:10:08,960
+clear, definitional barrier 
+between professional ruin and 
+
+181
+00:10:08,960 --> 00:10:12,680
+literal violence. 
+To call job loss structural 
+
+182
+00:10:12,680 --> 00:10:16,080
+violence, while maybe 
+rhetorically powerful, feels 
+
+183
+00:10:16,080 --> 00:10:19,400
+analytically unhelpful. 
+It's its own kind of rhetorical 
+
+184
+00:10:19,400 --> 00:10:22,680
+escalation, isn't it? 
+If an individual's public speech
+
+185
+00:10:22,680 --> 00:10:25,480
+represents what their community 
+or workplace sees as an 
+
+186
+00:10:25,480 --> 00:10:29,120
+intolerable assault on the 
+project of a life, or maybe just
+
+187
+00:10:29,120 --> 00:10:32,480
+a core moral value, consequences
+are probably going to follow, 
+
+188
+00:10:32,760 --> 00:10:36,240
+often outside a courtroom. 
+The right to free speech, 
+
+189
+00:10:36,240 --> 00:10:39,800
+fundamentally, is freedom from 
+stick interference, not freedom 
+
+190
+00:10:39,800 --> 00:10:42,720
+from social or professional 
+consequence altogether. 
+
+191
+00:10:43,000 --> 00:10:46,400
+If a community believes certain 
+speech causes real harm, maybe 
+
+192
+00:10:46,400 --> 00:10:49,440
+economic harm to the employer or
+emotional harm to colleagues, 
+
+193
+00:10:49,720 --> 00:10:52,400
+why should the impulse to 
+contain that harm automatically 
+
+194
+00:10:52,400 --> 00:10:54,680
+be considered an escalator 
+towards World War One? 
+
+195
+00:10:55,000 --> 00:10:58,560
+Is the threat of losing your job
+not in some cases, a legitimate 
+
+196
+00:10:58,560 --> 00:11:02,080
+contains societal tool against, 
+say, profound intolerance or 
+
+197
+00:11:02,080 --> 00:11:03,240
+recklessness. 
+But. 
+
+198
+00:11:03,240 --> 00:11:06,840
+The key distinction, surely, is 
+due process. 
+
+199
+00:11:07,200 --> 00:11:10,160
+When you lose your livelihood 
+because of a court judgment, 
+
+200
+00:11:10,400 --> 00:11:12,960
+ideally there's procedure, 
+there's evidence, there's 
+
+201
+00:11:12,960 --> 00:11:16,320
+appeal, there's transparency. 
+When you're fired because of a 
+
+202
+00:11:16,320 --> 00:11:18,880
+Twitter mob, well, there's 
+usually none of that. 
+
+203
+00:11:19,160 --> 00:11:22,560
+And that's precisely why the 
+source uses strong terms like 
+
+204
+00:11:22,560 --> 00:11:25,040
+structural violence or private 
+lynchings. 
+
+205
+00:11:25,400 --> 00:11:29,280
+It's the removal of fundamental 
+procedural rights outside any 
+
+206
+00:11:29,280 --> 00:11:32,560
+established legal framework. 
+It's often unappealable, 
+
+207
+00:11:32,560 --> 00:11:36,360
+sometimes anonymous vengeance. 
+If we allow private power to 
+
+208
+00:11:36,360 --> 00:11:39,280
+execute these kinds of 
+consequences without any real 
+
+209
+00:11:39,280 --> 00:11:42,560
+procedure, we're essentially 
+endorsing a system of justice 
+
+210
+00:11:42,560 --> 00:11:46,080
+based on efficiency or maybe 
+popularity rather than fairness.
+
+211
+00:11:46,520 --> 00:11:50,200
+And that instability, that's the
+true structural danger, I think.
+
+212
+00:11:50,360 --> 00:11:52,200
+But the. 
+Courts don't, and frankly 
+
+213
+00:11:52,200 --> 00:11:55,680
+shouldn't, protect you from 
+every social or professional 
+
+214
+00:11:55,680 --> 00:11:59,360
+consequence if you choose to 
+engage in public rhetoric that's
+
+215
+00:11:59,360 --> 00:12:02,120
+fundamentally hostile to your 
+professional environment or 
+
+216
+00:12:02,120 --> 00:12:05,040
+community standards. 
+Those consequences seem almost 
+
+217
+00:12:05,040 --> 00:12:07,640
+inherent to the social contract,
+don't they? 
+
+218
+00:12:08,160 --> 00:12:11,560
+Not necessarily proof of 
+systemic structural violence 
+
+219
+00:12:11,560 --> 00:12:13,800
+about the tip over. 
+We're talking about the 
+
+220
+00:12:13,800 --> 00:12:16,640
+mechanisms of social 
+accountability, however messy 
+
+221
+00:12:16,640 --> 00:12:18,800
+they are. 
+The source itself cites the 
+
+222
+00:12:18,800 --> 00:12:22,080
+dueling code as a historical 
+record of what humans do when 
+
+223
+00:12:22,080 --> 00:12:26,440
+quote honor outranks law. 
+Maybe private consequence today 
+
+224
+00:12:26,440 --> 00:12:29,440
+is simply the contemporary 
+predictable manifestation of 
+
+225
+00:12:29,440 --> 00:12:32,200
+that same instinct. 
+It's how social boundaries and 
+
+226
+00:12:32,200 --> 00:12:35,360
+honor are managed, perhaps 
+clumsily, in the 21st century. 
+
+227
+00:12:35,720 --> 00:12:38,640
+It is an automatic proof that 
+society is fracturing towards 
+
+228
+00:12:38,640 --> 00:12:39,440
+war. 
+OK. 
+
+229
+00:12:39,640 --> 00:12:43,280
+Let's shift then towards the 
+proposed solution, because this 
+
+230
+00:12:43,280 --> 00:12:45,600
+is where the theory has to meet 
+reality, right? 
+
+231
+00:12:46,040 --> 00:12:49,840
+The source prescribes action 
+like protect the square and 
+
+232
+00:12:50,000 --> 00:12:53,560
+train employers and platforms to
+resist performative fury. 
+
+233
+00:12:54,040 --> 00:12:57,320
+Now that sounds admirable, 
+certainly, but is it actually 
+
+234
+00:12:57,320 --> 00:13:00,080
+realistic? 
+The author himself observes that
+
+235
+00:13:00,080 --> 00:13:03,560
+rapid, large movements like mass
+migrations, for instance, 
+
+236
+00:13:03,800 --> 00:13:07,240
+predictably provoke a defense 
+that will harden law and treat 
+
+237
+00:13:07,240 --> 00:13:09,400
+whole populations as threats. 
+Right. 
+
+238
+00:13:09,640 --> 00:13:13,040
+That's a key point, so. 
+If predictable politics leads to
+
+239
+00:13:13,040 --> 00:13:16,920
+this kind of hardening response,
+why would predictable social 
+
+240
+00:13:16,920 --> 00:13:19,760
+fury against genuinely ugly 
+speech be contained? 
+
+241
+00:13:20,040 --> 00:13:23,160
+Just by asking institutions to 
+sort of passively absorb a 
+
+242
+00:13:23,160 --> 00:13:26,440
+fence, it feels like we're 
+asking corporations and 
+
+243
+00:13:26,440 --> 00:13:30,040
+universities to defy some pretty
+fundamental predictable human 
+
+244
+00:13:30,040 --> 00:13:31,760
+and political dynamics. 
+That's. 
+
+245
+00:13:31,760 --> 00:13:34,120
+An interesting point, though I 
+might frame it a bit 
+
+246
+00:13:34,120 --> 00:13:36,360
+differently. 
+We aren't arguing for pure 
+
+247
+00:13:36,360 --> 00:13:39,760
+passivity, I don't think. 
+We're arguing for procedure as a
+
+248
+00:13:39,760 --> 00:13:43,800
+long term strategy, one that 
+requires, as the source says, a 
+
+249
+00:13:43,800 --> 00:13:46,080
+horizon longer than immediate 
+feeling. 
+
+250
+00:13:46,480 --> 00:13:48,800
+The goal isn't purely 
+sentimental, like just 
+
+251
+00:13:48,800 --> 00:13:50,800
+tolerating everything. 
+It's strategic. 
+
+252
+00:13:51,200 --> 00:13:54,520
+If we actively invest in legal 
+remedies for speech that does 
+
+253
+00:13:54,520 --> 00:13:57,800
+cross the line into credible 
+threats or defamation, we 
+
+254
+00:13:57,800 --> 00:14:00,080
+actually strengthen law as 
+currency. 
+
+255
+00:14:01,760 --> 00:14:05,320
+The fact that it's difficult to 
+protect the square doesn't 
+
+256
+00:14:05,320 --> 00:14:07,560
+negate the necessity of trying 
+to protect it. 
+
+257
+00:14:08,360 --> 00:14:12,520
+That short term cathartic purge,
+the quick firing to appease the 
+
+258
+00:14:12,520 --> 00:14:14,680
+mob. 
+It creates resentments and 
+
+259
+00:14:14,680 --> 00:14:17,960
+cynicism that are strategically 
+disastrous in the long run. 
+
+260
+00:14:18,400 --> 00:14:22,400
+Just as the source warns, short 
+victories of moral cleansing can
+
+261
+00:14:22,400 --> 00:14:26,440
+become decades of blood. 
+Procedural governance, even if 
+
+262
+00:14:26,440 --> 00:14:30,600
+imperfect, seems like the only 
+viable long term defense against
+
+263
+00:14:30,600 --> 00:14:33,080
+a perpetual cycle of outrage and
+vengeance. 
+
+264
+00:14:33,280 --> 00:14:35,520
+But. 
+Practically speaking, how does 
+
+265
+00:14:35,520 --> 00:14:39,800
+an employer strategically choose
+procedure over efficiency when 
+
+266
+00:14:39,800 --> 00:14:43,440
+they're facing potentially 
+immediate financial ruin from a 
+
+267
+00:14:43,440 --> 00:14:45,880
+boycott or advertisers pulling 
+out? 
+
+268
+00:14:46,320 --> 00:14:48,640
+What's the actual practical 
+mechanism here? 
+
+269
+00:14:48,960 --> 00:14:51,880
+Can you give us an example of 
+how a corporation which, let's 
+
+270
+00:14:51,880 --> 00:14:56,120
+be honest, generally exists to 
+maximize profit, effectively 
+
+271
+00:14:56,120 --> 00:14:59,880
+absorbs that level of offense 
+and protects the square when 
+
+272
+00:14:59,880 --> 00:15:04,320
+faced with mass performative 
+fury without suffering extreme 
+
+273
+00:15:04,320 --> 00:15:05,880
+economic damage? 
+Well, the. 
+
+274
+00:15:05,880 --> 00:15:09,560
+Mechanism I think lies in 
+institutional resistance and 
+
+275
+00:15:09,560 --> 00:15:13,080
+real clarity in internal policy.
+Before a crisis hits, 
+
+276
+00:15:13,640 --> 00:15:16,560
+institutions have to 
+strategically calculate that the
+
+277
+00:15:16,560 --> 00:15:19,920
+long term cost of constantly 
+catering to public outrage, 
+
+278
+00:15:20,280 --> 00:15:23,560
+which let's face it, constantly 
+shifts its targets and 
+
+279
+00:15:23,560 --> 00:15:26,880
+standards, is ultimately higher 
+than the short term cost of 
+
+280
+00:15:26,880 --> 00:15:31,680
+standing firm on due process and
+clear, predefined, ideally non 
+
+281
+00:15:31,680 --> 00:15:35,400
+political employment standards. 
+This needs proactive commitment,
+
+282
+00:15:35,560 --> 00:15:39,040
+For example, explicitly stating 
+ahead of time that employees 
+
+283
+00:15:39,040 --> 00:15:42,360
+will only face termination for 
+speech that violates specific, 
+
+284
+00:15:42,600 --> 00:15:45,920
+predefined internal behavioral 
+codes, or perhaps speech that 
+
+285
+00:15:45,920 --> 00:15:49,200
+rises to the legal standard of 
+incitement or harassment, not 
+
+286
+00:15:49,200 --> 00:15:52,360
+merely for offending a temporary
+social media consensus. 
+
+287
+00:15:52,840 --> 00:15:55,800
+That kind of clarity actually 
+raises the cost and lowers the 
+
+288
+00:15:55,800 --> 00:15:58,760
+effectiveness of external 
+outrage campaigns, making them 
+
+289
+00:15:58,760 --> 00:16:01,600
+less efficient and hopefully 
+less weaponizable over time. 
+
+290
+00:16:01,680 --> 00:16:04,760
+That. 
+Is certainly an admirable 
+
+291
+00:16:04,800 --> 00:16:09,760
+ambition, but it does require a 
+level of institutional courage, 
+
+292
+00:16:09,760 --> 00:16:13,520
+doesn't it, which feels 
+increasingly scarce in our 
+
+293
+00:16:13,520 --> 00:16:17,480
+current environment when the 
+market seems to reward rapid 
+
+294
+00:16:17,480 --> 00:16:19,680
+responsiveness to social 
+pressure. 
+
+295
+00:16:20,240 --> 00:16:23,120
+Demanding that kind of 
+institutional rigidity? 
+
+296
+00:16:23,760 --> 00:16:27,360
+Well, it sounds like demanding 
+that entities willingly suffer 
+
+297
+00:16:27,360 --> 00:16:31,880
+significant financial harm for a
+somewhat abstract societal good 
+
+298
+00:16:32,280 --> 00:16:36,840
+procedural stability that might 
+seem very far removed from their
+
+299
+00:16:36,840 --> 00:16:40,520
+immediate bottom line and. 
+That right there is precisely 
+
+300
+00:16:40,520 --> 00:16:42,360
+the definition of the problem 
+we're discussing. 
+
+301
+00:16:42,680 --> 00:16:45,840
+When private power consistently 
+chooses short term efficiency or
+
+302
+00:16:45,840 --> 00:16:49,040
+appeasement over long term 
+stability and procedure, the 
+
+303
+00:16:49,040 --> 00:16:51,600
+entire structure does become 
+more brittle, and that 
+
+304
+00:16:51,600 --> 00:16:54,200
+potentially sets the stage for 
+the kind of dangerous escalation
+
+305
+00:16:54,200 --> 00:16:55,800
+the source material cautions 
+against. 
+
+306
+00:16:56,080 --> 00:16:58,280
+So. 
+To sum up my position, it 
+
+307
+00:16:58,280 --> 00:17:03,040
+remains rooted in the structural
+risk we run when we bypass legal
+
+308
+00:17:03,040 --> 00:17:07,760
+procedure for that immediate, 
+often satisfying sense of moral 
+
+309
+00:17:07,760 --> 00:17:10,920
+satisfaction. 
+The impulse to cancel might 
+
+310
+00:17:10,920 --> 00:17:14,359
+provide cheap, emotionally 
+resonant governance in the 
+
+311
+00:17:14,359 --> 00:17:18,680
+moment, but it weaponizes 
+outrage, it creates martyrs, and
+
+312
+00:17:18,680 --> 00:17:22,720
+it risks dissolving a civilized 
+polity into systems governed by 
+
+313
+00:17:22,720 --> 00:17:26,800
+popularity contests and 
+instantaneous private lynchings.
+
+314
+00:17:27,160 --> 00:17:31,320
+The long term strategic focus I 
+maintain has to be on due 
+
+315
+00:17:31,320 --> 00:17:36,280
+process, toleration within legal
+bounds and strengthening law as 
+
+316
+00:17:36,280 --> 00:17:39,600
+currency. 
+Indeed, my position in summary, 
+
+317
+00:17:39,800 --> 00:17:43,320
+is that the argument linking 
+localized job loss and social 
+
+318
+00:17:43,320 --> 00:17:46,280
+ostracism directly to 
+catastrophic historical 
+
+319
+00:17:46,280 --> 00:17:50,040
+escalation like the world 
+shaking events starting in 1914 
+
+320
+00:17:50,160 --> 00:17:53,080
+is fundamentally A rhetorical 
+overstatement, however 
+
+321
+00:17:53,080 --> 00:17:55,760
+well-intentioned. 
+While we absolutely must fight 
+
+322
+00:17:55,760 --> 00:17:59,320
+for procedural fairness within 
+all institutions, societal 
+
+323
+00:17:59,320 --> 00:18:02,680
+consequences for speech that 
+falls outside legal protection? 
+
+324
+00:18:02,840 --> 00:18:06,560
+Well, they're likely a natural, 
+perhaps unavoidable, and often 
+
+325
+00:18:06,560 --> 00:18:09,120
+contain function of a 
+functioning, if admittedly 
+
+326
+00:18:09,120 --> 00:18:12,040
+imperfect, polity. 
+We need to address the real 
+
+327
+00:18:12,040 --> 00:18:15,400
+consequences of offensive speech
+without necessarily falling into
+
+328
+00:18:15,400 --> 00:18:19,000
+a trap of structural panic about
+impending societal collapse. 
+
+329
+00:18:19,360 --> 00:18:23,360
+Indeed, the material certainly 
+provides essential insights into
+
+330
+00:18:23,360 --> 00:18:26,640
+this very complex trade off 
+between, on the one hand, the 
+
+331
+00:18:26,640 --> 00:18:30,480
+immediate desire for moral 
+purity or accountability and, on
+
+332
+00:18:30,480 --> 00:18:33,080
+the other, the crucial 
+maintenance of procedural 
+
+333
+00:18:33,080 --> 00:18:35,640
+stability and the. 
+Central tension definitely 
+
+334
+00:18:35,640 --> 00:18:40,120
+remains trying to determine the 
+true magnitude of that claimed 
+
+335
+00:18:40,120 --> 00:18:44,320
+ladder of escalation within our 
+contemporary civic culture, and 
+
+336
+00:18:44,320 --> 00:18:47,000
+deciding whether we're dealing 
+primarily with contained social 
+
+337
+00:18:47,000 --> 00:18:50,520
+pain and adjustment or genuinely
+witnessing the early stages of 
+
+338
+00:18:50,520 --> 00:18:53,480
+systemic collapse. 
+A question worth pondering. 
+
+339
+00:18:53,880 --> 00:18:57,160
+Welcome back to the Deep Dive. 
+Today we're really getting into 
+
+340
+00:18:57,160 --> 00:18:59,640
+something complex. 
+We're unpacking some sources 
+
+341
+00:18:59,640 --> 00:19:03,800
+looking at this, this tension, 
+you know, free speech versus 
+
+342
+00:19:03,800 --> 00:19:07,000
+this growing idea that words 
+themselves are violence. 
+
+343
+00:19:07,280 --> 00:19:09,080
+Right. 
+And that paradox is exactly what
+
+344
+00:19:09,080 --> 00:19:11,000
+we're focusing on. 
+The main source we're diving 
+
+345
+00:19:11,000 --> 00:19:14,520
+into uses this concept called 
+the ladder of escalation. 
+
+346
+00:19:14,520 --> 00:19:16,080
+The ladder. 
+Of escalation, yeah. 
+
+347
+00:19:16,080 --> 00:19:19,840
+It basically maps how these 
+small things maybe an online 
+
+348
+00:19:19,840 --> 00:19:22,960
+comment a bit of conflict can 
+just the low. 
+
+349
+00:19:22,960 --> 00:19:25,040
+Up. 
+They trigger these huge 
+
+350
+00:19:25,040 --> 00:19:27,640
+irreversible consequences 
+politically, socially, 
+
+351
+00:19:27,760 --> 00:19:30,120
+everything so like. 
+Small spark, big fire. 
+
+352
+00:19:30,120 --> 00:19:31,920
+Exactly. 
+And the source warns that 
+
+353
+00:19:31,920 --> 00:19:35,040
+today's heat of the moment 
+reaction can lock in decades of,
+
+354
+00:19:35,280 --> 00:19:38,080
+well, really negative outcomes. 
+Nobody intended and the. 
+
+355
+00:19:38,080 --> 00:19:41,160
+Author got into this because of 
+something happening right now, 
+
+356
+00:19:41,160 --> 00:19:44,680
+but then connects it way back. 
+Historically, philosophically, 
+
+357
+00:19:44,680 --> 00:19:46,160
+that's what's. 
+Really interesting the pivot 
+
+358
+00:19:46,160 --> 00:19:48,840
+they make, and they start by 
+talking about their own 
+
+359
+00:19:48,840 --> 00:19:50,880
+background, which I found kind 
+of fascinating. 
+
+360
+00:19:50,880 --> 00:19:52,600
+Oh yeah. 
+How so? 
+
+361
+00:19:52,800 --> 00:19:54,560
+Well. 
+The author mentions not too long
+
+362
+00:19:54,560 --> 00:19:58,400
+ago they were deep in these 
+super technical, almost sterile 
+
+363
+00:19:58,400 --> 00:20:02,160
+online debates. 
+Things like metric, attribution 
+
+364
+00:20:02,160 --> 00:20:03,120
+metric. 
+Attribution. 
+
+365
+00:20:03,120 --> 00:20:06,080
+OK, so like figuring out where 
+website clicks come from, that 
+
+366
+00:20:06,080 --> 00:20:07,000
+kind of thing. 
+Exactly. 
+
+367
+00:20:07,000 --> 00:20:10,760
+Or like anger tech strategy for 
+SEO. 
+
+368
+00:20:10,800 --> 00:20:14,440
+You know, really niche technical
+stuff, low stakes intellectual 
+
+369
+00:20:14,440 --> 00:20:18,560
+sparring mostly, right? 
+Purely data numbers, no real 
+
+370
+00:20:18,560 --> 00:20:22,680
+moral weight behind arguing if a
+click came from source A or 
+
+371
+00:20:22,680 --> 00:20:26,000
+source B. 
+Precisely contained procedural. 
+
+372
+00:20:26,280 --> 00:20:29,160
+It affects maybe ad revenue, not
+someone's life, not their 
+
+373
+00:20:29,160 --> 00:20:31,760
+reputation. 
+But now, the author says they've
+
+374
+00:20:31,760 --> 00:20:33,360
+completely shifted. 
+Shifted. 
+
+375
+00:20:33,360 --> 00:20:35,400
+How they? 
+Describe themselves now, maybe a
+
+376
+00:20:35,400 --> 00:20:38,320
+bit tongue in cheek, as someone 
+defending ugly speech. 
+
+377
+00:20:38,320 --> 00:20:41,000
+And with this they're quoting 
+the gospels, John and Luke in 
+
+378
+00:20:41,000 --> 00:20:42,400
+online arguments. 
+Wow. 
+
+379
+00:20:42,400 --> 00:20:45,800
+OK, that's that's a huge leap 
+from SEO tactics to quoting 
+
+380
+00:20:45,800 --> 00:20:48,280
+scripture to defend unpleasant 
+speech it. 
+
+381
+00:20:48,280 --> 00:20:51,040
+Is it tells you they see the 
+current situation not just as 
+
+382
+00:20:51,040 --> 00:20:54,200
+another argument to win, but as 
+something foundational breaking 
+
+383
+00:20:54,200 --> 00:20:56,160
+down. 
+They feel they have to reach for
+
+384
+00:20:56,160 --> 00:20:57,920
+these deeper, older principles 
+so. 
+
+385
+00:20:57,920 --> 00:21:00,800
+The fight isn't about data 
+points anymore, it's about 
+
+386
+00:21:00,800 --> 00:21:04,480
+whether the whole structure of 
+public argument can even survive
+
+387
+00:21:04,480 --> 00:21:05,960
+this pressure cooker 
+environment. 
+
+388
+00:21:06,040 --> 00:21:07,880
+Yeah. 
+When the ability to say 
+
+389
+00:21:07,880 --> 00:21:11,080
+something popular, maybe even 
+offensive, feels like it's being
+
+390
+00:21:11,080 --> 00:21:14,800
+crushed not by law but by 
+private power, by market forces,
+
+391
+00:21:15,360 --> 00:21:17,400
+then the technical stuff just 
+falls away. 
+
+392
+00:21:17,600 --> 00:21:20,560
+You look for bedrock legal 
+principles, philosophy, or like 
+
+393
+00:21:20,560 --> 00:21:23,360
+here, even ancient wisdom. 
+It's about defending the 
+
+394
+00:21:23,600 --> 00:21:27,680
+process, the procedure over just
+feeling good right now. 
+
+395
+00:21:27,680 --> 00:21:29,800
+OK, so. 
+That sense of crisis brings us 
+
+396
+00:21:29,800 --> 00:21:32,480
+straight to the event that 
+kicked this whole reflection 
+
+397
+00:21:32,480 --> 00:21:34,080
+off. 
+And it started with something 
+
+398
+00:21:34,080 --> 00:21:35,920
+real world, right? 
+A tragedy? 
+
+399
+00:21:35,960 --> 00:21:38,280
+Yes. 
+A very specific tragic incident.
+
+400
+00:21:38,720 --> 00:21:41,280
+The author talks about a high 
+profile killing, something that 
+
+401
+00:21:41,280 --> 00:21:43,880
+happened publicly and their 
+words are stark. 
+
+402
+00:21:44,120 --> 00:21:45,960
+It lit the feeds like an 
+accelerant. 
+
+403
+00:21:45,960 --> 00:21:49,040
+Just instant ignition online. 
+And then then right in the 
+
+404
+00:21:49,040 --> 00:21:51,440
+middle of all that tension, this
+clip goes viral. 
+
+405
+00:21:51,440 --> 00:21:55,560
+It's a student saying something 
+just incredibly inflammatory and
+
+406
+00:21:55,800 --> 00:21:57,720
+frankly foolish. 
+Like we should bring back 
+
+407
+00:21:57,720 --> 00:22:00,880
+political assassinations. 
+Terrible timing, terrible 
+
+408
+00:22:00,880 --> 00:22:01,680
+statement. 
+The. 
+
+409
+00:22:01,680 --> 00:22:05,080
+Worst, It was like throwing 
+gasoline on the fire and the 
+
+410
+00:22:05,080 --> 00:22:07,040
+reaction? 
+Instantaneous. 
+
+411
+00:22:07,680 --> 00:22:08,680
+Overwhelming. 
+How? 
+
+412
+00:22:08,680 --> 00:22:10,640
+So the Internet. 
+Basically mobilized. 
+
+413
+00:22:11,080 --> 00:22:13,200
+A hunt began. 
+The student was doxed. 
+
+414
+00:22:13,240 --> 00:22:15,160
+Name, location, everything out 
+there. 
+
+415
+00:22:15,320 --> 00:22:18,960
+Then the institutions panicked. 
+Firings, forced resignations, 
+
+416
+00:22:18,960 --> 00:22:21,680
+public denunciations pouring in 
+from everywhere like a. 
+
+417
+00:22:21,680 --> 00:22:24,880
+Digital mob basically. 
+Yeah, and the author calls the 
+
+418
+00:22:24,880 --> 00:22:27,400
+appetite for retribution 
+contagious. 
+
+419
+00:22:27,840 --> 00:22:29,600
+It wasn't about law or due 
+process. 
+
+420
+00:22:29,600 --> 00:22:33,400
+It was just this fast 
+destructive moral cascade people
+
+421
+00:22:33,400 --> 00:22:35,080
+felt they had to join in 
+condemning. 
+
+422
+00:22:35,080 --> 00:22:37,280
+Almost like self preservation 
+and this whole. 
+
+423
+00:22:37,280 --> 00:22:41,040
+Episode is used to illustrate 
+what the source calls the the 
+
+424
+00:22:41,320 --> 00:22:43,560
+perverse moral physics of our 
+time. 
+
+425
+00:22:43,560 --> 00:22:44,920
+What does that mean exactly? 
+It's the. 
+
+426
+00:22:44,920 --> 00:22:47,320
+Crux of the issue, words are 
+being turned into events. 
+
+427
+00:22:47,320 --> 00:22:49,320
+Speech is being treated as 
+violence. 
+
+428
+00:22:49,320 --> 00:22:51,480
+Yeah, if you accept that premise
+that's saying something 
+
+429
+00:22:51,480 --> 00:22:53,880
+offensive is violence, then the 
+response has to be immediate, 
+
+430
+00:22:53,880 --> 00:22:56,560
+severe, like defending against a
+physical attack, so. 
+
+431
+00:22:56,560 --> 00:22:59,720
+The reaction isn't based on 
+actual harm, but on the level of
+
+432
+00:22:59,720 --> 00:23:01,920
+offense. 
+Yeah, moral outrage. 
+
+433
+00:23:02,080 --> 00:23:04,600
+Precisely. 
+And the danger, the source 
+
+434
+00:23:04,600 --> 00:23:08,040
+warns, is that this kind of 
+escalation has no natural 
+
+435
+00:23:08,040 --> 00:23:09,560
+ceiling. 
+It just keeps going up if 
+
+436
+00:23:09,560 --> 00:23:10,560
+there's. 
+No ceiling. 
+
+437
+00:23:10,840 --> 00:23:14,200
+Then every misstep, every dumb 
+comment, gets treated like an 
+
+438
+00:23:14,200 --> 00:23:18,680
+existential threat requiring, 
+well, existential consequences. 
+
+439
+00:23:18,680 --> 00:23:20,320
+Exactly. 
+And we see this playing out 
+
+440
+00:23:20,320 --> 00:23:23,520
+constantly in the digital world.
+The source calls it the civic 
+
+441
+00:23:23,520 --> 00:23:26,520
+ladder in miniature, and it's 
+brutally efficient. 
+
+442
+00:23:26,560 --> 00:23:28,480
+OK. 
+Breakdown the digital pathway. 
+
+443
+00:23:28,480 --> 00:23:30,480
+How does it work it? 
+Starts small, often 
+
+444
+00:23:30,480 --> 00:23:32,360
+performatively. 
+A tweet, right? 
+
+445
+00:23:32,520 --> 00:23:35,520
+Maybe something edgy or poorly 
+thought out and that. 
+
+446
+00:23:35,520 --> 00:23:39,560
+Tweet becomes a pile. 
+On massive self generating 
+
+447
+00:23:39,560 --> 00:23:42,880
+outrage, hundreds, thousands of 
+people dog pilots it jumps. 
+
+448
+00:23:42,880 --> 00:23:45,120
+Offline. 
+Immediately that digital 
+
+449
+00:23:45,120 --> 00:23:47,480
+momentum turns into real world 
+consequences. 
+
+450
+00:23:47,560 --> 00:23:48,960
+Suddenly it's about someones 
+job. 
+
+451
+00:23:49,200 --> 00:23:51,120
+It becomes a termination or 
+being professionally 
+
+452
+00:23:51,120 --> 00:23:52,240
+blacklisted. 
+It leads. 
+
+453
+00:23:52,240 --> 00:23:54,680
+To. 
+Reputational punishment like a 
+
+454
+00:23:54,680 --> 00:23:57,800
+digital scarlet letter, the 
+source implies it follows you, 
+
+455
+00:23:58,000 --> 00:24:00,560
+makes you unlivable, 
+unemployable in your field, a 
+
+456
+00:24:00,560 --> 00:24:04,440
+kind of social death and. 
+This whole process fuels 
+
+457
+00:24:04,440 --> 00:24:08,200
+something the author calls the 
+political economy of outrage. 
+
+458
+00:24:08,560 --> 00:24:10,080
+Can you unpack that? 
+It sounds important. 
+
+459
+00:24:10,080 --> 00:24:10,880
+It's. 
+Critical. 
+
+460
+00:24:10,880 --> 00:24:13,360
+It's not just about feelings. 
+It's instrumental. 
+
+461
+00:24:13,760 --> 00:24:16,320
+Outrage becomes a tool, a 
+currency. 
+
+462
+00:24:16,880 --> 00:24:20,440
+The structure rewards screaming 
+over arguing. 
+
+463
+00:24:20,680 --> 00:24:22,120
+How does? 
+Outrage become currency. 
+
+464
+00:24:22,120 --> 00:24:24,280
+How does it pay? 
+Well, for those leading the 
+
+465
+00:24:24,280 --> 00:24:28,240
+charge, outrage drives clicks, 
+engagement, visibility, all 
+
+466
+00:24:28,240 --> 00:24:30,600
+monetizable. 
+For those joining in, 
+
+467
+00:24:30,640 --> 00:24:33,080
+participating in the purge 
+offers a kind of moral 
+
+468
+00:24:33,080 --> 00:24:35,640
+validation. 
+It signals their purity, keeps 
+
+469
+00:24:35,640 --> 00:24:36,600
+them safe. 
+So. 
+
+470
+00:24:36,600 --> 00:24:38,800
+You don't win by being right or 
+persuasive, no. 
+
+471
+00:24:39,160 --> 00:24:42,080
+You win by being the loudest, 
+the most effective at mobilizing
+
+472
+00:24:42,080 --> 00:24:44,120
+punishment. 
+You win by showing you can 
+
+473
+00:24:44,120 --> 00:24:46,520
+destroy someone's livelihood 
+faster than the other side. 
+
+474
+00:24:46,520 --> 00:24:49,000
+The whole incentive structure 
+points towards annihilation, not
+
+475
+00:24:49,000 --> 00:24:49,920
+discussion. 
+Yeah. 
+
+476
+00:24:49,920 --> 00:24:52,440
+Why spend time crafting A 
+nuanced argument when you can 
+
+477
+00:24:52,440 --> 00:24:56,800
+just mobilize outrage, get 
+someone fired, and score moral 
+
+478
+00:24:56,800 --> 00:24:58,440
+points and maybe even clicks in 
+the process? 
+
+479
+00:24:58,440 --> 00:25:00,440
+That makes the latter really 
+hard to step off of. 
+
+480
+00:25:00,640 --> 00:25:02,480
+Right. 
+And to really hammer home how 
+
+481
+00:25:02,480 --> 00:25:05,120
+dangerous the spiral is, the 
+author does something bold. 
+
+482
+00:25:05,240 --> 00:25:07,920
+They yank us out of the Twitter 
+feeds and drop us right into 
+
+483
+00:25:08,120 --> 00:25:10,600
+Sarajevo 1914. 
+Wow. 
+
+484
+00:25:10,600 --> 00:25:14,280
+OK, that's a huge jump, 
+connecting a student's dumb 
+
+485
+00:25:14,280 --> 00:25:16,600
+comment to the start of World 
+War One. 
+
+486
+00:25:16,600 --> 00:25:18,760
+Why that specific historical 
+moment? 
+
+487
+00:25:18,760 --> 00:25:20,400
+Because. 
+It illustrates the danger of 
+
+488
+00:25:20,400 --> 00:25:23,040
+systemic brittleness perfectly. 
+We're talking about the 
+
+489
+00:25:23,200 --> 00:25:25,320
+assassination of Archduke Franz 
+Ferdinand. 
+
+490
+00:25:25,760 --> 00:25:28,240
+Gavrilo Princip fires a pistol. 
+A single. 
+
+491
+00:25:28,240 --> 00:25:29,640
+Event A local. 
+Act. 
+
+492
+00:25:29,720 --> 00:25:31,640
+Exactly. 
+A local act in a relatively 
+
+493
+00:25:31,640 --> 00:25:33,920
+small city. 
+But because the European 
+
+494
+00:25:33,920 --> 00:25:36,640
+political system at the time was
+this tangle of alliances, 
+
+495
+00:25:36,640 --> 00:25:40,200
+obligations and imperial pride, 
+that single shot triggered a 
+
+496
+00:25:40,200 --> 00:25:43,240
+global cascade. 
+Mobilizations, declarations of 
+
+497
+00:25:43,240 --> 00:25:45,080
+war, The whole House of Cards 
+came down. 
+
+498
+00:25:45,080 --> 00:25:47,040
+It wasn't. 
+The ACT itself, but the fragile 
+
+499
+00:25:47,040 --> 00:25:49,600
+system it hit, the context was 
+everything, precisely. 
+
+500
+00:25:49,600 --> 00:25:52,640
+The assassination was the spark,
+but the system was the dry 
+
+501
+00:25:52,640 --> 00:25:55,400
+Tinder, and the parallel the 
+author draws is this. 
+
+502
+00:25:55,960 --> 00:25:58,920
+Our current system, fueled by 
+this political economy of 
+
+503
+00:25:58,920 --> 00:26:02,040
+outrage and the instant 
+enforcement power of platforms, 
+
+504
+00:26:02,280 --> 00:26:04,840
+is also brittle. 
+A small digital offense can 
+
+505
+00:26:04,840 --> 00:26:07,680
+trigger systemic consequences 
+just like that shot did, and 
+
+506
+00:26:07,680 --> 00:26:09,480
+the. 
+Source doesn't stop at 1914. 
+
+507
+00:26:09,760 --> 00:26:14,040
+It argues the way WWI ended 
+actually set up WWI. 
+
+508
+00:26:14,200 --> 00:26:16,320
+It talks about the Treaty of 
+Versailles in 1919. 
+
+509
+00:26:16,320 --> 00:26:18,400
+Yeah, the. 
+Pause that wasn't Versailles is 
+
+510
+00:26:18,400 --> 00:26:20,920
+presented as this moment where 
+the system completely failed to 
+
+511
+00:26:20,920 --> 00:26:22,840
+absorb the conflict in a healthy
+way. 
+
+512
+00:26:23,280 --> 00:26:26,640
+The treaty was punitive, 
+humiliating, basically built on 
+
+513
+00:26:26,640 --> 00:26:28,760
+revenge, not reconciliation. 
+So it. 
+
+514
+00:26:28,760 --> 00:26:31,840
+Didn't put the fire out, it just
+banked the coals. 
+
+515
+00:26:31,960 --> 00:26:32,960
+That's. 
+A good way to put it, it 
+
+516
+00:26:32,960 --> 00:26:35,880
+functioned less like a real 
+settlement and more like a long 
+
+517
+00:26:35,880 --> 00:26:38,480
+ceasefire. 
+It gave everyone time to nurse 
+
+518
+00:26:38,480 --> 00:26:41,680
+their grievances, especially 
+Germany feeling humiliated and 
+
+519
+00:26:41,680 --> 00:26:44,440
+crushed by reparations. 
+It created the perfect 
+
+520
+00:26:44,440 --> 00:26:47,760
+conditions for radicalism and 
+eventually the monstrous 
+
+521
+00:26:47,760 --> 00:26:49,960
+reconstitution of violence that 
+was WWII. 
+
+522
+00:26:50,480 --> 00:26:51,320
+That's. 
+Sobering. 
+
+523
+00:26:51,800 --> 00:26:54,600
+The lesson being, if you try to 
+completely annihilate your 
+
+524
+00:26:54,600 --> 00:26:58,440
+opponent morally or financially,
+whether it's a nation in 1919 or
+
+525
+00:26:58,440 --> 00:27:00,120
+an individual online today, 
+you're just. 
+
+526
+00:27:00,120 --> 00:27:03,320
+Guaranteeing they'll be back 
+angrier, maybe more organized, 
+
+527
+00:27:03,320 --> 00:27:05,480
+because you've left them with 
+nothing to lose and a powerful 
+
+528
+00:27:05,480 --> 00:27:07,000
+story of victimhood. 
+So the. 
+
+529
+00:27:07,000 --> 00:27:10,760
+Historical pattern is clear. 
+Small acts ignite big conflicts 
+
+530
+00:27:10,760 --> 00:27:14,080
+when the system is fragile, and 
+especially when fear and revenge
+
+531
+00:27:14,080 --> 00:27:17,600
+take over as the main drivers 
+instead of, say, law or 
+
+532
+00:27:17,600 --> 00:27:19,080
+negotiation. 
+Exactly. 
+
+533
+00:27:19,240 --> 00:27:22,320
+And bringing it back to today, 
+if our public square is designed
+
+534
+00:27:22,320 --> 00:27:26,880
+to react to every offense with 
+maximum destructive force, well,
+
+535
+00:27:26,880 --> 00:27:30,080
+we shouldn't be surprised when 
+small online spats keep blowing 
+
+536
+00:27:30,080 --> 00:27:33,720
+up into major crises, OK? 
+So this historical perspective 
+
+537
+00:27:33,720 --> 00:27:35,880
+highlights a really key 
+distinction that seems to be 
+
+538
+00:27:35,880 --> 00:27:38,760
+getting blurred today, the 
+difference between how the law 
+
+539
+00:27:38,760 --> 00:27:43,120
+handles speech versus how, well,
+how the digital mom handles it 
+
+540
+00:27:43,240 --> 00:27:45,720
+precisely. 
+The US legal system, 
+
+541
+00:27:45,720 --> 00:27:49,240
+particularly the 1st Amendment, 
+has these established bright 
+
+542
+00:27:49,240 --> 00:27:51,240
+lines. 
+Courts have spent decades 
+
+543
+00:27:51,240 --> 00:27:54,320
+figuring out where protected 
+speech ends and say incitement 
+
+544
+00:27:54,320 --> 00:27:56,040
+begins. 
+The big one here is the 
+
+545
+00:27:56,040 --> 00:27:58,840
+Brandenburg Doctrine, right? 
+Brandenburg, can you remind us 
+
+546
+00:27:58,840 --> 00:28:00,680
+what that requires? 
+It's a high bar, isn't it? 
+
+547
+00:28:00,760 --> 00:28:02,000
+It's a. 
+Very high bar. 
+
+548
+00:28:02,000 --> 00:28:04,720
+The government can only punish 
+speech if it's intended to 
+
+549
+00:28:04,720 --> 00:28:08,200
+incite imminent lawless action 
+and is likely to actually do so.
+
+550
+00:28:08,560 --> 00:28:11,240
+Both intent and immediacy are 
+crucial, and the. 
+
+551
+00:28:11,240 --> 00:28:13,080
+Whole point of that high bar is 
+to. 
+
+552
+00:28:13,080 --> 00:28:16,520
+Stop the government or temporary
+public outrage from just 
+
+553
+00:28:16,520 --> 00:28:20,360
+silencing unpopular views. 
+It's designed, as the source 
+
+554
+00:28:20,360 --> 00:28:23,680
+puts it, to prevent majorities 
+from burning dissenters at the 
+
+555
+00:28:23,680 --> 00:28:26,200
+stake. 
+It forces a pause, demands 
+
+556
+00:28:26,200 --> 00:28:29,200
+evidence, prioritizes procedure 
+over passion. 
+
+557
+00:28:29,200 --> 00:28:30,560
+But the. 
+Latter of escalation we're 
+
+558
+00:28:30,560 --> 00:28:33,960
+seeing online the firings, the 
+doxing, that's not the 
+
+559
+00:28:33,960 --> 00:28:36,480
+government doing it and. 
+That is the absolute key 
+
+560
+00:28:36,480 --> 00:28:38,640
+difference. 
+This is private power, tech 
+
+561
+00:28:38,640 --> 00:28:43,680
+platforms, employers, activist 
+groups, angry online crowds, and
+
+562
+00:28:43,680 --> 00:28:45,760
+the First Amendment doesn't 
+restrict them so they. 
+
+563
+00:28:45,760 --> 00:28:48,160
+Become the enforcers, yes. 
+And they are incredibly 
+
+564
+00:28:48,160 --> 00:28:50,480
+efficient enforcers, as the 
+source calls them. 
+
+565
+00:28:50,880 --> 00:28:54,880
+Their justice is fast, cheap and
+often devastating, carrying the 
+
+566
+00:28:54,880 --> 00:28:56,960
+penalty of economic or social 
+ruin. 
+
+567
+00:28:56,960 --> 00:28:58,280
+So the. 
+Logic is flipped. 
+
+568
+00:28:58,520 --> 00:29:02,000
+The law is slow and careful by 
+design, but private punishment 
+
+569
+00:29:02,000 --> 00:29:04,640
+is fast and procedurally empty. 
+Pretty. 
+
+570
+00:29:04,640 --> 00:29:08,320
+Much the market logic or the mob
+logic is if you can make someone
+
+571
+00:29:08,320 --> 00:29:10,320
+unemployable for saying the 
+wrong thing, why wouldn't you? 
+
+572
+00:29:10,560 --> 00:29:13,200
+It signals your virtue, damages 
+your opponent, maybe gets you 
+
+573
+00:29:13,200 --> 00:29:15,120
+clicks. 
+There's an incentive for 
+
+574
+00:29:15,120 --> 00:29:17,680
+efficiency which bypasses all 
+the safeguards built into the 
+
+575
+00:29:17,680 --> 00:29:18,720
+legal system. 
+That's. 
+
+576
+00:29:18,720 --> 00:29:20,640
+Scary. 
+It makes your boss or the 
+
+577
+00:29:20,640 --> 00:29:24,400
+platform you use the immediate 
+judge, jury and executioner for 
+
+578
+00:29:24,400 --> 00:29:26,200
+speech which. 
+Brings us to the author's 
+
+579
+00:29:26,200 --> 00:29:28,800
+defense of what they call 
+civilization as procedure. 
+
+580
+00:29:29,080 --> 00:29:32,720
+The idea is that the whole point
+of civilization of law is 
+
+581
+00:29:32,720 --> 00:29:36,200
+keeping impulses from 
+transmogrifying into axes 
+
+582
+00:29:36,200 --> 00:29:38,080
+keeping. 
+Impulses from becoming axes. 
+
+583
+00:29:38,080 --> 00:29:40,640
+I like that it's about control, 
+deliberation. 
+
+584
+00:29:40,640 --> 00:29:42,160
+Exactly. 
+It's the difference between a 
+
+585
+00:29:42,160 --> 00:29:45,800
+town that argues and a town that
+shoots. 1 uses law as its 
+
+586
+00:29:45,800 --> 00:29:48,200
+currency. 
+The other uses violence or the 
+
+587
+00:29:48,200 --> 00:29:50,440
+threat of professional or social
+violence. 
+
+588
+00:29:50,680 --> 00:29:53,600
+When that's the currency, 
+everyone's effectively armed and
+
+589
+00:29:53,600 --> 00:29:56,520
+ready for a purge and. 
+That's why the author champions 
+
+590
+00:29:56,520 --> 00:30:00,400
+the messy, imperfect forums, 
+courts, newspapers, even 
+
+591
+00:30:00,400 --> 00:30:04,160
+elections over the quick, 
+cathartic efficiencies of cancel
+
+592
+00:30:04,160 --> 00:30:06,360
+culture. 
+The messiness is the point. 
+
+593
+00:30:06,360 --> 00:30:07,600
+It's a. 
+Feature not a bug. 
+
+594
+00:30:07,960 --> 00:30:11,400
+These messy processes force us 
+to slow down, deal with 
+
+595
+00:30:11,400 --> 00:30:13,840
+complexity, use argument, follow
+rules. 
+
+596
+00:30:14,000 --> 00:30:17,240
+They demand we defend our views,
+not just destroy our opponents. 
+
+597
+00:30:17,520 --> 00:30:20,320
+The goal isn't to love offensive
+speech, but to protect the 
+
+598
+00:30:20,320 --> 00:30:22,400
+mechanism that allows us to 
+argue about it. 
+
+599
+00:30:22,600 --> 00:30:25,720
+Because if you ditch procedure, 
+all that's left is the axe, OK? 
+
+600
+00:30:25,720 --> 00:30:29,280
+So defending procedure leads the
+author to take a stance that, 
+
+601
+00:30:29,920 --> 00:30:31,920
+well, it seems pretty 
+controversial. 
+
+602
+00:30:32,200 --> 00:30:36,040
+They defend a specific public 
+conservative figure, someone 
+
+603
+00:30:36,040 --> 00:30:40,960
+even, they admit is seen by many
+as coarse, opportunistic, maybe 
+
+604
+00:30:40,960 --> 00:30:43,480
+even a paid agitator. 
+Why go there? 
+
+605
+00:30:43,640 --> 00:30:45,080
+Yeah. 
+It's definitely a provocative 
+
+606
+00:30:45,080 --> 00:30:48,160
+move, but the author seems less 
+interested in the figure 
+
+607
+00:30:48,160 --> 00:30:51,760
+themselves and more in what 
+their rhetoric did to the public
+
+608
+00:30:51,760 --> 00:30:54,120
+conversation. 
+What function did it serve and 
+
+609
+00:30:54,120 --> 00:30:55,520
+what? 
+Was that function, according to 
+
+610
+00:30:55,520 --> 00:30:57,600
+the source the. 
+Argument is that this figures 
+
+611
+00:30:57,600 --> 00:31:00,560
+confrontational style. 
+Love it or hate it forced people
+
+612
+00:31:00,640 --> 00:31:03,440
+to grapple with fundamental 
+questions they usually avoid in 
+
+613
+00:31:03,440 --> 00:31:06,000
+politics. 
+Questions about sin, personal 
+
+614
+00:31:06,000 --> 00:31:09,960
+responsibility, public morality,
+things we often keep private. 
+
+615
+00:31:10,000 --> 00:31:11,640
+And this. 
+Connects back to quoting the 
+
+616
+00:31:11,640 --> 00:31:12,960
+gospels. 
+Exactly. 
+
+617
+00:31:13,120 --> 00:31:16,600
+The source highlights that when 
+this figure used phrases like go
+
+618
+00:31:16,600 --> 00:31:19,440
+and sin no more or talked about 
+accountability and quasi 
+
+619
+00:31:19,440 --> 00:31:21,560
+religious terms, it landed like 
+a bomb. 
+
+620
+00:31:21,560 --> 00:31:24,360
+It was anathema to the current 
+civic culture. 
+
+621
+00:31:24,960 --> 00:31:27,760
+Why would quoting scripture 
+about morality cause such an 
+
+622
+00:31:27,760 --> 00:31:29,520
+explosion in a political 
+context? 
+
+623
+00:31:29,680 --> 00:31:31,080
+What's the Outer's take on that?
+It's a. 
+
+624
+00:31:31,080 --> 00:31:33,960
+Really insightful point. 
+The author argues that in our 
+
+625
+00:31:33,960 --> 00:31:38,440
+current climate, the concept of 
+sin or even just moral error has
+
+626
+00:31:38,440 --> 00:31:41,640
+been fundamentally rebranded. 
+It's not seen as a universal 
+
+627
+00:31:41,640 --> 00:31:44,360
+human failing anymore, but as an
+identity taunt an. 
+
+628
+00:31:44,360 --> 00:31:48,320
+Identity taunt, meaning if you 
+criticize my actions or beliefs,
+
+629
+00:31:48,560 --> 00:31:50,680
+you're attacking who I am 
+precisely. 
+
+630
+00:31:50,920 --> 00:31:54,640
+So being told you missed the 
+mark, even metaphorically, isn't
+
+631
+00:31:54,640 --> 00:31:58,240
+her as a comment on behavior. 
+It's heard as an assault on your
+
+632
+00:31:58,240 --> 00:32:00,680
+entire being, your life's work, 
+your identity. 
+
+633
+00:32:01,160 --> 00:32:04,280
+And if the attack feels 
+existential, the response 
+
+634
+00:32:04,280 --> 00:32:07,520
+becomes existential. 
+Immediate total annihilation is 
+
+635
+00:32:07,520 --> 00:32:09,760
+justified that. 
+Really captures the the 
+
+636
+00:32:09,800 --> 00:32:11,680
+intensity of these online 
+conflicts. 
+
+637
+00:32:11,680 --> 00:32:14,400
+It's not just disagreement, it 
+feels like Total War and the. 
+
+638
+00:32:14,400 --> 00:32:16,760
+Source acknowledges other 
+complexities too, where moral 
+
+639
+00:32:16,760 --> 00:32:19,920
+feelings clash with political 
+realities like the example of 
+
+640
+00:32:19,920 --> 00:32:22,160
+migration right the. 
+Tension between wanting to 
+
+641
+00:32:22,160 --> 00:32:25,040
+support migrants feeling that 
+human connection, but also so 
+
+642
+00:32:25,040 --> 00:32:28,760
+recognizing that large, sudden 
+influxes do predictably trigger 
+
+643
+00:32:28,760 --> 00:32:30,360
+political defensiveness. 
+Yeah. 
+
+644
+00:32:30,360 --> 00:32:33,480
+The author calls that backlash 
+ugly and cruel, but also 
+
+645
+00:32:33,480 --> 00:32:36,600
+predictable politics. 
+It's acknowledging that deep 
+
+646
+00:32:36,600 --> 00:32:39,360
+moral feelings don't just erase 
+political dynamics. 
+
+647
+00:32:39,760 --> 00:32:43,360
+A nation state or a community 
+will likely react defensively to
+
+648
+00:32:43,360 --> 00:32:46,480
+perceived rapid change, 
+regardless of the morality 
+
+649
+00:32:46,480 --> 00:32:48,280
+driving the change itself. 
+And. 
+
+650
+00:32:48,280 --> 00:32:51,880
+That predictable reaction often 
+uses outrage as its weapon, 
+
+651
+00:32:51,880 --> 00:32:54,640
+right. 
+Shaming becomes a tool, a key. 
+
+652
+00:32:54,640 --> 00:32:57,200
+Tool naming, shaming, demanding 
+removal. 
+
+653
+00:32:57,200 --> 00:33:00,240
+It's presented as a cheap, fast 
+governance technique. 
+
+654
+00:33:00,760 --> 00:33:04,160
+Why bother with slow persuasion 
+or messy legislation when you 
+
+655
+00:33:04,160 --> 00:33:06,520
+can just cancel someone, void 
+their livelihood? 
+
+656
+00:33:06,640 --> 00:33:08,320
+But the. 
+Author warns this backfires. 
+
+657
+00:33:08,440 --> 00:33:10,440
+Completely. 
+It might feel like a win in the 
+
+658
+00:33:10,440 --> 00:33:13,360
+moment, but all it does is 
+create martyrs and resentments. 
+
+659
+00:33:13,560 --> 00:33:16,680
+You silence one voice, but you 
+potentially energize their 
+
+660
+00:33:16,680 --> 00:33:19,480
+entire movement by giving them a
+potent grievance narrative 
+
+661
+00:33:19,480 --> 00:33:20,760
+which. 
+Leads to the critique of what 
+
+662
+00:33:20,760 --> 00:33:24,120
+the source calls rupture logic. 
+What's that about rupture? 
+
+663
+00:33:24,120 --> 00:33:26,200
+Logic is basically the 
+revolutionary idea. 
+
+664
+00:33:26,200 --> 00:33:30,680
+You see it in Marx, Mao, Che, 
+maybe even some modern 
+
+665
+00:33:30,760 --> 00:33:33,760
+acceleration is that the only 
+way to fix things is to 
+
+666
+00:33:33,760 --> 00:33:35,520
+violently break the existing 
+system. 
+
+667
+00:33:35,520 --> 00:33:38,440
+Smash it all and something 
+better will magically emerge 
+
+668
+00:33:38,440 --> 00:33:39,360
+from the rubble. 
+And. 
+
+669
+00:33:39,360 --> 00:33:41,880
+History suggests history. 
+Suggests that's not how it 
+
+670
+00:33:41,880 --> 00:33:43,240
+works. 
+Usually it just sets off a 
+
+671
+00:33:43,240 --> 00:33:45,440
+cycle. 
+Repression breeds resentment. 
+
+672
+00:33:45,440 --> 00:33:48,880
+Resentment fuels new radicalism,
+which leads to more repression. 
+
+673
+00:33:49,200 --> 00:33:52,160
+You don't get a clean slate, you
+get a feedback loop of 
+
+674
+00:33:52,160 --> 00:33:55,720
+escalating conflict. 
+The politics of purging, whether
+
+675
+00:33:55,720 --> 00:33:59,280
+literal or figurative, just 
+guarantees the fight comes back,
+
+676
+00:33:59,280 --> 00:34:02,320
+probably worse than before. 
+So all this history, all this 
+
+677
+00:34:02,320 --> 00:34:05,120
+analysis of the current moment, 
+it brings us back to this very 
+
+678
+00:34:05,120 --> 00:34:07,880
+primal human thing, doesn't it? 
+Settling scores. 
+
+679
+00:34:08,320 --> 00:34:10,280
+The author calls it the modern 
+dueling code. 
+
+680
+00:34:10,320 --> 00:34:12,239
+Yeah, it's. 
+Like the old frontier logic, 
+
+681
+00:34:12,239 --> 00:34:14,800
+someone insults your honor, you 
+challenge them to a duel. 
+
+682
+00:34:14,920 --> 00:34:19,159
+Immediate, often lethal 
+response, bypassing any legal 
+
+683
+00:34:19,159 --> 00:34:21,040
+process and the. 
+Argument is we're still doing 
+
+684
+00:34:21,040 --> 00:34:22,480
+that, just for different 
+weapons. 
+
+685
+00:34:22,679 --> 00:34:24,800
+Exactly. 
+We're not using pistols at dawn,
+
+686
+00:34:24,800 --> 00:34:28,120
+but we shoot with doxing, with 
+algorithms, with professional 
+
+687
+00:34:28,120 --> 00:34:30,320
+ruin. 
+The principle is the same. 
+
+688
+00:34:31,000 --> 00:34:33,520
+If words are treated 
+structurally as violence, 
+
+689
+00:34:33,520 --> 00:34:35,800
+meaning they trigger 
+consequences equivalent to 
+
+690
+00:34:35,840 --> 00:34:39,280
+physical harm, then people will 
+inevitably respond with 
+
+691
+00:34:39,280 --> 00:34:42,639
+proportionate force, structural 
+violence, maybe even literal 
+
+692
+00:34:42,639 --> 00:34:44,960
+violence. 
+Eventually, the spiral 
+
+693
+00:34:44,960 --> 00:34:47,440
+continues, and there's. 
+A danger in thinking a temporary
+
+694
+00:34:47,440 --> 00:34:50,040
+quiet means peace, right? 
+Like after a successful 
+
+695
+00:34:50,040 --> 00:34:51,520
+cancellation. 
+Huge. 
+
+696
+00:34:51,520 --> 00:34:54,040
+Danger The awful points. 
+Back to Versailles again. 
+
+697
+00:34:54,400 --> 00:34:57,440
+The 1920s seemed peaceful, but 
+it was just a pause. 
+
+698
+00:34:57,840 --> 00:35:01,480
+It allowed the resentful and the
+defeated to regroup, rearm. 
+
+699
+00:35:02,040 --> 00:35:04,960
+Modern ceasefires and conflicts 
+can work the same way. 
+
+700
+00:35:05,280 --> 00:35:08,360
+Less about peace, more about a 
+tactical pause to reload. 
+
+701
+00:35:08,560 --> 00:35:10,000
+So if. 
+Your main strategy is just 
+
+702
+00:35:10,000 --> 00:35:11,880
+punish and exclude your 
+opponents you have. 
+
+703
+00:35:11,880 --> 00:35:15,000
+To expect the long returns of 
+that strategy, you're basically 
+
+704
+00:35:15,000 --> 00:35:18,360
+ensuring the conflict smoulders 
+and eventually reignites because
+
+705
+00:35:18,360 --> 00:35:20,320
+the underlying issues and 
+resentments haven't been 
+
+706
+00:35:20,320 --> 00:35:22,200
+addressed, only suppressed. 
+Which? 
+
+707
+00:35:22,200 --> 00:35:24,800
+Brings us to the author's 
+proposed counter strategy. 
+
+708
+00:35:25,240 --> 00:35:29,040
+It involves something they call 
+a paradoxically stern mercy. 
+
+709
+00:35:30,440 --> 00:35:32,240
+What does that mean? 
+It sounds contradictory it. 
+
+710
+00:35:32,240 --> 00:35:35,680
+Does it means distinguishing 
+strategic thinking from pure 
+
+711
+00:35:35,680 --> 00:35:39,280
+sentimentalism? 
+The author specifically rejects 
+
+712
+00:35:39,280 --> 00:35:43,440
+the immediate emotional appeal 
+the don't shoot I have children 
+
+713
+00:35:43,640 --> 00:35:46,760
+kind of argument as a basis for 
+policy or structural decisions. 
+
+714
+00:35:46,760 --> 00:35:47,720
+Why? 
+Reject that. 
+
+715
+00:35:47,720 --> 00:35:50,960
+Isn't compassion important, 
+especially given the real human 
+
+716
+00:35:50,960 --> 00:35:52,360
+cost here? 
+Compassion. 
+
+717
+00:35:52,360 --> 00:35:56,040
+Is vital, but the author argues 
+strategy needs a horizon longer 
+
+718
+00:35:56,040 --> 00:35:58,880
+than immediate feeling. 
+Emotional appeals, while 
+
+719
+00:35:58,880 --> 00:36:02,640
+powerful, don't fix the systemic
+problems driving the escalation.
+
+720
+00:36:03,000 --> 00:36:05,560
+We can't run society based on 
+who makes the most heart 
+
+721
+00:36:05,560 --> 00:36:08,560
+wrenching plea in the moment. 
+We need robust structures that 
+
+722
+00:36:08,560 --> 00:36:10,960
+can handle conflict without 
+resorting to immediate 
+
+723
+00:36:10,960 --> 00:36:13,960
+destruction. 
+Stern mercy means preserving the
+
+724
+00:36:13,960 --> 00:36:17,120
+system of argument even when the
+arguments within it are ugly, 
+
+725
+00:36:17,240 --> 00:36:18,880
+because the alternative is 
+worse. 
+
+726
+00:36:18,960 --> 00:36:20,640
+OK. 
+So if sentimentalism isn't the 
+
+727
+00:36:20,640 --> 00:36:23,160
+answer, and escalation is the 
+problem with the actual 
+
+728
+00:36:23,160 --> 00:36:25,800
+practical strategy, how do we 
+protect the system the. 
+
+729
+00:36:25,800 --> 00:36:28,720
+Author offers what they call an 
+ugly, simple answer. 
+
+730
+00:36:28,960 --> 00:36:32,760
+Protect the square. 
+It boils down to five concrete 
+
+731
+00:36:32,760 --> 00:36:35,440
+steps aimed at institutions and 
+culture. 
+
+732
+00:36:35,560 --> 00:36:37,200
+All right. 
+Let's walk through them #1 
+
+733
+00:36:37,200 --> 00:36:39,400
+sounds tricky. 
+Let the ugly arguments happen in
+
+734
+00:36:39,400 --> 00:36:41,520
+public, right? 
+Counterintuitive, but the logic 
+
+735
+00:36:41,520 --> 00:36:43,760
+is if you drive ugly arguments 
+underground, they don't 
+
+736
+00:36:43,760 --> 00:36:47,040
+disappear, they just fester and 
+radicalize and echo chambers 
+
+737
+00:36:47,320 --> 00:36:49,240
+away from any challenge or 
+scrutiny. 
+
+738
+00:36:49,720 --> 00:36:52,320
+The public square, even when 
+it's unpleasant, acts like a 
+
+739
+00:36:52,320 --> 00:36:55,560
+release valve and allows for 
+open debate, however flawed. 
+
+740
+00:36:56,160 --> 00:36:59,600
+Trying to sanitize it completely
+just empowers the extremists who
+
+741
+00:36:59,600 --> 00:37:03,680
+thrive in the shadows. 
+OK. #2 adjudicate through 
+
+742
+00:37:03,680 --> 00:37:07,920
+procedure, not purge this. 
+Means reinvesting in the slow, 
+
+743
+00:37:07,920 --> 00:37:12,160
+messy, imperfect systems we have
+Courts, disciplinary committees,
+
+744
+00:37:12,360 --> 00:37:14,640
+arbitration instead of 
+defaulting to the instant 
+
+745
+00:37:14,640 --> 00:37:17,720
+gratification of online 
+cancellation procedures. 
+
+746
+00:37:17,720 --> 00:37:21,400
+Frustrating, but it's the 
+barrier between impulse and acts
+
+747
+00:37:21,480 --> 00:37:24,520
+number. 
+Three, use legal remedies only 
+
+748
+00:37:24,520 --> 00:37:27,680
+for credible threats adhering to
+that high Brandenburg standard. 
+
+749
+00:37:27,920 --> 00:37:29,520
+Yeah. 
+Basically, save the power of the
+
+750
+00:37:29,520 --> 00:37:33,080
+law for genuine imminent danger.
+Stop labeling every offensive 
+
+751
+00:37:33,080 --> 00:37:35,960
+statement a threat. 
+By restoring that distinction, 
+
+752
+00:37:35,960 --> 00:37:38,880
+we lower the temperature and 
+reserve serious consequences for
+
+753
+00:37:38,880 --> 00:37:41,800
+serious actions. 
+Number. 4 feels really crucial. 
+
+754
+00:37:42,400 --> 00:37:47,360
+Train employers and platforms to
+resist performative fury. 
+
+755
+00:37:47,400 --> 00:37:50,120
+This. 
+Is huge right now, employers and
+
+756
+00:37:50,120 --> 00:37:53,160
+platforms act as the rapid 
+response enforcement arm of the 
+
+757
+00:37:53,160 --> 00:37:56,440
+outrage machine, often because 
+it's easier or safer for their 
+
+758
+00:37:56,440 --> 00:37:59,640
+brand in the short term, the 
+author argues they need to be 
+
+759
+00:37:59,640 --> 00:38:02,080
+encouraged, maybe through 
+policy, maybe through public 
+
+760
+00:38:02,080 --> 00:38:05,200
+pressure, maybe even market 
+forces to step back to resist 
+
+761
+00:38:05,200 --> 00:38:07,960
+the mob demanding immediate 
+firing for every online 
+
+762
+00:38:07,960 --> 00:38:11,000
+transgression if they start 
+being the executioners, the 
+
+763
+00:38:11,000 --> 00:38:13,840
+whole economy of outrage loses a
+lot of its power and the. 
+
+764
+00:38:13,840 --> 00:38:17,640
+Last one number 5 Encourage a 
+civic grammar that can absorb 
+
+765
+00:38:17,640 --> 00:38:19,640
+offense without turning it into 
+capital. 
+
+766
+00:38:19,760 --> 00:38:21,600
+This. 
+Is the long game the cultural 
+
+767
+00:38:21,600 --> 00:38:24,120
+shift? 
+It's about trying to build a 
+
+768
+00:38:24,120 --> 00:38:27,200
+public square where we don't 
+immediately reward outrage, 
+
+769
+00:38:27,400 --> 00:38:30,400
+where offense isn't instantly 
+monetized or weaponized. 
+
+770
+00:38:30,880 --> 00:38:34,080
+A culture that can maybe 
+tolerate disagreement or even 
+
+771
+00:38:34,080 --> 00:38:37,200
+insult without demanding 
+immediate institutional 
+
+772
+00:38:37,200 --> 00:38:39,480
+retribution. 
+Where we can argue about the 
+
+773
+00:38:39,480 --> 00:38:41,880
+substance, not just react to the
+tone. 
+
+774
+00:38:42,040 --> 00:38:43,840
+So. 
+At the end of the day, the 
+
+775
+00:38:43,840 --> 00:38:47,320
+choice is stark. 
+The messy, imperfect public 
+
+776
+00:38:47,320 --> 00:38:50,800
+square with all its arguments, 
+or the torches and pitchforks of
+
+777
+00:38:50,800 --> 00:38:52,520
+private annihilation that's. 
+Exactly it. 
+
+778
+00:38:52,520 --> 00:38:55,040
+And once you like those torches,
+finding your way back down that 
+
+779
+00:38:55,040 --> 00:38:57,200
+ladder of escalation is 
+incredibly hard. 
+
+780
+00:38:57,640 --> 00:39:00,640
+The choice between argument, 
+however flawed, and destruction 
+
+781
+00:39:00,640 --> 00:39:03,640
+is really the core decision it. 
+Really forces you to think about
+
+782
+00:39:03,640 --> 00:39:06,320
+what's more important, that 
+immediate hit of moral 
+
+783
+00:39:06,320 --> 00:39:09,400
+satisfaction from purging 
+someone, or the long term health
+
+784
+00:39:09,400 --> 00:39:12,200
+and stability of the place where
+we have to argue and. 
+
+785
+00:39:12,240 --> 00:39:15,680
+The final warning from the 
+source is chillingly clear. 
+
+786
+00:39:15,920 --> 00:39:18,560
+Those short term victories, 
+those moments of feeling morally
+
+787
+00:39:18,560 --> 00:39:20,840
+pure. 
+By casting someone out, they can
+
+788
+00:39:20,840 --> 00:39:24,400
+easily pave the way for decades 
+of blood, figuratively or 
+
+789
+00:39:24,400 --> 00:39:25,760
+literally. 
+The latter is steep. 
+
+790
+00:39:26,200 --> 00:39:28,040
+Going down is much harder than 
+going up. 
+
+791
+00:39:28,440 --> 00:39:30,960
+So the provocative thought we're
+left with from this deep dive, 
+
+792
+00:39:30,960 --> 00:39:36,120
+is this maybe the reaction, the 
+rush to purge fueled by this 
+
+793
+00:39:36,120 --> 00:39:39,000
+digital ladder is actually more 
+dangerous in the long run than 
+
+794
+00:39:39,000 --> 00:39:41,880
+the original offense itself? 
+If destruction is the main 
+
+795
+00:39:41,880 --> 00:39:44,960
+consequence for speaking out of 
+line, what kind of cautious, 
+
+796
+00:39:44,960 --> 00:39:48,840
+fearful speech will be left, and
+what kind of fragile society can
+
+797
+00:39:48,840 --> 00:39:50,960
+actually survive under that 
+constant pressure? 
+
+798
+00:39:51,160 --> 00:39:52,800
+It's something to definitely 
+think about next time you're 
+
+799
+00:39:52,800 --> 00:39:56,280
+scrolling OK? 
+So this piece, Hate Speech, Free
+
+800
+00:39:56,280 --> 00:39:59,880
+Speech and the Ladder of 
+Escalation, looks at how outrage
+
+801
+00:39:59,880 --> 00:40:02,760
+escalates, you know, driven by 
+private power and cancel 
+
+802
+00:40:02,760 --> 00:40:06,960
+culture, turning speech into 
+real institutional harm, and 
+
+803
+00:40:06,960 --> 00:40:11,040
+argues for sticking to procedure
+over moral purges. 
+
+804
+00:40:11,040 --> 00:40:14,200
+It's a really. 
+Potent argument, high stakes 
+
+805
+00:40:14,200 --> 00:40:15,760
+like you said. 
+Definitely. 
+
+806
+00:40:15,960 --> 00:40:18,800
+Let's jump straight into the 
+first critique focusing on 
+
+807
+00:40:18,800 --> 00:40:22,040
+structure and coherence, right? 
+So while the essay really 
+
+808
+00:40:22,040 --> 00:40:26,200
+effectively details the author's
+personal theological evolution 
+
+809
+00:40:26,200 --> 00:40:29,840
+and how that influences their 
+political view, the structural 
+
+810
+00:40:29,840 --> 00:40:33,040
+connection between those two 
+things, it could be stronger, 
+
+811
+00:40:33,120 --> 00:40:34,880
+much more explicit I. 
+Completely. 
+
+812
+00:40:34,880 --> 00:40:38,480
+Agree. 
+You've got these two narrative 
+
+813
+00:40:38,480 --> 00:40:41,440
+streams running side by side, 
+and they're both incredibly 
+
+814
+00:40:41,440 --> 00:40:43,360
+powerful on their own. 
+Exactly. 
+
+815
+00:40:43,480 --> 00:40:46,000
+On one side, it's deeply 
+personal, isn't it? 
+
+816
+00:40:46,560 --> 00:40:49,880
+Listening to gospel readings on 
+hollow Jeff Cavan's reflections,
+
+817
+00:40:49,880 --> 00:40:52,760
+Christ saying go and sin no 
+more. 
+
+818
+00:40:52,920 --> 00:40:57,720
+Very internal. 
+Very reflective and then bam, 
+
+819
+00:40:58,360 --> 00:41:01,040
+you pivot hard right? 
+Straight into massive 
+
+820
+00:41:01,040 --> 00:41:05,120
+geopolitical stuff. 
+Sarajevo 1914 First Amendment 
+
+821
+00:41:05,120 --> 00:41:08,520
+law marks Mao. 
+It's quite the shift and. 
+
+822
+00:41:08,520 --> 00:41:12,240
+That's the weakness, really. 
+The transition between that 
+
+823
+00:41:13,160 --> 00:41:16,520
+internal moral grammar, that 
+deep conviction, and the 
+
+824
+00:41:16,520 --> 00:41:21,440
+external structural analysis 
+feels, well, feels implied. 
+
+825
+00:41:21,560 --> 00:41:23,280
+Yeah, it's not really spelled 
+out. 
+
+826
+00:41:23,480 --> 00:41:26,240
+And the risk there is a reader 
+might just think the theological
+
+827
+00:41:26,240 --> 00:41:29,080
+part is, you know, nice 
+background color, right? 
+
+828
+00:41:29,240 --> 00:41:32,080
+Rather than the actual engine 
+driving the whole argument for 
+
+829
+00:41:32,080 --> 00:41:33,920
+procedure. 
+Yeah, exactly. 
+
+830
+00:41:34,120 --> 00:41:36,320
+It could seem ornamental if 
+we're not careful. 
+
+831
+00:41:36,440 --> 00:41:40,680
+So the suggestion is to make 
+that connection really explicit.
+
+832
+00:41:40,960 --> 00:41:43,840
+Use that term. 
+The author already uses, moral 
+
+833
+00:41:43,840 --> 00:41:48,000
+grammar and make it the bridge. 
+Show how the personal faith 
+
+834
+00:41:48,000 --> 00:41:51,360
+demands this kind of political 
+patience and strategy. 
+
+835
+00:41:51,600 --> 00:41:52,920
+OK. 
+So how does that look in 
+
+836
+00:41:52,920 --> 00:41:54,840
+practice? 
+Like concrete examples. 
+
+837
+00:41:55,120 --> 00:41:58,600
+Well, you could directly connect
+the idea of leaving sin behind, 
+
+838
+00:41:58,840 --> 00:42:01,520
+you know, from John 811 to the 
+political argument. 
+
+839
+00:42:02,040 --> 00:42:05,640
+Why do we need institutions that
+allow for, say, repentance or 
+
+840
+00:42:05,640 --> 00:42:08,000
+reform, or at least legal 
+consequence? 
+
+841
+00:42:09,040 --> 00:42:12,280
+I see and then contrast that 
+directly with canceling. 
+
+842
+00:42:12,400 --> 00:42:16,640
+Precisely you set up the 
+contrast Divine Mercy allows for
+
+843
+00:42:16,640 --> 00:42:22,160
+change go and sin no more versus
+this modern sort of irreversible
+
+844
+00:42:22,160 --> 00:42:25,640
+governance technique of the 
+online pylon, which offers 0 
+
+845
+00:42:25,640 --> 00:42:27,560
+path back that's. 
+Strong. 
+
+846
+00:42:28,000 --> 00:42:29,920
+Yeah. 
+And you could even frame that 
+
+847
+00:42:29,920 --> 00:42:33,240
+whole art of keeping impulses 
+from turning into axes. 
+
+848
+00:42:33,240 --> 00:42:35,520
+Feng it's. 
+Like a secular version of the 
+
+849
+00:42:35,520 --> 00:42:37,680
+discipline, learn through 
+liturgy. 
+
+850
+00:42:37,680 --> 00:42:41,680
+Exactly the steadying influence 
+of ritual and forms the 
+
+851
+00:42:41,680 --> 00:42:43,440
+steadying influence of 
+procedure. 
+
+852
+00:42:43,720 --> 00:42:46,000
+It connects the internal 
+discipline to the external 
+
+853
+00:42:46,000 --> 00:42:47,120
+structure. 
+OK. 
+
+854
+00:42:47,120 --> 00:42:50,360
+So when the author talks about 
+needing to be strategic rather 
+
+855
+00:42:50,360 --> 00:42:52,400
+than just, you know, reacting, 
+you tie. 
+
+856
+00:42:52,400 --> 00:42:55,320
+That strategy directly back to 
+the moral clarity that comes 
+
+857
+00:42:55,320 --> 00:42:57,200
+from the faith so. 
+You might say something like, 
+
+858
+00:42:57,200 --> 00:42:59,720
+look, this commitment to 
+strategy isn't about being 
+
+859
+00:42:59,720 --> 00:43:01,960
+heartless. 
+It stems directly from this 
+
+860
+00:43:01,960 --> 00:43:05,840
+rigorous moral grammar. 
+Understanding how hard it is to 
+
+861
+00:43:05,840 --> 00:43:09,800
+sin no more makes me reject 
+systems with no room for any 
+
+862
+00:43:09,800 --> 00:43:11,120
+kind of fix. 
+Right. 
+
+863
+00:43:11,440 --> 00:43:14,040
+That grounds the political 
+choice and personal principle. 
+
+864
+00:43:14,360 --> 00:43:17,720
+Makes the whole thing feel much 
+more integrated. 
+
+865
+00:43:17,960 --> 00:43:20,160
+SOLID, OK. 
+That feels like a really 
+
+866
+00:43:20,160 --> 00:43:22,680
+productive Ave. 
+So if we've tightened up the 
+
+867
+00:43:22,680 --> 00:43:26,240
+internal logic, let's look at 
+how the essay engages the reader
+
+868
+00:43:26,240 --> 00:43:28,640
+right from the start. 
+The opening antidote. 
+
+869
+00:43:29,320 --> 00:43:33,000
+Yes, the student clip so. 
+The essay is really powerful, 
+
+870
+00:43:33,000 --> 00:43:36,640
+opening that feverish occasion 
+of a killing, the viral clip of 
+
+871
+00:43:36,640 --> 00:43:38,960
+the student talking about 
+political assassinations. 
+
+872
+00:43:39,200 --> 00:43:42,280
+It needs to be woven throughout 
+the argument, not just dropped 
+
+873
+00:43:42,280 --> 00:43:44,480
+at the beginning. 
+It needs to ground the whole 
+
+874
+00:43:44,480 --> 00:43:48,080
+ladder of escalation idea. 
+Totally agree that opening is 
+
+875
+00:43:48,080 --> 00:43:50,120
+explosive. 
+It gives the reason for the 
+
+876
+00:43:50,160 --> 00:43:50,920
+essay. 
+Right? 
+
+877
+00:43:51,400 --> 00:43:55,760
+The clip sparks the Hunt boxing 
+institutional panic firings. 
+
+878
+00:43:56,000 --> 00:43:58,440
+It's the modern ladder happening
+right there on the screen. 
+
+879
+00:43:58,520 --> 00:44:00,720
+But. 
+Then it kind of vanishes. 
+
+880
+00:44:00,880 --> 00:44:04,560
+Yeah, the essay moves pretty 
+quickly to historical parallels 
+
+881
+00:44:04,680 --> 00:44:08,320
+like Sarajevo, which are 
+important, obviously, but. 
+
+882
+00:44:08,720 --> 00:44:12,280
+But you lose that immediate, 
+visceral connection to now the 
+
+883
+00:44:12,280 --> 00:44:15,520
+reader knows Sarajevo was bad, 
+but they're living through the 
+
+884
+00:44:15,520 --> 00:44:17,640
+kind of thing that happened to 
+that student. 
+
+885
+00:44:17,960 --> 00:44:19,640
+It feels like a missed 
+opportunity. 
+
+886
+00:44:19,960 --> 00:44:23,080
+Right, it lets the argument get 
+a bit abstract, maybe too 
+
+887
+00:44:23,080 --> 00:44:25,400
+quickly. 
+So the suggestion here is 
+
+888
+00:44:25,400 --> 00:44:28,080
+structural. 
+Treat that student clip like a 
+
+889
+00:44:28,080 --> 00:44:31,080
+recurring case study, a modern 
+example. 
+
+890
+00:44:31,480 --> 00:44:34,040
+Use it to map out the rungs of 
+the ladder as the essay 
+
+891
+00:44:34,040 --> 00:44:35,560
+progresses. 
+Exactly. 
+
+892
+00:44:35,800 --> 00:44:38,800
+Show the sequence. 
+The ugly speech becomes the 
+
+893
+00:44:38,800 --> 00:44:41,480
+pylon. 
+The pylon leads to the firing, 
+
+894
+00:44:41,600 --> 00:44:44,920
+the professional ruin. 
+Illustrate the private power 
+
+895
+00:44:44,920 --> 00:44:48,080
+mechanism step by step using 
+that incident. 
+
+896
+00:44:48,320 --> 00:44:51,400
+OK, I like that it keeps the 
+abstract theory grounded in 
+
+897
+00:44:51,400 --> 00:44:54,880
+something concrete and current. 
+So for instance, when the essay 
+
+898
+00:44:54,880 --> 00:44:58,120
+gets into the legal stuff, First
+Amendment, the Brandenburg 
+
+899
+00:44:58,120 --> 00:45:00,920
+Doctrine on incitement, that's. 
+A perfect spot to bring the 
+
+900
+00:45:00,920 --> 00:45:04,160
+student back in, yeah. 
+You contrast the legal 
+
+901
+00:45:04,160 --> 00:45:07,160
+protections for speech with what
+actually happened. 
+
+902
+00:45:07,160 --> 00:45:09,600
+Like look, the 1st Amendment 
+protects speech up to a point 
+
+903
+00:45:09,720 --> 00:45:13,320
+legally, but private power isn't
+bound by that in the. 
+
+904
+00:45:13,320 --> 00:45:16,720
+Student's case, the courts 
+weren't involved, but platforms,
+
+905
+00:45:16,720 --> 00:45:21,840
+employers, angry online groups, 
+they acted and that's the gap, 
+
+906
+00:45:22,200 --> 00:45:26,120
+the danger zone we need to look 
+at where algorithms and doxing 
+
+907
+00:45:26,320 --> 00:45:28,640
+effectively become the 
+enforcers. 
+
+908
+00:45:29,160 --> 00:45:30,680
+Something like that. 
+Exactly. 
+
+909
+00:45:30,680 --> 00:45:33,560
+Like that, and maybe bring it up
+again later too, when the SSA 
+
+910
+00:45:33,560 --> 00:45:36,680
+discusses that frontier logic. 
+You know where law ends. 
+
+911
+00:45:36,840 --> 00:45:38,640
+The Wild West begins. 
+Use. 
+
+912
+00:45:38,640 --> 00:45:41,480
+The doxing and firing to show 
+the modern version of that 
+
+913
+00:45:41,600 --> 00:45:43,200
+right? 
+The author says we're not beyond
+
+914
+00:45:43,200 --> 00:45:46,200
+that Frontier logic in 2025 make
+it hit home so. 
+
+915
+00:45:46,200 --> 00:45:48,760
+Frame it like we haven't escaped
+the frontier. 
+
+916
+00:45:49,120 --> 00:45:52,480
+The tools look different now. 
+It's doxing algorithms, 
+
+917
+00:45:52,480 --> 00:45:55,840
+professional destruction instead
+of, you know, actual guns. 
+
+918
+00:45:56,160 --> 00:45:59,320
+But the principles the same. 
+That student faced the frontiers
+
+919
+00:45:59,320 --> 00:46:02,360
+justice swift and ruinous, not a
+court of law. 
+
+920
+00:46:02,560 --> 00:46:04,960
+Yeah. 
+Using that one modern story 
+
+921
+00:46:04,960 --> 00:46:07,760
+consistently anchors the big 
+historical points. 
+
+922
+00:46:08,160 --> 00:46:12,480
+Sarajevo, Versailles in 
+something undeniably real today 
+
+923
+00:46:12,840 --> 00:46:16,960
+shows the latter in action. 
+Ugly speech, then the hunt, then
+
+924
+00:46:16,960 --> 00:46:19,680
+the cancellation makes. 
+The whole thing flow better and 
+
+925
+00:46:19,680 --> 00:46:23,280
+keeps the reader really engaged.
+OK, that's two big structural 
+
+926
+00:46:23,280 --> 00:46:25,800
+points. 
+Let's talk tone, specifically 
+
+927
+00:46:25,800 --> 00:46:29,360
+around mercy and sentimentalism.
+This feels crucial for keeping 
+
+928
+00:46:29,360 --> 00:46:31,200
+the reader on board. 
+Absolutely. 
+
+929
+00:46:31,600 --> 00:46:34,440
+It's a tricky area, so. 
+The essay's dismissal of 
+
+930
+00:46:34,440 --> 00:46:37,880
+sentimentalism its core to the 
+argument, yes, but the way it's 
+
+931
+00:46:37,880 --> 00:46:40,880
+presented could risk alienating 
+readers before they really get 
+
+932
+00:46:40,880 --> 00:46:43,800
+the difference between being 
+heartless and being strategic. 
+
+933
+00:46:44,160 --> 00:46:47,440
+Yeah, this is that rhetorical 
+tightrope walk. 
+
+934
+00:46:47,680 --> 00:46:50,480
+The author knows it. 
+Even amidst the conclusions 
+
+935
+00:46:50,480 --> 00:46:54,840
+might sound monstrous, phrases 
+like being paradoxically stern 
+
+936
+00:46:54,840 --> 00:46:59,720
+about mercy or observing 
+sentimentalism is not policy, or
+
+937
+00:46:59,720 --> 00:47:02,480
+dismissing the plea Don't shoot 
+I have children. 
+
+938
+00:47:02,720 --> 00:47:04,200
+They're deliberately 
+provocative. 
+
+939
+00:47:04,920 --> 00:47:08,200
+And that shock value, if it's 
+not framed carefully right away,
+
+940
+00:47:08,440 --> 00:47:09,920
+could make readers just tune 
+out. 
+
+941
+00:47:10,160 --> 00:47:12,840
+They might just label the author
+cold or callous. 
+
+942
+00:47:12,960 --> 00:47:14,880
+And. 
+Completely miss the larger 
+
+943
+00:47:14,880 --> 00:47:18,480
+strategic point about long term 
+stability, which is, you know, 
+
+944
+00:47:18,480 --> 00:47:20,880
+the whole purpose of the piece. 
+Exactly. 
+
+945
+00:47:21,200 --> 00:47:24,360
+We need to make sure the reader 
+understands the tactical reason 
+
+946
+00:47:24,480 --> 00:47:27,600
+for the sternness before they 
+hit the really stark examples. 
+
+947
+00:47:27,760 --> 00:47:31,000
+So the suggestion is really 
+about sequencing and framing 
+
+948
+00:47:31,400 --> 00:47:34,000
+front load. 
+The explanation introduce the 
+
+949
+00:47:34,000 --> 00:47:37,080
+idea that strategy needs a 
+longer view than immediate 
+
+950
+00:47:37,080 --> 00:47:40,000
+emotion before you get to the 
+examples that challenge sense of
+
+951
+00:47:40,000 --> 00:47:41,240
+mentality. 
+OK. 
+
+952
+00:47:41,600 --> 00:47:44,960
+And maybe reframe the critique 
+itself slightly, not as a 
+
+953
+00:47:44,960 --> 00:47:47,240
+dismissal of the person making 
+the plea, but it's an 
+
+954
+00:47:47,240 --> 00:47:50,840
+observation about the police 
+limits as a tool for system wide
+
+955
+00:47:50,840 --> 00:47:53,120
+safety, right? 
+It's not saying the feeling is 
+
+956
+00:47:53,120 --> 00:47:55,880
+wrong, it's saying the feeling 
+alone isn't a political 
+
+957
+00:47:55,880 --> 00:47:56,840
+structure. 
+So. 
+
+958
+00:47:56,840 --> 00:47:59,440
+Practically speaking, it might 
+just be about moving a key 
+
+959
+00:47:59,440 --> 00:48:01,520
+sentence. 
+The draft already has that 
+
+960
+00:48:01,520 --> 00:48:03,800
+perfect clarification. 
+But there is a difference 
+
+961
+00:48:03,800 --> 00:48:06,400
+between being heartless and 
+being strategic. 
+
+962
+00:48:06,600 --> 00:48:09,880
+Strategy requires a horizon 
+longer than immediate feeling 
+
+963
+00:48:09,880 --> 00:48:10,760
+that line. 
+Needs to come. 
+
+964
+00:48:10,760 --> 00:48:13,040
+Earlier, right before the tough 
+examples. 
+
+965
+00:48:13,240 --> 00:48:16,200
+Position it so it acts as the 
+setup, the justification for the
+
+966
+00:48:16,200 --> 00:48:19,360
+stern approach that follows, so 
+the reader gets the why first 
+
+967
+00:48:19,360 --> 00:48:21,120
+makes. 
+Sense it primes the reader to 
+
+968
+00:48:21,120 --> 00:48:24,840
+understand the author's intent. 
+They hear strategic firmness, 
+
+969
+00:48:24,840 --> 00:48:28,240
+not just harshness it. 
+May be soften the language 
+
+970
+00:48:28,240 --> 00:48:31,280
+around the observation itself 
+without losing the core point. 
+
+971
+00:48:31,280 --> 00:48:34,240
+Of course, instead of, I 
+nearingly observe that 
+
+972
+00:48:34,240 --> 00:48:38,680
+sentimentalism is not policy, 
+which can sound a bit dismissive
+
+973
+00:48:38,880 --> 00:48:40,920
+shift. 
+The focus to the limitation, 
+
+974
+00:48:41,200 --> 00:48:44,000
+yeah. 
+Maybe something like while that 
+
+975
+00:48:44,000 --> 00:48:47,840
+plea don't shoot, I have 
+children is incredibly powerful 
+
+976
+00:48:47,840 --> 00:48:51,560
+rhetorically, it's inadequacy as
+a structural defense for 
+
+977
+00:48:51,560 --> 00:48:55,360
+everyone means we have to look 
+beyond it for sustainable policy
+
+978
+00:48:55,480 --> 00:48:56,640
+that. 
+Lands differently. 
+
+979
+00:48:56,720 --> 00:48:59,920
+It's still firm on the policy 
+point, but it acknowledges the 
+
+980
+00:48:59,920 --> 00:49:02,840
+human element while focusing on 
+the systemic need. 
+
+981
+00:49:03,080 --> 00:49:06,440
+It feels less like a rejection 
+of empathy and more like a call 
+
+982
+00:49:06,440 --> 00:49:10,320
+for broader solutions, right? 
+The goal is to let the author 
+
+983
+00:49:10,320 --> 00:49:14,240
+score message drive the tone. 
+Strategy is needed to prevent 
+
+984
+00:49:14,240 --> 00:49:16,840
+long term bloodshed. 
+Rather than letting the reader 
+
+985
+00:49:16,840 --> 00:49:19,720
+get hung up on the potentially 
+harsh sounding language out of 
+
+986
+00:49:19,720 --> 00:49:22,920
+context, keep them aligned with 
+the strategic purpose. 
+
+987
+00:49:23,120 --> 00:49:24,360
+Exactly. 
+It's. 
+
+988
+00:49:24,360 --> 00:49:27,000
+About ensuring the argument 
+lands with its full intended 
+
+989
+00:49:27,000 --> 00:49:30,360
+force, hitting that balance 
+between unflinching and 
+
+990
+00:49:30,440 --> 00:49:35,160
+analysis, and keeping the reader
+engaged enough to hear it. 
+
+991
+00:49:35,880 --> 00:49:37,120
+Excellent. 
+OK. 
+
+992
+00:49:37,280 --> 00:49:39,480
+I think that covers the main 
+points for improvement, 
+
+993
+00:49:39,680 --> 00:49:42,240
+coherence, engagement and tone 
+feels. 
+
+994
+00:49:42,240 --> 00:49:45,240
+Comprehensive SO. 
+Just to quickly recap the three 
+
+995
+00:49:45,240 --> 00:49:49,320
+main actionable suggestions for 
+the listener first really weave 
+
+996
+00:49:49,320 --> 00:49:52,680
+that personal theological 
+journey, the moral grammar, into
+
+997
+00:49:52,680 --> 00:49:55,600
+the political argument. 
+Explicitly make it the clear 
+
+998
+00:49:55,600 --> 00:49:57,440
+foundation for the strategic 
+stance. 
+
+999
+00:49:58,080 --> 00:50:01,360
+Show don't just imply the 
+connection second. 
+
+1000
+00:50:01,760 --> 00:50:04,360
+Take that powerful opening 
+anecdote about the student and 
+
+1001
+00:50:04,360 --> 00:50:07,680
+the viral clip and use it as a 
+recurring case study throughout.
+
+1002
+00:50:07,880 --> 00:50:10,920
+Map it onto the ladder of 
+escalation to make the abstract 
+
+1003
+00:50:10,920 --> 00:50:13,080
+concrete and keep it grounded in
+the present. 
+
+1004
+00:50:13,080 --> 00:50:15,120
+Bring it back. 
+Yeah, don't let it just be an 
+
+1005
+00:50:15,120 --> 00:50:18,800
+opening hook and. 3rd carefully 
+calibrate the rhetoric around 
+
+1006
+00:50:18,800 --> 00:50:22,040
+mercy and sentimentalism. 
+Make sure you establish that 
+
+1007
+00:50:22,040 --> 00:50:25,280
+crucial difference between being
+strategic and being heartless 
+
+1008
+00:50:25,360 --> 00:50:28,080
+early on to keep the audience 
+with you frame. 
+
+1009
+00:50:28,080 --> 00:50:31,440
+The sternness strategically 
+right from the outset. 
+
+1010
+00:50:31,680 --> 00:50:34,120
+Exactly. 
+This really is a strong piece of
+
+1011
+00:50:34,120 --> 00:50:37,480
+thinking though, that central 
+connection, Sarajevo in 
+
+1012
+00:50:37,480 --> 00:50:40,600
+Versailles to today's online 
+escalation dynamics. 
+
+1013
+00:50:40,920 --> 00:50:43,240
+That's a genuinely insightful 
+core idea. 
+
+1014
+00:50:43,480 --> 00:50:45,560
+It identifies a really important
+pattern. 
+
+1015
+00:50:45,840 --> 00:50:48,200
+Absolutely. 
+The historical depth is there, 
+
+1016
+00:50:48,400 --> 00:50:50,280
+so these. 
+Suggestions are mostly about, 
+
+1017
+00:50:50,560 --> 00:50:53,160
+you know, refining the 
+architecture around that core 
+
+1018
+00:50:53,160 --> 00:50:56,000
+insight, making sure the 
+structure is as solid and 
+
+1019
+00:50:56,000 --> 00:50:58,160
+compelling as the idea itself. 
+Well. 
+
+1020
+00:50:58,160 --> 00:51:00,880
+Put we. 
+Definitely encourage you to work
+
+1021
+00:51:00,880 --> 00:51:03,120
+with these suggestions, it's 
+powerful stuff. 
+
+1022
+00:51:03,560 --> 00:51:06,400
+And please feel free to send the
+revised version back for another
+
+1023
+00:51:06,400 --> 00:51:08,840
+look when you're ready, we'd be 
+very interested to see it. 
+
+1024
+00:51:09,240 --> 00:51:10,360
+Welcome. 
+To the deep dive. 
+
+1025
+00:51:10,720 --> 00:51:14,120
+Today we're opening the source 
+material on, well, a really 
+
+1026
+00:51:14,120 --> 00:51:17,640
+volatile area of model life. 
+We're talking about that fraught
+
+1027
+00:51:17,640 --> 00:51:21,200
+relationship between free 
+expression, offensive speech, 
+
+1028
+00:51:21,480 --> 00:51:24,560
+and how things seem to escalate 
+politically. 
+
+1029
+00:51:24,560 --> 00:51:27,200
+If you've been watching the news
+or just scrolling online and 
+
+1030
+00:51:27,200 --> 00:51:29,640
+felt like every disagreement 
+just blows up into this 
+
+1031
+00:51:29,640 --> 00:51:33,560
+existential threat, well, we're 
+here to explore why that feeling
+
+1032
+00:51:33,560 --> 00:51:35,520
+might actually be structurally 
+justified. 
+
+1033
+00:51:35,880 --> 00:51:39,440
+Yeah, exactly our mission today 
+really is to follow the argument
+
+1034
+00:51:39,440 --> 00:51:42,280
+this essay we looked at it's 
+about understanding why 
+
+1035
+00:51:42,600 --> 00:51:46,080
+treating, you know, words as 
+violence, why turning speech 
+
+1036
+00:51:46,080 --> 00:51:48,720
+into something that demands 
+immediate action crease this 
+
+1037
+00:51:48,720 --> 00:51:52,160
+really dangerous feedback loop. 
+We need to see why history warns
+
+1038
+00:51:52,160 --> 00:51:56,760
+US against prioritizing that 
+quick, satisfying moral purge 
+
+1039
+00:51:56,760 --> 00:51:59,520
+over patient may be slower 
+procedure and what's really. 
+
+1040
+00:51:59,520 --> 00:52:01,640
+Interesting about the writer. 
+Here is his own start turning 
+
+1041
+00:52:01,640 --> 00:52:03,240
+point. 
+It's not like a standard 
+
+1042
+00:52:03,240 --> 00:52:05,000
+political take. 
+He mentions this personal 
+
+1043
+00:52:05,000 --> 00:52:06,880
+paradox. 
+He used to be a contrarian, like
+
+1044
+00:52:06,880 --> 00:52:09,240
+stirring the pot, you know? 
+And then he finds himself 
+
+1045
+00:52:09,240 --> 00:52:11,760
+arguing for structurally 
+defending even really ugly 
+
+1046
+00:52:11,760 --> 00:52:14,840
+speech from being shut down by 
+private power, right? 
+
+1047
+00:52:14,840 --> 00:52:18,680
+And what prompted that shift 
+wasn't politics, apparently, but
+
+1048
+00:52:18,680 --> 00:52:22,720
+a change in his moral grammar, 
+deeper reflection. 
+
+1049
+00:52:22,960 --> 00:52:26,240
+He talks about being influenced 
+by daily liturgical readings, 
+
+1050
+00:52:26,240 --> 00:52:27,720
+the church calendars, 
+discipline. 
+
+1051
+00:52:28,280 --> 00:52:29,720
+It wasn't about switching 
+political teams. 
+
+1052
+00:52:29,720 --> 00:52:32,840
+It was structural. 
+It led him to see mercy not just
+
+1053
+00:52:32,840 --> 00:52:36,000
+as a feeling, but as like a 
+necessary component for any 
+
+1054
+00:52:36,000 --> 00:52:38,040
+system that's meant to last. 
+That's. 
+
+1055
+00:52:38,040 --> 00:52:40,960
+A powerful idea. 
+Mercy as a structural defense, 
+
+1056
+00:52:41,400 --> 00:52:44,240
+it suggests moving away from 
+just reacting in the moment 
+
+1057
+00:52:44,360 --> 00:52:46,280
+towards a policy built for the 
+long haul. 
+
+1058
+00:52:46,280 --> 00:52:48,440
+Exactly. 
+That quick purge feels good 
+
+1059
+00:52:48,440 --> 00:52:52,560
+right now, but a policy of let's
+call it procedural mercy plans 
+
+1060
+00:52:52,560 --> 00:52:55,880
+for how you eventually bring 
+dissenters or offenders back 
+
+1061
+00:52:55,880 --> 00:52:58,200
+into the fold somehow. 
+It's kind of the old story about
+
+1062
+00:52:58,200 --> 00:53:00,600
+procedure, isn't it? 
+It offers a structural way to 
+
+1063
+00:53:00,600 --> 00:53:03,600
+handle conflict, and sheer 
+outrage just can't, OK. 
+
+1064
+00:53:03,600 --> 00:53:06,240
+So let's unpack the specific 
+thing that sparked this essay. 
+
+1065
+00:53:06,240 --> 00:53:08,400
+The trigger was small but 
+intense. 
+
+1066
+00:53:08,840 --> 00:53:11,520
+It happened after a high profile
+killing, which obviously caused 
+
+1067
+00:53:11,520 --> 00:53:14,000
+huge waves online. 
+And then this clip went viral. 
+
+1068
+00:53:14,000 --> 00:53:17,440
+A student saying we should bring
+back political assassinations. 
+
+1069
+00:53:17,640 --> 00:53:19,880
+Yeah. 
+That one moment really lit the 
+
+1070
+00:53:19,880 --> 00:53:22,720
+fuse for the kind of modern 
+reaction we see so often. 
+
+1071
+00:53:22,840 --> 00:53:26,040
+The response was immediate, 
+overwhelming the hunt online, 
+
+1072
+00:53:26,040 --> 00:53:29,080
+the doxing institutions 
+panicking, people getting fired,
+
+1073
+00:53:29,080 --> 00:53:31,760
+public shaming. 
+And the author's key point here 
+
+1074
+00:53:31,760 --> 00:53:34,880
+is sharp words are instantly 
+becoming events. 
+
+1075
+00:53:35,120 --> 00:53:37,840
+Speech gets treated as a 
+violence demanding immediate 
+
+1076
+00:53:37,840 --> 00:53:40,080
+punishment and we. 
+See this pattern, this like 
+
+1077
+00:53:40,240 --> 00:53:43,200
+ladder of escalation everywhere 
+now it feels like it's speeding 
+
+1078
+00:53:43,200 --> 00:53:45,720
+up to starts with a tweet, maybe
+an angry one. 
+
+1079
+00:53:46,040 --> 00:53:50,000
+That tweet sparks a massive pile
+on the pile on leads pretty 
+
+1080
+00:53:50,000 --> 00:53:52,600
+quickly sometimes to someone 
+losing their job and then that 
+
+1081
+00:53:52,600 --> 00:53:56,000
+leads to reputational damage 
+that can make someone basically 
+
+1082
+00:53:56,000 --> 00:53:58,720
+radioactive. 
+That's this political economy of
+
+1083
+00:53:58,720 --> 00:54:01,880
+outrage he talks about and. 
+The outrage is the capital in 
+
+1084
+00:54:01,880 --> 00:54:03,760
+that economy. 
+It's efficient, gets clicks, 
+
+1085
+00:54:03,760 --> 00:54:05,600
+attention, makes institutions 
+nervous. 
+
+1086
+00:54:05,600 --> 00:54:08,120
+I mean, why go through the hard 
+work of arguing, of trying to 
+
+1087
+00:54:08,120 --> 00:54:11,360
+persuade someone when you could 
+just scream, start a pile on and
+
+1088
+00:54:11,360 --> 00:54:13,880
+get them fired? 
+The immediate payoff for being 
+
+1089
+00:54:13,880 --> 00:54:17,000
+righteously angry is just so 
+much bigger than the reward for,
+
+1090
+00:54:17,160 --> 00:54:18,680
+you know, careful debate. 
+Which? 
+
+1091
+00:54:18,680 --> 00:54:21,480
+Brings us to a really critical 
+distinction in the source 
+
+1092
+00:54:21,480 --> 00:54:23,600
+material as something core to 
+U.S. law. 
+
+1093
+00:54:24,320 --> 00:54:27,920
+Legally, the system tries to 
+draw clear lines around speech. 
+
+1094
+00:54:28,840 --> 00:54:31,240
+The Brandenburg Doctrine, right?
+Part of the 1st Amendment 
+
+1095
+00:54:31,240 --> 00:54:33,720
+framework. 
+It separates protected speech 
+
+1096
+00:54:33,720 --> 00:54:38,440
+from actual incitement, correct.
+The government constitutionally 
+
+1097
+00:54:38,520 --> 00:54:41,680
+can't punish you just for having
+a terrible idea or saying 
+
+1098
+00:54:41,680 --> 00:54:44,240
+something offensive. 
+The standard for unpredicted 
+
+1099
+00:54:44,240 --> 00:54:46,920
+speech, that Brandenburg test, 
+it's incredibly high. 
+
+1100
+00:54:47,200 --> 00:54:50,280
+The speech has to be aimed at 
+causing imminent lawless action 
+
+1101
+00:54:50,600 --> 00:54:53,680
+and it has to be likely to 
+actually 'cause it so a real 
+
+1102
+00:54:53,680 --> 00:54:56,320
+immediate call to illegal 
+action, not just, you know, 
+
+1103
+00:54:56,320 --> 00:54:58,040
+general angry talk. 
+OK. 
+
+1104
+00:54:58,040 --> 00:55:00,920
+But let me push back a bit here.
+If you're running a university, 
+
+1105
+00:55:00,920 --> 00:55:03,880
+say, and a student calls for 
+political assassinations, isn't 
+
+1106
+00:55:03,880 --> 00:55:06,640
+getting rid of them quickly just
+basic institutional self 
+
+1107
+00:55:06,640 --> 00:55:08,960
+preservation? 
+Why should the university have 
+
+1108
+00:55:08,960 --> 00:55:11,520
+to tolerate that, even if the 
+government can't prosecute 
+
+1109
+00:55:11,680 --> 00:55:12,680
+that's. 
+A fair question. 
+
+1110
+00:55:12,680 --> 00:55:14,960
+And it's right to the heart of 
+the power difference. 
+
+1111
+00:55:15,360 --> 00:55:17,120
+The 1st Amendment restricts the 
+government. 
+
+1112
+00:55:17,320 --> 00:55:20,280
+It forces slow, sometimes 
+painful procedure, due process, 
+
+1113
+00:55:20,520 --> 00:55:22,520
+a really high bar for stepping 
+in. 
+
+1114
+00:55:23,000 --> 00:55:25,360
+And that slowness? 
+It's actually a feature, not a 
+
+1115
+00:55:25,360 --> 00:55:27,440
+bug. 
+It's designed to protect 
+
+1116
+00:55:27,440 --> 00:55:28,160
+dissent. 
+But. 
+
+1117
+00:55:28,160 --> 00:55:31,120
+Private power? 
+You mean platforms, employers, 
+
+1118
+00:55:31,120 --> 00:55:32,840
+the angry public? 
+They don't have those same 
+
+1119
+00:55:32,840 --> 00:55:34,040
+constraints. 
+Exactly. 
+
+1120
+00:55:34,240 --> 00:55:36,280
+Private power could be an 
+efficient enforcer. 
+
+1121
+00:55:37,120 --> 00:55:40,200
+If I'm a Latform or an employer,
+I don't need to meet the 
+
+1122
+00:55:40,200 --> 00:55:42,960
+Brandenburg standard or offer 
+full due process. 
+
+1123
+00:55:43,240 --> 00:55:46,280
+I can shut down speech just 
+because it's offensive or 
+
+1124
+00:55:46,280 --> 00:55:48,720
+embarrassing or bad for the 
+brand image. 
+
+1125
+00:55:49,320 --> 00:55:52,000
+That lack of a procedural 
+barrier is what allows modern 
+
+1126
+00:55:52,000 --> 00:55:54,520
+cancellations to happen so fast 
+and be so severe. 
+
+1127
+00:55:54,600 --> 00:55:57,600
+The government's hands are tied.
+The mob working through private 
+
+1128
+00:55:57,600 --> 00:55:59,200
+institutions isn't. 
+And when? 
+
+1129
+00:55:59,200 --> 00:56:02,280
+You take away those procedural 
+guardrails when the system gets 
+
+1130
+00:56:02,280 --> 00:56:05,200
+brittle and runs on immediate 
+emotional reaction, that's when 
+
+1131
+00:56:05,200 --> 00:56:08,520
+things can really spiral. 
+Which leads us to history for a 
+
+1132
+00:56:08,520 --> 00:56:11,200
+pretty stark illustration of how
+that quick emotional response 
+
+1133
+00:56:11,200 --> 00:56:13,400
+can cascade into catastrophe. 
+Yeah, we're. 
+
+1134
+00:56:13,400 --> 00:56:15,360
+Talking about that classic 
+historical Hinge point. 
+
+1135
+00:56:15,440 --> 00:56:20,040
+Sarajevo, June 28th, 1914. 
+Guerrillo Princip assassinates 
+
+1136
+00:56:20,040 --> 00:56:24,280
+Archduke Franz Ferdinand A local
+radical act of violence seems 
+
+1137
+00:56:24,280 --> 00:56:26,400
+containable, right? 
+But the wider system was 
+
+1138
+00:56:26,400 --> 00:56:29,560
+fragile, riddled with fear, 
+complex alliances and demands 
+
+1139
+00:56:29,560 --> 00:56:32,600
+for immediate punishment. 
+That one shot triggered a chain 
+
+1140
+00:56:32,600 --> 00:56:36,440
+reaction, mobilizations, and 
+ultimately a World War that 
+
+1141
+00:56:36,440 --> 00:56:37,960
+killed millions. 
+It's the. 
+
+1142
+00:56:38,000 --> 00:56:41,480
+Ultimate cascade failure. 
+But the source material argues 
+
+1143
+00:56:41,480 --> 00:56:43,440
+the lesson isn't just the 
+assassination itself. 
+
+1144
+00:56:43,440 --> 00:56:46,920
+It's what came after the Treaty 
+of Versailles in 1919. 
+
+1145
+00:56:46,920 --> 00:56:50,400
+It was punitive, brittle, 
+humiliating, designed for 
+
+1146
+00:56:50,400 --> 00:56:53,280
+revenge, not really for 
+reconciliation or stability. 
+
+1147
+00:56:53,520 --> 00:56:54,840
+And the. 
+Psychological parallel is 
+
+1148
+00:56:54,840 --> 00:56:57,160
+fascinating. 
+Just like today's online mob 
+
+1149
+00:56:57,160 --> 00:56:59,200
+might seek a quick moral 
+cleansing by destroying 
+
+1150
+00:56:59,200 --> 00:57:02,160
+someone's reputation, the 
+victorious powers in 1919 wanted
+
+1151
+00:57:02,160 --> 00:57:04,920
+a kind of total moral purge of 
+the losers. 
+
+1152
+00:57:05,200 --> 00:57:07,880
+And that desire for immediate 
+punitive justice meant 
+
+1153
+00:57:07,880 --> 00:57:09,400
+Versailles wasn't really a 
+settlement. 
+
+1154
+00:57:09,680 --> 00:57:12,480
+The author calls it more like a 
+long ceasefire, one that 
+
+1155
+00:57:12,480 --> 00:57:14,840
+allowed, in his words, a 
+monstrous reconstitution of 
+
+1156
+00:57:14,840 --> 00:57:16,800
+violence. 
+Is that basically set the stage 
+
+1157
+00:57:16,800 --> 00:57:18,240
+for World War 2? 
+Wow. 
+
+1158
+00:57:18,840 --> 00:57:22,360
+The pattern is terrifyingly 
+clear then, both internationally
+
+1159
+00:57:22,360 --> 00:57:25,160
+and, you know, civically. 
+Small acts of political 
+
+1160
+00:57:25,160 --> 00:57:28,840
+violence, or maybe today's 
+extreme verbal provocations, 
+
+1161
+00:57:29,120 --> 00:57:33,280
+they can lead to huge breakdowns
+if the system is fragile, or if 
+
+1162
+00:57:33,280 --> 00:57:36,000
+fear and revenge become the main
+driving forces, which is. 
+
+1163
+00:57:36,000 --> 00:57:38,600
+Exactly why the author makes 
+this strong moral case for 
+
+1164
+00:57:38,600 --> 00:57:40,560
+defending what he calls the ugly
+square. 
+
+1165
+00:57:41,320 --> 00:57:45,200
+His argument for tolerating even
+really Uggle speech isn't about 
+
+1166
+00:57:45,200 --> 00:57:48,120
+liking the speech itself, it's 
+about recognizing that 
+
+1167
+00:57:48,120 --> 00:57:52,000
+civilization is procedure. 
+Civilization as the art of 
+
+1168
+00:57:52,000 --> 00:57:54,800
+keeping impulses from 
+transmogrifying into axes. 
+
+1169
+00:57:54,920 --> 00:57:56,000
+I like that phrase. 
+That's a good. 
+
+1170
+00:57:56,000 --> 00:57:57,800
+One, Yeah, Yeah. 
+The difference between a town 
+
+1171
+00:57:57,800 --> 00:58:00,200
+that functions and say, the Wild
+West is simple. 
+
+1172
+00:58:00,200 --> 00:58:02,480
+Do you shoot or do you argue the
+argument? 
+
+1173
+00:58:02,480 --> 00:58:04,640
+Messy, imperfect, often 
+defensive. 
+
+1174
+00:58:04,640 --> 00:58:07,320
+That's the currency of law and 
+procedure, the quick, satisfying
+
+1175
+00:58:07,320 --> 00:58:09,720
+purge. 
+That's the currency of violence.
+
+1176
+00:58:09,840 --> 00:58:12,920
+We choose courts and ballots 
+precisely because they slow down
+
+1177
+00:58:12,920 --> 00:58:14,680
+that impulse for immediate 
+revenge. 
+
+1178
+00:58:14,840 --> 00:58:17,240
+But. 
+OK, doesn't that let genuinely 
+
+1179
+00:58:17,240 --> 00:58:20,720
+toxic people, people spreading 
+hate kind of off the hook? 
+
+1180
+00:58:21,200 --> 00:58:25,360
+If someone is constantly pushing
+bigotry, isn't naming shaming 
+
+1181
+00:58:25,360 --> 00:58:28,520
+and removing them just necessary
+public hygiene it? 
+
+1182
+00:58:28,520 --> 00:58:30,000
+Feels necessary? 
+Absolutely. 
+
+1183
+00:58:30,240 --> 00:58:33,600
+But the source argues that this 
+immediate purge is ultimately A 
+
+1184
+00:58:33,600 --> 00:58:36,360
+flawed strategy. 
+Outrage gets weaponized. 
+
+1185
+00:58:36,440 --> 00:58:39,040
+It becomes a cheap way to govern
+or seem like you're governing. 
+
+1186
+00:58:39,240 --> 00:58:41,080
+It doesn't persuade anyone on 
+the other side. 
+
+1187
+00:58:41,080 --> 00:58:42,760
+It doesn't resolve the 
+underlying issues. 
+
+1188
+00:58:42,960 --> 00:58:46,680
+It just cancels jobs, ruins 
+reputations, and, maybe most 
+
+1189
+00:58:46,680 --> 00:58:50,080
+dangerously, it creates martyrs 
+and deep resentment among those 
+
+1190
+00:58:50,080 --> 00:58:53,120
+who feel silenced, not actually 
+argued against and. 
+
+1191
+00:58:53,120 --> 00:58:55,440
+History has shown us how this 
+kind of forced purification 
+
+1192
+00:58:55,440 --> 00:58:58,400
+often plays out, right? 
+Revolutionary rhetoric marks Mao
+
+1193
+00:58:58,640 --> 00:59:00,920
+Che promised transformation 
+through radical breaks, 
+
+1194
+00:59:00,920 --> 00:59:03,520
+purifying violence. 
+Get rid of the bad elements. 
+
+1195
+00:59:03,520 --> 00:59:05,040
+Utopia arrives. 
+But what? 
+
+1196
+00:59:05,040 --> 00:59:07,760
+History actually shows is that 
+repression breathes resentment, 
+
+1197
+00:59:08,160 --> 00:59:11,400
+and that resentment inevitably 
+fuels new, sometimes even worse,
+
+1198
+00:59:11,640 --> 00:59:14,120
+radicalism. 
+That feedback loop seems 
+
+1199
+00:59:14,120 --> 00:59:16,560
+unavoidable. 
+This desire for immediate moral 
+
+1200
+00:59:16,560 --> 00:59:19,120
+payback taps into something 
+really primal, like the old 
+
+1201
+00:59:19,120 --> 00:59:22,720
+dueling code. 
+That frontier logic talks smack.
+
+1202
+00:59:22,720 --> 00:59:25,560
+It shot. 
+It's universal, the source 
+
+1203
+00:59:25,560 --> 00:59:26,720
+notes. 
+We haven't really moved past it.
+
+1204
+00:59:26,720 --> 00:59:27,760
+We just have different weapons 
+down. 
+
+1205
+00:59:27,760 --> 00:59:31,360
+No more pistols at dawn, no. 
+Now we shoot with doxing, with 
+
+1206
+00:59:31,360 --> 00:59:33,320
+algorithms, with professional 
+ruin. 
+
+1207
+00:59:33,800 --> 00:59:37,000
+But the principle is the same. 
+If you treat words as violence, 
+
+1208
+00:59:37,000 --> 00:59:41,160
+you normalize using structural 
+violence as a response, and once
+
+1209
+00:59:41,160 --> 00:59:44,640
+that becomes the main tool, the 
+escalation spiral is incredibly 
+
+1210
+00:59:44,640 --> 00:59:45,960
+hard to stop. 
+Which? 
+
+1211
+00:59:45,960 --> 00:59:49,440
+Brings us towards strategy. 
+If the real goal is long term 
+
+1212
+00:59:49,440 --> 00:59:52,840
+civic health, we need a strategy
+that looks beyond just how we 
+
+1213
+00:59:52,840 --> 00:59:55,080
+feel right now. 
+The author points out that a 
+
+1214
+00:59:55,080 --> 00:59:58,320
+pause, like a ceasefire or the 
+quiet after someone's been 
+
+1215
+00:59:58,320 --> 01:00:00,160
+cancelled isn't necessarily 
+peace. 
+
+1216
+01:00:00,320 --> 01:00:02,160
+Exactly. 
+If that pause comes from 
+
+1217
+01:00:02,160 --> 01:00:05,080
+humiliation and punishment, like
+your side did, it's just an 
+
+1218
+01:00:05,080 --> 01:00:07,240
+opportunity. 
+An opportunity for the defeated 
+
+1219
+01:00:07,240 --> 01:00:11,120
+or the ostracized group to 
+rearm, regroup, plan their back,
+
+1220
+01:00:11,520 --> 01:00:14,400
+maybe with even more resentment.
+If your strategy is total 
+
+1221
+01:00:14,400 --> 01:00:17,520
+annihilation, you better be 
+prepared for the long, often 
+
+1222
+01:00:17,520 --> 01:00:19,360
+bloody consequences. 
+And. 
+
+1223
+01:00:19,360 --> 01:00:22,240
+This connects back to the 
+author's reflections on mercy, 
+
+1224
+01:00:22,240 --> 01:00:25,440
+that structural idea. 
+He contrasts those immediate, 
+
+1225
+01:00:25,440 --> 01:00:28,680
+emotional please don't shoot I 
+have children with actual 
+
+1226
+01:00:28,680 --> 01:00:32,280
+structural policy. 
+Sentiment isn't strategy, right?
+
+1227
+01:00:32,280 --> 01:00:35,760
+Strategy needs that longer 
+horizon beyond the immediate 
+
+1228
+01:00:35,760 --> 01:00:38,240
+catharsis. 
+The author mentions thinking 
+
+1229
+01:00:38,240 --> 01:00:40,880
+about Christ, saying go and sin 
+no more. 
+
+1230
+01:00:41,160 --> 01:00:44,240
+That shaped his view. 
+It argues for a structure that 
+
+1231
+01:00:44,240 --> 01:00:47,600
+sees the wrong, judges it, but 
+gives the person procedural 
+
+1232
+01:00:47,600 --> 01:00:51,200
+space to stop, maybe return. 
+That's mercy as structure, 
+
+1233
+01:00:51,400 --> 01:00:54,520
+prioritizing future stability 
+over that immediate satisfaction
+
+1234
+01:00:54,520 --> 01:00:55,360
+of punishment. 
+So. 
+
+1235
+01:00:55,360 --> 01:00:57,120
+Boiling it down, what's the 
+simple answer? 
+
+1236
+01:00:57,120 --> 01:00:58,400
+What's the call to action here? 
+It's. 
+
+1237
+01:00:58,400 --> 01:01:01,200
+Pretty blunt. 
+Protect the square, tolerate the
+
+1238
+01:01:01,200 --> 01:01:04,800
+ugly arguments in public. 
+Use established procedural legal
+
+1239
+01:01:04,800 --> 01:01:06,920
+means for genuine credible 
+threats. 
+
+1240
+01:01:07,360 --> 01:01:10,560
+Don't rely on the mobs quick 
+purge just for offensive words. 
+
+1241
+01:01:11,080 --> 01:01:14,240
+Practically speaking, that means
+platforms, institutions, 
+
+1242
+01:01:14,240 --> 01:01:16,600
+employers. 
+They need to foster a kind of 
+
+1243
+01:01:16,600 --> 01:01:19,080
+civic grammar that can handle 
+offense without immediately 
+
+1244
+01:01:19,080 --> 01:01:22,520
+turning it into outrage capital.
+They need to resist that urge, 
+
+1245
+01:01:22,520 --> 01:01:25,320
+often profit driven towards 
+performative anger. 
+
+1246
+01:01:25,320 --> 01:01:26,200
+So. 
+Here's the final thought. 
+
+1247
+01:01:26,200 --> 01:01:29,560
+We want to leave you, the 
+listener, with the big lesson 
+
+1248
+01:01:29,560 --> 01:01:32,960
+from Sarajevo and from that 
+punitive piece of Versailles. 
+
+1249
+01:01:33,000 --> 01:01:37,800
+Is this those short term wins 
+you get from moral cleansing, 
+
+1250
+01:01:38,000 --> 01:01:40,120
+from crushing and humiliating 
+your opponents? 
+
+1251
+01:01:40,640 --> 01:01:43,320
+They often plant the seeds for 
+decades of conflict later. 
+
+1252
+01:01:43,840 --> 01:01:46,800
+So if we really care about 
+preventing the next catastrophe,
+
+1253
+01:01:46,800 --> 01:01:50,360
+whether it's another global war 
+or just our society dissolving 
+
+1254
+01:01:50,360 --> 01:01:53,800
+into private vendettas and 
+reputational ruin, we have to 
+
+1255
+01:01:53,800 --> 01:01:56,640
+structurally choose the public 
+square, Ugly speech and all. 
+
+1256
+01:01:56,960 --> 01:01:59,360
+Choose that over lighting the 
+torches of outrage. 
+
+1257
+01:01:59,560 --> 01:02:02,160
+Because once those torches are 
+lit, once the purge starts, 
+
+1258
+01:02:02,280 --> 01:02:04,880
+finding the stairs back down to 
+procedure and de escalation 
+
+1259
+01:02:04,880 --> 01:02:07,600
+becomes almost impossible. 
+Think about that next time you 
+
+1260
+01:02:07,600 --> 01:02:09,880
+see one of those righteous 
+online pylons. 
+
+1261
+01:02:10,000 --> 01:02:12,800
+Are you contributing to a stable
+settlement or just reinforcing a
+
+1262
+01:02:12,800 --> 01:02:15,120
+very long, very brittle 
+ceasefire?
+

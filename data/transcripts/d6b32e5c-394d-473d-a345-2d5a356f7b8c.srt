@@ -1,0 +1,988 @@
+1
+00:00:00,040 --> 00:00:04,520
+OK, so let's unpack this. 
+Imagine spending your entire 
+
+2
+00:00:04,520 --> 00:00:07,640
+working life doing something, 
+only to realize, like decades 
+
+3
+00:00:07,640 --> 00:00:11,360
+later, it's a living, breathing 
+example of a really complex 
+
+4
+00:00:11,360 --> 00:00:13,880
+philosophical idea you once 
+studied in college. 
+
+5
+00:00:14,280 --> 00:00:16,400
+That's pretty much what happened
+to the author of the material 
+
+6
+00:00:16,400 --> 00:00:20,840
+we're diving into today at 55, 
+after this long career in online
+
+7
+00:00:20,840 --> 00:00:25,040
+reputation management ORM. 
+They had this huge aha moment. 
+
+8
+00:00:25,480 --> 00:00:29,320
+It connected their daily grind, 
+you know, directly to Jacques 
+
+9
+00:00:29,320 --> 00:00:34,200
+Derrida's Ini APA de ortex. 
+Which translates roughly to 
+
+10
+00:00:34,400 --> 00:00:35,720
+there's nothing outside the 
+text. 
+
+11
+00:00:36,240 --> 00:00:38,720
+Really powerful idea. 
+And what's so fascinating here, 
+
+12
+00:00:38,720 --> 00:00:42,640
+as the author points out, is how
+text expands way beyond just, 
+
+13
+00:00:42,640 --> 00:00:45,520
+you know, words on paper. 
+They describe it as a sealed 
+
+14
+00:00:45,520 --> 00:00:47,600
+system of signification. 
+So think about it. 
+
+15
+00:00:47,880 --> 00:00:51,120
+It could be a pop idols whole 
+persona meticulously crafted 
+
+16
+00:00:51,120 --> 00:00:51,840
+like a. 
+Brand. 
+
+17
+00:00:52,080 --> 00:00:54,360
+Exactly. 
+Or an SEO campaign, a news 
+
+18
+00:00:54,360 --> 00:00:58,520
+story, even even architecture. 
+It's all about how meaning gets 
+
+19
+00:00:58,520 --> 00:01:01,600
+created and basically exists 
+entirely within that specific 
+
+20
+00:01:01,600 --> 00:01:04,800
+sort of self-contained system. 
+And that's our mission for this 
+
+21
+00:01:04,800 --> 00:01:07,440
+deep dive, right? 
+To figure out how this, well, 
+
+22
+00:01:07,440 --> 00:01:10,400
+kind of abstract concept, there 
+is nothing outside the text, 
+
+23
+00:01:10,760 --> 00:01:14,840
+actually shows up in our very 
+real, sometimes pretty bizarre 
+
+24
+00:01:14,880 --> 00:01:18,320
+digital lives. 
+We're going to explore it using 
+
+25
+00:01:18,320 --> 00:01:22,080
+this really unlikely pop culture
+example and then think about 
+
+26
+00:01:22,080 --> 00:01:24,840
+what it means for how we see 
+reality and how we manage our 
+
+27
+00:01:24,840 --> 00:01:27,920
+own identities online. 
+It really gets to the heart of 
+
+28
+00:01:27,920 --> 00:01:31,480
+how these big ideas underpin our
+everyday online world. 
+
+29
+00:01:31,760 --> 00:01:33,720
+OK, so here's where it gets 
+really interesting. 
+
+30
+00:01:33,920 --> 00:01:37,160
+The catalyst, the thing that 
+sparked this whole realization 
+
+31
+00:01:37,160 --> 00:01:40,360
+for the author? 
+It was this glitchy bleach 
+
+32
+00:01:40,360 --> 00:01:44,000
+blonde YouTube idol Poppy. 
+Poppy. 
+
+33
+00:01:44,000 --> 00:01:45,720
+Yeah, she became their test 
+case. 
+
+34
+00:01:45,720 --> 00:01:47,800
+And the other's point is 
+basically, you shouldn't care 
+
+35
+00:01:47,800 --> 00:01:49,640
+who Poppy really is behind the 
+scenes, right? 
+
+36
+00:01:50,000 --> 00:01:52,800
+Because according to Derrida's 
+idea, none of that external 
+
+37
+00:01:52,800 --> 00:01:55,240
+stuff matters. 
+Poppy is the text. 
+
+38
+00:01:55,280 --> 00:01:58,880
+She acts like this perfectly 
+sealed, Immaculate terrarium. 
+
+39
+00:01:58,880 --> 00:02:01,120
+A white cube. 
+Yeah, a white cube for our minds
+
+40
+00:02:01,120 --> 00:02:03,480
+and for the author. 
+She was this perfect living 
+
+41
+00:02:03,480 --> 00:02:05,560
+mirror of what they do every 
+single day. 
+
+42
+00:02:05,760 --> 00:02:09,840
+And Poppy embodies this so well.
+She really is this complete 
+
+43
+00:02:09,840 --> 00:02:12,200
+biosphere, totally self 
+referential. 
+
+44
+00:02:12,240 --> 00:02:13,720
+How so? 
+Well, think about her 
+
+45
+00:02:13,720 --> 00:02:17,400
+characteristics. 
+Those deadpan eyes, the soft 
+
+46
+00:02:17,400 --> 00:02:21,160
+ASMR glitch in her voice, that 
+constant I'm Poppy repetition. 
+
+47
+00:02:21,240 --> 00:02:22,880
+Right, that loop. 
+Exactly. 
+
+48
+00:02:22,880 --> 00:02:25,440
+It all creates this perfect 
+semiotic feedback loop. 
+
+49
+00:02:26,600 --> 00:02:30,080
+The source material really 
+hammers this home trying to find
+
+50
+00:02:30,080 --> 00:02:31,960
+the truth behind the curtain. 
+It's pointless. 
+
+51
+00:02:31,960 --> 00:02:34,840
+Because there is no outside. 
+Precisely all the meaning you 
+
+52
+00:02:34,840 --> 00:02:37,080
+need is right there inside the 
+loop she creates. 
+
+53
+00:02:37,320 --> 00:02:40,480
+And the bigger insight, I think,
+for all of us is how in this 
+
+54
+00:02:40,480 --> 00:02:43,760
+digital age, erception isn't 
+just like reality. 
+
+55
+00:02:43,960 --> 00:02:45,240
+It kind of is. 
+Reality. 
+
+56
+00:02:45,240 --> 00:02:48,240
+It is the only reality that 
+matters within those constructed
+
+57
+00:02:48,240 --> 00:02:49,760
+boundaries. 
+It's the text. 
+
+58
+00:02:49,760 --> 00:02:52,600
+OK, so if oy, is this like 
+perfect example of a 
+
+59
+00:02:52,600 --> 00:02:56,360
+selfcontained white cube, how 
+does that abstract idea 
+
+60
+00:02:56,360 --> 00:03:00,000
+translate to the, well, the 
+messy practical world of online 
+
+61
+00:03:00,000 --> 00:03:02,000
+reputation management? 
+Yeah, good question. 
+
+62
+00:03:02,000 --> 00:03:04,640
+This is the field the author's 
+been in for what, almost 3 
+
+63
+00:03:04,640 --> 00:03:08,800
+decades ORMSEO their job is 
+literally building, tending, re 
+
+64
+00:03:08,800 --> 00:03:11,280
+indexing, defending white cubes 
+for other people. 
+
+65
+00:03:11,400 --> 00:03:14,120
+And that's what they mean by 
+applied deconstruction. 
+
+66
+00:03:14,440 --> 00:03:16,960
+It's not just, you know, fixing 
+a bad link here or there. 
+
+67
+00:03:16,960 --> 00:03:19,440
+It's bigger than that. 
+Much bigger the other talks 
+
+68
+00:03:19,440 --> 00:03:23,000
+about it like re landscaping the
+entire sealed garden. 
+
+69
+00:03:23,560 --> 00:03:27,560
+The goal is making sure the 
+whole biosphere stays stable, 
+
+70
+00:03:27,560 --> 00:03:31,720
+balanced, self-sustaining. 
+So that involves actively re 
+
+71
+00:03:31,720 --> 00:03:35,200
+signifying people, almost like 
+controlling the inputs and 
+
+72
+00:03:35,200 --> 00:03:39,440
+outputs that carbon eaters and 
+oxygen makers of someones public
+
+73
+00:03:39,440 --> 00:03:40,680
+identity. 
+To what end? 
+
+74
+00:03:40,840 --> 00:03:44,160
+So that the algorithm, which, 
+let's face it, is effectively 
+
+75
+00:03:44,160 --> 00:03:48,320
+the final reader in our age, 
+only sees and serves up the new 
+
+76
+00:03:48,560 --> 00:03:51,360
+curated story. 
+Wow, so you're basically 
+
+77
+00:03:51,360 --> 00:03:55,760
+creating a reality where the 
+unwanted stuff just doesn't 
+
+78
+00:03:55,760 --> 00:03:57,720
+exist within that accessible 
+text. 
+
+79
+00:03:57,720 --> 00:03:59,720
+That's the aim. 
+Which brings us to this really 
+
+80
+00:03:59,720 --> 00:04:02,480
+great metaphor. 
+The author uses the duck 
+
+81
+00:04:02,480 --> 00:04:04,920
+metaphor. 
+They say if your client cracks 
+
+82
+00:04:04,920 --> 00:04:07,920
+like a duck, walk like a duck 
+and migrate like a duck online. 
+
+83
+00:04:07,920 --> 00:04:09,880
+Then Google, and by extension 
+the world. 
+
+84
+00:04:09,960 --> 00:04:14,080
+We'll believe they are a duck 
+and that flat out is the job. 
+
+85
+00:04:14,200 --> 00:04:17,680
+It's a brilliant way to put it. 
+It captures how you're managing 
+
+86
+00:04:17,680 --> 00:04:21,480
+this closed ecosystem of 
+perception, and it clears up a 
+
+87
+00:04:21,480 --> 00:04:23,160
+big misunderstanding about 
+Derrida. 
+
+88
+00:04:23,160 --> 00:04:26,920
+Which is that? 
+Nothing outside the text means 
+
+89
+00:04:26,920 --> 00:04:29,560
+context is everything. 
+It's actually the opposite. 
+
+90
+00:04:29,560 --> 00:04:30,320
+OK, I'm. 
+Following. 
+
+91
+00:04:30,480 --> 00:04:34,480
+Jared, as big sort of heresy was
+saying, there's no final 
+
+92
+00:04:34,480 --> 00:04:37,800
+context, no ultimate truth 
+outside the system you're 
+
+93
+00:04:37,800 --> 00:04:38,760
+looking at. 
+Right. 
+
+94
+00:04:39,280 --> 00:04:42,320
+The source puts it like this. 
+If you can't find your answers 
+
+95
+00:04:42,320 --> 00:04:45,760
+inside the sealed cube, you're 
+not reading, you're just myth 
+
+96
+00:04:45,760 --> 00:04:47,480
+hunting. 
+Hunting for something that isn't
+
+97
+00:04:47,480 --> 00:04:49,080
+there, essentially. 
+Exactly. 
+
+98
+00:04:49,320 --> 00:04:53,640
+But the challenge, and this is 
+crucial, the cost, comes if the 
+
+99
+00:04:53,640 --> 00:04:57,640
+real client honks like a goose 
+behind the fence while you're 
+
+100
+00:04:57,640 --> 00:04:59,480
+busy making him look like a duck
+online. 
+
+101
+00:05:00,240 --> 00:05:01,520
+That's where the fragility comes
+in. 
+
+102
+00:05:01,520 --> 00:05:02,920
+That's the crack in the white 
+cube. 
+
+103
+00:05:02,920 --> 00:05:05,560
+And that fragility seems key. 
+This isn't like a set it and 
+
+104
+00:05:05,560 --> 00:05:07,920
+forget it kind of thing. 
+Not at all, The author says. 
+
+105
+00:05:07,920 --> 00:05:11,160
+The moment someone stops tending
+the system, that perfect little 
+
+106
+00:05:11,160 --> 00:05:15,320
+biosphere begins to rot. 
+The case that's in. 
+
+107
+00:05:15,480 --> 00:05:18,520
+All that old stuff, the things 
+you tried to bury, mug shots, 
+
+108
+00:05:19,000 --> 00:05:21,080
+scandals from the Wayback 
+Machine. 
+
+109
+00:05:21,120 --> 00:05:23,720
+It tries to seep back in through
+the cracks. 
+
+110
+00:05:23,720 --> 00:05:25,280
+Yeah, it's like weeds growing 
+back. 
+
+111
+00:05:25,760 --> 00:05:28,640
+It sounds a lot like, you know, 
+trying to keep your social media
+
+112
+00:05:28,640 --> 00:05:31,440
+perfect. 
+You slip up once, don't maintain
+
+113
+00:05:31,440 --> 00:05:34,680
+it, and suddenly that awkward 
+photo from 10 years ago is back.
+
+114
+00:05:34,680 --> 00:05:36,920
+That's a good analogy. 
+The author compares it to 
+
+115
+00:05:36,920 --> 00:05:41,040
+needing blood pressure meds or 
+anti rejection drugs after a 
+
+116
+00:05:41,040 --> 00:05:43,800
+transplant. 
+You can't just stop, you have to
+
+117
+00:05:43,800 --> 00:05:47,560
+show up, tend the garden every 
+single day or the whole system 
+
+118
+00:05:47,560 --> 00:05:50,080
+starts to falter. 
+It requires constant vigilance. 
+
+119
+00:05:50,080 --> 00:05:52,880
+Constant vigilance, and this is 
+where the idea of metanoia 
+
+120
+00:05:52,880 --> 00:05:55,040
+becomes really important. 
+Metanoia. 
+
+121
+00:05:55,040 --> 00:05:57,160
+Yeah, it means more than just a 
+surface rebrand. 
+
+122
+00:05:57,360 --> 00:06:00,880
+It means like a genuine 
+transformation for that 
+
+123
+00:06:00,880 --> 00:06:03,840
+biosphere, that online text to 
+actually last. 
+
+124
+00:06:03,960 --> 00:06:05,640
+Yeah, it can't just be smoke and
+mirrors. 
+
+125
+00:06:05,640 --> 00:06:07,720
+So faking it doesn't work long 
+term. 
+
+126
+00:06:07,720 --> 00:06:09,280
+Right. 
+Someone who's just a fraud, who 
+
+127
+00:06:09,280 --> 00:06:13,280
+hasn't really changed, has to 
+keep pumping infinite energy 
+
+128
+00:06:13,440 --> 00:06:16,440
+into maintaining the illusion 
+the author calls it, heading 
+
+129
+00:06:16,440 --> 00:06:19,240
+towards heat death if there's no
+real oxygen. 
+
+130
+00:06:19,400 --> 00:06:21,760
+The smartest people the author 
+worked with, they're the ones 
+
+131
+00:06:21,760 --> 00:06:24,800
+who took it as a second chance 
+and actually became the thing 
+
+132
+00:06:24,800 --> 00:06:27,200
+they asked the author to build 
+online. 
+
+133
+00:06:27,840 --> 00:06:30,880
+So they align their actions with
+the constructed texts. 
+
+134
+00:06:30,880 --> 00:06:33,120
+Exactly. 
+That's real transformation, not 
+
+135
+00:06:33,120 --> 00:06:34,720
+just deconstruction or covering 
+things up. 
+
+136
+00:06:35,560 --> 00:06:39,760
+The source has this great line 
+about dads saying the best dads 
+
+137
+00:06:39,760 --> 00:06:44,000
+are often boring and cringe, 
+steady and present, not the 
+
+138
+00:06:44,000 --> 00:06:46,520
+flashy ones who just throw a 
+Porsche at their kid once a 
+
+139
+00:06:46,520 --> 00:06:50,120
+year. 
+Consistency over grand gestures.
+
+140
+00:06:50,120 --> 00:06:53,040
+Precisely that. 
+Steady, daily tending. 
+
+141
+00:06:53,120 --> 00:06:57,520
+Like good SEO, like good ORM, 
+like being a present parent. 
+
+142
+00:06:57,760 --> 00:07:00,360
+That's what keeps the biosphere 
+healthy and stops it from 
+
+143
+00:07:00,360 --> 00:07:02,240
+collapsing. 
+It's amazing, then, to think 
+
+144
+00:07:02,240 --> 00:07:06,440
+about the author having this 
+realization at 55 that their 
+
+145
+00:07:06,440 --> 00:07:10,200
+postmodern studies from college 
+were like the whole source code 
+
+146
+00:07:10,200 --> 00:07:11,600
+for their entire career. 
+Yeah, it's. 
+
+147
+00:07:11,800 --> 00:07:13,600
+Quite a connection to make. 
+Because you often think of 
+
+148
+00:07:13,600 --> 00:07:16,760
+postmodernism as just being 
+about, you know, tearing things 
+
+149
+00:07:16,760 --> 00:07:19,000
+down, tearing the master's house
+down, as they put it, 
+
+150
+00:07:19,200 --> 00:07:20,760
+deconstructing everything. 
+Right. 
+
+151
+00:07:20,760 --> 00:07:24,360
+The critique, The dismantling. 
+But their actual job, their 
+
+152
+00:07:24,360 --> 00:07:27,240
+trade, wasn't just about 
+dismantling, the author 
+
+153
+00:07:27,240 --> 00:07:29,760
+realized. 
+It was actually about building 
+
+154
+00:07:29,760 --> 00:07:32,720
+something coherent to live in. 
+And that's the crucial shift in 
+
+155
+00:07:32,720 --> 00:07:36,600
+understanding, isn't it? 
+From just taking things apart to
+
+156
+00:07:36,640 --> 00:07:39,640
+actually constructing something 
+stable, something self 
+
+157
+00:07:39,640 --> 00:07:41,360
+referential. 
+They can stand on its own. 
+
+158
+00:07:41,440 --> 00:07:43,840
+A strong text. 
+A text strong enough, as they 
+
+159
+00:07:43,840 --> 00:07:47,240
+say, to stand up to the weather,
+where all the signifiers 
+
+160
+00:07:47,240 --> 00:07:50,240
+reinforce each other and there 
+are no half dug tunnels for the 
+
+161
+00:07:50,240 --> 00:07:53,160
+rats to crawl through. 
+The biosphere has to be stable. 
+
+162
+00:07:53,280 --> 00:07:56,240
+And Poppy, the YouTube idol. 
+Poppy taught them that 
+
+163
+00:07:56,240 --> 00:08:00,440
+fundamental lesson, that you do 
+not need the brown haired 
+
+164
+00:08:00,440 --> 00:08:03,160
+videos, the supposed real 
+history. 
+
+165
+00:08:03,560 --> 00:08:06,520
+There is no archive that matters
+more than the loop you hold in 
+
+166
+00:08:06,520 --> 00:08:10,280
+the present. 
+In that sense, Poppy is as real 
+
+167
+00:08:10,280 --> 00:08:12,320
+as the weepy slam poet in a dive
+bar. 
+
+168
+00:08:12,640 --> 00:08:15,160
+Maybe the author suggests even 
+more real. 
+
+169
+00:08:15,240 --> 00:08:18,040
+Because she is her own 
+biosphere, fully realized within
+
+170
+00:08:18,040 --> 00:08:19,200
+its own terms. 
+Exactly. 
+
+171
+00:08:19,240 --> 00:08:20,680
+Self-contained. 
+Self-sustaining. 
+
+172
+00:08:20,720 --> 00:08:26,080
+So wow, we've really come full 
+circle back to Ilniyapada O 
+
+173
+00:08:26,080 --> 00:08:28,560
+text. 
+This deep dive, I think, really 
+
+174
+00:08:28,560 --> 00:08:31,440
+shows how it's not just some 
+abstract philosophical phrase. 
+
+175
+00:08:31,440 --> 00:08:34,480
+No, it's incredibly practical. 
+It's a reality that governs so 
+
+176
+00:08:34,480 --> 00:08:38,480
+much of our online identity, our
+reputations, even culture 
+
+177
+00:08:38,480 --> 00:08:41,679
+figures like Oy. 
+It's all about crafting and then
+
+178
+00:08:41,679 --> 00:08:44,840
+constantly, constantly 
+maintaining the text of who you 
+
+179
+00:08:44,840 --> 00:08:48,000
+appear to be online. 
+And the author really stresses 
+
+180
+00:08:48,000 --> 00:08:51,280
+that doing this work, building 
+and maintaining these white 
+
+181
+00:08:51,280 --> 00:08:55,040
+cubes, it's actually a chance to
+become your own biosphere. 
+
+182
+00:08:55,160 --> 00:08:57,560
+A chance to define yourself 
+within that space. 
+
+183
+00:08:57,720 --> 00:09:00,800
+But, and it's a big but, it's 
+fragile, the illusion, the text 
+
+184
+00:09:00,800 --> 00:09:04,080
+is all there is, but it demands 
+that constant, honest tending. 
+
+185
+00:09:04,200 --> 00:09:07,320
+If you crack open the glass, if 
+you let uncontrolled context 
+
+186
+00:09:07,320 --> 00:09:09,320
+creep back in, the illusion 
+shatters. 
+
+187
+00:09:10,000 --> 00:09:12,080
+Which really brings up a 
+question for you listening right
+
+188
+00:09:12,080 --> 00:09:14,160
+now. 
+If that online self we project 
+
+189
+00:09:14,160 --> 00:09:17,320
+is a constructed text and 
+keeping it stable requires all 
+
+190
+00:09:17,320 --> 00:09:20,280
+this effort and importantly, 
+alignment with our actual 
+
+191
+00:09:20,280 --> 00:09:23,760
+actions, what does that mean for
+how you present yourself online 
+
+192
+00:09:23,760 --> 00:09:25,200
+day-to-day? 
+Are you tending your own 
+
+193
+00:09:25,200 --> 00:09:26,440
+biosphere? 
+Yeah. 
+
+194
+00:09:26,640 --> 00:09:28,960
+Or are you just letting the 
+desert wind blow through the 
+
+195
+00:09:28,960 --> 00:09:30,960
+cracks? 
+Because, as the source 
+
+196
+00:09:30,960 --> 00:09:35,000
+powerfully concludes, the best 
+text will rot if you don't keep 
+
+197
+00:09:35,000 --> 00:09:38,040
+living in it every day. 
+Nothing outside it will save 
+
+198
+00:09:38,040 --> 00:09:38,240
+you.

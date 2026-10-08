@@ -1,0 +1,2248 @@
+1
+00:00:02,400 --> 00:00:13,600
+This is the Chris Abraham show. 
+Hey, this is Chris Abraham from 
+
+2
+00:00:13,600 --> 00:00:19,680
+The Chris Abraham Show. 
+It is Monday, December 22nd and 
+
+3
+00:00:19,680 --> 00:00:23,720
+I'm going to start a new season.
+I forget what season it is. 
+
+4
+00:00:23,720 --> 00:00:27,800
+So whatever season it was, it is
+one season more. 
+
+5
+00:00:28,080 --> 00:00:34,840
+And I have not done a Live Human
+Chris Abraham podcast for an 
+
+6
+00:00:34,840 --> 00:00:36,720
+entire year. 
+I think I've been writing 
+
+7
+00:00:36,720 --> 00:00:42,480
+substacks that I've been feeding
+to that I've been feeding to 
+
+8
+00:00:44,360 --> 00:00:48,480
+notebook LM and then have been 
+uploading as a podcast. 
+
+9
+00:00:48,640 --> 00:00:52,680
+At first I actually had my own 
+recordings and then had them 
+
+10
+00:00:52,720 --> 00:00:56,440
+transcribe and then uploaded 
+them to notebook LM. 
+
+11
+00:00:56,640 --> 00:01:00,800
+But then I pivoted and started 
+doing sub stacks and so I just 
+
+12
+00:01:00,800 --> 00:01:04,800
+went completely all AI. 
+Like all I would do is 
+
+13
+00:01:04,800 --> 00:01:07,720
+orchestrate. 
+Like I like to say that I'm like
+
+14
+00:01:08,240 --> 00:01:14,760
+Rubens or Rembrandt where I have
+a school of painting and I just 
+
+15
+00:01:14,760 --> 00:01:17,240
+come up with the idea and maybe 
+sketch it out. 
+
+16
+00:01:17,960 --> 00:01:20,880
+And then I have a room full of 
+AIS going ahead and filling out 
+
+17
+00:01:20,880 --> 00:01:26,840
+the artwork, filling out the 
+podcast words, creating the 
+
+18
+00:01:26,840 --> 00:01:31,840
+entire sub stack. 
+And all I do is act as the 
+
+19
+00:01:31,840 --> 00:01:36,280
+editor who revises and revises 
+and revises until it's kind of 
+
+20
+00:01:36,280 --> 00:01:42,040
+the same kind of point that I 
+want my entire idea. 
+
+21
+00:01:42,320 --> 00:01:47,080
+If it's manifest then I post it 
+as my as my own but it's all AI 
+
+22
+00:01:47,080 --> 00:01:49,040
+anyway. 
+But it did start a lot of 
+
+23
+00:01:49,040 --> 00:01:51,240
+conversations which makes me 
+happy. 
+
+24
+00:01:52,920 --> 00:01:58,960
+I think that if I had a DJ name 
+it would be DJ slop or AI slop 
+
+25
+00:01:59,160 --> 00:02:02,120
+DJ slop. 
+But I think that I'm probably 
+
+26
+00:02:02,120 --> 00:02:05,920
+the least heinous user. 
+So what's going on? 
+
+27
+00:02:06,160 --> 00:02:09,400
+I don't know. 
+I had my second ablation one 
+
+28
+00:02:09,400 --> 00:02:12,320
+week ago and my heart is humming
+along. 
+
+29
+00:02:12,600 --> 00:02:17,680
+For those of you who don't know 
+I had I got a arrhythmia and 
+
+30
+00:02:17,680 --> 00:02:22,760
+I've been struggling with sinus 
+rhythm and a an ablation is 
+
+31
+00:02:22,760 --> 00:02:27,680
+actually a relatively invasive 
+but sophisticated surgery that 
+
+32
+00:02:27,680 --> 00:02:33,760
+goes in and like zaps nerve 
+impulses that are not consistent
+
+33
+00:02:33,760 --> 00:02:37,920
+with the sinus rhythm. 
+So it goes in there and tries to
+
+34
+00:02:37,920 --> 00:02:43,800
+map and then discontinue 
+extraneous impulses that result 
+
+35
+00:02:43,800 --> 00:02:48,040
+in in arrhythmia and in my case,
+atrial fibrillation. 
+
+36
+00:02:48,040 --> 00:02:51,400
+So the second one seemed to 
+work, the first one didn't, and 
+
+37
+00:02:51,600 --> 00:03:00,600
+it really dispirited me. 
+I think that dispiritedness 
+
+38
+00:03:00,880 --> 00:03:04,840
+resulted in me gaining all my 
+weight back and now I'm working 
+
+39
+00:03:04,840 --> 00:03:09,520
+hard and also probably buying 
+some Ozempic type stuff to 
+
+40
+00:03:09,520 --> 00:03:12,000
+really kind of get back into the
+saddle. 
+
+41
+00:03:12,320 --> 00:03:16,720
+Because I feel good now, right? 
+My heart is working correctly 
+
+42
+00:03:16,720 --> 00:03:22,000
+and I'm sleeping well and I'm on
+bi pap and all the other old guy
+
+43
+00:03:22,000 --> 00:03:25,440
+things that I'm doing. 20 years 
+ahead of everybody else, I 
+
+44
+00:03:25,440 --> 00:03:28,960
+guess. 
+But hopefully because I'm in 
+
+45
+00:03:28,960 --> 00:03:32,480
+sinus rhythm, I'll be able to 
+get out some of the get off some
+
+46
+00:03:32,480 --> 00:03:36,520
+of the drugs I'm on like the 
+anti arrhythmia medication or 
+
+47
+00:03:37,040 --> 00:03:39,240
+maybe even the blood thinners, 
+who knows. 
+
+48
+00:03:39,320 --> 00:03:44,880
+But yeah, I'm hoping that I am 
+out and about. 
+
+49
+00:03:44,880 --> 00:03:48,560
+More often people are wondering 
+why the ubiquitous walking 
+
+50
+00:03:48,560 --> 00:03:51,720
+around the neighborhood, Chris 
+Abraham isn't walking around the
+
+51
+00:03:51,720 --> 00:03:55,120
+neighborhood ubiquitously. 
+And that's really just me, 
+
+52
+00:03:55,120 --> 00:03:58,240
+right? 
+I mean, the lethargy is real, 
+
+53
+00:03:58,360 --> 00:04:01,840
+it's no joke. 
+So I did cancel my year 
+
+54
+00:04:01,840 --> 00:04:05,760
+commitment to cycle bar, but I 
+really want to go there. 
+
+55
+00:04:05,880 --> 00:04:10,400
+But until I get back on the 
+saddle and literally get back on
+
+56
+00:04:10,400 --> 00:04:15,600
+the saddle, I have a stationary 
+bike, a Kaiser M3, and I have a 
+
+57
+00:04:15,600 --> 00:04:20,519
+Surly Steamroller, a single 
+speed, three single speed city 
+
+58
+00:04:20,519 --> 00:04:24,760
+bike that I turn into a three 
+speed with an internal hub, My 
+
+59
+00:04:24,760 --> 00:04:29,080
+pride and joy. 
+And once I kind of get back into
+
+60
+00:04:29,080 --> 00:04:32,640
+the saddle and I'm also getting 
+back to my kettle bells, which I
+
+61
+00:04:32,640 --> 00:04:35,920
+had right before I made a turn 
+in the wrong direction. 
+
+62
+00:04:35,960 --> 00:04:41,560
+I went to a courthouse area, was
+a courthouse, a courthouse 
+
+63
+00:04:41,560 --> 00:04:46,520
+adjacent tattoo parlor and 
+literally had a competition 
+
+64
+00:04:46,520 --> 00:04:50,720
+style kettlebell. 
+No actually it's a a cast iron 
+
+65
+00:04:50,760 --> 00:04:55,880
+hard style kettlebell tattooed 
+on the web of my left hand and 
+
+66
+00:04:55,880 --> 00:04:59,200
+then proceeded never to touch a 
+kettlebell ever again. 
+
+67
+00:04:59,520 --> 00:05:03,600
+It was that one of those last 
+gasp things like I'm having a 
+
+68
+00:05:03,600 --> 00:05:07,880
+struggle to do it so if I tattoo
+it on my hand then maybe it'll 
+
+69
+00:05:07,880 --> 00:05:11,440
+make me do it. 
+So probably also going to get a 
+
+70
+00:05:11,440 --> 00:05:16,560
+concept 2 logo and also a muted 
+horn. 
+
+71
+00:05:16,560 --> 00:05:22,000
+A mute horn, muted horn icon 
+from Thomas Pynchon's book, 
+
+72
+00:05:22,000 --> 00:05:25,880
+Crying of Lot 49. 
+Other than that, business has 
+
+73
+00:05:25,880 --> 00:05:28,480
+been going well. 
+I've been doing a lot of Google 
+
+74
+00:05:28,480 --> 00:05:34,440
+Business page recovery and I've 
+been doing a lot of SEO and a 
+
+75
+00:05:34,440 --> 00:05:38,960
+lot of artificial intelligence 
+SEO as well. 
+
+76
+00:05:40,160 --> 00:05:47,560
+And other than that, I don't 
+even know if I have the audio 
+
+77
+00:05:47,680 --> 00:05:51,440
+editing tool download it into my
+Linux box. 
+
+78
+00:05:52,720 --> 00:05:57,240
+What else nerdy thing that I did
+recently 2 very nerdy things 
+
+79
+00:05:57,240 --> 00:06:00,520
+that I am really proud of 1 is I
+installed. 
+
+80
+00:06:01,120 --> 00:06:06,160
+I don't know if you guys ever 
+seen or read or watched the 
+
+81
+00:06:06,160 --> 00:06:11,800
+series of Ghost in the shell. 
+The legit comic strip version 
+
+82
+00:06:12,040 --> 00:06:16,640
+cartoon version, but they're 
+these little blue robots these 
+
+83
+00:06:16,640 --> 00:06:19,720
+little blue tanks. 
+The name eludes me, but I'll 
+
+84
+00:06:19,720 --> 00:06:22,360
+include it in the show notes. 
+And they're my favorite thing 
+
+85
+00:06:22,360 --> 00:06:25,560
+about Ghost in the Shell because
+there's these little, these 
+
+86
+00:06:25,560 --> 00:06:29,280
+little battle bots, these little
+autonomous battle bots that are 
+
+87
+00:06:29,280 --> 00:06:40,400
+synced via a, a satellite, a 
+satellite server and they 
+
+88
+00:06:40,400 --> 00:06:42,960
+collaborate and they back 
+themselves up. 
+
+89
+00:06:43,360 --> 00:06:45,440
+They back their souls, if you 
+will. 
+
+90
+00:06:45,440 --> 00:06:49,120
+They're they do full backups to 
+the server every night. 
+
+91
+00:06:49,760 --> 00:06:54,640
+And upon the growth of the, as 
+the story develops, you start to
+
+92
+00:06:54,640 --> 00:06:59,760
+realize that at one point you 
+realize that at one point the 
+
+93
+00:06:59,760 --> 00:07:05,440
+little blue battle tanks, the 
+adorable comic, the adorable 
+
+94
+00:07:05,440 --> 00:07:08,200
+Comic Relief battle tanks are 
+now sentient. 
+
+95
+00:07:09,440 --> 00:07:13,080
+And they have their own agency 
+and their own knowledge, their 
+
+96
+00:07:13,080 --> 00:07:16,880
+own loyalty and their own tribal
+nature and their love for each 
+
+97
+00:07:16,880 --> 00:07:20,400
+other. 
+In Loki, they kind of worship 
+
+98
+00:07:20,400 --> 00:07:24,920
+the satellite that they sink to,
+and they consider the backups to
+
+99
+00:07:24,920 --> 00:07:35,960
+be their souls, which is cool. 
+So I was thinking about that and
+
+100
+00:07:35,960 --> 00:07:42,360
+I decided that I wanted every 
+single one of my 7 identical 
+
+101
+00:07:43,880 --> 00:07:49,680
+X220 Lenovo Thinkpads circa 
+2011, each installed with Linux 
+
+102
+00:07:49,680 --> 00:07:51,880
+Mint. 
+I wanted every single one of 
+
+103
+00:07:51,880 --> 00:07:55,680
+them to have the exact same 
+document folder. 
+
+104
+00:07:55,760 --> 00:08:03,960
+So I was working for one client 
+and they had a pretty cool like 
+
+105
+00:08:05,680 --> 00:08:08,440
+application environment where 
+you could create a droplet, 
+
+106
+00:08:09,440 --> 00:08:13,520
+which a droplet is basically 
+like a virtual Linux box, a 
+
+107
+00:08:13,520 --> 00:08:16,800
+virtual server, and you have a 
+lot of control over it. 
+
+108
+00:08:16,960 --> 00:08:21,280
+And it's great for git based 
+application environments. 
+
+109
+00:08:21,440 --> 00:08:25,280
+And so I did the application for
+the client and then I went ahead
+
+110
+00:08:25,280 --> 00:08:30,680
+and turned around and create a 
+little 8 GB to droplet or 25. 
+
+111
+00:08:30,680 --> 00:08:34,200
+I think it's a 25 GB, maybe a 10
+or 8 or five. 
+
+112
+00:08:34,480 --> 00:08:38,240
+However big it is. 
+It I set it up using this really
+
+113
+00:08:38,240 --> 00:08:42,039
+cool Linux command LINE app 
+called Sync Thing. 
+
+114
+00:08:42,240 --> 00:08:44,440
+And Sync Thing isn't a backup 
+device. 
+
+115
+00:08:45,680 --> 00:08:47,520
+It's not a network backup 
+device. 
+
+116
+00:08:47,520 --> 00:08:53,720
+It is a node in a sync network. 
+I love the fact that the TV show
+
+117
+00:08:53,720 --> 00:08:57,120
+Pluribus happened right when I 
+started doing these things 
+
+118
+00:08:57,680 --> 00:09:02,760
+because it's very mesh network. 
+Because I also out of nowhere 
+
+119
+00:09:02,840 --> 00:09:05,400
+decided to join the Mesh Tastic 
+network. 
+
+120
+00:09:06,200 --> 00:09:09,560
+I plan to do it forever. 
+But the final straw was that 
+
+121
+00:09:09,560 --> 00:09:13,040
+Adam Curry was talking about 
+Mesh Tastic on the No Agenda 
+
+122
+00:09:13,040 --> 00:09:15,920
+show. 
+So I decided to look for a cheap
+
+123
+00:09:15,920 --> 00:09:20,720
+one that would allow me to put 
+my foot in and I found one on 
+
+124
+00:09:20,720 --> 00:09:28,320
+Etsy that was fully done based 
+on the H3 internals in a little 
+
+125
+00:09:28,320 --> 00:09:32,120
+vice that's called the H1 and 
+got it home. 
+
+126
+00:09:32,520 --> 00:09:38,960
+And now I'm the Abra node is 
+Arlington Heights, Virginia, and
+
+127
+00:09:38,960 --> 00:09:42,040
+the full name is Abracadabra 
+because I initially called it 
+
+128
+00:09:42,040 --> 00:09:45,600
+Abraham, but that's just a 
+little bit, not private enough. 
+
+129
+00:09:45,600 --> 00:09:49,480
+So I made that and it's really 
+cool. 
+
+130
+00:09:49,480 --> 00:09:53,360
+It's been up for five days now, 
+completely autonomous, hanging 
+
+131
+00:09:53,360 --> 00:09:57,440
+from my 8th floor window, 
+looking out through an open 
+
+132
+00:09:57,440 --> 00:10:00,560
+window so that there's not the 
+glass restriction. 
+
+133
+00:10:00,800 --> 00:10:05,040
+And it's very cool. 
+It's stupid, but it's very cool 
+
+134
+00:10:06,440 --> 00:10:10,560
+because it's not a vigorous and 
+rigorous Discord like chat 
+
+135
+00:10:10,560 --> 00:10:14,120
+space. 
+There is a there is a chat area,
+
+136
+00:10:14,120 --> 00:10:18,360
+a group chat area, everybody 
+who's locally connected through 
+
+137
+00:10:18,680 --> 00:10:21,480
+an emergent mesh network. 
+And the cool thing about this 
+
+138
+00:10:21,560 --> 00:10:25,880
+device, this meshtastic device, 
+which is a little a little 
+
+139
+00:10:25,880 --> 00:10:31,280
+purple plastic 3D printed 
+enclosure that has inside of it 
+
+140
+00:10:31,560 --> 00:10:37,920
+a little OLED screen and it's 
+got the radio circuits and it's 
+
+141
+00:10:37,920 --> 00:10:46,840
+got AI guess a foot long whip 
+antenna and and a USBC and a low
+
+142
+00:10:46,840 --> 00:10:49,960
+energy Bluetooth. 
+And it just sits there and it 
+
+143
+00:10:50,120 --> 00:10:53,840
+says hello world. 
+And it's like it takes advantage
+
+144
+00:10:53,840 --> 00:11:00,800
+of a of a Gray area where it can
+be secure, it can be encrypted. 
+
+145
+00:11:02,080 --> 00:11:06,160
+You don't need a ham license or 
+any FCC license. 
+
+146
+00:11:06,320 --> 00:11:09,240
+You just turn it on and you 
+become part of the mesh and you 
+
+147
+00:11:09,240 --> 00:11:12,560
+become an essential part of the 
+network and you make the network
+
+148
+00:11:12,560 --> 00:11:15,880
+stronger. 
+It's sort of like being a, being
+
+149
+00:11:15,880 --> 00:11:19,560
+a note on a, on a Bitcoin 
+network or on an Ethereum 
+
+150
+00:11:19,560 --> 00:11:22,560
+network, right? 
+As long as you go ahead and 
+
+151
+00:11:22,560 --> 00:11:28,200
+become part of the of the mining
+and become part of the the 
+
+152
+00:11:28,200 --> 00:11:32,680
+Ledger, then you are a valuable 
+contributor and you add to the 
+
+153
+00:11:32,680 --> 00:11:36,320
+health of the network. 
+And there's no chatting in terms
+
+154
+00:11:36,320 --> 00:11:40,320
+of voice, no voice, no Morse 
+code, nothing. 
+
+155
+00:11:40,320 --> 00:11:45,200
+It is exclusively short message.
+It's not rich message and it's 
+
+156
+00:11:45,240 --> 00:11:50,680
+and it's either peer-to-peer as 
+in Adm or it uses the network 
+
+157
+00:11:50,680 --> 00:11:55,680
+kind of like is a TCPIP network 
+or it uses the network as a 
+
+158
+00:11:55,680 --> 00:11:58,880
+mailbox relay. 
+And there's repeaters which are 
+
+159
+00:11:58,880 --> 00:12:02,160
+similar to ham. 
+But it is also very similar to 
+
+160
+00:12:02,160 --> 00:12:07,400
+really early nascent DARPA 
+Internet type of things, except 
+
+161
+00:12:07,400 --> 00:12:16,480
+instead of using CAT5 or or T1 
+cables, it uses radio waves. 
+
+162
+00:12:16,560 --> 00:12:20,400
+Which was a perfect, perfect 
+thing that in my life I 
+
+163
+00:12:20,400 --> 00:12:26,080
+spontaneously, even before the 
+Apple plus Apple TV Gilligan 
+
+164
+00:12:26,080 --> 00:12:36,040
+production of Pluribus PLUR, the
+sorry PLUR, the the number 1B 
+
+165
+00:12:36,040 --> 00:12:45,040
+USPLURIBUS, but in the typefaces
+PLUR number one, the one numeral
+
+166
+00:12:45,280 --> 00:12:48,120
+BUS. 
+And it's an amazing it's an 
+
+167
+00:12:48,120 --> 00:12:50,800
+amazing show. 
+And there's nothing I can tell 
+
+168
+00:12:50,800 --> 00:12:54,720
+you at all about it because I 
+want you to experience it fresh 
+
+169
+00:12:54,880 --> 00:12:57,160
+and I don't want you to know 
+anything about it. 
+
+170
+00:12:57,200 --> 00:13:02,600
+But maybe you can intuit that I 
+was so excited to be a brand new
+
+171
+00:13:02,600 --> 00:13:08,520
+node on an emergent prepper 
+radio based mesh network that I 
+
+172
+00:13:08,520 --> 00:13:15,120
+could either peer-to-peer DM or 
+there is AI guess one would call
+
+173
+00:13:15,120 --> 00:13:22,160
+it a, a group text where you 
+post to a group text and whoever
+
+174
+00:13:22,160 --> 00:13:26,320
+is within the sound of your mesh
+network will be able to see 
+
+175
+00:13:26,320 --> 00:13:29,520
+that. 
+But most of the time it's like, 
+
+176
+00:13:29,680 --> 00:13:31,760
+can you hear me from Adams 
+Morgan? 
+
+177
+00:13:32,000 --> 00:13:36,440
+You know, I can hear you or I 
+can hear you in three hops. 
+
+178
+00:13:36,600 --> 00:13:40,120
+OK, so you understand how a mesh
+network works, especially you 
+
+179
+00:13:40,120 --> 00:13:46,880
+guys who are in Modern Warfare 
+or understand how how those 
+
+180
+00:13:46,880 --> 00:13:50,960
+little understand how those what
+are those called? 
+
+181
+00:13:50,960 --> 00:13:54,000
+They're called tags or etags or 
+whatever work, right? 
+
+182
+00:13:54,000 --> 00:14:00,400
+Like it's, it's a local network 
+based on everybody who allows 
+
+183
+00:14:00,400 --> 00:14:05,600
+their little mesh tastic device 
+to be transmitting and receiving
+
+184
+00:14:05,600 --> 00:14:08,720
+as a node or as a repeater on 
+the network. 
+
+185
+00:14:08,920 --> 00:14:11,000
+You don't have to organize it 
+with somebody. 
+
+186
+00:14:11,000 --> 00:14:12,800
+You don't need to say hello 
+world. 
+
+187
+00:14:13,040 --> 00:14:16,360
+You don't have to say a thing. 
+All you need to do is turn it 
+
+188
+00:14:16,360 --> 00:14:20,040
+on, set it up, tell it how many 
+hops or jumps you're willing to 
+
+189
+00:14:20,040 --> 00:14:22,680
+go. 
+Apparently best practices say 
+
+190
+00:14:22,680 --> 00:14:26,120
+that you stay at 3, but there's 
+also 5:00 and 7:00. 
+
+191
+00:14:26,320 --> 00:14:29,080
+And then you get to see on this 
+live little network via 
+
+192
+00:14:29,080 --> 00:14:32,880
+Bluetooth on my Android phone, 
+what's going on? 
+
+193
+00:14:33,040 --> 00:14:38,960
+How many nodes are local? 
+I set it up so that it also 
+
+194
+00:14:39,200 --> 00:14:43,760
+connects my phone to the 
+Internet and then reports that 
+
+195
+00:14:43,760 --> 00:14:47,080
+my network exists on the 
+Internet so that people can see 
+
+196
+00:14:47,080 --> 00:14:51,600
+it. 
+Is it MTQQMTQQ? 
+
+197
+00:14:51,880 --> 00:14:54,320
+Something like that? 
+It was really thrilling to go on
+
+198
+00:14:54,320 --> 00:14:59,640
+to the Internet, mash mesh 
+tastic map and be able to see 
+
+199
+00:14:59,640 --> 00:15:04,080
+Abra in the vicinity of 
+Arlington Heights S Arlington, 
+
+200
+00:15:04,080 --> 00:15:06,320
+VA. 
+It's not precise. 
+
+201
+00:15:06,440 --> 00:15:10,360
+I'd like it to be more precise, 
+but maybe I should hardwire the 
+
+202
+00:15:10,360 --> 00:15:15,440
+address into the device and not 
+just rely on here I am stuff 
+
+203
+00:15:15,560 --> 00:15:21,600
+triangulation anyway, so yeah. 
+So after spontaneously joining a
+
+204
+00:15:21,600 --> 00:15:26,440
+mesh tastic network as a node 
+with the short code abra in the 
+
+205
+00:15:26,440 --> 00:15:32,120
+long code abracadabra because 
+Abraham felt too intimate, I had
+
+206
+00:15:32,120 --> 00:15:36,520
+aspirations of buying a repeater
+and spending spending spending. 
+
+207
+00:15:36,520 --> 00:15:40,400
+But I realized that the fact 
+that I have a reliable node even
+
+208
+00:15:40,400 --> 00:15:43,720
+though I haven't updated my 
+firmware means that I'm value 
+
+209
+00:15:43,720 --> 00:15:46,520
+add to the community. 
+Most of the meta conversation 
+
+210
+00:15:46,520 --> 00:15:51,880
+happens on Discord though, and I
+think it's like mesh dc.org 
+
+211
+00:15:52,080 --> 00:15:54,880
+maybe. 
+Anyway, it's very exciting. 
+
+212
+00:15:54,880 --> 00:15:57,640
+It's very exciting. 
+I was very excited last time we 
+
+213
+00:15:57,640 --> 00:16:03,720
+spoke about my Abraham dot SU 
+Mastodon server, and I almost 
+
+214
+00:16:03,720 --> 00:16:05,440
+shut it down. 
+It would have been shut down 
+
+215
+00:16:05,440 --> 00:16:10,520
+today or yesterday, but I went 
+in and rescued it last minute. 
+
+216
+00:16:10,760 --> 00:16:16,240
+Apparently the SU Soviet Union 
+top level domain is going to go 
+
+217
+00:16:16,240 --> 00:16:21,520
+out of business in 20-30. 
+So I really only have four years
+
+218
+00:16:21,520 --> 00:16:23,720
+left. 
+So I'll commit to hosting 
+
+219
+00:16:23,720 --> 00:16:28,480
+Mastodon for another four years 
+until it goes bye bye and then 
+
+220
+00:16:28,480 --> 00:16:33,480
+I'll give up on Mastodon. 
+I also, thanks to Jason Guljar, 
+
+221
+00:16:33,720 --> 00:16:39,440
+I also set up a micro dot blog 
+account and while everybody was 
+
+222
+00:16:39,440 --> 00:16:45,240
+doing everything cool, I scored 
+Chris a dot micro dot blog. 
+
+223
+00:16:45,560 --> 00:16:48,920
+And then while everybody was 
+trying to be cool, I decided to 
+
+224
+00:16:48,920 --> 00:16:53,800
+search for a domain name to go 
+with my microblog and I was able
+
+225
+00:16:53,800 --> 00:16:59,840
+to register Chris ACH risa.org, 
+which I think is freaking 
+
+226
+00:16:59,840 --> 00:17:02,040
+awesome. 
+So cool. 
+
+227
+00:17:03,360 --> 00:17:08,119
+So now I'm Chris a.org. 
+In the microblog world, I am 
+
+228
+00:17:08,119 --> 00:17:13,800
+Abraham dot SU. 
+In the world of Mastodon, I am 
+
+229
+00:17:13,800 --> 00:17:18,560
+chrisabraham.com. 
+In the world of websites, I am 
+
+230
+00:17:18,560 --> 00:17:23,240
+chris-abraham.com. 
+In the world of Tumblr. 
+
+231
+00:17:24,560 --> 00:17:29,200
+And I don't know what else. 
+So yeah, you all have to see 
+
+232
+00:17:29,200 --> 00:17:31,600
+Pluribus. 
+See it, see it all before 
+
+233
+00:17:31,600 --> 00:17:35,200
+Friday. 
+Friday is the final episode and 
+
+234
+00:17:35,200 --> 00:17:40,960
+the season finale. 
+Ever since our our our spoken 
+
+235
+00:17:40,960 --> 00:17:47,720
+word Chris Abraham old man 
+podcast, I have, I don't know if
+
+236
+00:17:47,720 --> 00:17:49,880
+I mentioned it, but it's been a 
+while. 
+
+237
+00:17:49,880 --> 00:17:55,800
+So I joined a dungeon Dragon's 
+quest and it is the curse of 
+
+238
+00:17:55,800 --> 00:17:59,320
+Stroud. 
+And I've been going on to 
+
+239
+00:18:00,160 --> 00:18:04,360
+Discord, video on the discord 
+dedicated to this curse of 
+
+240
+00:18:04,360 --> 00:18:09,560
+Stroud campaign run by 
+apparently the DND famous Sean 
+
+241
+00:18:09,560 --> 00:18:12,560
+Scanlon. 
+And I'm also on there with 
+
+242
+00:18:12,560 --> 00:18:17,520
+apparently D&D famous Carrie 
+Abend, Abend Abend. 
+
+243
+00:18:17,720 --> 00:18:23,000
+And I'm on there with Tripp and 
+other Sean and Enrique. 
+
+244
+00:18:23,280 --> 00:18:27,320
+And depending on whether we can 
+get a quorum of three, we play. 
+
+245
+00:18:27,320 --> 00:18:32,160
+So we played on Saturday from 
+noon till 5. 
+
+246
+00:18:32,160 --> 00:18:36,040
+We try to do Saturdays, noon to 
+4-5 or six, depending on 
+
+247
+00:18:36,040 --> 00:18:39,680
+availability. 
+One of our guys is in Germany 
+
+248
+00:18:39,680 --> 00:18:43,720
+outside of Frankfurt, so he's 
+actually quite a bit later. 
+
+249
+00:18:44,000 --> 00:18:49,040
+And it's like night night when 
+we're day day and it's so fun. 
+
+250
+00:18:49,280 --> 00:18:56,240
+My name is Radley, and I am a 
+I'm a human fighter, and I have 
+
+251
+00:18:56,240 --> 00:19:02,640
+spells, which means I'm a 
+eldritch night, I think, and I 
+
+252
+00:19:02,640 --> 00:19:06,400
+refuse to read the player's 
+manual, so it's very slow going 
+
+253
+00:19:06,400 --> 00:19:07,920
+in. 
+The DM is very frustrated with 
+
+254
+00:19:07,920 --> 00:19:11,560
+me, and we're running it off of 
+D&D Beyond. 
+
+255
+00:19:11,600 --> 00:19:18,040
+So all the rolling, all of the 
+initiative, all of the saving 
+
+256
+00:19:18,040 --> 00:19:22,640
+throws, all of the two hits and 
+damages are all done through 
+
+257
+00:19:22,920 --> 00:19:26,920
+virtual dice in the system. 
+And all of our characters are 
+
+258
+00:19:26,920 --> 00:19:30,080
+run on D&D Beyond character 
+sheets. 
+
+259
+00:19:30,200 --> 00:19:34,240
+And all the maps and all the 
+fighting and all the everything 
+
+260
+00:19:34,240 --> 00:19:40,040
+is run by Sean via the Dungeon 
+Master Tools and D&D Beyond. 
+
+261
+00:19:40,240 --> 00:19:43,200
+And he's mostly frustrated, but 
+I'm mostly impressed. 
+
+262
+00:19:43,200 --> 00:19:46,680
+And so it's slow going. 
+We constantly roll terribly. 
+
+263
+00:19:46,680 --> 00:19:50,600
+We constantly throw ourselves at
+danger and then handle 
+
+264
+00:19:50,600 --> 00:19:54,360
+everything terribly. 
+We always zig when Sean prepares
+
+265
+00:19:54,360 --> 00:19:59,000
+for us and expects us to zag and
+it's a lot of fun. 
+
+266
+00:19:59,200 --> 00:20:04,400
+Everybody's face is on video. 
+We're all old dudes and even my 
+
+267
+00:20:04,400 --> 00:20:08,080
+friend Linda who I want to start
+a podcast with, even she is 
+
+268
+00:20:08,080 --> 00:20:10,760
+surprised how old and grizzled 
+we all are. 
+
+269
+00:20:10,880 --> 00:20:13,080
+So it's hilarious. 
+So laugh riot. 
+
+270
+00:20:13,080 --> 00:20:15,600
+I love it very much. 
+So the fact that I watch 
+
+271
+00:20:15,600 --> 00:20:21,680
+pluribus have a meshtastic node 
+have oh back to sink thing 
+
+272
+00:20:21,800 --> 00:20:22,880
+which. 
+Which is where I started. 
+
+273
+00:20:23,040 --> 00:20:28,080
+So now are they takayamas? 
+Takidamas Takidoris. 
+
+274
+00:20:28,280 --> 00:20:32,360
+Anyway, the name of the blue 
+tanks in Ghost in the Shell who 
+
+275
+00:20:32,360 --> 00:20:36,120
+become sentient, sync their 
+souls with a server. 
+
+276
+00:20:36,320 --> 00:20:39,120
+So I haven't committed to this 
+yet because every one of my 
+
+277
+00:20:39,120 --> 00:20:45,960
+Linux boxes have a unique Lenovo
+or ThinkPad based pun named like
+
+278
+00:20:46,880 --> 00:20:56,120
+like I know Lenovo or I don't 
+know Lenovo. 
+
+279
+00:20:56,120 --> 00:20:58,960
+Is that already? 
+So anyway, they're all either 
+
+280
+00:20:58,960 --> 00:21:03,400
+ThinkPad, Lenovo or Linux based 
+node names. 
+
+281
+00:21:03,520 --> 00:21:08,120
+I have 7X2 twenties, none of 
+them are ever open at the same 
+
+282
+00:21:08,120 --> 00:21:14,600
+time. 
+And I have a a W 520, which I 
+
+283
+00:21:14,600 --> 00:21:17,760
+call the Big Bertha. 
+I call it mento. 
+
+284
+00:21:18,000 --> 00:21:19,600
+I don't know why I call it 
+mento. 
+
+285
+00:21:19,840 --> 00:21:23,800
+Can you think of why I would 
+call the Big Bertha Mento 
+
+286
+00:21:24,080 --> 00:21:26,080
+anyway? 
+So each one of them is a node 
+
+287
+00:21:26,400 --> 00:21:28,360
+and they're connected to this 
+droplet. 
+
+288
+00:21:28,600 --> 00:21:30,920
+And the droplet is not a backup 
+place. 
+
+289
+00:21:31,040 --> 00:21:35,680
+It is a it is a sync point. 
+It doesn't backup. 
+
+290
+00:21:35,800 --> 00:21:41,000
+What it does is its only job is 
+to make sure that every time one
+
+291
+00:21:41,000 --> 00:21:46,800
+of the boxes, one of the 8 Linux
+Mint Lenovo ThinkPad boxes that 
+
+292
+00:21:46,800 --> 00:21:51,080
+I have come online, every moment
+that happens, it pings the 
+
+293
+00:21:51,080 --> 00:21:56,840
+droplet and it checks to see 
+whether or not the documents on 
+
+294
+00:21:56,840 --> 00:22:00,920
+its local hard drive are the 
+same as the documents on the 
+
+295
+00:22:00,920 --> 00:22:04,000
+droplet. 
+And then it syncs them. 
+
+296
+00:22:04,240 --> 00:22:08,640
+It moves all the documents that 
+are not on that local box onto 
+
+297
+00:22:08,640 --> 00:22:10,600
+the documents folder on that 
+box. 
+
+298
+00:22:10,720 --> 00:22:14,200
+And then make sure any documents
+that are on the local box are 
+
+299
+00:22:14,200 --> 00:22:18,560
+synced with the, with the sync 
+thing droplet box. 
+
+300
+00:22:18,680 --> 00:22:22,440
+And then when it finally syncs 
+and everything sorted that it 
+
+301
+00:22:22,440 --> 00:22:25,560
+just it stops unless anything 
+changes. 
+
+302
+00:22:25,680 --> 00:22:28,520
+And then when I'm done with the 
+day, I close that box and let's 
+
+303
+00:22:28,520 --> 00:22:31,840
+say I open another box. 
+And then after updating it for 
+
+304
+00:22:31,840 --> 00:22:38,040
+like a million years with, with 
+update modules and universal 
+
+305
+00:22:38,040 --> 00:22:42,480
+updates and, and flat pack and 
+all that other fun stuff. 
+
+306
+00:22:42,600 --> 00:22:47,960
+Then automagically think thing 
+comes up, looks for the droplet 
+
+307
+00:22:47,960 --> 00:22:51,840
+server and does the same check 
+and then uploads all the 
+
+308
+00:22:51,840 --> 00:22:55,560
+documents that it has on that 
+box, syncs it to the droplet. 
+
+309
+00:22:55,760 --> 00:22:58,560
+And then the droplet syncs all 
+the ones that are on the 
+
+310
+00:22:58,560 --> 00:23:03,000
+droplet, but not the not the, 
+not the box that I just opened. 
+
+311
+00:23:03,200 --> 00:23:05,080
+And then it deals with any 
+conflicts. 
+
+312
+00:23:05,200 --> 00:23:09,440
+It does a concurrence check. 
+It checks to see and apparently 
+
+313
+00:23:09,960 --> 00:23:12,600
+sync thing is extremely 
+sophisticated. 
+
+314
+00:23:12,880 --> 00:23:16,800
+And so the silliness that I'm 
+making it do or like an insult, 
+
+315
+00:23:16,800 --> 00:23:20,360
+you know, like Marvin the 
+Martian are Marvin the Marvin 
+
+316
+00:23:20,360 --> 00:23:25,000
+the sorry Marvin the robot is 
+always insulted by the menial 
+
+317
+00:23:25,000 --> 00:23:28,040
+tasks he has to do. 
+Considering that he knows 
+
+318
+00:23:28,040 --> 00:23:32,240
+everything about everything, he 
+could do everything and is has a
+
+319
+00:23:32,240 --> 00:23:35,840
+brain bigger than the universe. 
+I'm just making him sync files 
+
+320
+00:23:35,840 --> 00:23:44,640
+off of between asynchronously 
+opened slave boxes and like the 
+
+321
+00:23:46,120 --> 00:23:48,160
+the droplet is kind of like the 
+master. 
+
+322
+00:23:48,480 --> 00:23:51,520
+And each time I open up a new 
+box, I have to install think 
+
+323
+00:23:51,520 --> 00:23:53,840
+thing. 
+I have to make sure it's it 
+
+324
+00:23:53,920 --> 00:23:59,240
+checks, it works and I have like
+1-2 three boxes out of eight. 
+
+325
+00:23:59,720 --> 00:24:03,160
+But you know, it doesn't take 
+that long, but there's always a 
+
+326
+00:24:03,160 --> 00:24:05,560
+problem. 
+And then once it's sorted, it 
+
+327
+00:24:05,560 --> 00:24:09,480
+means that every time I open up 
+and it's not a backup thing, 
+
+328
+00:24:09,480 --> 00:24:14,600
+like my document folder is so 
+minimal, but I didn't want like 
+
+329
+00:24:14,600 --> 00:24:17,680
+something like I didn't want 
+something like Dropbox or 
+
+330
+00:24:17,680 --> 00:24:19,840
+whatever. 
+I wanted something geekier and 
+
+331
+00:24:19,840 --> 00:24:24,000
+tech year and cooler. 
+So yeah, that's what I'm doing. 
+
+332
+00:24:25,240 --> 00:24:29,280
+So that makes me happy. 
+That takes up time that I can't 
+
+333
+00:24:29,280 --> 00:24:33,480
+bill until I get them all done 
+and then they're done and 
+
+334
+00:24:33,480 --> 00:24:36,120
+they're working. 
+But they're not backing up. 
+
+335
+00:24:36,120 --> 00:24:39,360
+They're just, they're just 
+redistributing across all 
+
+336
+00:24:40,160 --> 00:24:42,600
+networks. 
+And the only reason that the 
+
+337
+00:24:42,600 --> 00:24:46,280
+droplet needs to exist is 
+because all boxes will not be 
+
+338
+00:24:46,280 --> 00:24:48,040
+open. 
+No two boxes will. 
+
+339
+00:24:48,040 --> 00:24:51,960
+The only box that will be always
+on the droplet, all the other 
+
+340
+00:24:51,960 --> 00:24:55,160
+boxes will be on. 
+Periodically they'll say hello 
+
+341
+00:24:55,160 --> 00:24:57,080
+world. 
+They'll say here are the 
+
+342
+00:24:57,080 --> 00:24:59,720
+documents I've made. 
+Here are the documents I've 
+
+343
+00:24:59,720 --> 00:25:01,640
+deleted. 
+Here are the documents I've 
+
+344
+00:25:01,640 --> 00:25:04,720
+changed. 
+What documents are up on droplet
+
+345
+00:25:04,720 --> 00:25:07,880
+that I don't have? 
+What droplets have changed on 
+
+346
+00:25:08,040 --> 00:25:12,280
+droplet that I don't have? 
+What documents have been deleted
+
+347
+00:25:12,840 --> 00:25:15,360
+on Droplet that I don't know, 
+that I don't, that I haven't 
+
+348
+00:25:15,360 --> 00:25:17,520
+deleted? 
+So and then there's the 
+
+349
+00:25:17,560 --> 00:25:19,880
+Meshtastic, and then there's 
+D&D. 
+
+350
+00:25:20,120 --> 00:25:21,800
+And then you have to see 
+Pluribus. 
+
+351
+00:25:21,960 --> 00:25:23,720
+I wish I could share about 
+Pluribus. 
+
+352
+00:25:23,720 --> 00:25:28,960
+I'm not going to share about 
+Pluribus until the final episode
+
+353
+00:25:29,240 --> 00:25:32,360
+because I would have completely 
+made this entire episode about 
+
+354
+00:25:32,360 --> 00:25:35,360
+Pluribus. 
+However, when I was on my last 
+
+355
+00:25:35,360 --> 00:25:39,800
+step, my last game last 
+Saturday, which was the 20th 
+
+356
+00:25:39,960 --> 00:25:42,920
+nobody. 
+And they're all sci-fi geeks. 
+
+357
+00:25:42,920 --> 00:25:46,440
+They're all complete. 
+Like, like they're all sci-fi 
+
+358
+00:25:46,440 --> 00:25:54,320
+and superhero and like cosplay 
+games and gaming and like cons 
+
+359
+00:25:54,320 --> 00:25:57,960
+like conferences and pop culture
+references guys. 
+
+360
+00:25:58,200 --> 00:26:00,880
+And none of them had heard about
+Pluribus. 
+
+361
+00:26:01,040 --> 00:26:05,080
+And unless I've been universally
+gas lit, which there's no agenda
+
+362
+00:26:05,080 --> 00:26:07,080
+to it 'cause I'm happily 
+enjoying it. 
+
+363
+00:26:07,280 --> 00:26:11,320
+I'm even on the Pluribus. 
+I'm even on the Pluribus Discord
+
+364
+00:26:12,280 --> 00:26:15,440
+and on the Pluribus subreddits. 
+And I watch all the Pluribus 
+
+365
+00:26:15,440 --> 00:26:18,600
+you. 
+But I love it that Pluribus is 
+
+366
+00:26:18,600 --> 00:26:26,160
+going to be my my Better Call 
+Saul or my The Wired or those 
+
+367
+00:26:26,160 --> 00:26:29,000
+kinds of series. 
+It's so good and it made me 
+
+368
+00:26:29,000 --> 00:26:32,960
+think of mesh networks. 
+And of course, the only thing I 
+
+369
+00:26:32,960 --> 00:26:38,640
+can tell you is that the reason 
+why the entire world, everybody 
+
+370
+00:26:38,920 --> 00:26:43,360
+is part, everybody became a node
+and a mesh network. 
+
+371
+00:26:43,560 --> 00:26:49,240
+And every node is welcome and 
+every node uses body electrical 
+
+372
+00:26:49,240 --> 00:26:53,960
+field and every node has a is 
+part of a mesh. 
+
+373
+00:26:53,960 --> 00:26:57,400
+So it's very fascinating. 
+Maybe they maybe they have 
+
+374
+00:26:57,400 --> 00:27:01,400
+repeaters, maybe the satellites,
+maybe all the technology in the 
+
+375
+00:27:01,400 --> 00:27:08,600
+sky, maybe Glonaz and GPS, maybe
+Elon Musk's Starlink. 
+
+376
+00:27:08,600 --> 00:27:13,520
+Maybe all of those devices are 
+repeaters for the radio 
+
+377
+00:27:13,520 --> 00:27:17,720
+frequency that connects all of 
+the visitors together into their
+
+378
+00:27:18,040 --> 00:27:20,720
+mesh network. 
+But I felt all of a sudden 
+
+379
+00:27:20,800 --> 00:27:25,680
+really groovy being part being 
+literally a node and also having
+
+380
+00:27:25,680 --> 00:27:27,760
+sync thing running between all 
+of my boxes. 
+
+381
+00:27:27,920 --> 00:27:32,680
+And that reminds me, I need to 
+re watch the entire all the 
+
+382
+00:27:32,680 --> 00:27:37,880
+episodes and all the series and 
+all the seasons and all the 
+
+383
+00:27:38,680 --> 00:27:43,080
+cartoons of Ghosts in the Shell 
+because it's been since the been
+
+384
+00:27:43,080 --> 00:27:45,880
+since the mid 2000s since I've 
+seen them. 
+
+385
+00:27:46,320 --> 00:27:49,760
+And the only reason I saw them 
+is because I rented the Netflix 
+
+386
+00:27:49,840 --> 00:27:52,800
+DVDs. 
+I literally saw a Ghost in the 
+
+387
+00:27:52,800 --> 00:27:59,440
+Shell based on Netflix DVDs on a
+cathode raid, a cathode ray 
+
+388
+00:27:59,720 --> 00:28:01,680
+television. 
+No shit. 
+
+389
+00:28:01,880 --> 00:28:04,320
+Anyway, I think that's it. 
+It was really great talking to 
+
+390
+00:28:04,320 --> 00:28:06,840
+you. 
+I don't know if anybody is still
+
+391
+00:28:06,840 --> 00:28:09,360
+listening, but it was great to 
+catch up with you. 
+
+392
+00:28:09,720 --> 00:28:12,880
+I will spend the rest of this 
+year catching up with you and 
+
+393
+00:28:12,880 --> 00:28:17,680
+then maybe we will talk about 
+particularly important thing. 
+
+394
+00:28:17,840 --> 00:28:24,480
+Epstein, literally Hitler, 
+Russian Ukraine war, Israel and 
+
+395
+00:28:24,480 --> 00:28:29,920
+Palestine, populist nationalism,
+all that fun stuff that you know
+
+396
+00:28:29,920 --> 00:28:34,000
+that I will shamelessly share 
+what little I know. 
+
+397
+00:28:34,280 --> 00:28:38,280
+But until then, until the first 
+of the year, it'll just be Chris
+
+398
+00:28:38,280 --> 00:28:42,200
+Abraham catch up and talking to 
+you about my nerdy little 
+
+399
+00:28:42,200 --> 00:28:45,880
+delights and just personal 
+things. 
+
+400
+00:28:46,640 --> 00:28:49,880
+Oh, this is weird. 
+I've actually become quite 
+
+401
+00:28:50,120 --> 00:28:52,240
+dedicated to the gospels of 
+Jesus. 
+
+402
+00:28:52,400 --> 00:28:57,480
+Who would have thought that? 
+And I listened to Hello, which 
+
+403
+00:28:57,480 --> 00:29:03,520
+you've seen all over your online
+and TV and YouTube and podcast 
+
+404
+00:29:03,520 --> 00:29:08,280
+and radio advertisements and I 
+don't know, pretty awesome. 
+
+405
+00:29:08,480 --> 00:29:12,160
+But it's limited to the Gospels.
+I am going to just read and 
+
+406
+00:29:12,160 --> 00:29:16,040
+reread the Gospels until the 
+cows come home, and then when I 
+
+407
+00:29:16,040 --> 00:29:19,160
+feel like I know them and I'm 
+integrated with them, then I'll 
+
+408
+00:29:19,160 --> 00:29:22,480
+explore other parts of the New 
+Testament. 
+
+409
+00:29:22,600 --> 00:29:27,800
+And then I'm also trying to 
+enjoy as many episodes of 
+
+410
+00:29:27,800 --> 00:29:31,800
+Complin of the Episcopalian 
+Complin as I can. 
+
+411
+00:29:31,800 --> 00:29:36,280
+At night I think complin is 
+really nice, but I'll listen to 
+
+412
+00:29:36,280 --> 00:29:40,840
+any of the other morning, noon, 
+and night and go to bed. 
+
+413
+00:29:42,000 --> 00:29:44,880
+Episcopalian prayers, I really 
+love them. 
+
+414
+00:29:44,880 --> 00:29:49,120
+They're just so beautifully 
+written and they, you know, use 
+
+415
+00:29:49,120 --> 00:29:51,920
+part of the Psalms or it's just 
+good stuff. 
+
+416
+00:29:52,080 --> 00:29:58,320
+So anyway, that's new. 
+And are you going to be playing 
+
+417
+00:29:58,320 --> 00:30:02,360
+the lottery tonight? 
+It's over $1.6 billion on 
+
+418
+00:30:02,360 --> 00:30:05,160
+Powerball. 
+I am definitely going to waste. 
+
+419
+00:30:06,280 --> 00:30:08,800
+Is it tonight? 
+I'm going to waste $20 on it. 
+
+420
+00:30:08,920 --> 00:30:14,120
+So we'll see what happens. 
+I probably am not going to re re
+
+421
+00:30:14,160 --> 00:30:25,240
+up my my my membership to TTJTJ 
+gym, TJ community gym, TCTJ 
+
+422
+00:30:25,520 --> 00:30:27,760
+community gym until tomorrow 
+evening. 
+
+423
+00:30:28,000 --> 00:30:33,640
+I'm got such a late start. 
+It's actually 321 now and I 
+
+424
+00:30:33,640 --> 00:30:36,600
+really kind of just checked my 
+e-mail and did some random 
+
+425
+00:30:36,600 --> 00:30:39,720
+stuff. 
+I know this is a Christmas funk,
+
+426
+00:30:39,880 --> 00:30:44,360
+but starting tomorrow morning I 
+hope to swing some kettle bells 
+
+427
+00:30:44,400 --> 00:30:48,760
+and maybe use my TRX. 
+And I'm even planning on getting
+
+428
+00:30:48,760 --> 00:30:52,920
+my butt tough enough to be able 
+to do some of my work from the 
+
+429
+00:30:53,200 --> 00:31:00,040
+gelled saddle of my Kaiser M3. 
+And when I finally deferralize 
+
+430
+00:31:00,040 --> 00:31:03,160
+my apartment, I'm going to get 
+back onto my rowing machine, 
+
+431
+00:31:03,280 --> 00:31:07,800
+which makes me very sad that I 
+have it up on its nose with its 
+
+432
+00:31:07,800 --> 00:31:11,320
+tail up in the air. 
+Anyway, Aloha, mahalo Nuiloa. 
+
+433
+00:31:11,320 --> 00:31:13,960
+Thank you very much. 
+I really appreciate you coming 
+
+434
+00:31:13,960 --> 00:31:16,720
+back on board. 
+I don't think, I think I'll be 
+
+435
+00:31:16,720 --> 00:31:20,320
+very clear in terms of which 
+episodes are mine and which 
+
+436
+00:31:20,320 --> 00:31:23,640
+episodes are. 
+And you know what, this one, I 
+
+437
+00:31:23,640 --> 00:31:27,280
+might upload this to notebook LM
+anyway and see what kind of 
+
+438
+00:31:27,280 --> 00:31:30,360
+crazy things they can do and 
+have fun that way. 
+
+439
+00:31:30,400 --> 00:31:34,600
+But really this is all about 
+kind of sharing and sharing is 
+
+440
+00:31:34,600 --> 00:31:37,840
+caring and I love you very much.
+And I hope you guys are having 
+
+441
+00:31:38,080 --> 00:31:43,720
+an amazing, I hope you've had an
+amazing Thanksgiving. 
+
+442
+00:31:43,720 --> 00:31:46,760
+I hope you had an amazing winter
+solstice. 
+
+443
+00:31:46,880 --> 00:31:51,240
+I hope you are having and have 
+had an amazing Hanukkah and I 
+
+444
+00:31:51,240 --> 00:31:53,480
+hope you have an amazing 
+Christmas. 
+
+445
+00:31:53,560 --> 00:31:56,760
+And I'm sure I will have another
+episode before New Year's. 
+
+446
+00:31:56,880 --> 00:31:58,320
+Thank you very much. 
+Love you. 
+
+447
+00:31:58,320 --> 00:32:01,520
+Like subscribe, comment, 
+etcetera. 
+
+448
+00:32:06,680 --> 00:32:09,400
+Thank you for listening to The 
+Chris Abraham Show. 
+
+449
+00:32:09,680 --> 00:32:12,920
+Make sure you subscribe so you 
+don't miss any future episodes. 
+
+450
+00:32:13,240 --> 00:32:14,320
+Until next time.
