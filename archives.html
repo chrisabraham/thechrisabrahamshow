@@ -36,7 +36,7 @@
 <div id="container">
   <header id="banner">
     <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show banner: red and black cover art with a studio microphone" width="700" height="206" fetchpriority="high"></a>
-    <button type="button" class="theme-toggle" id="theme-toggle" hidden>dark</button>
+    <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>
   </header>
   <nav class="site-nav" aria-label="Site">
 <a href="/">Home</a><span aria-hidden="true"> · </span><a href="/about.html">About</a><span aria-hidden="true"> · </span><a href="/archives.html" aria-current="page">Archives</a><span aria-hidden="true"> · </span><a href="/colophon.html">Colophon</a>
@@ -549,7 +549,7 @@
   var root = document.documentElement, btn = document.getElementById("theme-toggle"),
       meta = document.getElementById("theme-color");
   function show(dark) {
-    btn.textContent = dark ? "light" : "dark";
+    btn.textContent = dark ? "Light" : "Dark";
     btn.setAttribute("aria-label", dark ? "Switch to light reading mode" : "Switch to dark reading mode");
     meta.setAttribute("content", dark ? "#141414" : "#cccccc");
   }
@@ -567,7 +567,7 @@
     share.addEventListener("click", function () {
       var url = share.getAttribute("data-url"), title = share.getAttribute("data-title");
       if (navigator.share) { navigator.share({ title: title, url: url }).catch(function () {}); return; }
-      navigator.clipboard.writeText(url).then(function () { share.textContent = "link copied"; });
+      navigator.clipboard.writeText(url).then(function () { share.textContent = "Link Copied"; });
     });
   }
 })();

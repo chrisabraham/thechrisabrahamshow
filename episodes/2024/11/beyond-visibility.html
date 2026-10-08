@@ -38,7 +38,7 @@
 <div id="container">
   <header id="banner">
     <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show banner: red and black cover art with a studio microphone" width="700" height="206" fetchpriority="high"></a>
-    <button type="button" class="theme-toggle" id="theme-toggle" hidden>dark</button>
+    <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>
   </header>
   <nav class="site-nav" aria-label="Site">
 <a href="/">Home</a><span aria-hidden="true"> · </span><a href="/about.html">About</a><span aria-hidden="true"> · </span><a href="/archives.html">Archives</a><span aria-hidden="true"> · </span><a href="/colophon.html">Colophon</a>
@@ -58,7 +58,7 @@
 <img class="episode-art" src="/assets/images/ep-5de521ef68d2.jpg" alt="Cover art for the episode Beyond Visibility" width="800" height="800">
 <audio class="player" controls preload="none" src="https://anchor.fm/s/c0f56fc/podcast/play/94009179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-5%2Fc650a0f9-9a2f-6792-36a6-3527ad2afd05.mp3"><a href="https://anchor.fm/s/c0f56fc/podcast/play/94009179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-5%2Fc650a0f9-9a2f-6792-36a6-3527ad2afd05.mp3">Download the audio</a></audio>
 <p class="listen">Listen on <a href="https://podcasters.spotify.com/pod/show/chrisabraham/episodes/Beyond-Visibility-e2qjecr">Spotify</a> · <a href="https://podcasts.apple.com/us/podcast/the-chris-abraham-show/id1468506258">Apple Podcasts</a> · <a href="https://overcast.fm/itunes1468506258">Overcast</a> · <a href="https://pca.st/3YS9">Pocket Casts</a> · <a href="https://anchor.fm/s/c0f56fc/podcast/rss">RSS</a></p>
-<p class="listen">Share: <a href="https://x.com/intent/post?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html&amp;text=Beyond%20Visibility">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">LinkedIn</a> · <a href="https://www.reddit.com/submit?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html&amp;title=Beyond%20Visibility">Reddit</a> · <a href="https://bsky.app/intent/compose?text=Beyond%20Visibility%20https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Bluesky</a> · <a href="https://www.threads.net/intent/post?text=Beyond%20Visibility%20https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Threads</a> · <a href="mailto:?subject=Beyond%20Visibility&amp;body=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Email</a> · <button type="button" class="linkish" id="share-native" data-url="https://thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html" data-title="Beyond Visibility" hidden>share or copy link</button></p>
+<p class="listen">Share: <a href="https://x.com/intent/post?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html&amp;text=Beyond%20Visibility">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">LinkedIn</a> · <a href="https://www.reddit.com/submit?url=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html&amp;title=Beyond%20Visibility">Reddit</a> · <a href="https://bsky.app/intent/compose?text=Beyond%20Visibility%20https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Bluesky</a> · <a href="https://www.threads.net/intent/post?text=Beyond%20Visibility%20https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Threads</a> · <a href="mailto:?subject=Beyond%20Visibility&amp;body=https%3A//thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html">Email</a> · <button type="button" class="linkish" id="share-native" data-url="https://thechrisabrahamshow.com/episodes/2024/11/beyond-visibility.html" data-title="Beyond Visibility" hidden>Share or Copy Link</button></p>
 <p>In this episode, Chris Abraham takes listeners on an introspective journey through his views on connection, simplicity, and fulfillment. Known for his thoughtful approach to life, Chris explores his preference for being “known” rather than “seen,” challenging the common narrative of success and achievement. By sharing his experiences at Renaissance Weekend, he reveals how high-energy social interactions helped shape his understanding of personal limits and led him to prioritize quieter, more intentional connections. Through reflections on human supremacy, environmentalism, and authority, he navigates the complex relationships between individuality, societal expectations, and the beauty of the ordinary.</p>
 <p><strong>Key Themes &amp; Highlights:</strong></p>
 <ul>
@@ -133,7 +133,7 @@
   var root = document.documentElement, btn = document.getElementById("theme-toggle"),
       meta = document.getElementById("theme-color");
   function show(dark) {
-    btn.textContent = dark ? "light" : "dark";
+    btn.textContent = dark ? "Light" : "Dark";
     btn.setAttribute("aria-label", dark ? "Switch to light reading mode" : "Switch to dark reading mode");
     meta.setAttribute("content", dark ? "#141414" : "#cccccc");
   }
@@ -151,7 +151,7 @@
     share.addEventListener("click", function () {
       var url = share.getAttribute("data-url"), title = share.getAttribute("data-title");
       if (navigator.share) { navigator.share({ title: title, url: url }).catch(function () {}); return; }
-      navigator.clipboard.writeText(url).then(function () { share.textContent = "link copied"; });
+      navigator.clipboard.writeText(url).then(function () { share.textContent = "Link Copied"; });
     });
   }
 })();

@@ -1,5 +1,5 @@
 /* The Chris Abraham Show. Hill Mole's look, copied from hillmole.com: a grey
-   page, a 700px white column under the 700px banner, lowercase headings,
+   page, a 700px white column under the 700px banner, title case headings,
    grey links, black sans-serif text on white by default; readers can
    switch to dark with the button in the banner. */
 
@@ -67,7 +67,6 @@ a:hover, a:focus-visible { background: var(--link-hover-bg); color: var(--link-h
   top: 8px;
   right: 8px;
   font: .75rem/1 var(--heading);
-  text-transform: lowercase;
   color: #ffffff;
   background: rgba(0, 0, 0, .55);
   border: 1px solid rgba(255, 255, 255, .5);
@@ -83,7 +82,6 @@ a:hover, a:focus-visible { background: var(--link-hover-bg); color: var(--link-h
 .site-nav {
   font-family: var(--heading);
   font-size: .85rem;
-  text-transform: lowercase;
   text-align: center;
   color: var(--muted);
   padding: .6rem 16px;
@@ -98,7 +96,6 @@ a:hover, a:focus-visible { background: var(--link-hover-bg); color: var(--link-h
 h1, h2, h3 {
   font-family: var(--heading);
   font-weight: normal;
-  text-transform: lowercase;
   line-height: 1.25;
 }
 .entry h1, .entry h2, .entry h3 { font-size: 1.5rem; margin: 0 0 .15rem; }
