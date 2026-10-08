@@ -204,7 +204,7 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 }
 
 /* Episodes */
-.episode-art { float: right; width: 140px; height: auto; margin: .2rem 0 .8rem 1rem; border-radius: 3px; }
+.episode-art { display: block; width: 100%; max-width: 700px; height: auto; aspect-ratio: 1 / 1; object-fit: cover; margin: .5rem 0 1rem; border-radius: 3px; }
 .player { display: block; width: 100%; margin: 0 0 .6rem; }
 .listen { font-family: var(--heading); font-size: .85rem; margin: 0 0 1.25rem; }
 .entry-body::after { content: ""; display: block; clear: both; }
@@ -213,7 +213,6 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .toc .meta { font-family: var(--heading); font-size: .8rem; color: var(--muted); }
 .results li { padding: .35rem 0; }
 .results .date { display: block; margin: 0; }
-@media (max-width: 480px) { .episode-art { width: 96px; } }
 .transcript summary { cursor: pointer; font-family: var(--heading); font-size: .9rem; color: var(--link); margin: 0 0 1rem; }
 .transcript details[open] summary { margin-bottom: 1.25rem; }
 .linkish { font: inherit; color: var(--link); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }

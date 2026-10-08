@@ -575,7 +575,7 @@ def build(show, eps):
             '  <%s><a href="/%s">%s</a></%s>' % (heading, ep["path"], e(ep["title"]), heading),
             "  " + meta_line(n, ep),
             '  <div class="entry-body">',
-            '<img class="episode-art" src="%s" alt="Cover art for the episode %s" width="140" height="140"%s>' % (art(ep), e(ep["title"]), "" if heading == "h1" else ' loading="lazy"'),
+            '<img class="episode-art" src="%s" alt="Cover art for the episode %s" width="800" height="800">' % (art(ep), e(ep["title"])),
             '<audio class="player" controls preload="none" src="%s"><a href="%s">Download the audio</a></audio>' % (e(ep["audio"]), e(ep["audio"])),
             '<p class="listen">Listen on <a href="%s">Spotify</a> · %s</p>' % (e(spotify_link(ep)), " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN[1:4] + LISTEN[-1:])),
             share,
@@ -692,7 +692,7 @@ def build(show, eps):
     ]
     body = "\n".join([
         '<h1 class="archive-title">About</h1>', '<div class="entry-body">',
-        '<img class="episode-art" src="/assets/images/show.jpg" alt="The Chris Abraham Show cover art: the title in white on red and black, over a studio microphone" width="140" height="140">',
+        '<img class="episode-art" src="/assets/images/show.jpg" alt="The Chris Abraham Show cover art: the title in white on red and black, over a studio microphone" width="1000" height="1000">',
         clean_html(fixed(show["description"])),
         '<h2>Listen and subscribe</h2>',
         "<ul>%s</ul>" % "".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN),
