@@ -419,10 +419,10 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         head.append('<link rel="next" href="%s">' % nxt)
     head.append("</head>")
     return "\n".join(head + [
-        "<body>", '<div id="container">', '  <header id="banner">',
-        '    <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show banner: red and black cover art with a studio microphone" width="700" height="206"></a>',
+        "<body>", '<a class="skip" href="#content">Skip to the content</a>', '<div id="container">', '  <header id="banner">',
+        '    <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show: home" width="700" height="206"></a>',
         '    <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>',
-        "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content">',
+        "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content" id="content">',
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
         '    <p>%s © %s–%s <a href="/about.html" rel="author">%s</a>.</p>' % (NAME, FIRST_YEAR, LAST_YEAR, AUTHOR),
         '    <p>Mirrored from Spotify for Creators. Static on GitHub Pages.</p>',
@@ -586,6 +586,12 @@ def build(show, eps):
         parts.append('<a href="/%s">Latest</a>' % latest["path"])
         return '<nav class="entry-nav" aria-label="Episodes">\n  %s\n</nav>' % " |\n  ".join(parts)
 
+    alts = json.load(open(os.path.join(DATA, "alts.json"))) if os.path.exists(os.path.join(DATA, "alts.json")) else {}
+
+    def alt(ep):
+        """Each cover's own description (data/alts.json, written by looking at the art)."""
+        return alts.get(ep.get("art") or "show.jpg") or 'Cover art for the episode "%s."' % ep["title"]
+
     def art(ep):
         return "/assets/images/" + (ep.get("art") or "show.jpg")
 
@@ -610,7 +616,7 @@ def build(show, eps):
             '  <%s><a href="/%s">%s</a></%s>' % (heading, ep["path"], e(ep["title"]), heading),
             "  " + meta_line(n, ep),
             '  <div class="entry-body">',
-            '<img class="episode-art" %s alt="Cover art for the episode %s" width="800" height="800" fetchpriority="high">' % (srcset(art(ep)), e(ep["title"])),
+            '<img class="episode-art" %s alt="%s" width="800" height="800" fetchpriority="high">' % (srcset(art(ep)), e(alt(ep))),
             '<audio class="player" controls preload="none" src="%s"><a href="%s">Download the audio</a></audio>' % (e(ep["audio"]), e(ep["audio"])),
             '<p class="listen">Play <a href="%s">this episode on Spotify</a>, or subscribe: %s</p>' % (e(spotify_link(ep)), " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN[1:4] + LISTEN[-1:])),
             share,
@@ -664,7 +670,7 @@ def build(show, eps):
             {"@type": "ListItem", "position": 2, "name": "Archives", "item": SITE + "/archives.html"},
             {"@type": "ListItem", "position": 3, "name": ep["title"], "item": url}]}]}
         body = "\n".join([nav(i), episode_block(i, ep, "h1"), transcript, nav(i)])
-        write(ep["path"], page(ep["path"], title, desc, body, image=art(ep), image_alt="Cover art for the episode " + ep["title"],
+        write(ep["path"], page(ep["path"], title, desc, body, image=art(ep), image_alt=alt(ep),
                                keywords=keywords, og_type="article", ld=ld,
                                prev="/" + eps[i - 1]["path"] if i else None,
                                nxt="/" + eps[i + 1]["path"] if i < total - 1 else None))
@@ -727,7 +733,7 @@ def build(show, eps):
     ]
     body = "\n".join([
         '<h1 class="archive-title">About</h1>', '<div class="entry-body">',
-        '<img class="episode-art" ' + srcset("/assets/images/show.jpg") + ' alt="The Chris Abraham Show cover art: the title in white on red and black, over a studio microphone" width="1000" height="1000">',
+        '<img class="episode-art" ' + srcset("/assets/images/show.jpg") + ' alt="%s" width="1000"' % e(alts.get("show.jpg", "The Chris Abraham Show cover art")) + ' height="1000">',
         clean_html(fixed(show["description"])),
         '<h2>Listen and Subscribe</h2>',
         "<ul>%s</ul>" % "".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN),
