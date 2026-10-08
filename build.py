@@ -711,7 +711,11 @@ def build(show, eps):
     body = "\n".join([
         '<h1 class="archive-title">Colophon</h1>', '<div class="entry-body colophon">',
         '<p><strong>%s</strong> is recorded by <a href="/about.html" rel="author">Chris Abraham</a> and published on Spotify for Creators, formerly Anchor. The first episode went out on %s.</p>' % (NAME, nice(when(first))),
-        "<h2>Software</h2>",
+        "<h2>How the Show Is Made</h2>",
+        "<p>Chris records on a Sony ICD-UX570 digital voice recorder and edits in <a href=\"https://www.audacityteam.org/\">Audacity</a>. When a recording has too much background noise, it goes through <a href=\"https://podcast.adobe.com/enhance\">Adobe Podcast Enhance</a> first. The video episodes, and the occasional over-the-top \"Deep Dive,\" come from running an episode through <a href=\"https://notebooklm.google.com/\">Google NotebookLM</a>.</p>",
+        "<h2>Credits</h2>",
+        "<p>The intro and outro music was made by <a href=\"https://www.fiverr.com/blarock/create-a-professional-podcast-intro-and-outro\">blarock on Fiverr</a>. The cover art, which is also this site's banner and icon, was designed by <a href=\"https://www.fiverr.com/brandzin/design-a-professional-podcast-cover-art\">brandzin on Fiverr</a>. Thank you both.</p>",
+        "<h2>This Website</h2>",
         '<p>This site is a static mirror of the show\'s <a href="%s">podcast feed</a>. A small Python script reads the feed, keeps a copy of each episode\'s artwork and transcript, and writes one plain HTML page per episode. A GitHub Action runs it every day, so new episodes and late transcripts appear on their own. It is published by <a href="https://pages.github.com/">GitHub Pages</a>; the source is at <a href="https://github.com/chrisabraham/thechrisabrahamshow">github.com/chrisabraham/thechrisabrahamshow</a>.</p>' % FEED,
         "<h2>Audio</h2>",
         '<p>The audio stays on Spotify. Each player streams the episode straight from the feed, and <a href="%s">Spotify</a> remains the show\'s home.</p>' % SPOTIFY_SHOW,
@@ -720,9 +724,9 @@ def build(show, eps):
         "<h2>Design</h2>",
         '<p>The layout is borrowed from <a href="https://hillmole.com/">Hill Mole</a>, Chris\'s serialized novel: a white column as wide as the 700-pixel banner, on a grey page, with grey links. Unlike Hill Mole, the headings keep their capitals. The button in the banner switches to a dark reading mode, and that choice is kept only in your own browser.</p>',
         "</div>"])
-    write("colophon.html", page("colophon.html", "Colophon: how this Chris Abraham podcast site is built",
-                                "How this site is built: a static mirror of Chris Abraham's Spotify for Creators feed, rebuilt every day by a small Python script and served by GitHub Pages.",
-                                body, keywords="colophon, static site, GitHub Pages, podcast feed", current="/colophon.html"))
+    write("colophon.html", page("colophon.html", "Colophon: how Chris Abraham's podcast is made",
+                                "How Chris Abraham records and edits his podcast, who made the music and cover art, and how this site mirrors his Spotify feed every day.",
+                                body, keywords="colophon, Sony ICD UX570, Audacity, podcast credits", current="/colophon.html"))
 
     # search
     body = "\n".join([
