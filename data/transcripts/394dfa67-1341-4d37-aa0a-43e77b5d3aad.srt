@@ -1,0 +1,1123 @@
+1
+00:00:02,000 --> 00:00:09,000
+This is the Chris Abraham Show.
+
+2
+00:00:09,000 --> 00:00:16,000
+Hey, welcome to season 11, episode one of the Chris Abraham Show.
+
+3
+00:00:16,000 --> 00:00:25,000
+My name is Chris Abraham and I am restarting this because I was on with Claude Code.
+
+4
+00:00:25,000 --> 00:00:54,000
+and I very quickly registered the ChrisAbrahamShow.com and bought the domain name on Cloudflare went over to my command line on my Linux Mint Box X220 secure shelled over to my droplet on DigitalOcean called Pine Box
+
+5
+00:00:54,000 --> 00:01:13,000
+logged into Claude Code and had Claude Code within an hour make me an entire website dedicated to my podcast with perfect page speed insights and everything.
+
+6
+00:01:13,000 --> 00:01:14,000
+And now it's up there.
+
+7
+00:01:14,000 --> 00:01:19,000
+So go check out the ChrisAbrahamShow.com and tell me what you think.
+
+8
+00:01:19,000 --> 00:01:38,000
+I was going to make this episode about my extreme acceleration with AI, but I was just listening to Malcolm Gladwell on the Oprah Winfrey podcast, and he apparently wrote a book about gun crime in America or crime in America.
+
+9
+00:01:38,000 --> 00:01:42,000
+And the first thing he said, I haven't even finished the episode, so I'm jumping the gun.
+
+10
+00:01:42,000 --> 00:01:47,000
+The first thing that he said
+
+11
+00:01:47,000 --> 00:01:53,000
+The first thing that he said was America doesn't have enough cops.
+
+12
+00:01:53,000 --> 00:01:54,000
+All right.
+
+13
+00:01:54,000 --> 00:01:59,000
+Even before he started talking about guns, he's like America doesn't have enough cops.
+
+14
+00:01:59,000 --> 00:02:04,000
+Germany has 17,000 cops.
+
+15
+00:02:04,000 --> 00:02:07,000
+Berlin has 17,000 cops.
+
+16
+00:02:07,000 --> 00:02:12,000
+And Los Angeles has, I don't know, 8,000 cops.
+
+17
+00:02:12,000 --> 00:02:13,000
+And
+
+18
+00:02:13,000 --> 00:02:40,000
+I lived in Berlin for three, almost four years and there were cops everywhere and they were constantly asking you for your papers and checking to see if you were there legally and sending you outside the country if you weren't and engaging with your life and pulling you over if you were riding a bicycle drunk and being rather engaged in having submachine guns on the
+
+19
+00:02:40,000 --> 00:02:50,000
+on the S-Bahn and the U-Bahn and being relatively ever present and walking, walking, walking, walking and being ubiquitous.
+
+20
+00:02:50,000 --> 00:02:56,000
+And the reason why that works is because nobody in Germany thinks all cops are ********.
+
+21
+00:02:56,000 --> 00:02:59,000
+Nobody believes that the government is their adversary.
+
+22
+00:02:59,000 --> 00:03:10,000
+Nobody expects anything to do with the relationship between the civilian and the police officer to require being sporting.
+
+23
+00:03:10,000 --> 00:03:12,000
+Right?
+
+24
+00:03:12,000 --> 00:03:18,000
+Being sporting is a big part of being a petty criminal in America.
+
+25
+00:03:18,000 --> 00:03:23,000
+It is a game of cat and mouse between the cops and the cons.
+
+26
+00:03:23,000 --> 00:03:37,000
+And Germany, if you dare try to ignore the red amplemann and you as an American decide to jaywalk or cross against the sign,
+
+27
+00:03:37,000 --> 00:03:46,000
+and not wait until your little Amplemann is walking and not a fat red Amplemann telling you to stop and not cross.
+
+28
+00:03:46,000 --> 00:03:57,000
+If you dare do it and there's no pigs around, everybody around you is going to tell you the same thing, which is you are being a bad role model for the children and how dare you.
+
+29
+00:03:57,000 --> 00:04:07,000
+So your fellow citizens are the first line of policing in Germany and in America,
+
+30
+00:04:07,000 --> 00:04:22,000
+Even good old American patriots think that the cops are pigs and all cops are ******** is something that's never been more prevalent in America and cops are called fascists.
+
+31
+00:04:22,000 --> 00:04:30,000
+In fact, it feels more like 1990 England when I lived in England and everybody was anti-cop in England.
+
+32
+00:04:30,000 --> 00:04:35,000
+But America's never been pro law enforcement, but I thought to myself,
+
+33
+00:04:35,000 --> 00:04:42,000
+I think that there's no such thing as a Republican who wouldn't want 10X more cops.
+
+34
+00:04:42,000 --> 00:04:53,000
+I think secretly there's no such thing as a Republican who is against flock cameras and CCTV and the Panopticon.
+
+35
+00:04:53,000 --> 00:05:03,000
+In fact, now everybody has been completely sold in the fact that body cams and
+
+36
+00:05:03,000 --> 00:05:14,000
+Generally speaking, ring cameras and dash cams on police vehicles and everything are the best thing in the entire world.
+
+37
+00:05:14,000 --> 00:05:21,000
+And I believe that I haven't listened to the entire episode, so this might be a two-part podcast.
+
+38
+00:05:21,000 --> 00:05:32,000
+I don't know if Malcolm Gladwell is going to explore the rate of gun crime and what the demographics are gun crime is.
+
+39
+00:05:32,000 --> 00:05:50,000
+and all these other things that tend to say that if certain demographics and certain populations in America, if you remove those demographics from the crime statistics, then America has some of the lowest gun crime rates in the entire world.
+
+40
+00:05:50,000 --> 00:05:51,000
+So nobody talks about that.
+
+41
+00:05:51,000 --> 00:05:59,000
+They talk about how scary guns are and how Malcolm Gladwell went to the range and shot
+
+42
+00:05:59,000 --> 00:06:12,000
+center mass on a paper target and had an existential crisis over the fact that he could have just turned at the range and shot the person next to him without any restriction?
+
+43
+00:06:12,000 --> 00:06:23,000
+Why do people feel like they need external, like are people so murderous that if you put a gun in their hand they're gonna spontaneously have demons tell them to shoot the person next to them?
+
+44
+00:06:23,000 --> 00:06:28,000
+I mean it's amazingly powerful, I was brought up with the same kind of programming
+
+45
+00:06:28,000 --> 00:06:30,000
+I didn't get my first firearm.
+
+46
+00:06:30,000 --> 00:06:42,000
+I got a Glock 23, which is a 40 caliber Smith and Wesson compact pistol on my 40th birthday, which is in 2010.
+
+47
+00:06:42,000 --> 00:06:44,000
+And I've been a gun owner ever since.
+
+48
+00:06:44,000 --> 00:06:51,000
+But the first time I started shooting, I got flop sweats.
+
+49
+00:06:51,000 --> 00:06:52,000
+I would steam up my glasses.
+
+50
+00:06:52,000 --> 00:06:54,000
+I would flop sweat.
+
+51
+00:06:54,000 --> 00:06:58,000
+I would not shake, but I would be heightened alert.
+
+52
+00:06:58,000 --> 00:07:00,000
+I would be high anxiety.
+
+53
+00:07:00,000 --> 00:07:04,000
+I'd be adrenaline for miles.
+
+54
+00:07:04,000 --> 00:07:10,000
+And, you know, I took courses and got my concealed carry and got training and so forth.
+
+55
+00:07:10,000 --> 00:07:12,000
+But
+
+56
+00:07:12,000 --> 00:07:23,000
+Mark was with me it was on my birthday I went out with Mark and we went out we bought a we bought my first my first firearm which was a Glock 23 40 caliber Gen.
+
+57
+00:07:23,000 --> 00:07:39,000
+3 I should have kept it it was perfect but now I don't even own it I sold it and but yeah I mean I don't think America has the same ethos of most other developed countries
+
+58
+00:07:39,000 --> 00:07:48,000
+I don't think, I think we're a death cult country, I think we're a violent country, I think we're a brutal country.
+
+59
+00:07:48,000 --> 00:08:08,000
+Where did I, I heard this on a podcast yesterday about, they were talking about Napoleon Bonaparte and they were talking about the English and they were talking about how the English didn't become globally dominant because they were nice.
+
+60
+00:08:08,000 --> 00:08:10,000
+I think America's not nice.
+
+61
+00:08:10,000 --> 00:08:18,000
+I think America doesn't consider longevity to be its number one goal of a life well lived.
+
+62
+00:08:18,000 --> 00:08:28,000
+I think people are willing to wear a culture that defines itself on Russian roulette.
+
+63
+00:08:28,000 --> 00:08:35,000
+In fact, we define our culture more on Russian roulette and risk aversion or risk
+
+64
+00:08:35,000 --> 00:09:04,000
+Pursuit more than just about any country consider to be in the developed world We're an all-or-nothing country that says things like better ruled by 12 of my peers and then then carried by six of my kin which is to say it's better to shoot someone who is threatening my life than it is to
+
+65
+00:09:04,000 --> 00:09:27,000
+to die and that killing is preferential to death but it certainly doesn't like in this country we don't care about longevity we don't care about general happiness we don't and by happiness our definition is even different with regards to happiness when I lived in Berlin
+
+66
+00:09:27,000 --> 00:09:30,000
+People's happiness was based on contentment.
+
+67
+00:09:30,000 --> 00:09:36,000
+When I lived in England, people's happiness was based on contentment.
+
+68
+00:09:36,000 --> 00:09:39,000
+When I lived in Holland, people were content.
+
+69
+00:09:39,000 --> 00:09:42,000
+They were content with the apartment that they had.
+
+70
+00:09:42,000 --> 00:09:46,000
+They were content with the car or the bicycle they had.
+
+71
+00:09:46,000 --> 00:09:52,000
+Very few people that I knew had anything like any real collections of things.
+
+72
+00:09:52,000 --> 00:09:57,000
+They would have one of everything that they needed and really not that more.
+
+73
+00:09:57,000 --> 00:10:18,000
+The avarice of desiring to become a collector or to upgrade or to do the equivalent of buying a 3 series and then buying a 5 series and then buying a 7 series and then buying an M BMW is not the aspiration.
+
+74
+00:10:18,000 --> 00:10:22,000
+The aspiration is getting a
+
+75
+00:10:22,000 --> 00:10:51,000
+a student three-speed pedal bicycle and wearing and running that until you literally destroy the brick saddle that you have it's an entirely different thing you're not a loser if you live in an apartment as opposed to owning a house it's a very different ethos and that ethos is really based in my humble opinion based on the concept of trust in government
+
+76
+00:10:51,000 --> 00:10:55,000
+In America, the government is your adversary.
+
+77
+00:10:55,000 --> 00:10:59,000
+In America, the IRS is your enemy.
+
+78
+00:10:59,000 --> 00:11:14,000
+In America, the only thing that America as total has in common with Jesus the Christ is a bona fide hatred for the tax collector.
+
+79
+00:11:14,000 --> 00:11:19,000
+Tax collecting is theft, according to most Americans.
+
+80
+00:11:19,000 --> 00:11:48,000
+it is not contributing to a pot that is used by anybody but ingrates and so nobody wants to pay any tax at all if humanly possible because it's just throwing good money after bad in England and in Germany and in Canada I guess there is a belief that um sorry it's a diesel truck
+
+81
+00:11:48,000 --> 00:11:51,000
+There is a belief that the government is your daddy.
+
+82
+00:11:51,000 --> 00:11:53,000
+The government is a caretaker.
+
+83
+00:11:53,000 --> 00:11:55,000
+The government wants what's best for you.
+
+84
+00:11:55,000 --> 00:12:00,000
+And it's a real deep down belief in that.
+
+85
+00:12:00,000 --> 00:12:13,000
+And anything that gets in the way of that, anything that harms that, anything that harms the sanctity of the marriage between the people in the state are attacked with daggers out.
+
+86
+00:12:13,000 --> 00:12:16,000
+And that's not an ethos in America.
+
+87
+00:12:16,000 --> 00:12:26,000
+The only reason that 10X more cops would be preferable is because nobody cares about prisons.
+
+88
+00:12:26,000 --> 00:12:32,000
+They care about safe streets and they care about not being afraid.
+
+89
+00:12:32,000 --> 00:12:39,000
+And they also take it very seriously that nobody's coming to help you.
+
+90
+00:12:39,000 --> 00:12:44,000
+In America, we literally have slogans such as
+
+91
+00:12:44,000 --> 00:12:46,000
+Nobody's coming to get you.
+
+92
+00:12:46,000 --> 00:12:48,000
+Nobody's coming to save you.
+
+93
+00:12:48,000 --> 00:12:50,000
+Nobody's coming to help you.
+
+94
+00:12:50,000 --> 00:12:54,000
+And you need to have your own med kit.
+
+95
+00:12:54,000 --> 00:12:57,000
+You need to have your own stop the bleed kit.
+
+96
+00:12:57,000 --> 00:13:02,000
+You have to have your own Narcan kit.
+
+97
+00:13:02,000 --> 00:13:06,000
+You need to have your own insurance.
+
+98
+00:13:06,000 --> 00:13:08,000
+You need to have your own doctor.
+
+99
+00:13:08,000 --> 00:13:13,000
+You need to have your own vehicle.
+
+100
+00:13:13,000 --> 00:13:23,000
+And you need to have your own way of defending yourself, whether it's an on-person concealed carry firearm.
+
+101
+00:13:23,000 --> 00:13:30,000
+And don't forget, 29 states are concealed carry positive states.
+
+102
+00:13:30,000 --> 00:13:34,000
+And in this country, we call those states free states.
+
+103
+00:13:34,000 --> 00:13:38,000
+And I don't know how many of those 29, I think 29
+
+104
+00:13:38,000 --> 00:13:44,000
+are constitutional carry, which is you don't even have to have a concealed carry permit.
+
+105
+00:13:44,000 --> 00:13:59,000
+Although I think that there might be two tiers of laws even in constitutional carry states where you can carry without a concealed carry permit, but it's preferable.
+
+106
+00:13:59,000 --> 00:14:06,000
+And if you have a concealed carry permit, you might have reciprocity with other states.
+
+107
+00:14:06,000 --> 00:14:27,000
+And you're as likely to wander into anybody of any demographic with a little Smith and Wesson 340 PD, 357 J-frame revolver in their purse, in their pocket.
+
+108
+00:14:27,000 --> 00:14:29,000
+They might have a Glock 26.
+
+109
+00:14:29,000 --> 00:14:35,000
+They probably have a SIG
+
+110
+00:14:35,000 --> 00:15:05,000
+P365 or a Ruger LCP Max or a Bodyguard 2.0 380, when I concealed carry-- and I'm not concealed carrying at the moment-- I would always have a little .32 caliber ACP P32 Kel-Tec that I lovingly-- what is the term they call it-- fluff and buffed?
+
+111
+00:15:05,000 --> 00:15:08,000
+because Kel-Tecs are notoriously unreliable.
+
+112
+00:15:08,000 --> 00:15:12,000
+But I had a little clip, a little belt clip built into it that you can attach.
+
+113
+00:15:12,000 --> 00:15:20,000
+And I had a little thing called a Mick, which is a Kydex kind of a clippy plastic thing.
+
+114
+00:15:20,000 --> 00:15:21,000
+You know Kydex.
+
+115
+00:15:21,000 --> 00:15:29,000
+Kydex is the material that when you're on an airplane, it is the material that the walls of the airplanes are made of.
+
+116
+00:15:29,000 --> 00:15:35,000
+Anyway, they form it, heat form it to make little
+
+117
+00:15:35,000 --> 00:16:04,000
+holsters and a MIC MIC is a holster that they use to just cover the to just cover the the trigger so I would have it just without it without a holster clipped onto my belt with the MIC attached to the trigger guard and then a paracord tether that would be attached to the MIC and then wrapped around my belt loop so
+
+118
+00:16:04,000 --> 00:16:19,000
+I'm sorry I jumped the gun I'm gonna post this podcast and then I'll listen to the second-half of the Oprah Winfrey podcast with oh and by the way I love Tipping Point.
+
+119
+00:16:19,000 --> 00:16:34,000
+Tipping Point was actually my first entree into that kind of intellectual and I know well actually my first entree into that kind of intellectual was Cosmos by Carl Sagan but into the
+
+120
+00:16:34,000 --> 00:16:38,000
+entrance into the fashionable elitist book.
+
+121
+00:16:38,000 --> 00:16:41,000
+Tipping Point was my first one.
+
+122
+00:16:41,000 --> 00:16:55,000
+I think it was in the 90s and so I have a real soft spot in my heart but it's really funny to be scolded by a Canadian and then being and the guy who was interviewing him which was an Oprah
+
+123
+00:16:55,000 --> 00:16:57,000
+He was like, Oh my God, I've never touched a gun.
+
+124
+00:16:57,000 --> 00:16:58,000
+Oh my God, I would never.
+
+125
+00:16:58,000 --> 00:17:00,000
+Oh my God, I would never go to the range.
+
+126
+00:17:00,000 --> 00:17:02,000
+Oh my God, how did it feel?
+
+127
+00:17:02,000 --> 00:17:10,000
+Oh my God, how did it feel like shooting a piece of paper that was the size of someone's chest and actually getting it in the middle?
+
+128
+00:17:10,000 --> 00:17:15,000
+Oh my God, did you visualize that that was someone, that you could have killed someone?
+
+129
+00:17:15,000 --> 00:17:17,000
+Oh my God.
+
+130
+00:17:17,000 --> 00:17:25,000
+And he's like, and I imagined, my God, nobody was keeping me from turning around and shooting the person next to me.
+
+131
+00:17:25,000 --> 00:17:32,000
+Dude, that says a lot more about your psychosis and your.
+
+132
+00:17:32,000 --> 00:17:41,000
+and your belief of other people and their inability to have impulse control than it says about the nature of guns and guns crime and so forth.
+
+133
+00:17:41,000 --> 00:17:53,000
+And I don't know if he mentions the paradox that any time there is a gun crime, it sells a million more Glock handguns because Glock 19 or Glock
+
+134
+00:17:53,000 --> 00:18:05,000
+or I guess maybe P365 or whatever they tell you to get, LCP, Max, I don't know, Walther, is the first thing that people do.
+
+135
+00:18:05,000 --> 00:18:16,000
+I remember myself, and I'm sorry I'm running 100 miles per hour, I haven't done a podcast in forever and I forgot how much I love it, the first time I ever became aware
+
+136
+00:18:16,000 --> 00:18:38,000
+about the gun issue in America was I was driving cross country at the exact moment when Gabby Giffords was shot by a Glock 19 by a person with a Glock 19 and Gabby Giffords has been known to say that she's a gun owner before she was shot she's like I'm a proud gun owner
+
+137
+00:18:38,000 --> 00:18:40,000
+I own a Glock 19.
+
+138
+00:18:40,000 --> 00:18:42,000
+I carry a Glock 19.
+
+139
+00:18:42,000 --> 00:18:44,000
+I'm trained with a Glock 19.
+
+140
+00:18:44,000 --> 00:18:46,000
+And she was shot by the same gun that she owns.
+
+141
+00:18:46,000 --> 00:18:50,000
+The Glock 19 is the most popular gun in American history.
+
+142
+00:18:50,000 --> 00:18:51,000
+I have a Gen.
+
+143
+00:18:51,000 --> 00:18:53,000
+2 Glock 19, and I have a Gen.
+
+144
+00:18:53,000 --> 00:19:04,000
+1 Glock 17, and they're both police guns that I got off the used market when the DC police force
+
+145
+00:19:04,000 --> 00:19:18,000
+returned guns for upgrades those guns actually go into the gun show and the surplus market so both of my guns were previously owned by DC police officers Gen.
+
+146
+00:19:18,000 --> 00:19:24,000
+1 Glock 17 which is like the first year that Glocks were ever sold and then a Gen.
+
+147
+00:19:24,000 --> 00:19:32,000
+2 Glock 19 which was the first generation that the Glock 19 came out so
+
+148
+00:19:32,000 --> 00:19:33,000
+They're hard to carry.
+
+149
+00:19:33,000 --> 00:19:34,000
+I wouldn't carry them very often.
+
+150
+00:19:34,000 --> 00:19:39,000
+I mostly would just carry 32, the Kel-Tec P32.
+
+151
+00:19:39,000 --> 00:19:57,000
+Or when I went out with friends who were not gun friendly, I have a beautiful bespoke gun called the C-Camp, S-E-E-C-A-M-P, LWS-32 that I had made for me.
+
+152
+00:19:57,000 --> 00:20:01,000
+And the serial number is CHR1S.
+
+153
+00:20:01,000 --> 00:20:06,000
+And it is literally the smallest handgun you can get.
+
+154
+00:20:06,000 --> 00:20:08,000
+It is .32 caliber ACP.
+
+155
+00:20:08,000 --> 00:20:12,000
+If you look it up, it's so wee and so itsy.
+
+156
+00:20:12,000 --> 00:20:20,000
+And yeah, I would carry that in an ankle holster under boot cut jeans and nobody would know.
+
+157
+00:20:20,000 --> 00:20:28,000
+And that's the thing, with the concealed carry permit, you make an agreement with the sheriff.
+
+158
+00:20:28,000 --> 00:20:31,000
+that I will never let anybody know that I'm carrying.
+
+159
+00:20:31,000 --> 00:20:43,000
+It's a super duper secret between you and the police and the sheriff who gives you the concealed carry permit that you're not supposed to let anybody know that you're carrying.
+
+160
+00:20:43,000 --> 00:20:49,000
+It's your own little secret.
+
+161
+00:20:49,000 --> 00:21:00,000
+It's the -- I was going to make an untour joke about not telling anybody you're wearing a **** **** but I would never make a joke like that.
+
+162
+00:21:00,000 --> 00:21:10,000
+So it's really interesting, like none of the, none of the, what is the term?
+
+163
+00:21:10,000 --> 00:21:24,000
+The term is, none of the priorities, here comes some massive,
+
+164
+00:21:24,000 --> 00:21:43,000
+I don't know, you're probably going to be hit by sirens in a few seconds, but none of the things that Europe or Canada or Japan, none of the things that those countries value are valued by the American population.
+
+165
+00:21:43,000 --> 00:21:52,000
+Only the Europhiles and the Anglophiles and the Canadiophiles and the urbane urban people care about that.
+
+166
+00:21:52,000 --> 00:21:53,000
+Other than that,
+
+167
+00:21:53,000 --> 00:22:05,000
+the all the things that are considered highlights for what a good life is lived are not things that Americans hold dear.
+
+168
+00:22:05,000 --> 00:22:09,000
+So that's the biggest mistake.
+
+169
+00:22:09,000 --> 00:22:25,000
+The biggest mistake is that everything that Europe and Canada and Australia and New Zealand consider to be
+
+170
+00:22:25,000 --> 00:22:38,000
+Definitions of a modern, liberal, democratic life are things that at least 50% of Americans don't consider to be even interesting.
+
+171
+00:22:38,000 --> 00:22:40,000
+There's 0 collectivism.
+
+172
+00:22:40,000 --> 00:22:46,000
+Here it comes.
+
+173
+00:22:46,000 --> 00:22:49,000
+Oh my God, what's happening?
+
+174
+00:22:49,000 --> 00:23:02,000
+I think I might not run this through Adobe Enhance because I think I like having the background noise.
+
+175
+00:23:02,000 --> 00:23:06,000
+Can you hear it?
+
+176
+00:23:06,000 --> 00:23:12,000
+Yeah, and we're also drastically personal responsibility focused.
+
+177
+00:23:12,000 --> 00:23:15,000
+We're personal responsibility absolutists.
+
+178
+00:23:15,000 --> 00:23:18,000
+We are free speech absolutists.
+
+179
+00:23:18,000 --> 00:23:30,000
+We're personal responsibility extremists, which is why the **** around and find out is FAFO is such something at the
+
+180
+00:23:30,000 --> 00:23:47,000
+the tip of everyone's tongue and why there's not a lot of compassion for people who go out of their way to push against the system and then get punched in the nose and then cry about it.
+
+181
+00:23:47,000 --> 00:24:12,000
+which is why there also seems to be very little compassion for people who enter into a dangerous environment, like a protest that's mostly peaceful, and then they're surprised when they get an eye knocked out with a rubber bullet or they get on a ventilator because of pepper spray or when they literally get shot because they've climbed the escalation ladder too much.
+
+182
+00:24:12,000 --> 00:24:13,000
+And that's the paradox.
+
+183
+00:24:13,000 --> 00:24:17,000
+The paradox is, You're not the boss of me.
+
+184
+00:24:17,000 --> 00:24:37,000
+and all cops are ******** and the paradox is you do not exert any control over me you pig ends up climbing the escalation ladder pretty fast and because cops are not superheroes they will escalate along with you.
+
+185
+00:24:37,000 --> 00:24:46,000
+It is not their requirement for them to get hurt in order to keep you safe.
+
+186
+00:24:46,000 --> 00:24:57,000
+It's just a job and they want to make their 20 years and it's nothing at all like it is on television or in novels or in books or in movies.
+
+187
+00:24:57,000 --> 00:25:09,000
+Some people have a noble vocation, but the noble vocation is generally an attempt to protect your partner.
+
+188
+00:25:09,000 --> 00:25:12,000
+It's the same vibe as an American soldier.
+
+189
+00:25:12,000 --> 00:25:14,000
+I'm fighting out here for the men next to me.
+
+190
+00:25:14,000 --> 00:25:20,000
+I'm not fighting out here for the person who I'm putting in cuffs.
+
+191
+00:25:20,000 --> 00:25:24,000
+Which is why to protect and serve is ultimately such a lie.
+
+192
+00:25:24,000 --> 00:25:38,000
+And the worst thing in the world is that's what's on the side of the LA police cars, and that's what everybody sees when they watch television and movies, to protect and serve.
+
+193
+00:25:38,000 --> 00:25:42,000
+They're not there to protect you, and they're not there to serve you.
+
+194
+00:25:42,000 --> 00:25:47,000
+They're there to exert force.
+
+195
+00:25:47,000 --> 00:25:52,000
+They're there to exert emotional and reputational force.
+
+196
+00:25:52,000 --> 00:25:59,000
+They're there to signify that the law and order is being supported in this environment.
+
+197
+00:25:59,000 --> 00:26:03,000
+They're there to respond to antisocial behavior.
+
+198
+00:26:03,000 --> 00:26:15,000
+And they're there to remove people who are exerting antisocial behavior and remove them from the street and bring them to a local jail or to prison.
+
+199
+00:26:15,000 --> 00:26:21,000
+It's the only reason they exist.
+
+200
+00:26:21,000 --> 00:26:31,000
+Yesterday, I missed it, but at 1100 hours here at the Starbucks on Penrose Square, they had a meet and greet coffee hour with the local Arlington police.
+
+201
+00:26:31,000 --> 00:26:38,000
+And although I didn't attend this one, I went to one at Idito's five or six years ago, and everybody was lovely.
+
+202
+00:26:38,000 --> 00:26:41,000
+Everybody had brand new Glocks, Gen.
+
+203
+00:26:41,000 --> 00:26:47,000
+5 Glocks with red dots.
+
+204
+00:26:47,000 --> 00:26:59,000
+The detectives all had Glock 19s and Glock 26s with red dots, and all the cop cops had Glock 17 and Glock 34s with red dots.
+
+205
+00:26:59,000 --> 00:27:04,000
+And I believe they were all running RMRs.
+
+206
+00:27:04,000 --> 00:27:07,000
+Yeah, they were all running RMRs.
+
+207
+00:27:07,000 --> 00:27:17,000
+Which is to say like cutting edge, cutting edge gear because everybody here is extremely highly funded.
+
+208
+00:27:17,000 --> 00:27:23,000
+But there's not a lot of antisocial behavior in even sexy South Arlington.
+
+209
+00:27:23,000 --> 00:27:28,000
+10 years ago, my neighborhood was relatively challenging.
+
+210
+00:27:28,000 --> 00:27:32,000
+But now it's completely multi-culty still.
+
+211
+00:27:32,000 --> 00:27:37,000
+It's literally the manifestation of the many colors of Benetton.
+
+212
+00:27:37,000 --> 00:27:40,000
+In fact, oh my God, there's a barista at Starbucks.
+
+213
+00:27:40,000 --> 00:27:41,000
+Her name's Alex.
+
+214
+00:27:41,000 --> 00:27:42,000
+She's amazing.
+
+215
+00:27:42,000 --> 00:27:45,000
+Today's the first time I really got to talk to her.
+
+216
+00:27:45,000 --> 00:27:52,000
+And she loves the job so much, even though she actually works at a nonprofit.
+
+217
+00:27:52,000 --> 00:27:58,000
+But every Sunday at 9 a.m., she works at a local church.
+
+218
+00:27:58,000 --> 00:28:27,000
+and there's free Spanish language classes for for us us what's the awesome slur yankee not yankee there's another word for it but anyway she's a Bolivian and I tried to chatter up on Bolivar who's one of my favorite people Simone Bolivar but yeah
+
+219
+00:28:27,000 --> 00:28:38,000
+I think this Sunday I'm going to go get free Spanish lessons, so my relationship with all my Salvadorian, Guatemalan, and Honduran friends isn't.
+
+220
+00:28:38,000 --> 00:28:55,000
+Toro bien, que tal, hace color, si, tambien, claro que si, espero que si, don de esta, la biblioteca, don de esta albano.
+
+221
+00:28:55,000 --> 00:28:57,000
+Gracias amigo.
+
+222
+00:28:57,000 --> 00:29:01,000
+Gracias el senor.
+
+223
+00:29:01,000 --> 00:29:07,000
+And hopefully I will be more conversational and I can figure out the conversations that I'm just nodding to.
+
+224
+00:29:07,000 --> 00:29:18,000
+And hopefully within the next couple of years, I'll be conversationally fluent and espanol espero quesi.
+
+225
+00:29:18,000 --> 00:29:23,000
+Anyway, I thought it was adorable.
+
+226
+00:29:23,000 --> 00:29:25,000
+I just don't carry now.
+
+227
+00:29:25,000 --> 00:29:38,000
+I'm thinking about selling all of my firearms and just boiling it down to the aforementioned Smith and Wesson 340 PD and just becoming a J frame revolver guy.
+
+228
+00:29:38,000 --> 00:29:43,000
+Running 38 caliber five rounds in a pocket holster.
+
+229
+00:29:43,000 --> 00:29:47,000
+That's what I think I might end up becoming that guy.
+
+230
+00:29:47,000 --> 00:29:52,000
+Even if I sell all my firearms to the local gun shop, I think I just might keep
+
+231
+00:29:52,000 --> 00:30:16,000
+The perfect in-between gun, which is nobody's favorite firearm, which is a car CM9, which is a nine millimeter pocket firearm, one of the smallest and narrowest super nine micro compact.
+
+232
+00:30:16,000 --> 00:30:23,000
+This is a local dude who's got, what is it called?
+
+233
+00:30:23,000 --> 00:30:25,000
+What's the thing that Adam Curry has?
+
+234
+00:30:25,000 --> 00:30:27,000
+He has a...
+
+235
+00:30:27,000 --> 00:30:33,000
+What's the thing where you yell out spontaneously?
+
+236
+00:30:33,000 --> 00:30:34,000
+He has that.
+
+237
+00:30:34,000 --> 00:30:44,000
+But he's a local guy who calls out spontaneously and he's very cool.
+
+238
+00:30:44,000 --> 00:30:45,000
+Oh, what's the term?
+
+239
+00:30:45,000 --> 00:30:47,000
+I completely forget.
+
+240
+00:30:47,000 --> 00:30:51,000
+Anyway, so here's my episode one of season 11.
+
+241
+00:30:51,000 --> 00:31:01,000
+It could have been all about my little BB and my little black box and my little clawed code and the $175 I've spent creating three websites.
+
+242
+00:31:01,000 --> 00:31:09,000
+I've completely created a microsite for garriscorp.com, G-E-R-R-I-S-C-O-R-P.com.
+
+243
+00:31:09,000 --> 00:31:11,000
+I created a microsite.
+
+244
+00:31:11,000 --> 00:31:16,000
+I have chrisabraham.com, but it's a super old plone site.
+
+245
+00:31:16,000 --> 00:31:23,000
+So because when I do freelancing on Upwork, my name is Christopher Abraham.
+
+246
+00:31:23,000 --> 00:31:29,000
+I took ChristopherAbraham.com and I created a microsite.
+
+247
+00:31:29,000 --> 00:31:46,000
+And I also created a microsite for my bad spy novel called Hillmole, H-I-L-L-M-O-L-E.com, and I created a microsite
+
+248
+00:31:46,000 --> 00:31:51,000
+for my podcast, the ChrisAbrahamShow.com.
+
+249
+00:31:51,000 --> 00:32:13,000
+And so I have it set up on GitHub pages and when this goes live on Spotify for Creators and throws the episode to RSS, the GitHub is going to sniff this and it's going to grab
+
+250
+00:32:13,000 --> 00:32:18,000
+the bespoke cover art that I create and it's gonna throw it onto the site.
+
+251
+00:32:18,000 --> 00:32:25,000
+So if you end up, oh my God, that's something I need to do.
+
+252
+00:32:25,000 --> 00:32:36,000
+I need to tell Claude code to make it so that people can subscribe to the RSS on
+
+253
+00:32:36,000 --> 00:32:37,000
+It's probably already there.
+
+254
+00:32:37,000 --> 00:32:46,000
+I'll check to make sure that RSS, RSS2, and XML and all those other things are available so people can subscribe.
+
+255
+00:32:46,000 --> 00:32:50,000
+And I'll make sure that
+
+256
+00:32:50,000 --> 00:32:52,000
+Oh my God, I need to do this too.
+
+257
+00:32:52,000 --> 00:33:00,000
+I need to make sure that my the Chris Abraham show.com needs to be set up as a podcast container.
+
+258
+00:33:00,000 --> 00:33:11,000
+Even though the podcast is not on the site, I also need to be need to have it so that it has container so that it'll be recognized as a podcast site, et cetera, et cetera, et cetera.
+
+259
+00:33:11,000 --> 00:33:17,000
+So thanks for reminding me the next episode, episode two will be that.
+
+260
+00:33:17,000 --> 00:33:31,000
+But I guarantee you more that I'm going to do episode two later today, and it's going to be about the second-half of the Oprah Winfrey thing because I jumped the gun because I have a lot of thoughts on gun control in America.
+
+261
+00:33:31,000 --> 00:33:37,000
+And I hate to say it, but I am just like a pro-choice voter.
+
+262
+00:33:37,000 --> 00:33:41,000
+I only vote pro-Second Amendment.
+
+263
+00:33:41,000 --> 00:33:47,000
+And so I don't make any other choices except I always vote for the person who's pro-Second Amendment.
+
+264
+00:33:47,000 --> 00:33:56,000
+because in America since 2020, freedom of speech is a dead canary in the coal mine.
+
+265
+00:33:56,000 --> 00:34:03,000
+So the only way I can tell my backup canary is the Second Amendment.
+
+266
+00:34:03,000 --> 00:34:10,000
+So as long as the Second Amendment is strong in America, America is still quasi-free.
+
+267
+00:34:10,000 --> 00:34:18,000
+So my plan A was the
+
+268
+00:34:18,000 --> 00:34:25,000
+The canary of the coal mine used to be the First Amendment, but now the backup is the Second Amendment.
+
+269
+00:34:25,000 --> 00:34:29,000
+So my canary packs heat, yo.
+
+270
+00:34:29,000 --> 00:34:31,000
+Anyway, you can follow me anywhere.
+
+271
+00:34:31,000 --> 00:34:33,000
+Just type The Chris Abraham Show.
+
+272
+00:34:33,000 --> 00:34:35,000
+I'm on Spotify.
+
+273
+00:34:35,000 --> 00:34:41,000
+I now have a website, thechrisabrahamshow.com.
+
+274
+00:34:41,000 --> 00:34:45,000
+I'm on YouTube because automagically
+
+275
+00:34:45,000 --> 00:35:14,000
+my latest episodes get uploaded to YouTube and I'm on everything else I'm on Spotify I'm on I'm on Apple I'm on Apple podcast this episode will immediately go on to Apple podcast and it'll be automatically uploaded onto my website as well so I hope you come back on board I hope you enjoy it and I would love
+
+276
+00:35:14,000 --> 00:35:24,000
+you to subscribe and like and give me 5 stars and give me thumbs up and let me know what you would like me to talk about.
+
+277
+00:35:24,000 --> 00:35:26,000
+I really appreciate you and I'll talk to you soon.
+
+278
+00:35:26,000 --> 00:35:30,000
+Mahalo.
+
+279
+00:35:30,000 --> 00:35:33,000
+Thank you for listening to the Chris Abraham Show.
+
+280
+00:35:33,000 --> 00:35:36,000
+Make sure you subscribe so you don't miss any future episodes.
+
+281
+00:35:36,000 --> 00:35:40,000
+Until next time.
