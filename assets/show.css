@@ -214,3 +214,7 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .transcript details[open] summary { margin-bottom: 1.25rem; }
 .linkish { font: inherit; color: var(--link); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
 .linkish[hidden] { display: none; }
+
+/* Touch targets: at least 24px tall, with room between neighbors (WCAG 2.5.8). */
+.listen a, .entry-nav a, .site-nav a, .sidebar a, .toc a, .linkish { display: inline-block; min-height: 24px; line-height: 24px; padding: 2px 0; }
+.sidebar .feeds { line-height: 1.9; }
