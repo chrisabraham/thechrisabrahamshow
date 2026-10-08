@@ -366,7 +366,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
         for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Colophon", "/colophon.html"))))
     head = [
-        '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">',
+        '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
         '<script>try{if(localStorage.getItem("tcas-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")}catch(e){}</script>',
         '<title>%s</title>' % e(title),
@@ -449,6 +449,17 @@ THEME_SCRIPT = """<script>
 </script>"""
 
 SIDEBAR = FIRST_YEAR = LAST_YEAR = ""
+
+# Google Analytics 4 (Chris's property), as Google gives it.
+GA4 = """<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WQGSJJEDKP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WQGSJJEDKP');
+</script>"""
 
 ROBOTS = """# Search engines and AI assistants are welcome to read and cite everything here.
 #
