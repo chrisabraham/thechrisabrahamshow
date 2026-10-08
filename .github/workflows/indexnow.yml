@@ -1,0 +1,26 @@
+# Pings IndexNow after a push made by hand. The daily update workflow pings
+# on its own, because pushes made with the workflow token don't start this one.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: ["episodes/**"]
+  workflow_dispatch:
+    inputs:
+      all:
+        description: Submit every URL in the sitemap
+        type: boolean
+        default: false
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Submit changed URLs
+        run: |
+          if [ "${{ inputs.all }}" = "true" ]; then
+            python3 .github/indexnow.py --all
+          else
+            python3 .github/indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
+          fi

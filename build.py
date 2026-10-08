@@ -39,6 +39,7 @@ TRANSCRIPTS = os.path.join(DATA, "transcripts")
 NS = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
       "podcast": "https://podcastindex.org/namespace/1.0"}
 UA = {"User-Agent": "thechrisabrahamshow.com site builder"}
+INDEXNOW_KEY = "3839412712300d0a246eead73969e20b"  # served at /<key>.txt; .github/indexnow.py submits with it
 # Where to listen. Each link was checked live in October 2026.
 LISTEN = [
     ("Spotify", SPOTIFY_SHOW),
@@ -772,6 +773,7 @@ def build(show, eps):
         full += ["## %s" % ep["title"], "", "Episode %d of %d, %s. %s/%s" % (i + 1, total, nice(when(ep)), SITE, ep["path"]), "", plain(fixed(ep["description"])) or "(No show notes.)", ""]
     write("llms-full.txt", "\n".join(full))
     write("CNAME", "thechrisabrahamshow.com\n")
+    write(INDEXNOW_KEY + ".txt", INDEXNOW_KEY)
     write(".nojekyll", "")
 
 
