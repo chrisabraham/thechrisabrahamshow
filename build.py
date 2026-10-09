@@ -39,7 +39,7 @@ IMAGES = os.path.join(ROOT, "assets", "images")
 TRANSCRIPTS = os.path.join(DATA, "transcripts")
 NS = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
       "podcast": "https://podcastindex.org/namespace/1.0"}
-UA = {"User-Agent": "thechrisabrahamshow.com site builder"}
+UA = {"User-Agent": "thechrisabrahamshow.com site builder", "Cache-Control": "no-cache"}
 INDEXNOW_KEY = "3839412712300d0a246eead73969e20b"  # served at /<key>.txt; .github/indexnow.py submits with it
 # Where to listen. Each link was checked live in October 2026.
 LISTEN = [
@@ -843,7 +843,8 @@ def main():
     saved = json.load(open(store)) if os.path.exists(store) else {"show": {}, "episodes": []}
     show, eps = saved["show"], saved["episodes"]
     if not offline:
-        show, fresh = parse_feed(get(FEED))
+        # Spotify's CDN can hand out a stale copy; ask for a fresh one every time.
+        show, fresh = parse_feed(get("%s?fresh=%d" % (FEED, int(time.time()))))
         # Fail loudly (a red X and an email) rather than publish a broken feed.
         if not show["title"] or not fresh or len(fresh) < 0.9 * len(eps):
             sys.exit("Feed looks wrong: %d episodes in the feed, %d already on the site. Nothing published." % (len(fresh), len(eps)))
