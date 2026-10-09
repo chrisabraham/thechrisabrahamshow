@@ -181,7 +181,8 @@ def cache_image(url, name, size=800):
 
 def show_assets(url):
     """Show artwork (Chris's cover, committed as show.jpg; the feed art is the
-    fallback), favicons, the 700x206 banner and the share card, made once."""
+    fallback), favicons and the share card, made once. The banner
+    (banner-700.webp and banner-1400.webp) was designed separately and is committed."""
     from PIL import Image, ImageFilter, ImageEnhance
     art = os.path.join(IMAGES, "show.jpg")
     if not os.path.exists(art):
@@ -193,13 +194,6 @@ def show_assets(url):
         p = os.path.join(IMAGES, name)
         if not os.path.exists(p):
             im.resize((px, px), Image.LANCZOS).save(p, optimize=True)
-    banner = os.path.join(IMAGES, "banner.jpg")
-    if not os.path.exists(banner):
-        W, H = 1400, 412  # 2x of the 700x206 Hill Mole banner
-        bg = im.resize((W, W), Image.LANCZOS).crop((0, (W - H) // 2, W, (W + H) // 2))
-        bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(28))).enhance(.55)
-        bg.paste(im.resize((H, H), Image.LANCZOS), ((W - H) // 2, 0))
-        bg.save(banner, "JPEG", quality=84, optimize=True, progressive=True)
     card = os.path.join(IMAGES, "card.jpg")
     if not os.path.exists(card):
         W, H = 1200, 630
@@ -420,7 +414,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
     head.append("</head>")
     return "\n".join(head + [
         "<body>", '<a class="skip" href="#content">Skip to the content</a>', '<div id="container">', '  <header id="banner">',
-        '    <a href="/" accesskey="1"><img src="/assets/images/banner.jpg" alt="The Chris Abraham Show: home" width="700" height="206"></a>',
+        '    <a href="/" accesskey="1"><img src="/assets/images/banner-700.webp" srcset="/assets/images/banner-700.webp 700w, /assets/images/banner-1400.webp 1400w" sizes="(min-width: 700px) 700px, 100vw" alt="The Chris Abraham Show: home" width="700" height="240"></a>',
         '    <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>',
         "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content" id="content">',
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
