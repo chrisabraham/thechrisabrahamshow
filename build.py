@@ -572,12 +572,15 @@ def build(show, eps):
         return '<p class="date">%s</p>' % " · ".join(bits)
 
     def nav(i):
-        parts = ['<a href="/%s">First</a>' % first["path"]]
+        # Each link names its episode for screen readers and crawlers; the visible labels stay short.
+        def named(ep):
+            return '<span class="visually-hidden">: %s</span>' % e(ep["title"])
+        parts = ['<a href="/%s">First%s</a>' % (first["path"], named(first))]
         if i > 0:
-            parts.append('<a href="/%s" rel="prev">&laquo; Previous</a>' % eps[i - 1]["path"])
+            parts.append('<a href="/%s" rel="prev">&laquo; Previous%s</a>' % (eps[i - 1]["path"], named(eps[i - 1])))
         if i < total - 1:
-            parts.append('<a href="/%s" rel="next">Next &raquo;</a>' % eps[i + 1]["path"])
-        parts.append('<a href="/%s">Latest</a>' % latest["path"])
+            parts.append('<a href="/%s" rel="next">Next%s &raquo;</a>' % (eps[i + 1]["path"], named(eps[i + 1])))
+        parts.append('<a href="/%s">Latest%s</a>' % (latest["path"], named(latest)))
         return '<nav class="entry-nav" aria-label="Episodes">\n  %s\n</nav>' % " |\n  ".join(parts)
 
     alts = json.load(open(os.path.join(DATA, "alts.json"))) if os.path.exists(os.path.join(DATA, "alts.json")) else {}
