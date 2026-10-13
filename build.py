@@ -313,6 +313,56 @@ class Clean(HTMLParser):
             self.out.append(e(data, quote=False))
 
 
+AFFILIATE = json.load(open(os.path.join(DATA, "affiliate.json"))) if os.path.exists(os.path.join(DATA, "affiliate.json")) else {"tag": "", "items": []}
+TAG = AFFILIATE["tag"]
+DISCLOSURE = '<p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>'
+
+
+def amazon_url(item):
+    if item.get("asin"):
+        return "https://www.amazon.com/dp/%s?tag=%s" % (item["asin"], TAG)
+    return "https://www.amazon.com/s?k=%s&tag=%s" % (urllib.parse.quote_plus(item["search"]), TAG)
+
+
+def _pattern(item):
+    words = re.escape(e(item["match"], quote=False)).replace("'", "['’]").replace("\\ ", "\\s+")
+    return re.compile(r"(?<![\w&])%s(?![\w])" % words, re.I if item.get("ci") else 0)
+
+
+for _it in AFFILIATE["items"]:
+    _it["re"] = _pattern(_it)
+
+
+def tag_amazon(h):
+    """Every Amazon link in the notes carries Chris' Associates tag and rel="sponsored"."""
+    def fix(m):
+        url = html.unescape(m.group(1))
+        short = {"https://amzn.to/1Pny8kw": "B00CHB9DVM", "https://a.co/d/bdx9hOR": "B0DD7VZJJB"}  # old tag, no tag
+        if url in short:
+            url = "https://www.amazon.com/dp/%s?tag=%s" % (short[url], TAG)
+        elif re.match(r"https?://(www\.)?amazon\.com/", url) and "tag=" not in url:
+            url += ("&" if "?" in url else "?") + "tag=" + TAG
+        return '<a href="%s" rel="sponsored noopener">' % e(url)
+    return re.sub(r'<a href="(https?://(?:www\.)?(?:amazon\.com|amzn\.to|a\.co)/[^"]*)">', fix, h)
+
+
+def affiliate(h):
+    """Link the first mention of each product in a piece of HTML, outside existing links and tags."""
+    used = set()
+    parts = re.split(r"(<a\b.*?</a>|<[^>]+>)", h, flags=re.S)
+    for i in range(0, len(parts), 2):
+        text = parts[i]
+        for n, it in enumerate(AFFILIATE["items"]):
+            if n in used:
+                continue
+            m = it["re"].search(text)
+            if m and not re.search(r"<a\b[^>]*>[^<]*$", text[:m.start()]):
+                used.add(n)
+                text = text[:m.start()] + '<a href="%s" rel="sponsored noopener">%s</a>' % (e(amazon_url(it)), m.group(0)) + text[m.end():]
+        parts[i] = text
+    return "".join(parts)
+
+
 def clean_html(s):
     if not re.search(r"<[a-zA-Z]", s):  # plain text notes: make paragraphs
         return "".join("<p>%s</p>" % e(p).replace("\n", "<br>") for p in re.split(r"\n\s*\n", s) if p.strip())
@@ -644,7 +694,9 @@ def build(show, eps):
 
     def episode_block(i, ep, heading):
         n = i + 1
-        notes = clean_html(fixed(ep["description"])) or "<p>No show notes for this episode.</p>"
+        notes = affiliate(tag_amazon(clean_html(fixed(ep["description"])))) or "<p>No show notes for this episode.</p>"
+        if "tag=" + TAG in notes or re.search(r'href="https://(amzn\.to|a\.co)/', notes):
+            notes += DISCLOSURE
         url = SITE + "/" + ep["path"]
         q = urllib.parse.quote
         share = ""
@@ -711,7 +763,9 @@ def build(show, eps):
                 words = sum(len(p.split()) for p in paras)
                 transcript = ('<section class="transcript" aria-labelledby="transcript">\n<h2 id="transcript">Transcript</h2>\n'
                               '<details>\n<summary>Read the full transcript (%s words, machine made)</summary>\n%s\n</details>\n</section>'
-                              % ("{:,}".format(words), "\n".join("<p>%s</p>" % e(p) for p in paras)))
+                              % ("{:,}".format(words), affiliate("\n".join("<p>%s</p>" % e(p) for p in paras))))
+                if "tag=" + TAG in transcript and "tag=" + TAG not in (ep.get("description") or "") + clean_html(fixed(ep["description"])) and DISCLOSURE not in affiliate(tag_amazon(clean_html(fixed(ep["description"])))):
+                    transcript = transcript.replace("\n</details>\n</section>", "\n</details>\n%s\n</section>" % DISCLOSURE)
         ld = {"@context": "https://schema.org", "@graph": [person, ld_ep, {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": NAME, "item": SITE + "/"},
             {"@type": "ListItem", "position": 2, "name": "Archives", "item": SITE + "/archives.html"},
@@ -832,7 +886,7 @@ def build(show, eps):
         '<h1 class="archive-title">Colophon</h1>', '<div class="entry-body colophon">',
         '<p><strong>%s</strong> is recorded by <a href="/about.html" rel="author">Chris Abraham</a> and published on Spotify for Creators, formerly Anchor. The first episode went out on %s.</p>' % (NAME, nice(when(first))),
         "<h2>How the Show Is Made</h2>",
-        "<p>Chris records on a Sony ICD-UX570 digital voice recorder and edits in <a href=\"https://www.audacityteam.org/\">Audacity</a>. When a recording has too much background noise, it goes through <a href=\"https://podcast.adobe.com/enhance\">Adobe Podcast Enhance</a> first. The video episodes, and the occasional over-the-top \"Deep Dive,\" come from running an episode through <a href=\"https://notebooklm.google.com/\">Google NotebookLM</a>.</p>",
+        "<p>Chris records on a <a href=\"https://www.amazon.com/dp/B082QL6KLG?tag=gerris-20\" rel=\"sponsored noopener\">Sony ICD-UX570 digital voice recorder</a> and edits in <a href=\"https://www.audacityteam.org/\">Audacity</a>. When a recording has too much background noise, it goes through <a href=\"https://podcast.adobe.com/enhance\">Adobe Podcast Enhance</a> first. The video episodes, and the occasional over-the-top \"Deep Dive,\" come from running an episode through <a href=\"https://notebooklm.google.com/\">Google NotebookLM</a>.</p>",
         "<h2>Credits</h2>",
         "<p>The intro and outro music was made by <a href=\"https://www.fiverr.com/blarock/create-a-professional-podcast-intro-and-outro\">blarock on Fiverr</a>. The cover art, which is also this site's banner and icon, was designed by <a href=\"https://www.fiverr.com/brandzin/design-a-professional-podcast-cover-art\">brandzin on Fiverr</a>. Thank you both.</p>",
         "<p>Every episode also gets its own cover. The early ChrisCast covers were made by hand; these days Chris makes a custom cover for each episode with ChatGPT.</p>",
@@ -844,6 +898,8 @@ def build(show, eps):
         "<p>Transcripts are generated by Spotify. They are machine made, so names and odd words are sometimes wrong.</p>",
         "<h2>Design</h2>",
         '<p>The layout is borrowed from <a href="https://hillmole.com/">Hill Mole</a>, Chris\'s serialized novel: a white column as wide as the 700-pixel banner, on a grey page, with grey links. Unlike Hill Mole, the headings keep their capitals. The button in the banner switches to a dark reading mode, and that choice is kept only in your own browser.</p>',
+        "<h2>Amazon Links</h2>",
+        "<p>Links to books and gear on Amazon, in the colophon, the show notes, and the transcripts, carry Chris\'s Amazon Associates tag. As an Amazon Associate I earn from qualifying purchases.</p>",
         "</div>"])
     write("colophon.html", page("colophon.html", "Colophon: how Chris Abraham's podcast is made",
                                 "How Chris Abraham records and edits his podcast, who made the music and cover art, and how this site mirrors his Spotify feed every day.",
