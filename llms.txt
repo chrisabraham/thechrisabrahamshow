@@ -8,6 +8,7 @@ Chris Abraham's podcast, 457 episodes from June 12, 2019 to October 9, 2026. Eac
 
 - [About](https://thechrisabrahamshow.com/about.html): where to listen and subscribe
 - [Archives](https://thechrisabrahamshow.com/archives.html): every episode
+- [Articles](https://thechrisabrahamshow.com/articles.html): written articles by the host
 - [Full show notes](https://thechrisabrahamshow.com/llms-full.txt): every episode's notes in one plain text file
 
 ## Episodes
@@ -469,3 +470,7 @@ Chris Abraham's podcast, 457 episodes from June 12, 2019 to October 9, 2026. Eac
 - [ChrisCast Episode 1: Sportif (or, how the hell did I get like this, eh, FFS!?)](https://thechrisabrahamshow.com/episodes/2019/06/chriscast-episode-1-sportif-or-how-the-hell-did-i-get-like.html): June 13, 2019, 19:31
 - [Oy Vey, My Lumbago!](https://thechrisabrahamshow.com/episodes/2019/06/oy-vey-my-lumbago.html): June 13, 2019, 8:25
 - [The Chris Abraham Show (Trailer)](https://thechrisabrahamshow.com/episodes/2019/06/the-chris-abraham-show-trailer.html): June 12, 2019, 0:54
+
+## Articles
+
+- [Jason Priestley Is Teaching Me How to Be a Better Man](https://thechrisabrahamshow.com/articles/private-eyes-better-man.html): October 13, 2026
