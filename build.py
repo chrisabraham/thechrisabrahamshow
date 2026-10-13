@@ -362,7 +362,7 @@ def jsonld(obj):
     return '<script type="application/ld+json">\n%s\n</script>' % json.dumps(obj, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
 
-def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, og_type="website", ld=None, robots=None, prev=None, nxt=None, current=None):
+def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, og_type="website", ld=None, robots=None, prev=None, nxt=None, current=None, published=None):
     url = SITE + "/" + ("" if path == "index.html" else path)
     if not image:
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
@@ -391,6 +391,17 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         '<meta property="og:url" content="%s">' % e(url),
         '<meta property="og:image" content="%s">' % e(SITE + image),
         '<meta property="og:image:alt" content="%s">' % e(image_alt or ""),
+    ]
+    try:  # dimensions let Facebook, LinkedIn, and X lay out the preview on the first share
+        from PIL import Image
+        w, h = Image.open(os.path.join(ROOT, image.lstrip("/"))).size
+        head += ['<meta property="og:image:type" content="image/%s">' % ("png" if image.endswith(".png") else "webp" if image.endswith(".webp") else "jpeg"),
+                 '<meta property="og:image:width" content="%d">' % w, '<meta property="og:image:height" content="%d">' % h]
+    except Exception:
+        pass
+    if published:
+        head += ['<meta property="article:published_time" content="%s">' % published, '<meta property="article:author" content="%s">' % HOME]
+    head += [
         '<meta name="twitter:card" content="summary_large_image">',
         '<meta name="twitter:title" content="%s">' % e(title),
         '<meta name="twitter:description" content="%s">' % e(desc),
@@ -542,6 +553,18 @@ def write(path, text):
             f.write(text)
 
 
+def share_line(url, title):
+    q = urllib.parse.quote
+    return '<p class="listen">Share: %s</p>' % " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in (
+        ("X", "https://x.com/intent/post?url=%s&text=%s" % (q(url), q(title))),
+        ("Facebook", "https://www.facebook.com/sharer/sharer.php?u=" + q(url)),
+        ("LinkedIn", "https://www.linkedin.com/sharing/share-offsite/?url=" + q(url)),
+        ("Reddit", "https://www.reddit.com/submit?url=%s&title=%s" % (q(url), q(title))),
+        ("Bluesky", "https://bsky.app/intent/compose?text=" + q(title + " " + url)),
+        ("Threads", "https://www.threads.net/intent/post?text=" + q(title + " " + url)),
+        ("Email", "mailto:?subject=%s&body=%s" % (q(title), q(url)))))
+
+
 ARTICLES = os.path.join(DATA, "articles")
 
 
@@ -554,6 +577,8 @@ def load_articles():
             continue
         head, body = open(os.path.join(ARTICLES, f)).read().split("\n---\n", 1)
         a = dict(line.split(": ", 1) for line in head.strip().splitlines())
+        # Chris' rule: "--" becomes an em dash, and every em dash is closed up tight (no spaces either side).
+        body = re.sub(r"\s*(?<!<!)(?:--|—)(?!>)\s*", "—", body)
         a["body"], a["path"] = body.strip(), "articles/" + f
         a["when"] = datetime.datetime.fromisoformat(a["date"]).replace(hour=12, tzinfo=TZ)
         out.append(a)
@@ -709,10 +734,11 @@ def build(show, eps):
                   % (img, small, img, e(a["image_alt"]), "<figcaption>%s</figcaption>" % e(a["image_credit"]) if a.get("image_credit") else "")) if img else ""
         body = "\n".join(['<article class="entry">', '  <h1>%s</h1>' % e(a["title"]),
                           '  <p class="meta">An article by <a href="/about.html" rel="author">%s</a>, %s</p>' % (AUTHOR, nice(a["when"])),
-                          '  <div class="entry-body">', figure, a["body"], "  </div>", "</article>",
+                          '  <div class="entry-body">', figure, share_line(url, a["title"]), a["body"], share_line(url, a["title"]), "  </div>", "</article>",
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
-        write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=img, image_alt=a.get("image_alt"),
-                              keywords=a.get("keywords"), og_type="article", ld=ld))
+        card = img[:-4] + "-card.jpg" if img and os.path.exists(os.path.join(ROOT, img[:-4].lstrip("/") + "-card.jpg")) else img
+        write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=card, image_alt=a.get("image_alt"),
+                              keywords=a.get("keywords"), og_type="article", ld=ld, published=a["when"].isoformat()))
     rows = "\n".join('<li><a href="/%s">%s</a>, %s<br>%s</li>' % (a["path"], e(a["title"]), nice(a["when"]), e(a["description"])) for a in arts)
     write("articles.html", page("articles.html", "Articles by Chris Abraham, written alongside his podcast",
                                 "Written articles by Chris Abraham, the host of the show: essays, confessions, and enthusiasms that work better on the page than out loud.",
