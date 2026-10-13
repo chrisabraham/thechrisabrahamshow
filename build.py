@@ -72,6 +72,13 @@ e = html.escape
 
 # ---------------------------------------------------------------- fetching
 
+
+def close_dashes(h):
+    """Chris' rule: "--" becomes an em dash and every em dash is closed up (word—word).
+    Code, scripts, styles, and HTML comments keep their text exactly."""
+    parts = re.split(r"(<pre\b.*?</pre>|<code\b.*?</code>|<script\b.*?</script>|<style\b.*?</style>|<!--.*?-->|<[^>]+>)", h, flags=re.S)
+    return "".join(x if i % 2 else re.sub(r"\s*(?:--|—)\s*", "—", x) for i, x in enumerate(parts))
+
 def get(url, timeout=60, tries=3):
     """Fetch with two retries, so one network hiccup doesn't fail the daily run."""
     for attempt in range(tries):
@@ -578,7 +585,7 @@ def load_articles():
         head, body = open(os.path.join(ARTICLES, f)).read().split("\n---\n", 1)
         a = dict(line.split(": ", 1) for line in head.strip().splitlines())
         # Chris' rule: "--" becomes an em dash, and every em dash is closed up tight (no spaces either side).
-        body = re.sub(r"\s*(?<!<!)(?:--|—)(?!>)\s*", "—", body)
+        body = close_dashes(body)
         a["body"], a["path"] = body.strip(), "articles/" + f
         a["when"] = datetime.datetime.fromisoformat(a["date"]).replace(hour=12, tzinfo=TZ)
         out.append(a)
