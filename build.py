@@ -368,7 +368,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
     nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true"> · </span>'.join(
         '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
-        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Colophon", "/colophon.html"))))
+        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Colophon", "/colophon.html"))))
     head = [
         '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
@@ -542,6 +542,24 @@ def write(path, text):
             f.write(text)
 
 
+ARTICLES = os.path.join(DATA, "articles")
+
+
+def load_articles():
+    """Written articles: data/articles/<slug>.html, a "key: value" header, a --- line, then the HTML body.
+    They're kept apart from episodes everywhere: their own pages, archive, and schema (BlogPosting)."""
+    out = []
+    for f in sorted(os.listdir(ARTICLES)) if os.path.isdir(ARTICLES) else []:
+        if not f.endswith(".html"):
+            continue
+        head, body = open(os.path.join(ARTICLES, f)).read().split("\n---\n", 1)
+        a = dict(line.split(": ", 1) for line in head.strip().splitlines())
+        a["body"], a["path"] = body.strip(), "articles/" + f
+        a["when"] = datetime.datetime.fromisoformat(a["date"]).replace(hour=12, tzinfo=TZ)
+        out.append(a)
+    return sorted(out, key=lambda a: a["when"], reverse=True)
+
+
 def build(show, eps):
     global SIDEBAR, FIRST_YEAR, LAST_YEAR
     total = len(eps)
@@ -555,7 +573,7 @@ def build(show, eps):
         "      </form>",
         '      <p class="feeds">Listen on<br>%s</p>' % "<br>".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN),
         '      <p>Start at the very <a href="/%s">beginning</a><br>a very good place to start.</p>' % first["path"],
-        '      <p><a href="/about.html">About the show</a><br><a href="/archives.html">Every episode</a></p>',
+        '      <p><a href="/about.html">About the show</a><br><a href="/archives.html">Every episode</a><br><a href="/articles.html">Articles</a></p>',
         '      <p class="badge"><a href="%s"><img src="/assets/images/icon-180.png" alt="Listen to The Chris Abraham Show on Spotify" width="160" height="160" loading="lazy"></a></p>' % SPOTIFY_SHOW,
         "    </aside>"])
     person = {"@type": "Person", "@id": SITE + "/#author", "name": AUTHOR, "url": HOME, "sameAs": SAME_AS,
@@ -672,6 +690,36 @@ def build(show, eps):
                                prev="/" + eps[i - 1]["path"] if i else None,
                                nxt="/" + eps[i + 1]["path"] if i < total - 1 else None))
 
+    # articles
+    arts = load_articles()
+    for a in arts:
+        url = SITE + "/" + a["path"]
+        img = a.get("image")
+        small = img[:-4] + "-600.jpg" if img else ""
+        about = [{"@type": "Thing", "name": n.strip(), "sameAs": u.strip()} for n, u in (x.split("|") for x in a["about"].split(";;"))] if a.get("about") else []
+        ld = {"@context": "https://schema.org", "@graph": [person, {
+            "@type": "BlogPosting", "@id": url + "#article", "url": url, "headline": a["title"], "description": a["description"],
+            "datePublished": a["when"].isoformat(), "author": {"@id": SITE + "/#author"}, "publisher": {"@id": SITE + "/#author"},
+            "image": SITE + img if img else None, "inLanguage": "en", "isPartOf": {"@id": SITE + "/#website"}, "about": about},
+            {"@type": "BreadcrumbList", "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": NAME, "item": SITE + "/"},
+                {"@type": "ListItem", "position": 2, "name": "Articles", "item": SITE + "/articles.html"},
+                {"@type": "ListItem", "position": 3, "name": a["title"], "item": url}]}]}
+        figure = ('<figure class="article-art"><img src="%s" srcset="%s 600w, %s 1200w" sizes="(min-width: 700px) 636px, calc(100vw - 32px)" alt="%s" width="1200" height="900" fetchpriority="high">%s</figure>'
+                  % (img, small, img, e(a["image_alt"]), "<figcaption>%s</figcaption>" % e(a["image_credit"]) if a.get("image_credit") else "")) if img else ""
+        body = "\n".join(['<article class="entry">', '  <h1>%s</h1>' % e(a["title"]),
+                          '  <p class="meta">An article by <a href="/about.html" rel="author">%s</a>, %s</p>' % (AUTHOR, nice(a["when"])),
+                          '  <div class="entry-body">', figure, a["body"], "  </div>", "</article>",
+                          '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
+        write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=img, image_alt=a.get("image_alt"),
+                              keywords=a.get("keywords"), og_type="article", ld=ld))
+    rows = "\n".join('<li><a href="/%s">%s</a>, %s<br>%s</li>' % (a["path"], e(a["title"]), nice(a["when"]), e(a["description"])) for a in arts)
+    write("articles.html", page("articles.html", "Articles by Chris Abraham, written alongside his podcast",
+                                "Written articles by Chris Abraham, the host of the show: essays, confessions, and enthusiasms that work better on the page than out loud.",
+                                '<h1 class="archive-title">Articles</h1>\n<div class="entry-body"><p>Writing that works better on the page than out loud. The episodes are in the <a href="/archives.html">archives</a>.</p>\n<ul class="articles">\n%s\n</ul></div>' % rows,
+                                current="/articles.html", keywords="Chris Abraham, articles, essays",
+                                ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/articles.html", "name": "Articles", "isPartOf": {"@id": SITE + "/#website"}}))
+
     show_desc = plain(fixed(show["description"]))
     home_desc = fit("Every episode of Chris Abraham's podcast since %d: politics, AI, SEO, fitness, D&D, aphantasia and South Arlington life, with notes and transcripts." % FIRST_YEAR, 160)
     sentence = "Every episode of %s, %s to %s, with show notes and transcripts." % (NAME, nice(when(first)), nice(when(latest)))
@@ -681,7 +729,8 @@ def build(show, eps):
         '<h1 class="visually-hidden">%s</h1>' % NAME,
         '<p class="latest">Latest: <a href="/%s">%s</a>, %s</p>' % (latest["path"], e(latest["title"]), nice(when(latest))),
         episode_block(total - 1, latest, "h2"), nav(total - 1),
-        '<p class="intro">%s</p>' % e(sentence)])
+        '<p class="intro">%s</p>' % e(sentence)]
+        + (['<p class="latest">Latest article: <a href="/%s">%s</a>, %s</p>' % (arts[0]["path"], e(arts[0]["title"]), nice(arts[0]["when"]))] if arts else []))
     ld = {"@context": "https://schema.org", "@graph": [
         person,
         {"@type": "WebSite", "@id": SITE + "/#website", "url": SITE + "/", "name": NAME, "inLanguage": "en", "publisher": {"@id": SITE + "/#author"}},
@@ -785,14 +834,17 @@ def build(show, eps):
     # sitemap and robots
     urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None)]
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
+    urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
         "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
-             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE,
+             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE,
              "- [Full show notes](%s/llms-full.txt): every episode's notes in one plain text file" % SITE, "", "## Episodes", ""]
     lines += ["- [%s](%s/%s): %s%s" % (ep["title"], SITE, ep["path"], nice(when(ep)), ", " + clock(seconds(ep["duration"])) if seconds(ep["duration"]) else "") for ep in reversed(eps)]
+    if arts:
+        lines += ["", "## Articles", ""] + ["- [%s](%s/%s): %s" % (a["title"], SITE, a["path"], nice(a["when"])) for a in arts]
     write("llms.txt", "\n".join(lines) + "\n")
     full = ["# %s: every episode's show notes" % NAME, ""]
     for i in range(total - 1, -1, -1):
@@ -824,6 +876,8 @@ def report(eps):
     import glob
     long_t = short_d = dashes = 0
     for f in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
+        if f.startswith(DATA):  # article sources, not pages
+            continue
         h = open(f).read()
         t = html.unescape(re.search(r"<title>(.*?)</title>", h).group(1))
         d = html.unescape(re.search(r'<meta name="description" content="([^"]*)"', h).group(1))
