@@ -2,67 +2,288 @@
  "tag": "gerris-20",
  "note": "Amazon Associates links. The build links the first mention of each item on a page (show notes and transcript separately). asin = a verified product page; search = an Amazon search, for products and editions without one obvious listing. ci = match any case. Longer titles come first so they win over shorter ones.",
  "items": [
-  {"match": "Slow Jogging: Lose Weight, Stay Healthy, and Have Fun with Science-Based, Natural Running", "asin": "1510708316"},
-  {"match": "Hill Mole: Life is But a Dream", "asin": "B0DD7VZJJB"},
-  {"match": "A Connecticut Yankee in King Arthur's Court", "asin": "0140430644"},
-  {"match": "Lost in Translation: A Life in a New Language", "asin": "0140127739"},
-  {"match": "Between Us: How Cultures Create Emotions", "asin": "1324002441"},
-  {"match": "The Hitchhiker's Guide to the Galaxy", "asin": "0345391802"},
-  {"match": "Row Daily, Breathe Deeper, Live Better", "asin": "059569537X"},
-  {"match": "Harry Potter and the Philosopher's Stone", "search": "Harry Potter and the Philosopher's Stone"},
-  {"match": "The American Way of Killing", "search": "The American Way of Killing Malcolm Gladwell"},
-  {"match": "Kettlebell Simple & Sinister", "asin": "0989892409"},
-  {"match": "The Rhine: An Ecobiography", "search": "The Rhine An Ecobiography Mark Cioc"},
-  {"match": "Slow Jogging by Hiroaki Tanaka", "asin": "1510708316"},
-  {"match": "Slow Running by Chris Bore", "search": "Slow Running Chris Bore"},
-  {"match": "The Cluetrain Manifesto", "asin": "0738204315"},
-  {"match": "The Accidental Species", "asin": "022627120X"},
-  {"match": "The Conquest of Nature", "asin": "0393329992"},
-  {"match": "The Crying of Lot 49", "asin": "1568493207"},
-  {"match": "The Maffetone Method", "asin": "0071343318"},
-  {"match": "King Solomon's Mines", "asin": "0141439521"},
-  {"match": "Prisoners of the Sun", "asin": "0316409170"},
-  {"match": "In Praise of Walking", "asin": "0393652084"},
-  {"match": "Enter the Kettlebell", "asin": "1942812132"},
-  {"match": "Power to the People !", "asin": "0938045199"},
-  {"match": "A Fish Called Wanda", "search": "A Fish Called Wanda"},
-  {"match": "Ghost in the Shell", "search": "Ghost in the Shell"},
-  {"match": "The Scarlet Letter", "asin": "0142437263"},
-  {"match": "Of Grammatology", "asin": "0801818796"},
-  {"match": "The Art of Thought", "asin": "1910146056"},
-  {"match": "Les Misérables", "asin": "045141943X"},
-  {"match": "Sister Outsider", "asin": "1580911862"},
-  {"match": "Curse of Strahd", "asin": "0786965983"},
-  {"match": "Sony ICD-UX570", "asin": "B082QL6KLG"},
-  {"match": "Starting Strength", "asin": "0982522738"},
-  {"match": "Player's Handbook", "search": "D&D Player's Handbook"},
-  {"match": "Dungeons & Dragons", "search": "Dungeons and Dragons Player's Handbook"},
-  {"match": "Olympus WS-853", "search": "Olympus WS-853"},
-  {"match": "The Young Ones", "search": "The Young Ones complete series"},
-  {"match": "Monty Python", "search": "Monty Python and the Holy Grail"},
-  {"match": "The Exorcist", "search": "The Exorcist 1973"},
-  {"match": "Alphaville", "search": "Alphaville Godard"},
-  {"match": "rowing machine", "search": "Concept2 RowErg rowing machine", "ci": true},
-  {"match": "foam roller", "search": "foam roller", "ci": true},
-  {"match": "kettlebell", "search": "kettlebell", "ci": true},
-  {"match": "Concept2", "search": "Concept2 RowErg"},
-  {"match": "Blundstone", "search": "Blundstone 500 boots"},
-  {"match": "Moleskine", "search": "Moleskine notebook"},
-  {"match": "ThinkPad", "search": "Lenovo ThinkPad"},
-  {"match": "AirPods", "search": "Apple AirPods"},
-  {"match": "G-Shock", "search": "Casio G-Shock"},
-  {"match": "Garmin", "search": "Garmin watch"},
-  {"match": "Fitbit", "search": "Fitbit"},
-  {"match": "Kindle", "search": "Kindle e-reader"},
-  {"match": "Suunto", "search": "Suunto watch"},
-  {"match": "GoPro", "search": "GoPro"},
-  {"match": "Sharpie", "search": "Sharpie markers"},
-  {"match": "Spanx", "search": "Spanx"},
-  {"match": "Seiko", "search": "Seiko watch"},
-  {"match": "Casio", "search": "Casio watch"},
-  {"match": "Hoka", "search": "Hoka running shoes"},
-  {"match": "Crocs", "search": "Crocs"},
-  {"match": "LMNT", "search": "LMNT electrolytes"},
-  {"match": "Roku", "search": "Roku"}
+  {
+   "match": "Slow Jogging: Lose Weight, Stay Healthy, and Have Fun with Science-Based, Natural Running",
+   "asin": "1510708316"
+  },
+  {
+   "match": "Lost in Translation: A Life in a New Language",
+   "asin": "0140127739"
+  },
+  {
+   "match": "A Connecticut Yankee in King Arthur's Court",
+   "asin": "0140430644"
+  },
+  {
+   "match": "Between Us: How Cultures Create Emotions",
+   "asin": "1324002441"
+  },
+  {
+   "match": "Harry Potter and the Philosopher's Stone",
+   "search": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+   "match": "Row Daily, Breathe Deeper, Live Better",
+   "asin": "059569537X"
+  },
+  {
+   "match": "The Hitchhiker's Guide to the Galaxy",
+   "asin": "0345391802"
+  },
+  {
+   "match": "Hill Mole: Life is But a Dream",
+   "asin": "B0DD7VZJJB"
+  },
+  {
+   "match": "Slow Jogging by Hiroaki Tanaka",
+   "asin": "1510708316"
+  },
+  {
+   "match": "Kettlebell Simple & Sinister",
+   "asin": "0989892409"
+  },
+  {
+   "match": "The American Way of Killing",
+   "search": "The American Way of Killing Malcolm Gladwell"
+  },
+  {
+   "match": "The Rhine: An Ecobiography",
+   "search": "The Rhine An Ecobiography Mark Cioc"
+  },
+  {
+   "match": "Slow Running by Chris Bore",
+   "search": "Slow Running Chris Bore"
+  },
+  {
+   "match": "Private Eyes West Coast",
+   "search": "Private Eyes West Coast"
+  },
+  {
+   "match": "The Cluetrain Manifesto",
+   "asin": "0738204315"
+  },
+  {
+   "match": "The Accidental Species",
+   "asin": "022627120X"
+  },
+  {
+   "match": "The Conquest of Nature",
+   "asin": "0393329992"
+  },
+  {
+   "match": "War Against the Mafia",
+   "search": "The Executioner War Against the Mafia Don Pendleton"
+  },
+  {
+   "match": "Power to the People !",
+   "asin": "0938045199"
+  },
+  {
+   "match": "The Crying of Lot 49",
+   "asin": "1568493207"
+  },
+  {
+   "match": "The Maffetone Method",
+   "asin": "0071343318"
+  },
+  {
+   "match": "King Solomon's Mines",
+   "asin": "0141439521"
+  },
+  {
+   "match": "Prisoners of the Sun",
+   "asin": "0316409170"
+  },
+  {
+   "match": "In Praise of Walking",
+   "asin": "0393652084"
+  },
+  {
+   "match": "Enter the Kettlebell",
+   "asin": "1942812132"
+  },
+  {
+   "match": "A Fish Called Wanda",
+   "search": "A Fish Called Wanda"
+  },
+  {
+   "match": "Ghost in the Shell",
+   "search": "Ghost in the Shell"
+  },
+  {
+   "match": "The Scarlet Letter",
+   "asin": "0142437263"
+  },
+  {
+   "match": "The Art of Thought",
+   "asin": "1910146056"
+  },
+  {
+   "match": "Dungeons & Dragons",
+   "search": "Dungeons and Dragons Player's Handbook"
+  },
+  {
+   "match": "Starting Strength",
+   "asin": "0982522738"
+  },
+  {
+   "match": "Player's Handbook",
+   "search": "D&D Player's Handbook"
+  },
+  {
+   "match": "The Executioner",
+   "search": "The Executioner Mack Bolan Don Pendleton"
+  },
+  {
+   "match": "Of Grammatology",
+   "asin": "0801818796"
+  },
+  {
+   "match": "Sister Outsider",
+   "asin": "1580911862"
+  },
+  {
+   "match": "Curse of Strahd",
+   "asin": "0786965983"
+  },
+  {
+   "match": "Les Misérables",
+   "asin": "045141943X"
+  },
+  {
+   "match": "Sony ICD-UX570",
+   "asin": "B082QL6KLG"
+  },
+  {
+   "match": "Olympus WS-853",
+   "search": "Olympus WS-853"
+  },
+  {
+   "match": "The Young Ones",
+   "search": "The Young Ones complete series"
+  },
+  {
+   "match": "rowing machine",
+   "search": "Concept2 RowErg rowing machine",
+   "ci": true
+  },
+  {
+   "match": "Reacher novels",
+   "search": "Jack Reacher series Lee Child"
+  },
+  {
+   "match": "Killing Floor",
+   "search": "Killing Floor Lee Child Jack Reacher"
+  },
+  {
+   "match": "Moonlighting",
+   "search": "Moonlighting complete series"
+  },
+  {
+   "match": "Private Eyes",
+   "search": "Private Eyes Jason Priestley complete series"
+  },
+  {
+   "match": "Hall & Oates",
+   "search": "Hall & Oates Private Eyes album"
+  },
+  {
+   "match": "Monty Python",
+   "search": "Monty Python and the Holy Grail"
+  },
+  {
+   "match": "The Exorcist",
+   "search": "The Exorcist 1973"
+  },
+  {
+   "match": "foam roller",
+   "search": "foam roller",
+   "ci": true
+  },
+  {
+   "match": "Alphaville",
+   "search": "Alphaville Godard"
+  },
+  {
+   "match": "kettlebell",
+   "search": "kettlebell",
+   "ci": true
+  },
+  {
+   "match": "Blundstone",
+   "search": "Blundstone 500 boots"
+  },
+  {
+   "match": "Moleskine",
+   "search": "Moleskine notebook"
+  },
+  {
+   "match": "Concept2",
+   "search": "Concept2 RowErg"
+  },
+  {
+   "match": "ThinkPad",
+   "search": "Lenovo ThinkPad"
+  },
+  {
+   "match": "AirPods",
+   "search": "Apple AirPods"
+  },
+  {
+   "match": "G-Shock",
+   "search": "Casio G-Shock"
+  },
+  {
+   "match": "Sharpie",
+   "search": "Sharpie markers"
+  },
+  {
+   "match": "Garmin",
+   "search": "Garmin watch"
+  },
+  {
+   "match": "Fitbit",
+   "search": "Fitbit"
+  },
+  {
+   "match": "Kindle",
+   "search": "Kindle e-reader"
+  },
+  {
+   "match": "Suunto",
+   "search": "Suunto watch"
+  },
+  {
+   "match": "GoPro",
+   "search": "GoPro"
+  },
+  {
+   "match": "Spanx",
+   "search": "Spanx"
+  },
+  {
+   "match": "Seiko",
+   "search": "Seiko watch"
+  },
+  {
+   "match": "Casio",
+   "search": "Casio watch"
+  },
+  {
+   "match": "Crocs",
+   "search": "Crocs"
+  },
+  {
+   "match": "Hoka",
+   "search": "Hoka running shoes"
+  },
+  {
+   "match": "LMNT",
+   "search": "LMNT electrolytes"
+  },
+  {
+   "match": "Roku",
+   "search": "Roku"
+  }
  ]
 }

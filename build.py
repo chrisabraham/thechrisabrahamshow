@@ -622,6 +622,11 @@ def share_line(url, title):
         ("Email", "mailto:?subject=%s&body=%s" % (q(title), q(url)))))
 
 
+def _size(img):
+    from PIL import Image
+    return Image.open(os.path.join(ROOT, img.lstrip("/"))).size
+
+
 ARTICLES = os.path.join(DATA, "articles")
 
 
@@ -791,11 +796,14 @@ def build(show, eps):
                 {"@type": "ListItem", "position": 1, "name": NAME, "item": SITE + "/"},
                 {"@type": "ListItem", "position": 2, "name": "Articles", "item": SITE + "/articles.html"},
                 {"@type": "ListItem", "position": 3, "name": a["title"], "item": url}]}]}
-        figure = ('<figure class="article-art"><img src="%s" srcset="%s 600w, %s 1200w" sizes="(min-width: 700px) 636px, calc(100vw - 32px)" alt="%s" width="1200" height="900" fetchpriority="high">%s</figure>'
-                  % (img, small, img, e(a["image_alt"]), "<figcaption>%s</figcaption>" % e(a["image_credit"]) if a.get("image_credit") else "")) if img else ""
+        figure = ('<figure class="article-art"><img src="%s" srcset="%s 600w, %s 1200w" sizes="(min-width: 700px) 636px, calc(100vw - 32px)" alt="%s" width="%d" height="%d" fetchpriority="high">%s</figure>'
+                  % ((img, small, img, e(a["image_alt"])) + _size(img) + ("<figcaption>%s</figcaption>" % e(a["image_credit"]) if a.get("image_credit") else "",))) if img else ""
+        a_body = affiliate(a["body"])
+        if "tag=" + TAG in a_body:
+            a_body += "\n" + DISCLOSURE
         body = "\n".join(['<article class="entry">', '  <h1>%s</h1>' % e(a["title"]),
                           '  <p class="meta">An article by <a href="/about.html" rel="author">%s</a>, %s</p>' % (AUTHOR, nice(a["when"])),
-                          '  <div class="entry-body">', figure, share_line(url, a["title"]), a["body"], share_line(url, a["title"]), "  </div>", "</article>",
+                          '  <div class="entry-body">', figure, share_line(url, a["title"]), a_body, share_line(url, a["title"]), "  </div>", "</article>",
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
         card = img[:-4] + "-card.jpg" if img and os.path.exists(os.path.join(ROOT, img[:-4].lstrip("/") + "-card.jpg")) else img
         write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=card, image_alt=a.get("image_alt"),
