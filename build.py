@@ -29,6 +29,9 @@ from zoneinfo import ZoneInfo
 FEED = "https://anchor.fm/s/c0f56fc/podcast/rss"
 SITE = "https://thechrisabrahamshow.com"
 SPOTIFY_SHOW = "https://open.spotify.com/show/5POax2UqdOPC2HhHxVU7O0"
+# Spotify for Creators copies each episode to YouTube on its own; the channel's feed names the new videos.
+YOUTUBE = "https://www.youtube.com/@chrisabrahamshow"
+YOUTUBE_FEED = "https://www.youtube.com/feeds/videos.xml?channel_id=UCPSCtkNYQkCNW6t5m8PQ4zg"
 HOME = "https://chrisabraham.com"
 NAME = "The Chris Abraham Show"
 AUTHOR = "Chris Abraham"
@@ -44,6 +47,7 @@ INDEXNOW_KEY = "3839412712300d0a246eead73969e20b"  # served at /<key>.txt; .gith
 # Where to listen. Each link was checked live in October 2026.
 LISTEN = [
     ("Spotify", SPOTIFY_SHOW),
+    ("YouTube", YOUTUBE),
     ("Apple Podcasts", "https://podcasts.apple.com/us/podcast/the-chris-abraham-show/id1468506258"),
     ("Overcast", "https://overcast.fm/itunes1468506258"),
     ("Pocket Casts", "https://pca.st/3YS9"),
@@ -417,7 +421,29 @@ def nice(d):
     return d.strftime("%B %-d, %Y")
 
 
+def link_youtube(eps):
+    """Give each episode its YouTube video, matched by exact title. The channel feed lists only the latest
+    15 uploads, so a run that misses one leaves it for tomorrow; a failed fetch never fails the build."""
+    try:
+        root = ET.fromstring(get(YOUTUBE_FEED))
+    except Exception as err:
+        print("  YouTube feed not read:", err, file=sys.stderr)
+        return
+    atom, yt = "{http://www.w3.org/2005/Atom}", "{http://www.youtube.com/xml/schemas/2015}"
+    key = lambda t: re.sub(r"\s+", " ", html.unescape(t or "")).strip().casefold()
+    videos = {key(v.findtext(atom + "title")): v.findtext(yt + "videoId") for v in root.iter(atom + "entry")}
+    for ep in eps:
+        if not ep.get("youtube") and videos.get(key(ep["title"])):
+            ep["youtube"] = videos[key(ep["title"])]
+
+
+def youtube_link(ep):
+    return "https://www.youtube.com/watch?v=" + ep["youtube"] if ep.get("youtube") else ""
+
+
 def spotify_link(ep):
+    if ep.get("spotify"):
+        return ep["spotify"]
     m = re.search(r"transcript-files\.spotifycdn\.com/[A-Za-z0-9]+/([A-Za-z0-9]+)/", ep.get("transcript_url", ""))
     return "https://open.spotify.com/episode/" + m.group(1) if m else ep.get("link") or SPOTIFY_SHOW
 
@@ -742,7 +768,9 @@ def build(show, eps):
             '  <div class="entry-body">',
             '<img class="episode-art" %s alt="%s" width="800" height="800" fetchpriority="high">' % (srcset(art(ep)), e(alt(ep))),
             '<audio class="player" controls preload="none" src="%s"><a href="%s">Download the audio</a></audio>' % (e(ep["audio"]), e(ep["audio"])),
-            '<p class="listen">Play <a href="%s">this episode on Spotify</a>, or subscribe: %s</p>' % (e(spotify_link(ep)), " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN[1:4] + LISTEN[-1:])),
+            '<p class="listen">Play <a href="%s">this episode on Spotify</a>%s, or subscribe: %s</p>' % (
+                e(spotify_link(ep)), ' or <a href="%s">watch it on YouTube</a>' % e(youtube_link(ep)) if youtube_link(ep) else "",
+                " · ".join('<a href="%s">%s</a>' % (e(u), n) for n, u in LISTEN if n in ("Apple Podcasts", "Overcast", "Pocket Casts", "RSS"))),
             share,
             notes,
             "  </div>",
@@ -776,6 +804,8 @@ def build(show, eps):
                                      "encodingFormat": ep.get("audio_type") or "audio/mpeg"}}
         if sec:
             ld_ep["duration"] = ld_ep["associatedMedia"]["duration"] = iso_duration(sec)
+        if youtube_link(ep):
+            ld_ep["sameAs"] = [youtube_link(ep)]
         if ep["episode"]:
             ld_ep["episodeNumber"] = ep["episode"]
         if ep["season"]:
@@ -1018,6 +1048,7 @@ def main():
         if not show["title"] or not fresh or len(fresh) < 0.9 * len(eps):
             sys.exit("Feed looks wrong: %d episodes in the feed, %d already on the site. Nothing published." % (len(fresh), len(eps)))
         eps = merge(eps, fresh)
+        link_youtube(eps)
         show_assets(show["image"])
         for ep in eps:
             if ep.get("image") and ep.get("art") != image_name(ep["image"]):
