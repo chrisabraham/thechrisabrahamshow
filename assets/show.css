@@ -72,6 +72,8 @@ a:hover, a:focus-visible { background: var(--link-hover-bg); color: var(--link-h
   border: 1px solid rgba(255, 255, 255, .5);
   border-radius: 999px;
   padding: .45em .8em;
+  min-height: 28px;
+  min-width: 48px;
   cursor: pointer;
 }
 .theme-toggle:hover, .theme-toggle:focus-visible { background: rgba(0, 0, 0, .8); }

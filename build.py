@@ -510,6 +510,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         '<link rel="alternate" type="application/rss+xml" title="%s (RSS)" href="%s">' % (NAME, FEED),
         '<link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">',
     ]
+    head.append(SPECULATION)
     if prev:
         head.append('<link rel="prev" href="%s">' % prev)
     if nxt:
@@ -558,15 +559,32 @@ THEME_SCRIPT = """<script>
 SIDEBAR = FIRST_YEAR = LAST_YEAR = ""
 
 # Google Analytics 4 (Chris's property), as Google gives it.
-GA4 = """<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WQGSJJEDKP"></script>
-<script>
+# Google Analytics 4 (Chris's property). gtag.js loads on the first scroll, tap, or key,
+# or 4 seconds after the page loads, so it never competes with the page itself; the
+# commands below wait in dataLayer until it arrives.
+GA4 = """<script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-WQGSJJEDKP');
+  (function () {
+    var done = false;
+    function load() {
+      if (done) return;
+      done = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-WQGSJJEDKP';
+      document.head.appendChild(s);
+    }
+    ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (e) { addEventListener(e, load, {once: true, passive: true}); });
+    addEventListener('load', function () { setTimeout(load, 4000); });
+  })();
 </script>"""
+
+# Chrome prefetches a same-site page when a reader hovers or starts to tap its link,
+# so the next page opens at once. Text, JSON, and XML files are left alone.
+SPECULATION = '<script type="speculationrules">{"prefetch": [{"where": {"and": [{"href_matches": "/*"}, {"not": {"href_matches": ["/*.txt", "/*.json", "/*.xml"]}}]}, "eagerness": "moderate"}]}</script>'
 
 ROBOTS = """# Search engines and AI assistants are welcome to read and cite everything here.
 #
@@ -600,6 +618,15 @@ User-agent: Amazonbot
 User-agent: DuckAssistBot
 User-agent: MistralAI-User
 User-agent: CCBot
+User-agent: GoogleOther
+User-agent: Google-CloudVertexBot
+User-agent: Google-Agent
+User-agent: Google-GeminiNotebook
+User-agent: meta-webindexer
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: Amzn-SearchBot
+User-agent: Amzn-User
 Allow: /
 
 Sitemap: %s/sitemap.xml
@@ -623,17 +650,22 @@ def seo_title(t):
 
 
 def srcset(src):
-    """A 400px copy next to each cover, so phones don't download the big one."""
+    """WebP copies of each cover at 400, 600, and 800px, so phones take the smallest
+    one that stays sharp. The JPEG stays as src for old browsers and text browsers."""
     from PIL import Image
-    small = src[:-4] + "-400.jpg"
-    path = os.path.join(ROOT, small.lstrip("/"))
-    if not os.path.exists(path):
-        im = Image.open(os.path.join(ROOT, src.lstrip("/"))).convert("RGB")
-        w = im.size[0]
-        im.thumbnail((400, 400), Image.LANCZOS)
-        im.save(path, "JPEG", quality=82, optimize=True, progressive=True)
-    big = Image.open(os.path.join(ROOT, src.lstrip("/"))).size[0] if src.endswith("show.jpg") else 800
-    return 'src="%s" srcset="%s 400w, %s %dw" sizes="(min-width: 700px) 636px, calc(100vw - 32px)"' % (src, small, src, big)
+    full = os.path.join(ROOT, src.lstrip("/"))
+    big = Image.open(full).size[0]
+    widths = sorted({w for w in (400, 600, 800) if w < big} | {big})
+    out = []
+    for w in widths:
+        name = src[:-4] + ("" if w == big else "-%d" % w) + ".webp"
+        path = os.path.join(ROOT, name.lstrip("/"))
+        if not os.path.exists(path):
+            im = Image.open(full).convert("RGB")
+            im.thumbnail((w, w), Image.LANCZOS)
+            im.save(path, "WEBP", quality=78, method=6)
+        out.append("%s %dw" % (name, w))
+    return 'src="%s" srcset="%s" sizes="(min-width: 700px) 636px, calc(100vw - 32px)"' % (src, ", ".join(out))
 
 
 def write(path, text):

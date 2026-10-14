@@ -30,6 +30,15 @@ User-agent: Amazonbot
 User-agent: DuckAssistBot
 User-agent: MistralAI-User
 User-agent: CCBot
+User-agent: GoogleOther
+User-agent: Google-CloudVertexBot
+User-agent: Google-Agent
+User-agent: Google-GeminiNotebook
+User-agent: meta-webindexer
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: Amzn-SearchBot
+User-agent: Amzn-User
 Allow: /
 
 Sitemap: https://thechrisabrahamshow.com/sitemap.xml
