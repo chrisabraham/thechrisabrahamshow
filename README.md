@@ -9,4 +9,6 @@ per episode, in the style of hillmole.com.
 
 `data/episodes.json` is the record: each episode keeps its first address
 forever. Artwork lives in `assets/images/`, transcripts in `data/transcripts/`.
-Audio is never downloaded. `.github/workflows/update.yml` runs the build daily.
+Audio is never downloaded.
+Site-only show notes, with no 4,000-character cap, go in `data/notes/<guid>.html`
+and appear below the Spotify notes on that episode's page. `.github/workflows/update.yml` runs the build daily.

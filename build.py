@@ -274,6 +274,15 @@ def transcript_paragraphs(srt):
     return [re.sub(r"\s+", " ", p_).strip() for p_ in paras]
 
 
+def unwrap(href):
+    """Google's redirect wrapper (google.com/url?q=...), pasted into some notes, becomes the real address."""
+    m = re.match(r"https?://(?:www\.)?google\.[a-z.]+/url\?", href.strip())
+    if m:
+        q = urllib.parse.parse_qs(urllib.parse.urlsplit(href.strip()).query)
+        return (q.get("q") or q.get("url") or [href])[0]
+    return href
+
+
 class Clean(HTMLParser):
     """Show notes: keep paragraphs, links and simple formatting; drop scripts."""
     KEEP = {"p", "br", "a", "strong", "b", "em", "i", "u", "ul", "ol", "li", "blockquote", "h3", "h4"}
@@ -288,7 +297,7 @@ class Clean(HTMLParser):
             self.skip += 1
         elif not self.skip and tag in self.KEEP:
             if tag == "a":
-                href = dict(attrs).get("href", "") or ""
+                href = unwrap(dict(attrs).get("href", "") or "")
                 if re.match(r"(https?:|mailto:)", href.strip(), re.I):
                     self.out.append('<a href="%s">' % e(href.strip()))
                 else:
@@ -628,6 +637,14 @@ def _size(img):
 
 
 ARTICLES = os.path.join(DATA, "articles")
+NOTES = os.path.join(DATA, "notes")
+
+
+def more_notes(ep):
+    """Site-only notes: data/notes/<guid>.html, HTML shown below the Spotify notes on the episode's page.
+    Spotify caps notes at 4,000 characters; this has no cap, and the daily feed update never touches it."""
+    path = os.path.join(NOTES, ep["guid"] + ".html")
+    return close_dashes(open(path).read().strip()) if os.path.exists(path) else ""
 
 
 def load_articles():
@@ -699,7 +716,10 @@ def build(show, eps):
 
     def episode_block(i, ep, heading):
         n = i + 1
-        notes = affiliate(tag_amazon(clean_html(fixed(ep["description"])))) or "<p>No show notes for this episode.</p>"
+        notes = clean_html(fixed(ep["description"])) or "<p>No show notes for this episode.</p>"
+        if heading == "h1" and more_notes(ep):
+            notes += '\n<section class="more-notes">\n%s\n</section>' % more_notes(ep)
+        notes = affiliate(tag_amazon(notes))
         if "tag=" + TAG in notes or re.search(r'href="https://(amzn\.to|a\.co)/', notes):
             notes += DISCLOSURE
         url = SITE + "/" + ep["path"]
@@ -760,6 +780,7 @@ def build(show, eps):
             ld_ep["episodeNumber"] = ep["episode"]
         if ep["season"]:
             ld_ep["partOfSeason"] = {"@type": "PodcastSeason", "seasonNumber": ep["season"], "partOfSeries": {"@id": SITE + "/#series"}}
+        block = episode_block(i, ep, "h1")
         tpath = os.path.join(TRANSCRIPTS, ep["guid"] + ".srt")
         transcript = ""
         if os.path.exists(tpath):
@@ -769,13 +790,13 @@ def build(show, eps):
                 transcript = ('<section class="transcript" aria-labelledby="transcript">\n<h2 id="transcript">Transcript</h2>\n'
                               '<details>\n<summary>Read the full transcript (%s words, machine made)</summary>\n%s\n</details>\n</section>'
                               % ("{:,}".format(words), affiliate("\n".join("<p>%s</p>" % e(p) for p in paras))))
-                if "tag=" + TAG in transcript and "tag=" + TAG not in (ep.get("description") or "") + clean_html(fixed(ep["description"])) and DISCLOSURE not in affiliate(tag_amazon(clean_html(fixed(ep["description"])))):
+                if "tag=" + TAG in transcript and DISCLOSURE not in block:
                     transcript = transcript.replace("\n</details>\n</section>", "\n</details>\n%s\n</section>" % DISCLOSURE)
         ld = {"@context": "https://schema.org", "@graph": [person, ld_ep, {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": NAME, "item": SITE + "/"},
             {"@type": "ListItem", "position": 2, "name": "Archives", "item": SITE + "/archives.html"},
             {"@type": "ListItem", "position": 3, "name": ep["title"], "item": url}]}]}
-        body = "\n".join([nav(i), episode_block(i, ep, "h1"), transcript, nav(i)])
+        body = "\n".join([nav(i), block, transcript, nav(i)])
         write(ep["path"], page(ep["path"], title, desc, body, image=art(ep), image_alt=alt(ep),
                                keywords=keywords, og_type="article", ld=ld,
                                prev="/" + eps[i - 1]["path"] if i else None,
@@ -921,7 +942,7 @@ def build(show, eps):
         '<ul id="results" class="toc results"></ul>',
         '<script src="/assets/search.js" defer></script>'])
     write("search.html", page("search.html", "Search Chris Abraham's podcast episodes", "Search every episode of Chris Abraham's podcast by title and show notes.", body, robots="noindex, follow"))
-    index = [{"t": ep["title"], "u": "/" + ep["path"], "d": nice(when(ep)), "n": fit(plain(fixed(ep["description"])), 1200)} for ep in reversed(eps)]
+    index = [{"t": ep["title"], "u": "/" + ep["path"], "d": nice(when(ep)), "n": fit(plain(fixed(ep["description"]) + " " + more_notes(ep)), 1200)} for ep in reversed(eps)]
     write("search.json", json.dumps(index, ensure_ascii=False, separators=(",", ":")))
 
     # 404
@@ -946,7 +967,7 @@ def build(show, eps):
     full = ["# %s: every episode's show notes" % NAME, ""]
     for i in range(total - 1, -1, -1):
         ep = eps[i]
-        full += ["## %s" % ep["title"], "", "Episode %d of %d, %s. %s/%s" % (i + 1, total, nice(when(ep)), SITE, ep["path"]), "", plain(fixed(ep["description"])) or "(No show notes.)", ""]
+        full += ["## %s" % ep["title"], "", "Episode %d of %d, %s. %s/%s" % (i + 1, total, nice(when(ep)), SITE, ep["path"]), "", plain(fixed(ep["description"])) or "(No show notes.)", ""] + ([plain(more_notes(ep)), ""] if more_notes(ep) else [])
     write("llms-full.txt", "\n".join(full))
     write("CNAME", "thechrisabrahamshow.com\n")
     write(INDEXNOW_KEY + ".txt", INDEXNOW_KEY)

@@ -150,6 +150,9 @@ h1, h2, h3 {
 .intro { font-family: var(--heading); font-size: .9rem; color: var(--muted); margin: 0 0 1.5rem; }
 .faq dt { font-weight: bold; margin-top: 1.1em; }
 .faq dd { margin: .2em 0 0; }
+.more-notes { border-top: 1px solid var(--rule); margin-top: 1.6em; }
+.glossary dt { font-weight: bold; margin-top: .9em; }
+.glossary dd { margin: .2em 0 0; }
 .site-footer p + p { margin-top: .25rem; }
 
 .entry-body h2, .faq-title { font-size: 1.2rem; margin: 1.6em 0 .4em; }

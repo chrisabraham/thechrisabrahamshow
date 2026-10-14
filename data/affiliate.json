@@ -44,7 +44,7 @@
   },
   {
    "match": "The American Way of Killing",
-   "search": "The American Way of Killing Malcolm Gladwell"
+   "asin": "0316603783"
   },
   {
    "match": "The Rhine: An Ecobiography",
@@ -131,6 +131,10 @@
    "search": "D&D Player's Handbook"
   },
   {
+   "match": "The Tipping Point",
+   "asin": "0316346624"
+  },
+  {
    "match": "The Executioner",
    "search": "The Executioner Mack Bolan Don Pendleton"
   },
@@ -194,6 +198,10 @@
   {
    "match": "The Exorcist",
    "search": "The Exorcist 1973"
+  },
+  {
+   "match": "Freakonomics",
+   "asin": "0060731338"
   },
   {
    "match": "foam roller",
