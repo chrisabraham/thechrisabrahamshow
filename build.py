@@ -60,7 +60,7 @@ LISTEN = [
 SAME_AS = ["https://chrisabraham.com/", "https://hillmole.com/",
            "https://www.amazon.com/stores/Chris-Abraham/author/B0GD2HTQYC",
            "https://www.linkedin.com/in/chrisabraham", "https://x.com/chrisabraham",
-           "https://chrisabraham.substack.com/", "https://www.reddit.com/user/chrisabraham",
+           "https://chrisabraham.substack.com/", "https://www.reddit.com/user/chrisabraham", "https://mastodon.social/@chrisa",
            "https://github.com/chrisabraham", "https://www.youtube.com/chrisabraham"]
 # Typos in the feed, fixed on this site only (the feed itself is untouched).
 FIXES = [
@@ -511,6 +511,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         '<link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">',
     ]
     head.append(SPECULATION)
+    head.append('<link rel="me" href="https://mastodon.social/@chrisa">')
     if prev:
         head.append('<link rel="prev" href="%s">' % prev)
     if nxt:
