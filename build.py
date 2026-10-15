@@ -64,6 +64,9 @@ SAME_AS = ["https://chrisabraham.com/", "https://hillmole.com/",
            "https://github.com/chrisabraham", "https://www.youtube.com/chrisabraham"]
 # Typos in the feed, fixed on this site only (the feed itself is untouched).
 FIXES = [
+    # compound modifiers take hyphens (Chris, 2026-10-15: "proper grammar and spelling conventions")
+    (r"\blong term harm", "long-term harm"), (r"\bshort term harm", "short-term harm"), (r"\ba co founder\b", "a co-founder"),
+    (r"\bfirst hand experience", "firsthand experience"), (r"\blong form audio", "long-form audio"), (r"\b([Aa]) brand new (SUV|RAV4)", r"\1 brand-new \2"),
     (r"\bCarey \((Traxidor|Perlan)", r"Cary (\1"),
     (r"\bwritine\b", "writing"), (r"\bdetergernt\b", "detergent"),
     (r"\bagressiveness\b", "aggressiveness"), (r"Mahalo newa, Aloha kako\b", "Mahalo nui, Aloha kakou"),
@@ -380,14 +383,14 @@ def fixed(s):
 
 
 def seo_text(s):
-    """House rule for titles and descriptions: no dashes, hyphens or pipes."""
+    """House rule for titles and descriptions: no pipes and no dashes used as separators. Hyphens inside words stay (back-of-the-book)."""
     s = re.sub(r"\s*\|\s*", ", ", s)
     seen = []
     def dash(m):
         seen.append(1)
         return ": " if len(seen) == 1 and ":" not in s else ", "
     s = re.sub(r"\s*[—–]\s*|\s+-+\s+", dash, s)
-    s = re.sub(r"(?<=\w)-(?=\w)", " ", s).replace("-", " ")
+    s = re.sub(r"(?<!\w)-+|-+(?!\w)", " ", s)
     s = re.sub(r"\s*:\s*:", ":", s)
     return re.sub(r"\s+", " ", s).strip(" ,:;")
 
@@ -1164,7 +1167,7 @@ def build(show, eps):
                      ("all %d episodes" % total if len(used) == total else "%d of the %d episodes" % (len(used), total)), when(first).year, format(n_heads, ","), n_people, total)
         body = "\n".join(['<h1 class="archive-title">Index</h1>', '<div class="entry-body">', intro, jump] + rows + ["</div>"])
         write("show-index.html", page("show-index.html", "Index of The Chris Abraham Show: every person, place, and subject",
-                                      fit("An index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from guns and aphantasia to D&D and South Arlington." % total, 160),
+                                      fit("A back-of-the-book index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from aphantasia to South Arlington." % total, 160),
                                       body, current="/show-index.html", keywords="Chris Abraham, podcast index, people, subjects, episodes",
                                       ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/show-index.html", "name": "Index",
                                           "description": "A back-of-the-book index to The Chris Abraham Show", "isPartOf": {"@id": SITE + "/#website"}}))
@@ -1335,7 +1338,7 @@ def report(eps):
         d = html.unescape(re.search(r'<meta name="description" content="([^"]*)"', h).group(1))
         long_t += len(t) > 66
         short_d += not 120 <= len(d) <= 160 and "noindex" not in h
-        dashes += bool(re.search(r"[-–—|]", t + d)) and "noindex" not in h
+        dashes += bool(re.search(r"\||[–—]|(?<!\w)-|-(?!\w)", t + " " + d)) and "noindex" not in h  # hyphens inside words are fine
     print("SEO: titles over 66: %d, descriptions outside 120 to 160: %d, with dashes or pipes: %d" % (long_t, short_d, dashes))
 
 
