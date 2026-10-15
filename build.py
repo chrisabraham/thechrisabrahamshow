@@ -214,6 +214,49 @@ def show_assets(url):
         bg.save(card, "JPEG", quality=84, optimize=True, progressive=True)
 
 
+CARD_VERSION = "1"  # bump to redraw every episode card
+
+
+def episode_card(art, title):
+    """A 1200x630 share card for an episode: its cover on a blurred copy of
+    itself, the title beside it. Square art in a large card gets cropped by
+    X, Facebook and LinkedIn; this fits their 1.91:1 frame. Named by a hash
+    of art and title, so a retitled episode gets a fresh card."""
+    from PIL import Image, ImageDraw, ImageFilter, ImageEnhance, ImageFont
+    name = "card-" + hashlib.sha1(("%s|%s|%s" % (CARD_VERSION, art, title)).encode()).hexdigest()[:12] + ".jpg"
+    path = os.path.join(IMAGES, name)
+    if os.path.exists(path):
+        return name
+    W, H, S, M = 1200, 630, 470, 80
+    im = Image.open(os.path.join(IMAGES, art)).convert("RGB")
+    bg = im.resize((W, W), Image.LANCZOS).crop((0, (W - H) // 2, W, (W + H) // 2))
+    bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(30))).enhance(.35)
+    bg.paste(im.resize((S, S), Image.LANCZOS), (M, (H - S) // 2))
+    d = ImageDraw.Draw(bg)
+    x, width = M + S + 56, W - (M + S + 56) - 64
+    fonts = os.path.join(ROOT, "fonts")
+    for size in range(64, 29, -2):  # largest size that fits in five lines
+        font = ImageFont.truetype(os.path.join(fonts, "LiberationSans-Bold.ttf"), size)
+        lines, line = [], ""
+        for word in title.split():
+            test = (line + " " + word).strip()
+            if d.textlength(test, font=font) <= width or not line:
+                line = test
+            else:
+                lines.append(line); line = word
+        lines.append(line)
+        if len(lines) <= 5 and all(d.textlength(l, font=font) <= width for l in lines):
+            break
+    lead = int(size * 1.18)
+    label = ImageFont.truetype(os.path.join(fonts, "LiberationSans-Regular.ttf"), 26)
+    top = (H - (len(lines) * lead + 52)) // 2
+    d.text((x, top), NAME.upper(), font=label, fill=(200, 200, 200))
+    for n, l in enumerate(lines):
+        d.text((x, top + 52 + n * lead), l, font=font, fill=(255, 255, 255))
+    bg.save(path, "JPEG", quality=82, optimize=True, progressive=True)
+    return name
+
+
 def cache_transcript(ep):
     path = os.path.join(TRANSCRIPTS, ep["guid"] + ".srt")
     if os.path.exists(path) or not ep.get("transcript_url"):
@@ -810,6 +853,7 @@ def build(show, eps):
             "</article>"])
 
     # episode pages
+    cards = set()
     for i, ep in enumerate(eps):
         n = i + 1
         d = when(ep)
@@ -860,10 +904,18 @@ def build(show, eps):
             {"@type": "ListItem", "position": 2, "name": "Archives", "item": SITE + "/archives.html"},
             {"@type": "ListItem", "position": 3, "name": ep["title"], "item": url}]}]}
         body = "\n".join([nav(i), block, transcript, nav(i)])
-        write(ep["path"], page(ep["path"], title, desc, body, image=art(ep), image_alt=alt(ep),
+        shown = ep["title"] if len(ep["title"]) <= 90 else title  # the SEO title when the full one won't fit
+        card = "/assets/images/" + episode_card(ep.get("art") or "show.jpg", shown)
+        cards.add(card.rsplit("/", 1)[1])
+        write(ep["path"], page(ep["path"], title, desc, body, image=card,
+                               image_alt='%s Beside it, the episode title: "%s."' % (alt(ep), shown.rstrip(".")),
                                keywords=keywords, og_type="article", ld=ld,
                                prev="/" + eps[i - 1]["path"] if i else None,
                                nxt="/" + eps[i + 1]["path"] if i < total - 1 else None))
+
+    for old in os.listdir(IMAGES):  # cards for retitled episodes
+        if old.startswith("card-") and old not in cards:
+            os.remove(os.path.join(IMAGES, old))
 
     # articles
     arts = load_articles()
