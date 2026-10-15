@@ -232,3 +232,12 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .article-art figcaption { font-family: var(--heading); font-size: .75rem; color: var(--muted); margin-top: .35rem; }
 .articles li { margin-bottom: 1rem; }
 .disclosure { font-family: var(--heading); font-size: .8rem; color: var(--muted); margin-top: 1rem; }
+
+/* Show index */
+.show-index { list-style: none; padding-left: 0; }
+.show-index > li { margin: 0 0 .45rem; padding-left: 1.25em; text-indent: -1.25em; }
+.show-index ul { list-style: none; padding-left: 1.25em; margin: .15rem 0 .2rem; text-indent: 0; }
+.show-index ul li { padding-left: 1.25em; text-indent: -1.25em; }
+.show-index .see-also { color: var(--muted); }
+.index-letters { font-family: var(--heading); line-height: 2; }
+.index-letters a { display: inline-block; min-width: 24px; min-height: 24px; text-align: center; }

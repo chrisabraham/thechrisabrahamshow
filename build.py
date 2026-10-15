@@ -503,7 +503,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
     nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true"> · </span>'.join(
         '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
-        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Colophon", "/colophon.html"))))
+        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Index", "/show-index.html"), ("Colophon", "/colophon.html"))))
     head = [
         '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
@@ -991,13 +991,78 @@ def build(show, eps):
         rows.append("</ul>")
         n_eps = len({ep["guid"] for _, (_, uses) in gterms for ep, _ in uses})
         body = "\n".join(['<h1 class="archive-title">Glossary</h1>', '<div class="entry-body">',
-                          "<p>Every term defined in the show's extended episode notes, %d of them from %d episodes so far. Each one links to its definition on the episode page, and the list grows as new episodes add terms.</p>" % (len(gterms), n_eps)]
+                          "<p>Every term defined in the show's extended episode notes, %d of them from %d episodes so far. Each one links to its definition on the episode page, and the list grows as new episodes add terms. People, places, and subjects are in the <a href=\"/show-index.html\">index</a>.</p>" % (len(gterms), n_eps)]
                          + rows + ["</div>"])
         write("glossary.html", page("glossary.html", "Glossary of terms from The Chris Abraham Show episodes",
                                     fit("An index of every term defined in the extended notes of Chris Abraham's podcast episodes, from Ampelmann to Moonlighting, each linked to its definition.", 160),
                                     body, current="/glossary.html", keywords="Chris Abraham, podcast glossary, terms, definitions",
                                     ld={"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Glossary", "url": SITE + "/glossary.html",
                                         "hasDefinedTerm": [{"@type": "DefinedTerm", "name": name, "url": SITE + "/" + uses[0][0]["path"] + "#" + uses[0][1]} for _, (name, uses) in gterms]}))
+
+    # show index: a hand-built back-of-the-book index, data/show_index.json, keyed by episode guid
+    sidx_path = os.path.join(DATA, "show_index.json")
+    if os.path.exists(sidx_path):
+        sidx = json.load(open(sidx_path))
+        num = {ep["guid"]: n for n, ep in enumerate(eps, 1)}
+        reviewed = set(sidx.get("reviewed", []))
+        missing = [n for n, ep in enumerate(eps, 1) if ep["guid"] not in reviewed]
+        if missing:
+            print("show index: %d episode(s) not indexed yet: %s" % (len(missing), ", ".join(map(str, missing))))
+        sort_key = lambda h: re.sub(r"^(series: |the |a |an )", "", re.sub(r"^[\"'“‘(]+", "", h.lower()))
+
+        def refs(guids):
+            out = []
+            for n in sorted({num[g] for g in guids if g in num}):
+                ep = eps[n - 1]
+                out.append('<a href="/%s" title="%s">%d</a>' % (ep["path"], e(close_dashes(ep["title"])), n))
+            return ", ".join(out)
+
+        heads = sorted(sidx["entries"], key=lambda h: (sort_key(h), h))
+        rows, letter, n_people, used = [], None, 0, set()
+        for h in heads:
+            ent = sidx["entries"][h]
+            subs = [(s, refs(g)) for s, g in sorted(ent["subs"].items(), key=lambda kv: sort_key(kv[0])) if refs(g)]
+            main = refs(ent["eps"])
+            if not main and not subs:
+                continue
+            used.update(g for g in ent["eps"] + [g for l in ent["subs"].values() for g in l] if g in num)
+            n_people += ent["kind"] == "person"
+            fl = sort_key(h)[:1].upper()
+            initial = fl if fl.isalpha() else "#"
+            if initial != letter:
+                if letter is not None:
+                    rows.append("</ul>")
+                rows += ['<h2 id="letter-%s">%s</h2>' % (initial.lower() if initial != "#" else "num", initial), '<ul class="show-index">']
+                letter = initial
+            label = e(close_dashes(h))
+            if h.startswith("series: "):
+                label = "<em>series:</em> " + e(close_dashes(h[8:]))
+            line = "  <li>%s%s" % (label, ", " + main if main else "")
+            see = [s for s in ent.get("see", []) if s in sidx["entries"] and s != h]
+            if subs:
+                line += '\n    <ul>\n' + "\n".join("      <li>%s, %s</li>" % (e(close_dashes(s)), r) for s, r in subs) + "\n    </ul>"
+            if see:
+                line += ' <span class="see-also"><em>See also</em> %s.</span>' % "; ".join(
+                    '<a href="#ix-%s">%s</a>' % (re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-"), e(close_dashes(s))) for s in see)
+            rows.append(line.replace("<li>", '<li id="ix-%s">' % re.sub(r"[^a-z0-9]+", "-", h.lower()).strip("-"), 1) + "</li>")
+        rows.append("</ul>")
+        n_heads = sum(1 for r in rows if r.startswith('  <li id="ix-'))
+        letters = [m for r in rows for m in re.findall(r'^<h2 id="letter-[^"]+">([^<]+)</h2>$', r)]
+        jump = '<p class="index-letters">%s</p>' % " ".join('<a href="#letter-%s">%s</a>' % (l.lower() if l != "#" else "num", l) for l in letters)
+        intro = ("<p>Every book about Washington has an index in the back, and everyone in town reads it first. This is the index for my show. "
+                 "It covers %s, from the first ChrisCast in %s to the latest, with %s headings for people, places, books, shows, arguments, and stories, %d of them people. "
+                 "I named a lot of people over the years, and every one of them is here, surname first. Friends who only ever got a first name keep it, with a word about who they are.</p>"
+                 "<p>The numbers are episode numbers, the same &ldquo;Episode N of %d&rdquo; at the top of every episode page, and each one links to that episode. "
+                 "Hover over a number to see the episode&rsquo;s title. Big subjects, like guns, diet, heart health, aphantasia, and the deportation industrial complex, break into subentries. "
+                 "Recurring segments and the Curse of Strahd campaign are filed under <em>series</em>. "
+                 "The terms I define in the episode notes are in the <a href=\"/glossary.html\">glossary</a>, and every episode in order is in the <a href=\"/archives.html\">archives</a>.</p>") % (
+                     ("all %d episodes" % total if len(used) == total else "%d of the %d episodes" % (len(used), total)), when(first).year, format(n_heads, ","), n_people, total)
+        body = "\n".join(['<h1 class="archive-title">Index</h1>', '<div class="entry-body">', intro, jump] + rows + ["</div>"])
+        write("show-index.html", page("show-index.html", "Index of The Chris Abraham Show: every person, place, and subject",
+                                      fit("A back-of-the-book index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from guns and aphantasia to D&D and South Arlington." % total, 160),
+                                      body, current="/show-index.html", keywords="Chris Abraham, podcast index, people, subjects, episodes",
+                                      ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/show-index.html", "name": "Index",
+                                          "description": "A back-of-the-book index to The Chris Abraham Show", "isPartOf": {"@id": SITE + "/#website"}}))
 
     show_desc = plain(fixed(show["description"]))
     home_desc = fit("Every episode of Chris Abraham's podcast since %d: politics, AI, SEO, fitness, D&D, aphantasia and South Arlington life, with notes and transcripts." % FIRST_YEAR, 160)
@@ -1037,7 +1102,7 @@ def build(show, eps):
         rows.append('  <li><span class="meta">%s</span> <a href="/%s">%s</a> <span class="meta">%s</span></li>' % (
             d.strftime("%b %-d"), ep["path"], e(ep["title"]), " · ".join(extra)))
     rows.append("</ul>")
-    body = '<h1 class="archive-title">Archives</h1>\n<p>All %d episodes, newest first.</p>\n%s' % (total, "\n".join(rows))
+    body = '<h1 class="archive-title">Archives</h1>\n<p>All %d episodes, newest first. To find an episode by person or subject, use the <a href="/show-index.html">index</a>.</p>\n%s' % (total, "\n".join(rows))
     write("archives.html", page("archives.html", "All %d Chris Abraham podcast episodes, %d to %d" % (total, FIRST_YEAR, LAST_YEAR),
                                 fit("The full list of Chris Abraham's podcast episodes, newest first, %d to %d, with dates, running times, and season and episode numbers for each." % (FIRST_YEAR, LAST_YEAR), 160),
                                 body, current="/archives.html", keywords="Chris Abraham, podcast episodes, archive",
@@ -1115,14 +1180,14 @@ def build(show, eps):
     # sitemap and robots
     urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None)]
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
-    urls += [(SITE + "/glossary.html", None)]
+    urls += [(SITE + "/glossary.html", None), (SITE + "/show-index.html", None)]
     urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
         "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
-             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE,
+             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
              "- [Full show notes](%s/llms-full.txt): every episode's notes in one plain text file" % SITE, "", "## Episodes", ""]
     lines += ["- [%s](%s/%s): %s%s" % (ep["title"], SITE, ep["path"], nice(when(ep)), ", " + clock(seconds(ep["duration"])) if seconds(ep["duration"]) else "") for ep in reversed(eps)]
     if arts:

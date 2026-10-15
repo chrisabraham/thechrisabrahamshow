@@ -1,0 +1,12 @@
+# Unconfirmed names from the show index
+
+Names heard in transcripts that couldn't be confirmed against the show notes, titles, or a reliable source. They are left out of the index until Chris confirms the spelling.
+
+- "Dr. Lux" (also heard as "Dr. Luck"), Chris' cardiologist: episodes 120, 130. Spelling heard in the transcript only.
+- **Michelle (ex-girlfriend), episode 172.** You list her among past partners. Is she Michelle Nolan, the friend from your September 11 story (episode 92)? Episode 297 credits recovery wisdom to an ex-girlfriend, Michelle Nolan, so it's likely the same woman. Until you confirm, she stays a separate first-name entry.
+- **Jacques (Alone contestant), episode 172.** He's from *Alone* season 9. The episode gives only his first name, so I left out the surname.
+- **Linda, episodes 151, 174, 177, and 181.** In episode 181 you say "my twin sister Linda," and the transcript gives her surname as "Going," which may be a mishearing. You also call yourself an only child on the show, so I read "twin sister" as an affectionate name for a friend and indexed her as "Linda (friend)." Send me her surname if you want it used, and tell me if "twin sister" should be literal.
+- **Kim (parkrun tail walker), episodes 178–179.** She went to your elementary school in Hawaii. The notes also call her "Kate" and "Cat." I used "Kim." Correct it if I picked the wrong one.
+- **Karen, college girlfriend, episode 186.** The transcript spells her surname two ways, "Chulupsky" and "Chilupski." She's indexed as "Karen (college girlfriend)" until you confirm the spelling, or tell me to leave the surname out.
+- **The Curse of Strahd Discord group, episode 446.** Your episode 455 notes confirm the Dungeon Master is Sean Scanlon, and he's indexed under that name. The transcript also names a player "Carrie Abend," which I couldn't confirm. The other players are indexed by first name: Carey, Trip, Enrique, and Sean D. The episode 347 notes list "Sean D." as Sören's player, so there may be two Seans. The episode 451 notes list the cast as Chris (Radley), Sean D. (Urihorn), Cary (Perlan), Trip (Daermon), and Sean S. as DM. So the DM is Sean S. and Sören's player was Sean D. I spelled the player "Carey," as in the episode 347 notes; episode 451 has "Cary." Tell me the surnames and spellings you want, or whether first names are fine.
+- **Jason Guljar(?), episode 446.** He's the friend who got you onto micro.blog. The surname is a transcript guess, so he's indexed as "Jason (micro.blog friend)." He may be the Jason from episodes 151 and 424–425.
