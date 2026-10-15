@@ -5896,6 +5896,16 @@
    "see": [],
    "subs": {}
   },
+  "Lucks, Matthew (Chris' cardiologist)": {
+   "eps": [
+    "cdb3f5ed-440e-4f52-874a-55dc09c71ff4",
+    "d5006255-d0dc-4bde-84c5-3c21b851a31c",
+    "3e8c46c4-e82b-4f09-8b4b-8f5188521483"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
   "Luntz, Frank": {
    "eps": [
     "d95c5b2d-054f-4227-9b5b-1f04ae75f2a6",
@@ -11366,10 +11376,15 @@
   },
   "cardiologist": {
    "eps": [
-    "f314a91f-1e71-43b7-b2f4-4ed5a3ccfbe0"
+    "f314a91f-1e71-43b7-b2f4-4ed5a3ccfbe0",
+    "cdb3f5ed-440e-4f52-874a-55dc09c71ff4",
+    "d5006255-d0dc-4bde-84c5-3c21b851a31c",
+    "3e8c46c4-e82b-4f09-8b4b-8f5188521483"
    ],
    "kind": "topic",
-   "see": [],
+   "see": [
+    "Lucks, Matthew (Chris' cardiologist)"
+   ],
    "subs": {}
   },
   "caregiving": {
@@ -13360,7 +13375,8 @@
    "kind": "topic",
    "see": [
     "sleep apnea, CPAP, and BiPAP",
-    "diet and weight"
+    "diet and weight",
+    "Lucks, Matthew (Chris' cardiologist)"
    ],
    "subs": {
     "atrial fibrillation and cardioversion": [

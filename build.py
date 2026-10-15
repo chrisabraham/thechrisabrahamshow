@@ -71,6 +71,102 @@ FIXES = [
     (r"\b(another|subject|discourse|way|designed)a (<em>rambling)", r"\1: a \2"), (r"\btl:dr\b", "tl;dr"),
     (r"Just a 55-year-old cisgender", "Just a 56-year-old cisgender"),  # the show blurb; Chris is 56 (Oct 2026)
 ]
+# Mishearings in Spotify's machine transcripts, fixed on this site only (the cached .srt files stay as delivered).
+TRANSCRIPT_FIXES = [
+    ('\\bA Fantasia\\b', 'aphantasia'),
+    ('\\b[Aa]dvantasia\\b', 'aphantasia'),
+    ('\\b[Hh]yper ?[Ff]antasia\\b', 'hyperphantasia'),
+    ('\\bS ?dam\\b', 'SDAM'),
+    ("\\bAdido's\\b", "Idido's"),
+    ('\\bIdido[s]? ?[Cc]offee', 'Idido Coffee'),
+    ('\\bIdidos\\b', "Idido's"),
+    ('\\bAdidas Coffee\\b', 'Idido Coffee'),
+    ('\\b[Aa]braham ?\\.s ?[uU]\\b', 'abraham.su'),
+    ('\\bMesh ?[Tt]astic\\b', 'Meshtastic'),
+    ('\\bSync Thing\\b', 'Syncthing'),
+    ('\\bEpiscopalian Complin\\b', 'Episcopal Compline'),
+    ('\\bComplin\\b', 'Compline'),
+    ('\\bTakidamas\\b', 'Tachikomas'),
+    ('\\bLaura (?=[Rr]adio|Meshtastic)', 'LoRa '),
+    ('\\bConcept 2\\b', 'Concept2'),
+    ('\\bGo ?Ruck\\b', 'GORUCK'),
+    ('\\bChris [Cc]ast\\b', 'ChrisCast'),
+    ('\\bHey,? Gogol\\b', 'Hey Google'),
+    ('\\bHey,? Gulu\\b', 'Hey Google'),
+    ('\\bKaiser M3\\b', 'Keiser M3'),
+    ('\\b[Ss]teel dossier\\b', 'Steele dossier'),
+    ('\\bPhilando Castir\\b', 'Philando Castile'),
+    ('\\b(?:Gerard|Jerrod) Depard(?:ue|io)\\b', 'Gérard Depardieu'),
+    ('\\bEduardo Sav(?:rin|erins)\\b|\\bEduardo Severins\\b', 'Eduardo Saverin'),
+    ('\\bZo(?:ra|hro)n M(?:am|an)dani\\b', 'Zohran Mamdani'),
+    ('\\bMike D(?:i|e)[Gg]iorno\\b', 'Mike DelGiorno'),
+    ('\\bGarrison K(?:yler|eller)\\b', 'Garrison Keillor'),
+    ('\\bColean Noir\\b', 'Colion Noir'),
+    ('\\bGuerrillo Princip\\b', 'Gavrilo Princip'),
+    ('\\bJeff Cavan\\b', 'Jeff Cavins'),
+    ('\\bSiddhartha Kotama\\b', 'Siddhartha Gautama'),
+    ('\\bLord Haha\\b', 'Lord Haw-Haw'),
+    ('\\bAntony Beaver\\b', 'Antony Beevor'),
+    ('\\bGordon Gecko\\b', 'Gordon Gekko'),
+    ('\\bPelphrey\\b', 'Palfrey'),
+    ('\\bTamela Martin\\b', 'Pamela Martin'),
+    ('\\bShoshanna Zubach\\b', 'Shoshana Zuboff'),
+    ('\\bRenee Gerard\\b', 'René Girard'),
+    ('\\bPeter Teal\\b', 'Peter Thiel'),
+    ('\\bSmith[ -]?Mu?n(?:d|t|de|n)?t?( [Mm]odernization)? ?[Aa]ct\\b', 'Smith-Mundt\\1 Act'),
+    ('\\b([Dd])r\\.? (?:Lux|Luck)\\b', '\\1r. Lucks'),
+    ('\\bmy doctor dr\\. Lucks\\b', 'my doctor, Dr. Lucks'),
+]
+# Curse of Strahd names, applied only to the D&D session episodes so "Strad" or "Danica" elsewhere is left alone.
+DND_FIXES = [
+    ('\\bCursive Strad\\b', 'Curse of Strahd'),
+    ('\\b[Cc]urse of Str(?:ad|aud|oud|ud)\\b', 'Curse of Strahd'),
+    ('\\bStr(?:ad|aud|ud)\\b', 'Strahd'),
+    ('\\bStroud\\b', 'Strahd'),
+    ('\\bBorovia(n?)\\b', 'Barovia\\1'),
+    ('\\bVal(?:l)?achi\\b|\\bValaki\\b|\\bVolaki\\b', 'Vallaki'),
+    ('\\b(?:Yuri ?[Hh]orne?|Eu?ro ?[Hh]orn|Yori Horn|Erie Horn|Udir Horn|Orihorn|Euro Horn)\\b', 'Urihorn'),
+    ('\\b(?:Derm(?:ont|an|ot)|Darman|Dearman|Diamond) Cobain\\b', 'Daermon Cobain'),
+    ('\\bDerm(?:ont|an|ot)\\b', 'Daermon'),
+    ('\\bTrac(?:i|e)dor\\b|\\bTre?x(?:or|ors)\\b|\\bTracks(?:idar| ?[Dd]oor)\\b|\\bTra?ck Seder\\b|\\bTrek Seder\\b|\\bTracer Door\\b', 'Traxidor'),
+    ('\\b(?:Soren|Surin|Sirn|Sarin) Ironwood\\b', 'Sören Ironwood'),
+    ('\\bRadley F(?:olthorne?|ulthorn|ulhorn)\\b', 'Radley Fullthorn'),
+    ('\\bLady W(?:atcher|alker|asher|ater|okter|affer|acker|atch)s?\\b', 'Lady Wachter'),
+    ('\\bLady Voctor\\b', 'Lady Wachter'),
+    ('\\bIsaac Strozny\\b', 'Izek Strazni'),
+    ('\\bIrena\\b', 'Ireena'),
+    ('\\bIzmark\\b', 'Ismark'),
+    ('\\bMart[ia]koffs?\\b', 'Martikov'),
+    ('\\bDanica\\b', 'Danika'),
+    ('\\bKresk\\b', 'Krezk'),
+    ('\\bKreskov\\b', 'Krezkov'),
+    ('\\bKreskova\\b', 'Krezkova'),
+    ('\\b(?:Arg[eo]n|Arj[eu]n|Argh?in|Arden|Arise) ?(?:[VvBbMm]o?(?:s|ss|st|l)(?:t?h?olt|t?h?old|t?hull|tel|tholt)|Vest ?[Hh]olt|Vostholt|Bostole|Boss ?Holt)\\b', 'Argynvostholt'),
+    ('\\bRick T[ae][bv]io\\b', 'Rictavio'),
+    ('\\b(?:Van|Ven|Vin|Then) Richt(?:on|y|e)\\b', 'Van Richten'),
+    ('\\bRudolf Enrichten\\b', 'Rudolf van Richten'),
+    ('\\bEsmer(?:alda|elda|osa) D(?:uvernier|avenir)\\b', "Ezmerelda d'Avenir"),
+    ('\\bPear(?:land|lman|lin) Good ?[Ss]hadow\\b', 'Perlan Goodshadow'),
+    ('\\bPearlin\\b', 'Perlan'),
+    ('\\bSaint Mar[ck]ov(?:i)?a\\b', 'Saint Markovia'),
+    ('\\bMount G(?:akis|affes|alacus|awkies|ehacas)\\b|\\bMount Caucus\\b', 'Mount Ghakis'),
+    ('\\b(?:Sal[ie]nka|Selinka|Desolinka|Telenka) Pass\\b', 'Tsolenka Pass'),
+    ('\\b(?:Swellidge|Sailage|Spalich) R(?:d|oad)\\b', 'Svalich Road'),
+    ('\\bB[eu]rg[ae]?r? ?[Mm]aster\\b|\\bBurgo [Mm]aster\\b', 'Burgomaster'),
+    ('\\bBurgo [Mm]istress(es)?\\b', 'Burgomistress\\1'),
+    ('\\bRaven ?[Ll]ock?\\b|\\bRaven Loft\\b|\\bWavenloft\\b', 'Ravenloft'),
+    ('\\bV(?:o|a)la?kovi(?:c|ch)\\b', 'Vallakovich'),
+    ('\\bMadame Eva\\b', 'Madam Eva'),
+    ('\\bErnst ?[Ll]ern?a[ck]k?\\b|\\bErnst Larnac\\b', 'Ernst Larnak'),
+    ('\\bZ(?:ig|eig) ?Fr(?:ick|ag)\\b', 'Zygfrek'),
+    ('\\bHenrik Vand(?:er|e) ?[Vv]?oort\\b|\\bHenrik Vander Fort\\b', 'Henrik van der Voort'),
+    ('\\bEsmodeus\\b', 'Asmodeus'),
+    ('\\bEldridge Knight\\b', 'Eldritch Knight'),
+    ('\\bSun Sword\\b', 'Sunsword'),
+    ('\\bSaint Andrews Church\\b', "Saint Andral's Church"),
+    ('\\bSaint Andrews?\\b|\\bSan Andrews\\b', 'Saint Andral'),
+]
+DND_EPISODE = re.compile(r"Strahd|Barovia|Vallaki|Ravenloft|Argynvostholt")
 e = html.escape
 
 
@@ -916,6 +1012,9 @@ def build(show, eps):
         transcript = ""
         if os.path.exists(tpath):
             paras = transcript_paragraphs(open(tpath).read())
+            fixes = TRANSCRIPT_FIXES + (DND_FIXES if DND_EPISODE.search(ep["title"] + " " + (ep.get("description") or "")) else [])
+            for pat, to in fixes:
+                paras = [re.sub(pat, to, p_) for p_ in paras]
             if paras:
                 words = sum(len(p.split()) for p in paras)
                 transcript = ('<section class="transcript" aria-labelledby="transcript">\n<h2 id="transcript">Transcript</h2>\n'
