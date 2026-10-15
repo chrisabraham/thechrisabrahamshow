@@ -503,7 +503,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
     nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true"> · </span>'.join(
         '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
-        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Colophon", "/colophon.html"))))
+        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Colophon", "/colophon.html"))))
     head = [
         '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
@@ -746,7 +746,31 @@ def more_notes(ep):
     """Site-only notes: data/notes/<guid>.html, HTML shown below the Spotify notes on the episode's page.
     Spotify caps notes at 4,000 characters; this has no cap, and the daily feed update never touches it."""
     path = os.path.join(NOTES, ep["guid"] + ".html")
-    return close_dashes(open(path).read().strip()) if os.path.exists(path) else ""
+    return anchor_terms(close_dashes(open(path).read().strip())) if os.path.exists(path) else ""
+
+
+def term_slug(t):
+    t = html.unescape(re.sub(r"<[^>]+>", "", t))
+    return "g-" + (re.sub(r"[^a-z0-9]+", "-", t.lower().strip(' "“”')).strip("-") or "term")
+
+
+def anchor_terms(h):
+    """Every glossary <dt> gets an id, so the site Glossary can link straight to the definition."""
+    return re.sub(r"<dt>(.*?)</dt>", lambda m: '<dt id="%s">%s</dt>' % (term_slug(m.group(1)), m.group(1)), h, flags=re.S)
+
+
+def glossary_terms(eps):
+    """(term, sort key, [(episode, anchor)]) for every term in every episode's site notes."""
+    terms = {}
+    for ep in eps:
+        path = os.path.join(NOTES, ep["guid"] + ".html")
+        if not os.path.exists(path):
+            continue
+        for t in re.findall(r"<dt>(.*?)</dt>", open(path).read(), re.S):
+            name = html.unescape(re.sub(r"<[^>]+>", "", t)).strip()
+            key = name.lower().strip(' "“”')
+            terms.setdefault(key, [name, []])[1].append((ep, term_slug(t)))
+    return sorted(terms.items())
 
 
 def load_articles():
@@ -951,6 +975,30 @@ def build(show, eps):
                                 current="/articles.html", keywords="Chris Abraham, articles, essays",
                                 ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/articles.html", "name": "Articles", "isPartOf": {"@id": SITE + "/#website"}}))
 
+    # glossary: an index of every term in the episodes' site notes, linking to each definition
+    gterms = glossary_terms(eps)
+    if gterms:
+        rows, letter = [], None
+        for key, (name, uses) in gterms:
+            initial = key[0].upper() if key[0].isalpha() else "#"
+            if initial != letter:
+                if letter is not None:
+                    rows.append("</ul>")
+                rows += ['<h2 id="letter-%s">%s</h2>' % (initial.lower() if initial != "#" else "num", initial), "<ul class=\"glossary-index\">"]
+                letter = initial
+            links = ", ".join('<a href="/%s#%s">%s</a>' % (ep["path"], a, e(ep["title"])) for ep, a in uses)
+            rows.append("<li><strong>%s</strong>: %s</li>" % (e(name), links))
+        rows.append("</ul>")
+        n_eps = len({ep["guid"] for _, (_, uses) in gterms for ep, _ in uses})
+        body = "\n".join(['<h1 class="archive-title">Glossary</h1>', '<div class="entry-body">',
+                          "<p>Every term defined in the show's extended episode notes, %d of them from %d episodes so far. Each one links to its definition on the episode page, and the list grows as new episodes add terms.</p>" % (len(gterms), n_eps)]
+                         + rows + ["</div>"])
+        write("glossary.html", page("glossary.html", "Glossary of terms from The Chris Abraham Show episodes",
+                                    fit("An index of every term defined in the extended notes of Chris Abraham's podcast episodes, from Ampelmann to Moonlighting, each linked to its definition.", 160),
+                                    body, current="/glossary.html", keywords="Chris Abraham, podcast glossary, terms, definitions",
+                                    ld={"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Glossary", "url": SITE + "/glossary.html",
+                                        "hasDefinedTerm": [{"@type": "DefinedTerm", "name": name, "url": SITE + "/" + uses[0][0]["path"] + "#" + uses[0][1]} for _, (name, uses) in gterms]}))
+
     show_desc = plain(fixed(show["description"]))
     home_desc = fit("Every episode of Chris Abraham's podcast since %d: politics, AI, SEO, fitness, D&D, aphantasia and South Arlington life, with notes and transcripts." % FIRST_YEAR, 160)
     sentence = "Every episode of %s, %s to %s, with show notes and transcripts." % (NAME, nice(when(first)), nice(when(latest)))
@@ -1067,6 +1115,7 @@ def build(show, eps):
     # sitemap and robots
     urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None)]
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
+    urls += [(SITE + "/glossary.html", None)]
     urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
         "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
