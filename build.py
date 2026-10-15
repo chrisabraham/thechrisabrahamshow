@@ -64,6 +64,7 @@ SAME_AS = ["https://chrisabraham.com/", "https://hillmole.com/",
            "https://github.com/chrisabraham", "https://www.youtube.com/chrisabraham"]
 # Typos in the feed, fixed on this site only (the feed itself is untouched).
 FIXES = [
+    (r"\bCarey \((Traxidor|Perlan)", r"Cary (\1"),
     (r"\bwritine\b", "writing"), (r"\bdetergernt\b", "detergent"),
     (r"\bagressiveness\b", "aggressiveness"), (r"Mahalo newa, Aloha kako\b", "Mahalo nui, Aloha kakou"),
     (r"\b([Hh])yperfantasia\b", r"\1yperphantasia"), (r"prominent figur\b", "prominent figure"),
@@ -73,6 +74,8 @@ FIXES = [
 ]
 # Mishearings in Spotify's machine transcripts, fixed on this site only (the cached .srt files stay as delivered).
 TRANSCRIPT_FIXES = [
+    ('\\bLinda Going\\b', 'Linda Goin'), ('\\bLinda, go in\\.', 'Linda Goin.'),
+    ('\\bJason Guljar\\b', 'Jason Gooljar'), ('\\bKaren Ch[iu]lups?k[iy]\\b', 'Karen Chalupsky'),
     ('\\bA Fantasia\\b', 'aphantasia'),
     ('\\b[Aa]dvantasia\\b', 'aphantasia'),
     ('\\b[Hh]yper ?[Ff]antasia\\b', 'hyperphantasia'),
@@ -119,6 +122,7 @@ TRANSCRIPT_FIXES = [
 ]
 # Curse of Strahd names, applied only to the D&D session episodes so "Strad" or "Danica" elsewhere is left alone.
 DND_FIXES = [
+    ('\\bCarrie\\s+Abend, Abend Abend\\b', 'Cary Abend'), ('\\bCarrie\\s+Abend\\b', 'Cary Abend'),
     ('\\bCursive Strad\\b', 'Curse of Strahd'),
     ('\\b[Cc]urse of Str(?:ad|aud|oud|ud)\\b', 'Curse of Strahd'),
     ('\\bStr(?:ad|aud|ud)\\b', 'Strahd'),

@@ -227,6 +227,16 @@
    "see": [],
    "subs": {}
   },
+  "Abend, Cary (D&D player)": {
+   "eps": [
+    "34042dfd-89d1-4449-a863-5ac33e51b99d",
+    "e94d1764-c518-4490-a8ad-98c611ba3058",
+    "9a2d6697-8184-440d-b8ec-92a13160d585"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
   "Abraham Harrison": {
    "eps": [
     "63896034-bcff-4515-9bc4-3a2d0ed2f4f6",
@@ -1765,16 +1775,6 @@
    "see": [],
    "subs": {}
   },
-  "Carey (D&D player)": {
-   "eps": [
-    "34042dfd-89d1-4449-a863-5ac33e51b99d",
-    "e94d1764-c518-4490-a8ad-98c611ba3058",
-    "9a2d6697-8184-440d-b8ec-92a13160d585"
-   ],
-   "kind": "person",
-   "see": [],
-   "subs": {}
-  },
   "Carlson, Tucker": {
    "eps": [
     "eabd5d8a-471b-4289-8fb0-4e50a952f106",
@@ -1861,6 +1861,14 @@
   "Cavins, Jeff": {
    "eps": [
     "20cfada2-d4f2-4f82-a0ae-45f9c914b559"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
+  "Chalupsky, Karen (Chris' college girlfriend)": {
+   "eps": [
+    "f56360f4-6514-4316-b69c-1c27910b857c"
    ],
    "kind": "person",
    "see": [],
@@ -3867,6 +3875,18 @@
    "see": [],
    "subs": {}
   },
+  "Goin, Linda (Chris' best friend)": {
+   "eps": [
+    "4a784c91-ffb7-4926-9d30-26c5a8143e8c",
+    "930eba36-9469-4480-9464-6d32a5723772",
+    "be85f199-6f61-43a7-9243-c3ba35862c00",
+    "7f38f2ae-2cf7-47fa-a59c-9e270e9e33ec",
+    "f9fe0b5c-0d5f-4dc0-bce9-ec5bcc868335"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
   "Gold Rush of Deportation": {
    "eps": [
     "a5d1dfa8-3f19-4fa7-9b16-b4aba66736d3"
@@ -4062,6 +4082,14 @@
      "25f57eba-d23e-4b15-9a1b-7a22d525bab1"
     ]
    }
+  },
+  "Gooljar, Jason (micro.blog friend)": {
+   "eps": [
+    "e94d1764-c518-4490-a8ad-98c611ba3058"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
   },
   "Gorbachev, Mikhail": {
    "eps": [
@@ -5046,14 +5074,6 @@
    "see": [],
    "subs": {}
   },
-  "Jason (micro.blog friend)": {
-   "eps": [
-    "e94d1764-c518-4490-a8ad-98c611ba3058"
-   ],
-   "kind": "person",
-   "see": [],
-   "subs": {}
-  },
   "Jefferson, Thomas": {
    "eps": [
     "c7ad0368-6e86-4034-a0c7-08ca58b0f852"
@@ -5201,14 +5221,6 @@
     "7a259a21-7087-42ab-aa4e-e6a0aeeb5407"
    ],
    "kind": "topic",
-   "see": [],
-   "subs": {}
-  },
-  "Karen (college girlfriend)": {
-   "eps": [
-    "f56360f4-6514-4316-b69c-1c27910b857c"
-   ],
-   "kind": "person",
    "see": [],
    "subs": {}
   },
@@ -5754,18 +5766,6 @@
   "Limbaugh, Rush": {
    "eps": [
     "2623a44c-2cdd-4b25-ad8f-546d58d1483a"
-   ],
-   "kind": "person",
-   "see": [],
-   "subs": {}
-  },
-  "Linda (friend)": {
-   "eps": [
-    "4a784c91-ffb7-4926-9d30-26c5a8143e8c",
-    "930eba36-9469-4480-9464-6d32a5723772",
-    "be85f199-6f61-43a7-9243-c3ba35862c00",
-    "7f38f2ae-2cf7-47fa-a59c-9e270e9e33ec",
-    "f9fe0b5c-0d5f-4dc0-bce9-ec5bcc868335"
    ],
    "kind": "person",
    "see": [],
@@ -6488,14 +6488,6 @@
    "see": [],
    "subs": {}
   },
-  "Michelle (ex-girlfriend)": {
-   "eps": [
-    "f42fabf0-76f5-4157-99ba-38936d4c776d"
-   ],
-   "kind": "person",
-   "see": [],
-   "subs": {}
-  },
   "Microsoft Copilot": {
    "eps": [
     "da0bdc78-d14d-43f7-b3d6-3f665134940f",
@@ -7121,7 +7113,8 @@
   "Nolan, Michelle": {
    "eps": [
     "7d5166e7-a0b6-4cdc-9cc0-f1672de10bd2",
-    "2668b277-808e-4b70-8956-df9b0b963448"
+    "2668b277-808e-4b70-8956-df9b0b963448",
+    "f42fabf0-76f5-4157-99ba-38936d4c776d"
    ],
    "kind": "person",
    "see": [],
