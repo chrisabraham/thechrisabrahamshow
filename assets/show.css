@@ -239,5 +239,9 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .show-index ul { list-style: none; padding-left: 1.25em; margin: .15rem 0 .2rem; text-indent: 0; }
 .show-index ul li { padding-left: 1.25em; text-indent: -1.25em; }
 .show-index .see-also { color: var(--muted); }
-.index-letters { font-family: var(--heading); line-height: 2; }
-.index-letters a { display: inline-block; min-width: 24px; min-height: 24px; text-align: center; }
+.index-letters { position: sticky; top: 0; z-index: 1; background: var(--paper); border-bottom: 1px solid var(--rule); font-family: var(--heading); margin: 0 0 1rem; }
+.index-letters p { margin: 0; padding: .3rem 0; display: flex; flex-wrap: wrap; gap: .1rem .2rem; }
+.index-letters a, .index-letters span { display: inline-block; min-width: 28px; min-height: 28px; line-height: 28px; text-align: center; }
+.index-letters .index-empty { color: var(--muted); }
+.index-top { font-size: .9em; margin: -.3rem 0 1.2rem; }
+[id^="letter-"], [id^="ix-"] { scroll-margin-top: 3.5rem; }

@@ -1134,8 +1134,8 @@ def build(show, eps):
             initial = fl if fl.isalpha() else "#"
             if initial != letter:
                 if letter is not None:
-                    rows.append("</ul>")
-                rows += ['<h2 id="letter-%s">%s</h2>' % (initial.lower() if initial != "#" else "num", initial), '<ul class="show-index">']
+                    rows += ["</ul>", '<p class="index-top"><a href="#index-letters">Back to the letters</a></p>']
+                rows += ['<h2 id="letter-%s">%s</h2>' % (initial.lower() if initial != "#" else "num", "0–9" if initial == "#" else initial), '<ul class="show-index">']
                 letter = initial
             label = e(close_dashes(h))
             if h.startswith("series: "):
@@ -1148,10 +1148,12 @@ def build(show, eps):
                 line += ' <span class="see-also"><em>See also</em> %s.</span>' % "; ".join(
                     '<a href="#ix-%s">%s</a>' % (re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-"), e(close_dashes(s))) for s in see)
             rows.append(line.replace("<li>", '<li id="ix-%s">' % re.sub(r"[^a-z0-9]+", "-", h.lower()).strip("-"), 1) + "</li>")
-        rows.append("</ul>")
+        rows += ["</ul>", '<p class="index-top"><a href="#index-letters">Back to the letters</a></p>']
         n_heads = sum(1 for r in rows if r.startswith('  <li id="ix-'))
-        letters = [m for r in rows for m in re.findall(r'^<h2 id="letter-[^"]+">([^<]+)</h2>$', r)]
-        jump = '<p class="index-letters">%s</p>' % " ".join('<a href="#letter-%s">%s</a>' % (l.lower() if l != "#" else "num", l) for l in letters)
+        present = {m for r in rows for m in re.findall(r'^<h2 id="letter-([^"]+)">', r)}
+        jump = '<nav class="index-letters" id="index-letters" aria-label="Jump to a letter"><p>%s</p></nav>' % " ".join(
+            ('<a href="#letter-%s">%s</a>' % (k, lab)) if k in present else '<span class="index-empty" title="No headings under %s">%s</span>' % (lab, lab)
+            for k, lab in [("num", "0–9")] + [(chr(c).lower(), chr(c)) for c in range(65, 91)])
         intro = ("<p>Every book about Washington has an index in the back, and everyone in town reads it first. This is the index for my show. "
                  "It covers %s, from the first ChrisCast in %s to the latest, with %s headings for people, places, books, shows, arguments, and stories, %d of them people. "
                  "I named a lot of people over the years, and every one of them is here, surname first. Friends who only ever got a first name keep it, with a word about who they are.</p>"
@@ -1162,7 +1164,7 @@ def build(show, eps):
                      ("all %d episodes" % total if len(used) == total else "%d of the %d episodes" % (len(used), total)), when(first).year, format(n_heads, ","), n_people, total)
         body = "\n".join(['<h1 class="archive-title">Index</h1>', '<div class="entry-body">', intro, jump] + rows + ["</div>"])
         write("show-index.html", page("show-index.html", "Index of The Chris Abraham Show: every person, place, and subject",
-                                      fit("A back-of-the-book index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from guns and aphantasia to D&D and South Arlington." % total, 160),
+                                      fit("An index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from guns and aphantasia to D&D and South Arlington." % total, 160),
                                       body, current="/show-index.html", keywords="Chris Abraham, podcast index, people, subjects, episodes",
                                       ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/show-index.html", "name": "Index",
                                           "description": "A back-of-the-book index to The Chris Abraham Show", "isPartOf": {"@id": SITE + "/#website"}}))
