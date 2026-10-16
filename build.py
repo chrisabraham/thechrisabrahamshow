@@ -670,7 +670,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content" id="content">',
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
         '    <p>%s © %s–%s <a href="/about.html" rel="author">%s</a>.</p>' % (NAME, FIRST_YEAR, LAST_YEAR, AUTHOR),
-        '    <p>Mirrored from Spotify for Creators. Static on GitHub Pages.</p>',
+        '    <p>Mirrored from Spotify for Creators. Static on GitHub Pages. <a href="/privacy.html">Privacy</a>.</p>',
         "  </footer>", "</div>", THEME_SCRIPT, "</body>", "</html>", ""])
 
 
@@ -712,8 +712,13 @@ SIDEBAR = FIRST_YEAR = LAST_YEAR = ""
 GA4 = """<script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  // Consent mode: no ad storage anywhere; no analytics cookies in the EU, EEA, UK, or
+  // Switzerland, or when the browser sends Global Privacy Control or Do Not Track. See /privacy.html.
+  gtag('consent', 'default', {ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'granted'});
+  gtag('consent', 'default', {analytics_storage: 'denied', region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});
+  if (navigator.globalPrivacyControl === true || navigator.doNotTrack === '1') gtag('consent', 'default', {analytics_storage: 'denied'});
   gtag('js', new Date());
-  gtag('config', 'G-WQGSJJEDKP');
+  gtag('config', 'G-WQGSJJEDKP', {allow_google_signals: false, allow_ad_personalization_signals: false});
   (function () {
     var done = false;
     function load() {
@@ -1270,6 +1275,28 @@ def build(show, eps):
                                 "How Chris Abraham records and edits his podcast, who made the music and cover art, and how this site mirrors his Spotify feed every day.",
                                 body, keywords="colophon, Sony ICD UX570, Audacity, podcast credits", current="/colophon.html"))
 
+    # privacy
+    body = "\n".join([
+        '<div class="entry-body">',
+        "<h1>Privacy</h1>",
+        "<p>This site is a static mirror of a podcast. It has no ads, no comments, no forms, and no sign-ups. Here is everything it does with visitor data.</p>",
+        "<h2>Google Analytics</h2>",
+        "<p>Google Analytics 4 counts visits and shows which episodes people read and how they found the site. Advertising features, ad storage, and Google signals are switched off for everyone, so nothing here is used to target ads. Visitors in the European Union, the EEA, the United Kingdom, and Switzerland get no analytics cookies; Google receives only cookieless pings from them. The same goes for anyone whose browser sends Global Privacy Control or Do Not Track. Everyone else may get Google's first-party <code>_ga</code> cookies, which hold a random identifier so a returning listener is counted once. The script waits until you scroll, tap, or type, or four seconds after the page loads. Block it however you like, including with <a href=\"https://tools.google.com/dlpage/gaoptout\">Google's opt-out add-on</a>, and the site works the same. Google's policy is at <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>.</p>",
+        "<h2>Audio and Transcripts</h2>",
+        "<p>The players stream each episode from the podcast's host, Spotify for Creators, only when you press play, so Spotify's servers see that request under <a href=\"https://www.spotify.com/legal/privacy-policy/\">Spotify's privacy policy</a>. Transcripts and cover art are copies kept on this site.</p>",
+        "<h2>Your Device</h2>",
+        "<p>The dark mode button saves your choice in your browser under <code>tcas-theme</code>. It never leaves your device.</p>",
+        "<h2>Hosting</h2>",
+        "<p>GitHub Pages serves the site and may log visitors' IP addresses for security under <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub's privacy statement</a>. The domain's DNS is at Cloudflare, which does not sit between you and the pages.</p>",
+        "<h2>Amazon Links</h2>",
+        "<p>Some links to books and gear carry Chris's Amazon Associates tag, which Amazon uses to credit purchases. As an Amazon Associate I earn from qualifying purchases.</p>",
+        "<h2>Questions</h2>",
+        '<p>Chris holds no personal information from this site beyond email you send him. Write to <a href="mailto:cja@well.com">cja@well.com</a>.</p>',
+        "</div>"])
+    write("privacy.html", page("privacy.html", "Privacy: what this podcast site collects and why",
+                               "What Chris Abraham's podcast site collects: Google Analytics with ad features off, no analytics cookies in Europe or with privacy signals, and no ads.",
+                               body, keywords="privacy, Google Analytics consent mode, cookies, Global Privacy Control", current="/privacy.html"))
+
     # search
     body = "\n".join([
         '<h1 class="archive-title">Search</h1>',
@@ -1286,7 +1313,7 @@ def build(show, eps):
     write("404.html", page("404.html", "Page not found", "There is no page at this address.", body, robots="noindex"))
 
     # sitemap and robots
-    urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None)]
+    urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None), (SITE + "/privacy.html", None)]
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
     urls += [(SITE + "/glossary.html", None), (SITE + "/show-index.html", None)]
     urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
