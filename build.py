@@ -671,7 +671,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
         '    <p>%s © %s–%s <a href="/about.html" rel="author">%s</a>.</p>' % (NAME, FIRST_YEAR, LAST_YEAR, AUTHOR),
         '    <p>Mirrored from Spotify for Creators. Static on GitHub Pages. <a href="/privacy.html">Privacy</a>.</p>',
-        '    <p>Show notes, articles, and site text are <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: reuse them with credit and a link. Episode audio and cover art stay with the show.</p>',
+        '    <p>Everything here, episodes and cover art included, is <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: share it, clip it, remix it, credit The Chris Abraham Show and link back.</p>',
         "  </footer>", "</div>", THEME_SCRIPT, "</body>", "</html>", ""])
 
 
