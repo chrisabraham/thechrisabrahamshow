@@ -259,3 +259,15 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 #banner a.hire-tab:hover, #banner a.hire-tab:focus-visible { background: #c75000; color: #ffffff; }
 :root[data-theme="dark"] #banner a.hire-tab { color: #ff8a3d; }
 :root[data-theme="dark"] #banner a.hire-tab:hover { background: #ff8a3d; color: #141414; }
+
+/* Small screens: controls belong below the banner artwork, never on top of
+   its lettering or one another. Retain the desktop ribbon layout. */
+@media (max-width: 699px) {
+  #banner { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 8px; padding-bottom: 8px; }
+  #banner > a:first-child { flex: 0 0 100%; width: 100%; }
+  #banner .theme-toggle { position: static; order: 2; margin: 0 8px 0 0; }
+  #banner a.hire-tab, #banner a.hire-tab:visited {
+    display: inline-block; position: static; order: 1; margin: 0;
+    border: 1px solid var(--rule); border-radius: 3px; padding: 6px 12px;
+  }
+}
