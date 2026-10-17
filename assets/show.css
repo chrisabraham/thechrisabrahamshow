@@ -248,3 +248,14 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .site-footer p { text-wrap: balance; }
 .site-footer a { white-space: nowrap; }
 .nav-item { white-space: nowrap; }
+
+/* Hire me tab, hung from the banner's bottom-right edge like the one on chrisabraham.net */
+#banner a.hire-tab, #banner a.hire-tab:visited {
+  display: inline-block; position: absolute; right: 12px; bottom: 0;
+  font: bold .8rem/1.2 var(--heading); color: #c75000; text-decoration: none;
+  background: var(--paper); border: 1px solid var(--rule); border-bottom: 0; border-radius: 4px 4px 0 0;
+  padding: 6px 14px 5px; min-height: 24px;
+}
+#banner a.hire-tab:hover, #banner a.hire-tab:focus-visible { background: #c75000; color: #ffffff; }
+:root[data-theme="dark"] #banner a.hire-tab { color: #ff8a3d; }
+:root[data-theme="dark"] #banner a.hire-tab:hover { background: #ff8a3d; color: #141414; }
