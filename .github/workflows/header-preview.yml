@@ -1,0 +1,31 @@
+name: Preview mobile header rebuild
+on:
+  push:
+    branches: [mobile-header-navigation-20261017]
+    paths:
+      - build.py
+      - assets/show.css
+      - .github/workflows/header-preview.yml
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install pillow
+      - run: python build.py --offline
+      - name: Commit generated pages to this preview branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'build: regenerate podcast pages with mobile header fix [skip ci]'
+            git push origin HEAD:mobile-header-navigation-20261017
+          fi
