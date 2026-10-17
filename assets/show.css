@@ -247,3 +247,4 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 [id^="letter-"], [id^="ix-"] { scroll-margin-top: 3.5rem; }
 .site-footer p { text-wrap: balance; }
 .site-footer a { white-space: nowrap; }
+.nav-item { white-space: nowrap; }

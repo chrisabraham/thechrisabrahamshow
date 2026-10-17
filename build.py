@@ -604,9 +604,12 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
     url = SITE + "/" + ("" if path == "index.html" else path)
     if not image:
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
-    nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true">&nbsp;· </span>'.join(
-        '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
-        for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Index", "/show-index.html"), ("Colophon", "/colophon.html"))))
+    _items = (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Index", "/show-index.html"), ("Colophon", "/colophon.html"))
+    # Each link and its trailing dot wrap as one unit, so no line ever starts with a separator.
+    nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, " ".join(
+        '<span class="nav-item"><a href="%s"%s>%s</a>%s</span>' % (u, ' aria-current="page"' if u == current else "", t,
+                                                               "" if k == len(_items) - 1 else '<span aria-hidden="true">&nbsp;·</span>')
+        for k, (t, u) in enumerate(_items)))
     head = [
         '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
