@@ -617,8 +617,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
     ]
     if keywords:
         head.append('<meta name="keywords" content="%s">' % e(keywords))
-    if robots:
-        head.append('<meta name="robots" content="%s">' % robots)
+    head.append('<meta name="robots" content="%s">' % (robots or "index, follow, max-image-preview:large, max-snippet:-1"))
     head += [
         '<meta name="author" content="%s">' % AUTHOR,
         '<meta property="og:site_name" content="%s">' % NAME,
