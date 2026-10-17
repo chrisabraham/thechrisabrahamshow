@@ -606,10 +606,15 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
     _items = (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Index", "/show-index.html"), ("Colophon", "/colophon.html"))
     # Each link and its trailing dot wrap as one unit, so no line ever starts with a separator.
-    nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, " ".join(
-        '<span class="nav-item"><a href="%s"%s>%s</a>%s</span>' % (u, ' aria-current="page"' if u == current else "", t,
-                                                               "" if k == len(_items) - 1 else '<span aria-hidden="true">&nbsp;·</span>')
-        for k, (t, u) in enumerate(_items)))
+    def nav(label):
+        # The main menu contains destinations; extended references live in the footer.
+        items = _items if label == "Footer" else _items[:4]
+        links = " ".join(
+            '<span class="nav-item"><a href="%s"%s>%s</a>%s</span>' %
+            (u, ' aria-current="page"' if u == current else "", t,
+             "" if k == len(items) - 1 else '<span aria-hidden="true">&nbsp;·</span>')
+            for k, (t, u) in enumerate(items))
+        return '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, links)
     head = [
         '<!DOCTYPE html>', '<html lang="en">', '<head>', '<meta charset="utf-8">', GA4,
         '<meta name="viewport" content="width=device-width, initial-scale=1">',
