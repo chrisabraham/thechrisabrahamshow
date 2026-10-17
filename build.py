@@ -730,7 +730,7 @@ GA4 = """<script>
   gtag('consent', 'default', {analytics_storage: 'denied', region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});
   if (navigator.globalPrivacyControl === true || navigator.doNotTrack === '1') gtag('consent', 'default', {analytics_storage: 'denied'});
   gtag('js', new Date());
-  gtag('config', 'G-WQGSJJEDKP', {allow_google_signals: false, allow_ad_personalization_signals: false});
+  gtag('config', 'G-MT3LD4KQ62', {allow_google_signals: false, allow_ad_personalization_signals: false});
   (function () {
     var done = false;
     function load() {
@@ -738,7 +738,7 @@ GA4 = """<script>
       done = true;
       var s = document.createElement('script');
       s.async = true;
-      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-WQGSJJEDKP';
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-MT3LD4KQ62';
       document.head.appendChild(s);
     }
     ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (e) { addEventListener(e, load, {once: true, passive: true}); });
