@@ -604,7 +604,7 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
     url = SITE + "/" + ("" if path == "index.html" else path)
     if not image:
         image, image_alt = "/assets/images/card.jpg", "The Chris Abraham Show cover art beside a phone playing the podcast"
-    nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true"> · </span>'.join(
+    nav = lambda label: '<nav class="site-nav" aria-label="%s">\n%s\n</nav>' % (label, '<span aria-hidden="true">&nbsp;· </span>'.join(
         '<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == current else "", t)
         for t, u in (("Home", "/"), ("About", "/about.html"), ("Archives", "/archives.html"), ("Articles", "/articles.html"), ("Glossary", "/glossary.html"), ("Index", "/show-index.html"), ("Colophon", "/colophon.html"))))
     head = [
@@ -670,8 +670,8 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         "  </header>", "  " + nav("Site"), '  <div class="columns">', '    <main class="content" id="content">',
         body, "    </main>", SIDEBAR, "  </div>", '  <footer class="site-footer">', "    " + nav("Footer"),
         '    <p>%s © %s–%s <a href="/about.html" rel="author">%s</a>.</p>' % (NAME, FIRST_YEAR, LAST_YEAR, AUTHOR),
-        '    <p>Mirrored from Spotify for Creators. Static on GitHub Pages. <a href="/privacy.html">Privacy</a>.</p>',
-        '    <p>Everything here, episodes and cover art included, is <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: share it, clip it, remix it, credit The Chris Abraham Show and link back.</p>',
+        '    <p>Mirrored from Spotify for Creators. Static on GitHub&nbsp;Pages. <a href="/privacy.html">Privacy</a>.</p>',
+        '    <p>Everything here, episodes and cover art included, is <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: share it, clip it, remix it, credit The&nbsp;Chris&nbsp;Abraham&nbsp;Show and link&nbsp;back.</p>',
         "  </footer>", "</div>", THEME_SCRIPT, "</body>", "</html>", ""])
 
 
