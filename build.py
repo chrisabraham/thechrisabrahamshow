@@ -757,7 +757,6 @@ ROBOTS = """# Search engines and AI assistants are welcome to read and cite ever
 # assistants, which read it in place of HTML, get everything.
 User-agent: *
 Allow: /
-Disallow: /search.html
 
 User-agent: Googlebot
 User-agent: Bingbot
@@ -765,7 +764,6 @@ User-agent: Applebot
 User-agent: DuckDuckBot
 User-agent: YandexBot
 Allow: /
-Disallow: /search.html
 Disallow: /llms-full.txt
 
 User-agent: GPTBot
