@@ -1,4 +1,22 @@
 {
+ "blew-up-reddit-someone-elses-loss": {
+  "bytes": 2976037,
+  "duration": 372,
+  "sha256": "01e6d2043cb4b72c8767811e1c6820ac1f8e9cb0281956857b639c5e8076f0dd",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "nine-years-of-slow-jogging-on-reddit": {
+  "bytes": 4222693,
+  "duration": 527,
+  "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "private-eyes-better-man": {
+  "bytes": 2685733,
+  "duration": 335,
+  "sha256": "accf34d39fe188bf2a9faf233b11ecaa946436dba8bcb6816891c77f0eb62b6d",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "private-eyes-christ-figure": {
   "bytes": 4498597,
   "duration": 562,
@@ -9,6 +27,12 @@
   "bytes": 2535781,
   "duration": 316,
   "sha256": "f18a40558c55185ca9fb6eefd954992a94cf771b34fd01db6b982da80c3baab4",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "reacher-and-bolan": {
+  "bytes": 2182501,
+  "duration": 272,
+  "sha256": "43fd587ca18b84d54ba586e44b7dbd64a4a253837cbce3cd2e68ed11ca861a2e",
   "voice": "avocado_v2:qvd_02406"
  }
 }
