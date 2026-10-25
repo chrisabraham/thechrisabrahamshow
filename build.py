@@ -12,13 +12,16 @@ Needs Pillow (pip install pillow) for artwork.
 """
 import datetime
 import difflib
+import email.utils
 import hashlib
 import html
 import io
 import json
 import os
 import re
+import subprocess
 import sys
+import tempfile
 import time
 import urllib.parse
 import urllib.request
@@ -201,10 +204,23 @@ def get(url, timeout=60, tries=3):
 def parse_feed(xml_bytes):
     ch = ET.fromstring(xml_bytes).find("channel")
     it = "{%s}" % NS["itunes"]
+    owner = ch.find(it + "owner")
+    cat = ch.find(it + "category")
     show = {
         "title": ch.findtext("title", "").strip(),
         "description": ch.findtext("description", "").strip(),
         "image": (ch.find(it + "image").get("href") if ch.find(it + "image") is not None else ""),
+        # Channel extras, carried into the combined feed (podcast.xml) so podcast
+        # apps show the same owner, language and explicit rating as on Anchor.
+        "link": ch.findtext("link", "").strip(),
+        "language": ch.findtext("language", "").strip(),
+        "copyright": ch.findtext("copyright", "").strip(),
+        "author": ch.findtext(it + "author", "").strip(),
+        "type": ch.findtext(it + "type", "").strip(),
+        "explicit": ch.findtext(it + "explicit", "").strip(),
+        "category": cat.get("text", "") if cat is not None else "",
+        "owner_name": owner.findtext(it + "name", "").strip() if owner is not None else "",
+        "owner_email": owner.findtext(it + "email", "").strip() if owner is not None else "",
     }
     episodes = []
     for item in ch.findall("item"):
@@ -222,6 +238,7 @@ def parse_feed(xml_bytes):
             "description": (item.findtext("description") or item.findtext(it + "summary") or "").strip(),
             "image": img.get("href") if img is not None else "",
             "audio": enc.get("url") if enc is not None else "",
+            "audio_length": enc.get("length", "") if enc is not None else "",
             "audio_type": enc.get("type", "audio/mpeg") if enc is not None else "",
             "link": item.findtext("link", "").strip(),
             "transcript_url": srt or "",
@@ -908,6 +925,185 @@ def load_articles():
     return sorted(out, key=lambda a: a["when"], reverse=True)
 
 
+# ---------------------------------------------------------------- combined feed
+
+COMBINED_FEED = "podcast.xml"
+FEED_GUID = "e741aaf3-b321-4dbc-af3a-51fc55ad1dd7"  # this feed's own Podcast Index GUID; it never changes
+AUDIO_DIR = os.path.join(ROOT, "assets", "audio")
+AUDIO_DATA = os.path.join(DATA, "audio")
+AUDIO_MANIFEST = os.path.join(DATA, "audio.json")
+# Narration voice for the article audio: "Weighty Bell", an elderly American
+# male, authoritative and resonant at a measured pace (the Mises register),
+# from the built-in tts only (Chris' ruling, Oct 25 2026: free, no paid API).
+# The voice is provisional: change this one line and every narration whose
+# hash covers it is re-rendered on the next local build; the clean text
+# sources stay keyed to their MP3s in data/audio/<slug>.txt.
+ARTICLE_VOICE = "avocado_v2:qvd_02406"
+TTS_BIN = os.environ.get("TCAS_TTS", "/opt/hatch/bin/tts")
+
+
+def cdata(s):
+    return "<![CDATA[%s]]>" % (s or "").replace("]]>", "]]]]><![CDATA[>")
+
+
+def rfc822(dt):
+    return email.utils.format_datetime(dt.astimezone(datetime.timezone.utc), usegmt=True)
+
+
+def article_slug(a):
+    return os.path.basename(a["path"])[:-len(".html")]
+
+
+def article_text(a):
+    """The article as clean spoken text: block tags become paragraph breaks,
+    every other tag goes, entities are read as themselves."""
+    h = re.sub(r"<br\s*/?>", "\n", a["body"])
+    h = re.sub(r"</(p|h2|h3|h4|li|blockquote|figure|figcaption|ul|ol)>", "\n\n", h)
+    h = re.sub(r"<[^>]+>", "", h)
+    h = html.unescape(h)
+    paras = [re.sub(r"\s+", " ", p).strip() for p in h.split("\n\n")]
+    return "\n\n".join(p for p in paras if p)
+
+
+def ensure_article_audio(arts):
+    """Narrate articles to assets/audio/<slug>.mp3, so pure-audio apps receive
+    the writing as episodes. The standing set is the two newest articles plus
+    every article already narrated; a narration is redone only when its text
+    or the voice changes (sha256 in data/audio.json). On machines without the
+    tts tool (the daily GitHub build) this is a no-op and the MP3s committed
+    in the repo ride along. Each narration's clean text source is kept at
+    data/audio/<slug>.txt, keyed to its MP3, for re-rendering in another voice."""
+    manifest = {}
+    if os.path.exists(AUDIO_MANIFEST):
+        manifest = json.load(open(AUDIO_MANIFEST))
+    by_slug = {article_slug(a): a for a in arts}
+    wanted = {article_slug(a) for a in arts[:2]} | set(manifest)
+    changed = False
+    for slug in sorted(wanted):
+        a = by_slug.get(slug)
+        if a is None:
+            continue
+        text = article_text(a)
+        digest = hashlib.sha256((ARTICLE_VOICE + "\n" + a["title"] + "\n" + text).encode()).hexdigest()
+        mp3 = os.path.join(AUDIO_DIR, slug + ".mp3")
+        if (manifest.get(slug) or {}).get("sha256") == digest and os.path.exists(mp3):
+            continue
+        if not os.path.exists(TTS_BIN):
+            print("  article audio: no tts tool here, leaving %s unnarrated" % slug)
+            continue
+        os.makedirs(AUDIO_DIR, exist_ok=True)
+        os.makedirs(AUDIO_DATA, exist_ok=True)
+        script = "Narrator: %s. By %s.\n" % (a["title"], AUTHOR)
+        script += "".join("Narrator: %s\n" % p for p in text.split("\n\n") if p.strip())
+        txt_path = os.path.join(AUDIO_DATA, slug + ".txt")
+        if not os.path.exists(txt_path) or open(txt_path).read() != script:
+            with open(txt_path, "w") as f:
+                f.write(script)
+        try:
+            out = subprocess.run([TTS_BIN, "synthesize-script", "--script", txt_path,
+                                  "--speaker", "Narrator=" + ARTICLE_VOICE, "--output", mp3],
+                                 capture_output=True, text=True, timeout=1800)
+            result = json.loads(out.stdout[out.stdout.index("{"):])
+            if not result.get("ok") or not os.path.exists(mp3):
+                raise RuntimeError((out.stdout + out.stderr)[-300:])
+        except Exception as err:
+            print("  article audio failed for %s: %s" % (slug, err), file=sys.stderr)
+            continue
+        dur = result.get("duration_secs") or result.get("duration") or result.get("duration_seconds") or result.get("actual_duration")
+        manifest[slug] = {"sha256": digest, "voice": ARTICLE_VOICE, "bytes": os.path.getsize(mp3),
+                          "duration": dur if isinstance(dur, (int, float)) else None}
+        changed = True
+        print("  narrated article: %s (%d bytes)" % (slug, manifest[slug]["bytes"]))
+    if changed:
+        write(os.path.relpath(AUDIO_MANIFEST, ROOT), json.dumps(manifest, ensure_ascii=False, indent=1, sort_keys=True) + "\n")
+    return manifest
+
+
+def combined_feed(show, eps, arts, manifest):
+    """podcast.xml: one self-hosted feed with every podcast episode (enclosure,
+    GUID, title, date and notes exactly as the Anchor feed gives them) and
+    every article (full HTML in content:encoded, a narrated MP3 enclosure
+    where one exists), interleaved newest first. The channel medium stays
+    "podcast" (the Podcast Namespace default): the feed is the show, and the
+    articles ride as items, the pattern newsletter feeds use when a written
+    post carries a spoken version."""
+    items = []
+    for ep in eps:
+        x = ["<item>",
+             "<title>%s</title>" % cdata(ep["title"]),
+             "<link>%s/%s</link>" % (SITE, ep["path"]),
+             '<guid isPermaLink="false">%s</guid>' % e(ep["guid"]),
+             "<pubDate>%s</pubDate>" % e(ep["pubDate"]),
+             "<dc:creator>%s</dc:creator>" % e(AUTHOR),
+             "<description>%s</description>" % cdata(ep["description"])]
+        if ep.get("duration"):
+            x.append("<itunes:duration>%s</itunes:duration>" % e(ep["duration"]))
+        if ep.get("season"):
+            x.append("<itunes:season>%s</itunes:season>" % e(ep["season"]))
+        if ep.get("episode"):
+            x.append("<itunes:episode>%s</itunes:episode>" % e(ep["episode"]))
+        if ep.get("image"):
+            x.append('<itunes:image href="%s"/>' % e(ep["image"]))
+        if ep.get("audio"):
+            length = ' length="%s"' % e(ep["audio_length"]) if ep.get("audio_length") else ""
+            x.append('<enclosure url="%s"%s type="%s"/>' % (e(ep["audio"]), length, e(ep["audio_type"] or "audio/mpeg")))
+        x.append("</item>")
+        items.append((when(ep), "\n".join(x)))
+    for a in arts:
+        url = SITE + "/" + a["path"]
+        body = affiliate(a["body"])
+        if "tag=" + TAG in body:
+            body += "\n" + DISCLOSURE
+        body = re.sub(r'((?:href|src)=")/(?!/)', r"\1" + SITE + "/", body)
+        body = re.sub(r'(srcset=")/(?!/)', r"\1" + SITE + "/", body)
+        x = ["<item>",
+             "<title>%s</title>" % e(a["title"]),
+             "<link>%s</link>" % url,
+             '<guid isPermaLink="true">%s</guid>' % url,
+             "<pubDate>%s</pubDate>" % rfc822(a["when"]),
+             "<dc:creator>%s</dc:creator>" % e(AUTHOR),
+             "<description>%s</description>" % e(a["description"]),
+             "<content:encoded>%s</content:encoded>" % cdata(body)]
+        if a.get("image"):
+            x.append('<itunes:image href="%s"/>' % e(SITE + a["image"]))
+        slug = article_slug(a)
+        mp3 = os.path.join(AUDIO_DIR, slug + ".mp3")
+        if os.path.exists(mp3):
+            x.append('<enclosure url="%s/assets/audio/%s.mp3" length="%d" type="audio/mpeg"/>' % (SITE, slug, os.path.getsize(mp3)))
+            dur = (manifest.get(slug) or {}).get("duration")
+            if dur:
+                x.append("<itunes:duration>%s</itunes:duration>" % iso_duration(int(round(dur))))
+        x.append("</item>")
+        items.append((a["when"], "\n".join(x)))
+    items.sort(key=lambda t: t[0], reverse=True)
+    newest = items[0][0] if items else datetime.datetime.now(TZ)
+    art = show.get("image") or SITE + "/assets/images/show.jpg"
+    channel = [
+        "<title>%s</title>" % cdata(show.get("title") or NAME),
+        "<link>%s</link>" % SITE,
+        "<description>%s</description>" % cdata(fixed(show.get("description") or "")),
+        "<language>%s</language>" % e(show.get("language") or "en"),
+        "<copyright>%s</copyright>" % e(show.get("copyright") or AUTHOR),
+        "<lastBuildDate>%s</lastBuildDate>" % rfc822(newest),
+        '<atom:link href="%s/%s" rel="self" type="application/rss+xml"/>' % (SITE, COMBINED_FEED),
+        "<itunes:author>%s</itunes:author>" % e(show.get("author") or AUTHOR),
+        "<itunes:owner><itunes:name>%s</itunes:name><itunes:email>%s</itunes:email></itunes:owner>" % (e(show.get("owner_name") or AUTHOR), e(show.get("owner_email") or "cja@well.com")),
+        "<itunes:explicit>%s</itunes:explicit>" % e(show.get("explicit") or "false"),
+        "<itunes:type>%s</itunes:type>" % e(show.get("type") or "episodic"),
+    ]
+    if show.get("category"):
+        channel.append('<itunes:category text="%s"/>' % e(show["category"]))
+    channel += [
+        '<itunes:image href="%s"/>' % e(art),
+        "<image><url>%s</url><title>%s</title><link>%s</link></image>" % (e(art), e(show.get("title") or NAME), SITE),
+        "<podcast:medium>podcast</podcast:medium>",
+        "<podcast:guid>%s</podcast:guid>" % FEED_GUID,
+    ]
+    return "\n".join(['<?xml version="1.0" encoding="UTF-8"?>',
+                      '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">',
+                      "<channel>"] + channel + [x for _, x in items] + ["</channel>", "</rss>", ""])
+
+
 def build(show, eps):
     global SIDEBAR, FIRST_YEAR, LAST_YEAR
     total = len(eps)
@@ -1096,6 +1292,10 @@ def build(show, eps):
                                 current="/articles.html", keywords="Chris Abraham, articles, essays",
                                 ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/articles.html", "name": "Articles", "isPartOf": {"@id": SITE + "/#website"}}))
 
+    # the combined feed: every episode plus every article, in one RSS file
+    audio_manifest = ensure_article_audio(arts)
+    write(COMBINED_FEED, combined_feed(show, eps, arts, audio_manifest))
+
     # glossary: an index of every term in the episodes' site notes, linking to each definition
     gterms = glossary_terms(eps)
     if gterms:
@@ -1249,7 +1449,7 @@ def build(show, eps):
         '<img class="episode-art" ' + srcset("/assets/images/show.jpg") + ' alt="%s" width="1000"' % e(alts.get("show.jpg", "The Chris Abraham Show cover art")) + ' height="1000">',
         clean_html(fixed(show["description"])),
         '<h2>Listen and Subscribe</h2>',
-        "<ul>%s</ul>" % "".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN),
+        "<ul>%s</ul>" % ("".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN) + '<li><a href="/podcast.xml">Combined feed: every episode and every article in one RSS</a></li>'),
         '<h2 class="faq-title">Questions</h2>',
         '<dl class="faq">%s</dl>' % "".join("<dt>%s</dt><dd>%s</dd>" % (e(q_), e(a)) for q_, a in faq),
         '<p>%s is made by <a href="%s" rel="author">Chris Abraham</a>, who also writes <a href="https://hillmole.com/">Hill Mole</a>.</p>' % (NAME, HOME),
@@ -1332,7 +1532,7 @@ def build(show, eps):
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
-             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
+             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Combined feed](%s/podcast.xml): every episode plus every article, full text and narrated audio, in one RSS feed" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
              "- [Full show notes](%s/llms-full.txt): every episode's notes in one plain text file" % SITE, "", "## Episodes", ""]
     lines += ["- [%s](%s/%s): %s%s" % (ep["title"], SITE, ep["path"], nice(when(ep)), ", " + clock(seconds(ep["duration"])) if seconds(ep["duration"]) else "") for ep in reversed(eps)]
     if arts:

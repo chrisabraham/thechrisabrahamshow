@@ -1,0 +1,14 @@
+{
+ "private-eyes-christ-figure": {
+  "bytes": 4498597,
+  "duration": 562,
+  "sha256": "e4814c90981fd1b5c24e1d0529613c211da6ea70acecdde20a911f177f6c8e18",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "private-eyes-still-learning": {
+  "bytes": 2535781,
+  "duration": 316,
+  "sha256": "f18a40558c55185ca9fb6eefd954992a94cf771b34fd01db6b982da80c3baab4",
+  "voice": "avocado_v2:qvd_02406"
+ }
+}
