@@ -678,7 +678,8 @@ def page(path, title, desc, body, *, image=None, image_alt=None, keywords=None, 
         '<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">',
         '<link rel="apple-touch-icon" href="/assets/images/icon-180.png">',
         '<link rel="stylesheet" href="/assets/show.css">',
-        '<link rel="alternate" type="application/rss+xml" title="%s (RSS)" href="%s">' % (NAME, FEED),
+        '<link rel="alternate" type="application/rss+xml" title="%s (Podcast)" href="%s/podcast.xml">' % (NAME, SITE),
+        '<link rel="alternate" type="application/rss+xml" title="%s — Articles (narrated)" href="%s/articles.xml">' % (NAME, SITE),
         '<link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">',
     ]
     head.append(SPECULATION)
@@ -928,6 +929,28 @@ def load_articles():
 # ---------------------------------------------------------------- articles feed
 
 ARTICLES_FEED = "articles.xml"
+SHOW_FEED = "podcast.xml"  # the show itself, mirrored from the Anchor feed; feed.xml is its alias door
+SHOW_STUB = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Chris Abraham Show — Podcast feed</title>
+<meta name="description" content="The podcast feed of The Chris Abraham Show lives at thechrisabrahamshow.com/podcast.xml; this page simply takes you there.">
+<link rel="canonical" href="%s/podcast.xml">
+<meta http-equiv="refresh" content="0; url=%s/podcast.xml">
+<meta name="robots" content="noindex">
+<style>body{font-family:Georgia,serif;background:#f4f4f4;color:#222;margin:0;padding:2rem}main{max-width:640px;margin:0 auto;background:#fff;padding:2rem}a{color:#555}</style>
+</head>
+<body>
+<main>
+<h1>The Chris Abraham Show — podcast feed</h1>
+<h2>Where the feed lives</h2>
+<p>This address is the door, not the room. The show's feed lives at <a href="%s/podcast.xml">%s/podcast.xml</a>: the same episodes, with the original audio, mirrored from Spotify for Creators. Your podcast app wants that address; your browser is being taken there now.</p>
+<p>Or start at <a href="%s/">the show's home</a>.</p>
+</main>
+</body>
+</html>
+""" % (SITE, SITE, SITE, SITE, SITE)
 FEED_GUID = "95a7ef9a-7ad9-46ce-826a-3362503ceab3"  # the articles feed's own Podcast Index GUID; it never changes
 AUDIO_DIR = os.path.join(ROOT, "assets", "audio")
 AUDIO_DATA = os.path.join(DATA, "audio")
@@ -1022,7 +1045,19 @@ def ensure_article_audio(arts):
     return manifest
 
 
-def articles_feed(show, arts, manifest):
+def article_body(a):
+    """The article body as the feeds carry it: affiliate tags in, relative
+    href/src made absolute. Shared by articles.xml, its rss.xml door and
+    the atom.xml rendering, so the three can never drift."""
+    body = affiliate(a["body"])
+    if "tag=" + TAG in body:
+        body += "\n" + DISCLOSURE
+    body = re.sub(r'((?:href|src)=")/(?!/)', r"\1" + SITE + "/", body)
+    body = re.sub(r'(srcset=")/(?!/)', r"\1" + SITE + "/", body)
+    return body
+
+
+def articles_feed(show, arts, manifest, self_name=ARTICLES_FEED):
     """articles.xml: the shadow edition (Chris' word). The podcast itself
     lives with the providers and its feed stays pure episodes; this local
     feed carries only the site's written articles, newest first: full HTML
@@ -1033,11 +1068,7 @@ def articles_feed(show, arts, manifest):
     items = []
     for a in arts:
         url = SITE + "/" + a["path"]
-        body = affiliate(a["body"])
-        if "tag=" + TAG in body:
-            body += "\n" + DISCLOSURE
-        body = re.sub(r'((?:href|src)=")/(?!/)', r"\1" + SITE + "/", body)
-        body = re.sub(r'(srcset=")/(?!/)', r"\1" + SITE + "/", body)
+        body = article_body(a)
         x = ["<item>",
              "<title>%s</title>" % e(a["title"]),
              "<link>%s</link>" % url,
@@ -1066,7 +1097,7 @@ def articles_feed(show, arts, manifest):
         "<language>%s</language>" % e(show.get("language") or "en"),
         "<copyright>%s</copyright>" % e(show.get("copyright") or AUTHOR),
         "<lastBuildDate>%s</lastBuildDate>" % rfc822(newest),
-        '<atom:link href="%s/%s" rel="self" type="application/rss+xml"/>' % (SITE, ARTICLES_FEED),
+        '<atom:link href="%s/%s" rel="self" type="application/rss+xml"/>' % (SITE, self_name),
         "<itunes:author>%s</itunes:author>" % e(show.get("author") or AUTHOR),
         "<itunes:owner><itunes:name>%s</itunes:name><itunes:email>%s</itunes:email></itunes:owner>" % (e(show.get("owner_name") or AUTHOR), e(show.get("owner_email") or "cja@well.com")),
         "<itunes:explicit>%s</itunes:explicit>" % e(show.get("explicit") or "false"),
@@ -1075,6 +1106,99 @@ def articles_feed(show, arts, manifest):
         "<podcast:medium>blog</podcast:medium>",
         "<podcast:guid>%s</podcast:guid>" % FEED_GUID,
     ]
+    return "\n".join(['<?xml version="1.0" encoding="UTF-8"?>',
+                      '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">',
+                      "<channel>"] + channel + items + ["</channel>", "</rss>", ""])
+
+
+def articles_atom(show, arts, manifest):
+    """atom.xml: the articles feed honestly rendered in Atom 1.0 — the same
+    articles as articles.xml, in the same order, each entry's id the same
+    permalink the RSS copy carries as its guid, the full body in
+    content type="html", and the narrated MP3 (where one exists) as a
+    rel="enclosure" link. Not RSS wearing an Atom name: a real Atom feed
+    of the same items."""
+    entries = []
+    for a in arts:
+        url = SITE + "/" + a["path"]
+        x = ["<entry>",
+             "<title>%s</title>" % e(a["title"]),
+             '<link href="%s"/>' % e(url),
+             "<id>%s</id>" % e(url),
+             "<published>%s</published>" % a["when"].isoformat(),
+             "<updated>%s</updated>" % a["when"].isoformat(),
+             "<author><name>%s</name></author>" % e(AUTHOR),
+             "<summary>%s</summary>" % e(a["description"]),
+             '<content type="html">%s</content>' % e(article_body(a))]
+        slug = article_slug(a)
+        mp3 = os.path.join(AUDIO_DIR, slug + ".mp3")
+        if os.path.exists(mp3):
+            x.append('<link rel="enclosure" href="%s/assets/audio/%s.mp3" length="%d" type="audio/mpeg"/>' % (SITE, slug, os.path.getsize(mp3)))
+        x.append("</entry>")
+        entries.append("\n".join(x))
+    newest = arts[0]["when"] if arts else datetime.datetime.now(TZ)
+    head = ['<?xml version="1.0" encoding="UTF-8"?>',
+            '<feed xmlns="http://www.w3.org/2005/Atom">',
+            "<title>%s</title>" % e(NAME + " — Articles (Audio)"),
+            "<subtitle>%s</subtitle>" % e("The shadow edition of The Chris Abraham Show: the written articles, served locally; the podcast itself lives with the providers. Every article in full text, and the newest ones read aloud."),
+            '<link rel="self" type="application/atom+xml" href="%s/atom.xml"/>' % SITE,
+            '<link rel="alternate" type="text/html" href="%s/articles.html"/>' % SITE,
+            "<id>%s/atom.xml</id>" % SITE,
+            "<updated>%s</updated>" % newest.isoformat(),
+            "<author><name>%s</name></author>" % e(show.get("author") or AUTHOR)]
+    return "\n".join(head + entries + ["</feed>", ""])
+
+
+def show_feed(show, eps, self_name=SHOW_FEED):
+    """podcast.xml (and its feed.xml alias door): the show itself, mirrored
+    from the Spotify for Creators feed this site is built from — the same
+    episodes, the same GUIDs (isPermaLink="false"), the same titles, notes
+    and dates, the show's own channel metadata and artwork, and every
+    enclosure still pointing at the original Anchor/CloudFront audio.
+    Nothing is re-hosted and nothing is re-voiced; the only new thing is
+    the address, so the real show is joinable from Chris' own domain."""
+    items = []
+    for ep in reversed(eps):
+        x = ["<item>",
+             "<title>%s</title>" % e(ep["title"]),
+             "<link>%s</link>" % e(ep.get("link") or SITE + "/" + ep["path"]),
+             '<guid isPermaLink="false">%s</guid>' % e(ep["guid"]),
+             "<pubDate>%s</pubDate>" % e(ep["pubDate"]),
+             "<description>%s</description>" % cdata(ep["description"])]
+        if ep.get("image"):
+            x.append('<itunes:image href="%s"/>' % e(ep["image"]))
+        if ep.get("season"):
+            x.append("<itunes:season>%s</itunes:season>" % e(ep["season"]))
+        if ep.get("episode"):
+            x.append("<itunes:episode>%s</itunes:episode>" % e(ep["episode"]))
+        if ep.get("duration"):
+            x.append("<itunes:duration>%s</itunes:duration>" % e(ep["duration"]))
+        if ep.get("transcript_url"):
+            x.append('<podcast:transcript url="%s" type="text/srt"/>' % e(ep["transcript_url"]))
+        if ep.get("audio"):
+            x.append('<enclosure url="%s" length="%s" type="%s"/>' % (
+                e(ep["audio"]), e(ep.get("audio_length") or "0"), e(ep.get("audio_type") or "audio/mpeg")))
+        x.append("</item>")
+        items.append("\n".join(x))
+    art = show.get("image") or SITE + "/assets/images/show.jpg"
+    channel = [
+        "<title>%s</title>" % e(show.get("title") or NAME),
+        "<link>%s</link>" % e(show.get("link") or SITE + "/"),
+        "<description>%s</description>" % cdata(show.get("description") or ""),
+        "<language>%s</language>" % e(show.get("language") or "en"),
+        "<copyright>%s</copyright>" % e(show.get("copyright") or AUTHOR)]
+    if eps:
+        channel.append("<lastBuildDate>%s</lastBuildDate>" % e(eps[-1]["pubDate"]))
+    channel += [
+        '<atom:link href="%s/%s" rel="self" type="application/rss+xml"/>' % (SITE, self_name),
+        "<itunes:author>%s</itunes:author>" % e(show.get("author") or AUTHOR),
+        "<itunes:owner><itunes:name>%s</itunes:name><itunes:email>%s</itunes:email></itunes:owner>" % (e(show.get("owner_name") or AUTHOR), e(show.get("owner_email") or "cja@well.com")),
+        "<itunes:explicit>%s</itunes:explicit>" % e(show.get("explicit") or "false"),
+        "<itunes:type>%s</itunes:type>" % e(show.get("type") or "episodic"),
+        '<itunes:image href="%s"/>' % e(art)]
+    if show.get("category"):
+        channel.append('<itunes:category text="%s"/>' % e(show["category"]))
+    channel.append("<image><url>%s</url><title>%s</title><link>%s</link></image>" % (e(art), e(show.get("title") or NAME), e(show.get("link") or SITE + "/")))
     return "\n".join(['<?xml version="1.0" encoding="UTF-8"?>',
                       '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">',
                       "<channel>"] + channel + items + ["</channel>", "</rss>", ""])
@@ -1274,6 +1398,19 @@ def build(show, eps):
     # the shadow feed: the articles only, never an episode (Chris' ruling,
     # Oct 25 2026: articles mixed into the episode stream would bury the show)
     write(ARTICLES_FEED, articles_feed(show, arts, audio_manifest))
+    # the articles feed's other doors (Chris' ruling, Oct 25 2026: every feed
+    # gets the full set of conventional addresses): rss.xml carries the same
+    # items as articles.xml with its own self-link; atom.xml is the same
+    # items honestly rendered in Atom 1.0.
+    write("rss.xml", articles_feed(show, arts, audio_manifest, "rss.xml"))
+    write("atom.xml", articles_atom(show, arts, audio_manifest))
+
+    # the show itself, mirrored from its Anchor feed at podcast.xml, with
+    # feed.xml as the alias door and /feed/ as the human door (Chris' ruling,
+    # Oct 25 2026). The episodes' audio stays the original enclosures.
+    write(SHOW_FEED, show_feed(show, eps))
+    write("feed.xml", show_feed(show, eps, "feed.xml"))
+    write("feed/index.html", SHOW_STUB)
 
     # glossary: an index of every term in the episodes' site notes, linking to each definition
     gterms = glossary_terms(eps)
@@ -1506,12 +1643,13 @@ def build(show, eps):
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
     urls += [(SITE + "/glossary.html", None), (SITE + "/show-index.html", None)]
     urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
+    urls += [(SITE + "/" + SHOW_FEED, when(latest)), (SITE + "/" + ARTICLES_FEED, arts[0]["when"] if arts else None)]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
         "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
-             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Articles feed](%s/articles.xml): the shadow edition — every article in one RSS feed, full text, each one also read aloud" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
+             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Articles feed](%s/articles.xml): the shadow edition — every article in one RSS feed, full text, each one also read aloud" % SITE, "- [Podcast feed](%s/podcast.xml): the show itself, mirrored from Spotify for Creators — the same episodes with the original audio, for any podcast app" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
              "- [Full show notes](%s/llms-full.txt): every episode's notes in one plain text file" % SITE, "", "## Episodes", ""]
     lines += ["- [%s](%s/%s): %s%s" % (ep["title"], SITE, ep["path"], nice(when(ep)), ", " + clock(seconds(ep["duration"])) if seconds(ep["duration"]) else "") for ep in reversed(eps)]
     if arts:
