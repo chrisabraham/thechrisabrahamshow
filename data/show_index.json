@@ -360,7 +360,8 @@
   "Agency (William Gibson)": {
    "eps": [
     "4dc7872b-6ab9-4699-8f47-7bc2e6b546f4",
-    "6097c135-7304-4a2f-8b20-f2894af8ef4e"
+    "6097c135-7304-4a2f-8b20-f2894af8ef4e",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -1207,7 +1208,8 @@
   },
   "Big Broadcast, The": {
    "eps": [
-    "390c8301-777b-42d1-9f44-3174f7269659"
+    "390c8301-777b-42d1-9f44-3174f7269659",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -3770,7 +3772,8 @@
   "Gibson, William": {
    "eps": [
     "4dc7872b-6ab9-4699-8f47-7bc2e6b546f4",
-    "6097c135-7304-4a2f-8b20-f2894af8ef4e"
+    "6097c135-7304-4a2f-8b20-f2894af8ef4e",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "person",
    "see": [],
@@ -4506,7 +4509,8 @@
    "eps": [
     "c38e1905-489b-43e4-84c9-2b0861f9df47",
     "65ee1c07-93fe-4943-9baa-3a0add84eaec",
-    "0dc5fffd-64ea-4206-9756-538ae8905783"
+    "0dc5fffd-64ea-4206-9756-538ae8905783",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -6669,7 +6673,8 @@
   },
   "Movable Type": {
    "eps": [
-    "c38e1905-489b-43e4-84c9-2b0861f9df47"
+    "c38e1905-489b-43e4-84c9-2b0861f9df47",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -7059,7 +7064,8 @@
     "0ef30055-d836-410d-8e1c-41bde3c70c0b",
     "e94d1764-c518-4490-a8ad-98c611ba3058",
     "f171c7e4-f03d-4a1d-b00d-d5ebddda8acc",
-    "cdce9d09-7ba3-4221-8b6a-466a04100214"
+    "cdce9d09-7ba3-4221-8b6a-466a04100214",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [
@@ -7610,7 +7616,8 @@
     "607640b9-0e1f-4d65-b629-88dd3810ebbe",
     "cd765038-5dde-4de1-a1e7-e16de691e144",
     "2fd60802-ab20-4be4-958e-75dd5d6ff006",
-    "e327dc39-8c2d-491e-8c41-a159c0c9ed03"
+    "e327dc39-8c2d-491e-8c41-a159c0c9ed03",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -10280,7 +10287,8 @@
   },
   "WELL, The": {
    "eps": [
-    "ba042c24-5ca2-4ee5-8703-da922588bce2"
+    "ba042c24-5ca2-4ee5-8703-da922588bce2",
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
    ],
    "kind": "topic",
    "see": [],
@@ -16868,6 +16876,77 @@
    "kind": "topic",
    "see": [],
    "subs": {}
+  },
+  "Oversoul": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "topic",
+   "see": [
+    "Adjutant, the (Black Box)"
+   ],
+   "subs": {}
+  },
+  "Adjutant, the (Black Box)": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "topic",
+   "see": [
+    "Oversoul"
+   ],
+   "subs": {}
+  },
+  "My Name is Scibe (hyperfiction)": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "topic",
+   "see": [
+    "ARTS WIRE",
+    "WELL, The"
+   ],
+   "subs": {}
+  },
+  "ARTS WIRE": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "topic",
+   "see": [],
+   "subs": {}
+  },
+  "Greymatter": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "topic",
+   "see": [],
+   "subs": {}
+  },
+  "Malloy, Judy": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
+  "Uberti, Oliver": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
+  },
+  "Macy (Starbucks barista)": {
+   "eps": [
+    "5479ee38-a91e-4c9a-b26a-339c0fef092e"
+   ],
+   "kind": "person",
+   "see": [],
+   "subs": {}
   }
  },
  "reviewed": [
@@ -17328,6 +17407,7 @@
   "27d11357-1261-41bc-9e5a-76ec6f16bc40",
   "394dfa67-1341-4d37-aa0a-43e77b5d3aad",
   "c71ce711-194c-408c-abd5-debc2a3eacbb",
-  "f9fe0b5c-0d5f-4dc0-bce9-ec5bcc868335"
+  "f9fe0b5c-0d5f-4dc0-bce9-ec5bcc868335",
+  "5479ee38-a91e-4c9a-b26a-339c0fef092e"
  ]
 }

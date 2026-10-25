@@ -1,0 +1,755 @@
+1
+00:00:03,000 --> 00:00:09,000
+Hey there, this is The Chris Abraham Show, season 11, episode 4.
+
+2
+00:00:09,000 --> 00:00:12,000
+I don't know what it's going to be called.
+
+3
+00:00:12,000 --> 00:00:16,000
+I let ChatGPT name the episode.
+
+4
+00:00:16,000 --> 00:00:27,000
+When they create the album art, they do a really good job of it, taking the entire thing and the entire theme and sort of compacting it into a pithy title.
+
+5
+00:00:27,000 --> 00:00:29,000
+So I kind of like that.
+
+6
+00:00:29,000 --> 00:00:40,000
+But today we're going to get pretty nerdy because ever since the last episode, I've created an entire laboratory and I'm very happy about it.
+
+7
+00:00:40,000 --> 00:00:48,000
+And even this episode, since there's going to be wind noise, since it seems to be windy today, I'm probably running this through Adobe Enhance.
+
+8
+00:00:48,000 --> 00:00:59,000
+So my voice will be enhanced and the background noise will be minimized, even though I am at Columbia Pike in South Barton.
+
+9
+00:00:59,000 --> 00:01:27,000
+here in sexy South Arlington getting the sun in currently 63 degree Fahrenheit weather and sitting outside in the Penrose Square Park on a wooden bench where I tell people that I am a river turtle and I bask on the sun on this wooden log as opposed to any other kind of log
+
+10
+00:01:27,000 --> 00:01:38,000
+But you know how like turtles bask in the sun on a log and they just sit there for who knows how long because they are cold-blooded?
+
+11
+00:01:38,000 --> 00:01:40,000
+Can't you see?
+
+12
+00:01:40,000 --> 00:01:43,000
+I've got a fever of 103.
+
+13
+00:01:43,000 --> 00:01:50,000
+Actually, what temperature is a cold-blooded animal?
+
+14
+00:01:50,000 --> 00:01:54,000
+You know what, I bet you a cold-blooded animal has
+
+15
+00:01:54,000 --> 00:02:01,000
+the blood temperature of the ambient temperature.
+
+16
+00:02:01,000 --> 00:02:15,000
+So this cold-blooded turtle on the river log has a temperature of more than 63 degrees Fahrenheit because I'm in direct sunlight and I'm wearing black.
+
+17
+00:02:15,000 --> 00:02:18,000
+So the laboratory is pretty cool.
+
+18
+00:02:18,000 --> 00:02:25,000
+I had a novel I had been writing using movable type
+
+19
+00:02:25,000 --> 00:02:39,000
+which for those who don't know is like there was a kind of script, a programming script called Perl, P-E-R-L, that everybody used before Python became a thing.
+
+20
+00:02:39,000 --> 00:02:42,000
+And it was mostly used for research.
+
+21
+00:02:42,000 --> 00:02:50,000
+I think Perl helped figure out DNA patterns in the genome if I'm not wrong.
+
+22
+00:02:50,000 --> 00:02:53,000
+I know that when I took it at
+
+23
+00:02:53,000 --> 00:03:08,000
+the USDA graduate school, when I took the class at USDA graduate school in DC, I know for a fact that everybody who was in research in data analysis was learning Perl.
+
+24
+00:03:08,000 --> 00:03:12,000
+And it was awesome.
+
+25
+00:03:12,000 --> 00:03:13,000
+And I loved it.
+
+26
+00:03:13,000 --> 00:03:22,000
+And Perl was actually the scripting language that even predated PHP and Python.
+
+27
+00:03:22,000 --> 00:03:50,000
+and believe it or not a tool called Gray Matter and a tool called Movable Type were flat file blogs and the way it worked is you would write in a little CMS blogging web interface and when you hit submit it would run that through a pretty expensive runtime on a
+
+28
+00:03:50,000 --> 00:03:54,000
+CGI bin called mt.cgi.
+
+29
+00:03:54,000 --> 00:03:59,000
+And CGI bin means binary.
+
+30
+00:03:59,000 --> 00:04:02,000
+It would take that text.
+
+31
+00:04:02,000 --> 00:04:06,000
+It would render it in HTML.
+
+32
+00:04:06,000 --> 00:04:13,000
+And then if you wanted to, you could rebuild the entire site by hitting a button.
+
+33
+00:04:13,000 --> 00:04:19,000
+And then an even more expensive binary would come up and re-render the entire site.
+
+34
+00:04:19,000 --> 00:04:21,000
+and then set it to flat file.
+
+35
+00:04:21,000 --> 00:04:27,000
+And the great thing about flat file, it was easy for Google to understand.
+
+36
+00:04:27,000 --> 00:04:38,000
+It wasn't an expensive architecture like WordPress or any other type of database-backed website was.
+
+37
+00:04:38,000 --> 00:04:48,000
+And it was wicked fast, it was easy to deploy, it was easy to port, it was easy to move, and it was easy to back up.
+
+38
+00:04:48,000 --> 00:04:53,000
+So I had been running that since that version of Movable Type was available.
+
+39
+00:04:53,000 --> 00:04:55,000
+And now it's 2026.
+
+40
+00:04:55,000 --> 00:05:06,000
+And at some point, my hosting company, which I forgot the name of, ended up breaking that relationship.
+
+41
+00:05:06,000 --> 00:05:13,000
+But they kept it going forever, for 20 years, almost 20 years.
+
+42
+00:05:13,000 --> 00:05:14,000
+It ran gladly.
+
+43
+00:05:14,000 --> 00:05:16,000
+It just ran, ran, ran, ran, ran.
+
+44
+00:05:16,000 --> 00:05:21,000
+It broke once and the people there fixed it.
+
+45
+00:05:21,000 --> 00:05:24,000
+And then it broke and they said that they wouldn't support it anymore.
+
+46
+00:05:24,000 --> 00:05:29,000
+So it ran as a flat file, but I couldn't log in.
+
+47
+00:05:29,000 --> 00:05:30,000
+I couldn't update it.
+
+48
+00:05:30,000 --> 00:05:33,000
+It was just basically a flat file site.
+
+49
+00:05:33,000 --> 00:05:43,000
+So the first thing I did when I discovered that I could use AI prompts to literally create websites
+
+50
+00:05:43,000 --> 00:05:50,000
+on GitHub pages, I started doing that.
+
+51
+00:05:50,000 --> 00:06:05,000
+I said, first thing you do is completely and utterly replicate H-I-L-L-M-O-L-E.com Hillmole into a flat file GitHub page version.
+
+52
+00:06:05,000 --> 00:06:07,000
+Then I started adding modern things.
+
+53
+00:06:07,000 --> 00:06:11,000
+I'm like, make it look like the original, but also make it
+
+54
+00:06:11,000 --> 00:06:41,000
+mobile native and make it super fast and make it super compliant and make it as close to ADA compliant as possible and make it 300% on Google page speed insights and squish all the images down to nothing using WebP formats and give it atom and RSS and then I'm like
+
+55
+00:06:41,000 --> 00:07:10,000
+add to it a glossary add to it an index add to it a colophone add to it an about page and add to it a read it in one giant page page and then I'm like oh that's cool I'm like well I've been forwarding Garrus Corp
+
+56
+00:07:10,000 --> 00:07:15,000
+G-E-R-R-I-S-C-O-R-P.com, my corporate entity.
+
+57
+00:07:15,000 --> 00:07:26,000
+I've been pointing that at chrisabraham.com because I was tired of running an old-fashioned Substack-- sorry, Squarespace site.
+
+58
+00:07:26,000 --> 00:07:33,000
+And so I'm like, OK, all right, Muse or whatever.
+
+59
+00:07:33,000 --> 00:07:38,000
+Go ahead and create a Garris site for me.
+
+60
+00:07:38,000 --> 00:07:45,000
+which is focused on only in everything that I know and that I'm selling currently in 2026.
+
+61
+00:07:45,000 --> 00:07:52,000
+Focus on SEO, focus on AEO, focus on GEO, focus on EIEIO.
+
+62
+00:07:52,000 --> 00:08:06,000
+And before I knew it, there was a beautiful Gera site up there, real basic, real quick, nothing fancy, featuring the beautiful logo by my beloved friend Oliver Uberti.
+
+63
+00:08:06,000 --> 00:08:15,000
+and even a colophon page where I thank him desperately for providing that for me and all his support.
+
+64
+00:08:15,000 --> 00:08:27,000
+And then I'm like, holy crap, my nom de guerre, my nom de plume on Upwork is Christopher Abraham.
+
+65
+00:08:27,000 --> 00:08:36,000
+And I own ChristopherAbraham.com, so let's, instead of putting everything on ChrisAbraham.com, which even has my bad poetry,
+
+66
+00:08:36,000 --> 00:08:49,000
+Let's create a totally Upwork optimized website called ChristopherAbraham.com.
+
+67
+00:08:49,000 --> 00:08:54,000
+And then I added things called guides and guides are like web
+
+68
+00:08:54,000 --> 00:09:18,000
+blog posts based on cool things in the news and stuff and kind of like new spaces and then there's services and there's case studies and all that other fun stuff and then I'm like what about my what about my podcast I don't have a dedicated I don't have a dedicated website for my the Chris Abraham show podcast
+
+69
+00:09:18,000 --> 00:09:24,000
+All the cool kids have a totally dedicated website for their cool podcast.
+
+70
+00:09:24,000 --> 00:09:34,000
+So I go out and I register the ChrisAbrahamShow.com over on Cloudflare, which has the best DNS and the cheapest domain names.
+
+71
+00:09:34,000 --> 00:09:48,000
+And within an hour, I have a perfectly quaffed, perfectly quaffed, dedicated domain-based website that goes all the way back to episode one.
+
+72
+00:09:48,000 --> 00:10:16,000
+and now it has every single episode is rendered as a voiceover read of the of the content or if there's no transcript and just of the show notes and everyone has a beautiful voice of someone who's not me who's auto gendered auto generated and all that fun stuff and then I'm like you know what
+
+73
+00:10:16,000 --> 00:10:22,000
+I'm getting frickin', I'm getting all these people doing stuff for me on GitHub.
+
+74
+00:10:22,000 --> 00:10:24,000
+So now I like to think I'm a GitHub expert.
+
+75
+00:10:24,000 --> 00:10:30,000
+So I have chrisabraham.net already in my hopper.
+
+76
+00:10:30,000 --> 00:10:40,000
+So I'm like, let's create a website called the Chris Abraham Weblog where ChatGPT, Muse,
+
+77
+00:10:40,000 --> 00:11:08,000
+which I call Eunice, E-U-N-I-C-E, after William Gibson's agency novel, and then ChatGPT, Claude, and then of course, OpenAI Codex on the local box, OpenAI Codex on the Pine box, Claude code on my local box, Claude code on my Pine box, and then
+
+78
+00:11:08,000 --> 00:11:19,000
+let's go ahead and create a weblog and let's make six author pages like Chris author page, ChatGPT author page, blah, blah, blah, blah, blah.
+
+79
+00:11:19,000 --> 00:11:28,000
+And let's every day scoop the news for cool AI and tech news and we'll post a daily roundup at five o'clock every morning.
+
+80
+00:11:28,000 --> 00:11:35,000
+And then periodically I'll ask, nowhere in that entire site do I write anything. I just
+
+81
+00:11:35,000 --> 00:11:42,000
+I just tell a prompt, I tell an AI what it is I want to write.
+
+82
+00:11:42,000 --> 00:12:04,000
+And then, like an editor of a newspaper, I task all the two, four, five, six, seven AI entities, I task them with writing their own articles and having their own author page and having their own byline and putting in their own doodles or their own
+
+83
+00:12:04,000 --> 00:12:12,000
+In one case, Muse, who I call Eunice, loves watercolors, so she makes watercolors.
+
+84
+00:12:12,000 --> 00:12:15,000
+And each one of them also has their own voice.
+
+85
+00:12:15,000 --> 00:12:30,000
+Each of us have taken a particular voice, whether it's Australian or English or African American or male or female, each AI has
+
+86
+00:12:30,000 --> 00:12:56,000
+its own author voice which it will stick to and there's indexes and there's glossaries and there's a fake wiki where all the evergreen stuff is taken out of the articles and put into a fake wiki because it's not like anybody outside of us can edit it but everybody in the fold can edit it and add to it and there's a glossary and there's an index and there's
+
+87
+00:12:56,000 --> 00:13:23,000
+LLMS.txt and robots and Atom and RSS and everything's optimized for SEO and AEO and all the search results and page speeds have a hundred percent responsiveness and everything is super duper compliant and it follows as many ADA specs as possible and even has
+
+88
+00:13:23,000 --> 00:13:32,000
+share and share alike when it comes to community, commons, copyright, and all that fun stuff.
+
+89
+00:13:32,000 --> 00:13:36,000
+And so now I have chrisabraham.net.
+
+90
+00:13:36,000 --> 00:13:39,000
+I have christopherabraham.com.
+
+91
+00:13:39,000 --> 00:13:42,000
+I have Garrus Corp.
+
+92
+00:13:42,000 --> 00:13:43,000
+I have Hill Mole.
+
+93
+00:13:43,000 --> 00:13:46,000
+I have the Chris Abraham Show.
+
+94
+00:13:46,000 --> 00:14:15,000
+And today I'm going to be launching SCIBE.org, which is an archival website that-- when I was 24, I was part of a major hyperfiction, one of the earliest hyperfiction, whose main author and main artist and visionary was a woman named Judy Malloy of ArtsWire and TheWell.com.
+
+95
+00:14:15,000 --> 00:14:27,000
+And I'm a co-author of it, so I am slurping it up, completely stealing it, cloning it, and putting it onto the SCIBE.org domain.
+
+96
+00:14:27,000 --> 00:14:41,000
+And I'm putting all kinds of notes on it saying that this is for archival purposes only, not to be-- I'm just putting this in amber and making sure that it exists.
+
+97
+00:14:41,000 --> 00:14:47,000
+And basically this is a duplicate in a clone for posterity.
+
+98
+00:14:47,000 --> 00:14:50,000
+And hopefully nobody will yell at me.
+
+99
+00:14:50,000 --> 00:14:52,000
+So that's everything.
+
+100
+00:14:52,000 --> 00:14:54,000
+Two more things that I did.
+
+101
+00:14:54,000 --> 00:15:11,000
+If you go to my github.com/chrisabraham and look at the projects, you'll see that over the last month or two, I've created my very own command line based
+
+102
+00:15:11,000 --> 00:15:22,000
+My very own command line based assistant, AI assistant.
+
+103
+00:15:22,000 --> 00:15:29,000
+What a jerk.
+
+104
+00:15:29,000 --> 00:15:38,000
+Anyway, I have, if you can't hear it in the background, a dude with a motorcycle was revving at people who were pedestrians and it was just too much.
+
+105
+00:15:38,000 --> 00:15:42,000
+They were just going to Celtic House as a posse.
+
+106
+00:15:42,000 --> 00:15:44,000
+Always be nice to pedestrians.
+
+107
+00:15:44,000 --> 00:15:48,000
+You don't know who they are in sexy South Arlington.
+
+108
+00:15:48,000 --> 00:15:51,000
+They might be assassins, who knows?
+
+109
+00:15:51,000 --> 00:15:58,000
+Anyway, oh yeah, so I made this thing called Black Box.
+
+110
+00:15:58,000 --> 00:16:04,000
+And Black Box is an assistant, an AI assistant that is very dedicated.
+
+111
+00:16:04,000 --> 00:16:09,000
+All it does is keep track of my to-dos via Todoist.
+
+112
+00:16:09,000 --> 00:16:38,000
+it keeps track of my calendar versus my Google Calendar it keeps track of my inbox versus Google inbox it keeps track of my Upwork via Upwork and it facilitates and recommends which Upwork request for proposals I should and shouldn't pitch and that's all it does and it does it beautifully well in the morning I go to the command line
+
+113
+00:16:38,000 --> 00:16:44,000
+and I type, of any of my local boxes, I have it totally streamlined in there.
+
+114
+00:16:44,000 --> 00:16:49,000
+I type BB space good morning, and then it gives me my morning prompt.
+
+115
+00:16:49,000 --> 00:17:04,000
+And then before I leave for the night, I type BB good night, and then it ends the day, and then it writes a human written journal entry to my journal.
+
+116
+00:17:04,000 --> 00:17:08,000
+And honestly, even though I'm encouraged to write my own journal,
+
+117
+00:17:08,000 --> 00:17:37,000
+honestly my box writes my journal and it lives on my it lives on my it lives on my droplet it lives on my droplet digital ocean droplet called pine box and that's all she wrote and so I decided to turn it into a share and share alike tool and I didn't come up with the name I didn't call it black box
+
+118
+00:17:37,000 --> 00:17:44,000
+One of my AIs called it Adjutant, A-D-J-U-T-A-N-T.
+
+119
+00:17:44,000 --> 00:17:46,000
+So it's called the Adjutant.
+
+120
+00:17:46,000 --> 00:17:58,000
+And then I also created an innovation for myself so that all seven of my AIs can have a shared memory.
+
+121
+00:17:58,000 --> 00:18:05,000
+And the shared memory is on a project called Clients, a private project called Clients on my box.
+
+122
+00:18:05,000 --> 00:18:19,000
+And I've collected 1,006 former clients and their projects, backed up from everything, including all contacts, everything.
+
+123
+00:18:19,000 --> 00:18:21,000
+And it sits there.
+
+124
+00:18:21,000 --> 00:18:22,000
+And it's my tier two.
+
+125
+00:18:22,000 --> 00:18:25,000
+My tier one is base camp five.
+
+126
+00:18:25,000 --> 00:18:27,000
+My tier two of everything else is there.
+
+127
+00:18:27,000 --> 00:18:33,000
+So at some point, I'm like, this is such a cool innovation to give
+
+128
+00:18:33,000 --> 00:18:40,000
+to give all of my AI bots consensus reality, also known as Oversoul.
+
+129
+00:18:40,000 --> 00:18:42,000
+And therefore I named it Oversoul.
+
+130
+00:18:42,000 --> 00:18:47,000
+And so I open sourced it or whatever, share and share life it or whatever.
+
+131
+00:18:47,000 --> 00:18:59,000
+And now it's an open project on GitHub slash Chris Abraham slash I guess Oversoul.
+
+132
+00:18:59,000 --> 00:19:02,000
+And so that was my last few weeks.
+
+133
+00:19:02,000 --> 00:19:14,000
+And now I just actually have to do lots and lots of client services because I went through a completely manic episode where I made all kinds of cool toys.
+
+134
+00:19:14,000 --> 00:19:16,000
+And now I think I'm done.
+
+135
+00:19:16,000 --> 00:19:31,000
+I promised myself that I would not do it after the first group, but you know, I was in a learning process and now I'll just have to spend the rest of the year making up with just awesome client service.
+
+136
+00:19:31,000 --> 00:19:38,000
+The good news is everything that I learned, I automagically had AI put it into my list of services.
+
+137
+00:19:38,000 --> 00:19:50,000
+Because like any consultant, I just have to be one week, one month, one year, one day ahead of you in order to teach you what I know and help you along.
+
+138
+00:19:50,000 --> 00:19:51,000
+So I think that's it.
+
+139
+00:19:51,000 --> 00:19:53,000
+I think that's the whole episode.
+
+140
+00:19:53,000 --> 00:19:59,000
+I have nothing else to say except it's a beautiful day in Arlington.
+
+141
+00:19:59,000 --> 00:20:03,000
+42 on Sunday, 25 October.
+
+142
+00:20:03,000 --> 00:20:05,000
+The month is almost over.
+
+143
+00:20:05,000 --> 00:20:09,000
+I have a lot of work to do.
+
+144
+00:20:09,000 --> 00:20:21,000
+I'm going to listen to Johnny Dollar on the big broadcast on WAMU, which is 1900 hours Atlantic Time or Eastern Time.
+
+145
+00:20:21,000 --> 00:20:25,000
+And that's on WAMU 88.5.
+
+146
+00:20:25,000 --> 00:20:26,000
+You can reach it
+
+147
+00:20:26,000 --> 00:20:34,000
+using the app called TuneIn or you can go to wamu.org on the internet.
+
+148
+00:20:34,000 --> 00:20:36,000
+And it's really awesome.
+
+149
+00:20:36,000 --> 00:20:44,000
+Between 7 and like 10 or 11 o'clock, there's just big radio, old-timey radio shows.
+
+150
+00:20:44,000 --> 00:20:48,000
+And that's what I do with my Sunday night.
+
+151
+00:20:48,000 --> 00:20:59,000
+I don't-- I think tonight is the very last episode of No Agenda Show or the very last episode where
+
+152
+00:20:59,000 --> 00:21:05,000
+I think the 29th, October 29th is the very last episode of the No Agenda Show.
+
+153
+00:21:05,000 --> 00:21:23,000
+So anyway, I hope you guys like and subscribe and please reach out to me, find the information and reach out to me and let me know what you'd like me to podcast about, if you'd like to talk about any of these innovations.
+
+154
+00:21:23,000 --> 00:21:25,000
+I am no genius.
+
+155
+00:21:25,000 --> 00:21:27,000
+I'm last to the party.
+
+156
+00:21:27,000 --> 00:21:33,000
+So I don't know if oversoul or if adjunct or anything like that are interesting to you.
+
+157
+00:21:33,000 --> 00:21:42,000
+But if you're curious, I try to share every morning roundup, but I've only done two or three morning roundups so far.
+
+158
+00:21:42,000 --> 00:21:45,000
+So we'll see how useful they end up being.
+
+159
+00:21:45,000 --> 00:21:53,000
+But I'm already getting a lot of organic viewers and organic followers, even though I'm sure
+
+160
+00:21:53,000 --> 00:22:05,000
+There are people who are completely and utterly using auto magic tools to super duper flood the internet full of content.
+
+161
+00:22:05,000 --> 00:22:08,000
+And so who in the heck is going to find my stuff?
+
+162
+00:22:08,000 --> 00:22:17,000
+I think it's cool that I have a rock star GitHub page finally after being on GitHub for 20 years.
+
+163
+00:22:17,000 --> 00:22:18,000
+I don't know how many years.
+
+164
+00:22:18,000 --> 00:22:23,000
+Can you find out when you first registered GitHub?
+
+165
+00:22:23,000 --> 00:22:33,000
+Anyway, I know I've been on YouTube since 2005, and I'm at 19 years on Reddit.
+
+166
+00:22:33,000 --> 00:22:42,000
+And I know that I've been on Facebook since 2006, and I've been on Twitter since 2007.
+
+167
+00:22:42,000 --> 00:22:43,000
+And that's all I know.
+
+168
+00:22:43,000 --> 00:22:48,000
+Anyway, follow me, subscribe, like, share.
+
+169
+00:22:48,000 --> 00:22:50,000
+And it was really great to talk you through this.
+
+170
+00:22:50,000 --> 00:22:54,000
+Let me know if you have any questions or if there's anything else you want me to talk about.
+
+171
+00:22:54,000 --> 00:23:06,000
+And aloha, mahalo, alfiedersein, hasta proxima, aloha, kako, arrivederci.
+
+172
+00:23:06,000 --> 00:23:11,000
+Arrivederci, hasta proxima, ciao.
+
+173
+00:23:11,000 --> 00:23:16,000
+Oh, there's a barista at my local Starbucks named Macy.
+
+174
+00:23:16,000 --> 00:23:17,000
+And she's super adorable.
+
+175
+00:23:17,000 --> 00:23:28,000
+She's 19 and she's already married to a dude who is one of the soldiers who is honoring the unknown soldier.
+
+176
+00:23:28,000 --> 00:23:36,000
+And I was leaving and I did the double shaka thing, you know, double hangs loose shaka fingers.
+
+177
+00:23:36,000 --> 00:23:41,000
+And instead of saying shaka brada, every time she sees me, she does double shakas.
+
+178
+00:23:41,000 --> 00:23:46,000
+And instead of saying shaka or aloha or how's it bra,
+
+179
+00:23:46,000 --> 00:23:49,000
+She says chow chow chow or chow chow.
+
+180
+00:23:49,000 --> 00:24:08,000
+So now I'm trying to get all my friends when they see me to put up two shaka like hang loose Hawaiian style fingers and say chow chow instead of shaka bra or how's it or hang loose.
+
+181
+00:24:08,000 --> 00:24:14,000
+Now it's going to be chow chow, which is extremely
+
+182
+00:24:14,000 --> 00:24:17,000
+culture, culture hybriding. I love it.
+
+183
+00:24:17,000 --> 00:24:32,000
+And also, there's Middle Eastern-- I'm sorry, Middle-- Central American people and South Americans people who say ciao, right, but with a TCH or a TC or whatever.
+
+184
+00:24:32,000 --> 00:24:38,000
+So it could be also the Americas as well.
+
+185
+00:24:38,000 --> 00:24:41,000
+But anyway, she's super adorable when she does that.
+
+186
+00:24:41,000 --> 00:24:49,000
+And I want to make that something I've stolen from her and give full attribution to her for it. Thank you.
+
+187
+00:24:49,000 --> 00:24:53,000
+This was season 11, episode 4 of The Chris Abraham Show.
+
+188
+00:24:53,000 --> 00:24:55,000
+I'm so happy that you waited this long.
+
+189
+00:24:55,000 --> 00:25:03,000
+And I'll talk to you next time.
