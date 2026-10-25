@@ -10,6 +10,7 @@ Chris Abraham's podcast, 459 episodes from June 12, 2019 to October 25, 2026. Ea
 - [Archives](https://thechrisabrahamshow.com/archives.html): every episode
 - [Articles](https://thechrisabrahamshow.com/articles.html): written articles by the host
 - [Articles feed](https://thechrisabrahamshow.com/articles.xml): the shadow edition — every article in one RSS feed, full text, each one also read aloud
+- [Podcast feed](https://thechrisabrahamshow.com/podcast.xml): the show itself, mirrored from Spotify for Creators — the same episodes with the original audio, for any podcast app
 - [Index](https://thechrisabrahamshow.com/show-index.html): people, places, and subjects, with the episodes where each appears
 - [Full show notes](https://thechrisabrahamshow.com/llms-full.txt): every episode's notes in one plain text file
 
