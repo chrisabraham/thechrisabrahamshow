@@ -34,5 +34,11 @@
   "duration": 272,
   "sha256": "43fd587ca18b84d54ba586e44b7dbd64a4a253837cbce3cd2e68ed11ca861a2e",
   "voice": "avocado_v2:qvd_02406"
+ },
+ "you-dont-have-to-be-homeless-in-dc": {
+  "bytes": 6661093,
+  "duration": 832,
+  "sha256": "e92acb8bc92a5f705f683b691101a18d6dabe62634e6d8d787961e518fb96aea",
+  "voice": "avocado_v2:qvd_02406"
  }
 }
