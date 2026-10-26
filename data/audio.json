@@ -5,6 +5,12 @@
   "sha256": "01e6d2043cb4b72c8767811e1c6820ac1f8e9cb0281956857b639c5e8076f0dd",
   "voice": "avocado_v2:qvd_02406"
  },
+ "heres-your-warning": {
+  "bytes": 7437925,
+  "duration": 929,
+  "sha256": "e0306822ffabbdecf31b1cd9c318404b9229d42b5f109437d7f387cb525b5d5c",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "nine-years-of-slow-jogging-on-reddit": {
   "bytes": 4222693,
   "duration": 527,
