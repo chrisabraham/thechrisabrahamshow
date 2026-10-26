@@ -377,6 +377,68 @@ def episode_card(art, title):
     return name
 
 
+ARTICLE_CARD = "/assets/images/article-card.png"  # the shared share card for article pages
+ARTICLE_CARD_ALT = "The Chris Abraham Show cover art beside the word Articles"
+
+
+def _draw_article_card(path, title, sub=None):
+    """Draw a 1200x630 PNG share card in the episode cards' house style: the
+    show cover on a blurred copy of itself, the text beside it. Drawn once;
+    an existing file is never redrawn, so a hand-finished card can replace
+    the machine one in place."""
+    from PIL import Image, ImageDraw, ImageFilter, ImageEnhance, ImageFont
+    W, H, S, M = 1200, 630, 470, 80
+    im = Image.open(os.path.join(IMAGES, "show.jpg")).convert("RGB")
+    bg = im.resize((W, W), Image.LANCZOS).crop((0, (W - H) // 2, W, (W + H) // 2))
+    bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(30))).enhance(.35)
+    bg.paste(im.resize((S, S), Image.LANCZOS), (M, (H - S) // 2))
+    d = ImageDraw.Draw(bg)
+    x, width = M + S + 56, W - (M + S + 56) - 64
+    fonts = os.path.join(ROOT, "fonts")
+    for size in range(64, 29, -2):  # largest size that fits in five lines
+        font = ImageFont.truetype(os.path.join(fonts, "LiberationSans-Bold.ttf"), size)
+        lines, line = [], ""
+        for word in title.split():
+            test = (line + " " + word).strip()
+            if d.textlength(test, font=font) <= width or not line:
+                line = test
+            else:
+                lines.append(line); line = word
+        lines.append(line)
+        if len(lines) <= 5 and all(d.textlength(l, font=font) <= width for l in lines):
+            break
+    lead = int(size * 1.18)
+    label = ImageFont.truetype(os.path.join(fonts, "LiberationSans-Regular.ttf"), 26)
+    block = len(lines) * lead + 52 + (44 if sub else 0)
+    top = (H - block) // 2
+    d.text((x, top), NAME.upper(), font=label, fill=(200, 200, 200))
+    for n, l in enumerate(lines):
+        d.text((x, top + 52 + n * lead), l, font=font, fill=(255, 255, 255))
+    if sub:
+        d.text((x, top + 52 + len(lines) * lead + 10), sub, font=label, fill=(200, 200, 200))
+    bg.save(path, "PNG", optimize=True)
+
+
+def ensure_article_cards(arts):
+    """Share cards for article pages (og:image / twitter:image). Episodes get
+    a card apiece from their own art; articles take, in order: an explicit
+    "card:" header in the article's data file, the -card.jpg sibling of the
+    article's image, the article image itself, and finally the shared
+    articles card. The shared card and any named PNG card are drawn here,
+    once, in the episode cards' style. An article page must never fall back
+    to the show's default card.jpg: shared, that reads as episode album art,
+    not as the article (Chris' report, Oct 26 2026)."""
+    p = os.path.join(ROOT, ARTICLE_CARD.lstrip("/"))
+    if not os.path.exists(p):
+        _draw_article_card(p, "Articles", sub="Essays and writing by Chris Abraham")
+    for a in arts:
+        card = a.get("card")
+        if card and card.endswith(".png"):
+            p = os.path.join(ROOT, card.lstrip("/"))
+            if not os.path.exists(p):
+                _draw_article_card(p, a["seo_title"])
+
+
 def cache_transcript(ep):
     path = os.path.join(TRANSCRIPTS, ep["guid"] + ".srt")
     if os.path.exists(path) or not ep.get("transcript_url"):
@@ -1360,6 +1422,7 @@ def build(show, eps):
 
     # articles
     arts = load_articles()
+    ensure_article_cards(arts)
     audio_manifest = ensure_article_audio(arts)
     for a in arts:
         url = SITE + "/" + a["path"]
@@ -1385,8 +1448,14 @@ def build(show, eps):
                           '  <p class="meta">An article by <a href="/about.html" rel="author">%s</a>, %s</p>' % (AUTHOR, nice(a["when"])),
                           '  <div class="entry-body">', figure, player, share_line(url, a["title"]), a_body, share_line(url, a["title"]), "  </div>", "</article>",
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
-        card = img[:-4] + "-card.jpg" if img and os.path.exists(os.path.join(ROOT, img[:-4].lstrip("/") + "-card.jpg")) else img
-        write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=card, image_alt=a.get("image_alt"),
+        card = a.get("card")
+        if not card and img:
+            sibling = img[:-4] + "-card.jpg"
+            card = sibling if os.path.exists(os.path.join(ROOT, sibling.lstrip("/"))) else img
+        if not card:
+            card = ARTICLE_CARD
+        write(a["path"], page(a["path"], a["seo_title"], a["description"], body, image=card,
+                              image_alt=a.get("card_alt") or a.get("image_alt") or ARTICLE_CARD_ALT,
                               keywords=a.get("keywords"), og_type="article", ld=ld, published=a["when"].isoformat()))
     rows = "\n".join('<li><a href="/%s">%s</a>, %s<br>%s</li>' % (a["path"], e(a["title"]), nice(a["when"]), e(a["description"])) for a in arts)
     write("articles.html", page("articles.html", "Articles by Chris Abraham, written alongside his podcast",
