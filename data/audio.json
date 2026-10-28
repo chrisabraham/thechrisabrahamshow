@@ -6,9 +6,15 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "heres-your-warning": {
-  "bytes": 6698341,
+  "bytes": 6703141,
   "duration": 837,
   "sha256": "7628f722e7bb1e601ef247d8f03820d5eb9aecd1d7624db27b4afe5589b5bd6f",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "lawfare-forever": {
+  "bytes": 3895717,
+  "duration": 486,
+  "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
   "voice": "avocado_v2:qvd_02406"
  },
  "nine-years-of-slow-jogging-on-reddit": {
@@ -41,27 +47,51 @@
   "sha256": "43fd587ca18b84d54ba586e44b7dbd64a4a253837cbce3cd2e68ed11ca861a2e",
   "voice": "avocado_v2:qvd_02406"
  },
+ "ride-like-a-varmint": {
+  "bytes": 3587941,
+  "duration": 448,
+  "sha256": "5e9f19cfd1387ba8744331075ea5aeffce2c7492e92b7e386ea2178ea73b5a99",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-machine-thinks-im-a-mastermind": {
-  "bytes": 2850469,
-  "duration": 356,
+  "bytes": 2826277,
+  "duration": 353,
   "sha256": "c685e281b7266077b6242803de5f8b92ec098057583ffbc08188fd93183c19e3",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-professional-coward": {
+  "bytes": 3441829,
+  "duration": 430,
+  "sha256": "dea94a89c1700c9777202dbfd21db235052ff49b150cd85ce2d259baa34026f8",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-trellis-not-the-vine": {
-  "bytes": 5136997,
-  "duration": 642,
+  "bytes": 5222245,
+  "duration": 652,
   "sha256": "be38f12672e1f8401b075c6156609e018eebb22403813a794ef2315bc4a5d5bb",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-truck-stops-itself": {
+  "bytes": 5715493,
+  "duration": 714,
+  "sha256": "b722f4a13571cea359a6509e72b28f1a4d1f788c5c243725f8bdb2dd4b6c1bfe",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-window-moved-i-stayed-put": {
+  "bytes": 7337317,
+  "duration": 917,
+  "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "things-i-might-be-making-up": {
-  "bytes": 3671077,
-  "duration": 458,
+  "bytes": 3548005,
+  "duration": 443,
   "sha256": "e5ac5f576d5830e37dfd4e4bf5346495ab3ef3956cb342930e1c43fdb166e90f",
   "voice": "avocado_v2:qvd_02406"
  },
  "why-matt-shade-is-not-a-douchebag": {
-  "bytes": 6523621,
-  "duration": 815,
+  "bytes": 6539749,
+  "duration": 817,
   "sha256": "094dd2a5fc2ed402f54626b2189a2bb992bb46657ea58bf6fa42007d61a7306b",
   "voice": "avocado_v2:qvd_02406"
  },
