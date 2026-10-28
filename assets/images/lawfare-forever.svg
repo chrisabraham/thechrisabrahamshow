@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<title>Lady Justice with a popcorn bucket, by Eunice</title>
+<desc>Amber ink doodle: a blindfolded Lady Justice whose scales hold a gavel on one pan and a subpoena on the other, while she eats from a striped bucket of popcorn.</desc>
+<g fill="none" stroke="#b45309" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="120" cy="34" r="13"/>
+<path d="M104 30 q16 -8 32 0 l0 8 q-16 -8 -32 0 z" fill="#b45309"/>
+<path d="M120 47 L120 150"/>
+<path d="M84 62 L156 62"/>
+<path d="M120 47 L84 62 M120 47 L156 62"/>
+<path d="M84 62 L70 96 M84 62 L98 96"/>
+<path d="M68 96 q16 10 32 0"/>
+<path d="M156 62 L142 96 M156 62 L170 96"/>
+<path d="M140 96 q16 10 32 0"/>
+<path d="M146 76 l14 10 M160 76 l-14 10" stroke-width="2.5"/>
+<path d="M76 72 l14 -4 2 14 -14 4 z" stroke-width="2.5"/>
+<path d="M72 62 l22 -6" stroke-width="4"/>
+<path d="M120 150 L102 204 M120 150 L138 204"/>
+<path d="M94 210 h20 M126 210 h20"/>
+<path d="M132 108 q26 6 30 26"/>
+<path d="M158 128 l34 0 -5 44 -24 0 z"/>
+<path d="M164 128 q2 -12 9 -4 q4 -10 10 0 q7 -8 8 4" stroke-width="2.5"/>
+<path d="M168 140 l-2 26 M180 140 l0 26" stroke-width="2"/>
+</g>
+</svg>
