@@ -1,4 +1,10 @@
 {
+ "a-straight-blow-with-a-crooked-stick": {
+  "bytes": 2393125,
+  "duration": 299,
+  "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "blew-up-reddit-someone-elses-loss": {
   "bytes": 2976037,
   "duration": 372,
