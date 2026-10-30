@@ -95,6 +95,12 @@
   "sha256": "e5ac5f576d5830e37dfd4e4bf5346495ab3ef3956cb342930e1c43fdb166e90f",
   "voice": "avocado_v2:qvd_02406"
  },
+ "when-the-antibiotics-stop-working": {
+  "bytes": 3972901,
+  "duration": 496,
+  "sha256": "b7f83abeaee80b44f0576aaeca13a8c3a362856dd67306f9974fac2d7b3ae51b",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "why-matt-shade-is-not-a-douchebag": {
   "bytes": 6539749,
   "duration": 817,
