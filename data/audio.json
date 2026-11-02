@@ -11,6 +11,12 @@
   "sha256": "01e6d2043cb4b72c8767811e1c6820ac1f8e9cb0281956857b639c5e8076f0dd",
   "voice": "avocado_v2:qvd_02406"
  },
+ "half-the-game": {
+  "bytes": 4653157,
+  "duration": 581,
+  "sha256": "aac7efdba16c227187b1726a43d282b3ce53becebad249b55780cf1f7393caf0",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "heres-your-warning": {
   "bytes": 6703141,
   "duration": 837,
@@ -18,8 +24,8 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "lawfare-forever": {
-  "bytes": 3895717,
-  "duration": 486,
+  "bytes": 3945829,
+  "duration": 493,
   "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
   "voice": "avocado_v2:qvd_02406"
  },
