@@ -23,6 +23,12 @@
   "sha256": "7628f722e7bb1e601ef247d8f03820d5eb9aecd1d7624db27b4afe5589b5bd6f",
   "voice": "avocado_v2:qvd_02406"
  },
+ "i-dont-hate-trump-enough": {
+  "bytes": 5865637,
+  "duration": 733,
+  "sha256": "a5432acd8e4239050bbb3ff10794df38c77bbc7d2fb32656a9574b4dc3eac039",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "lawfare-forever": {
   "bytes": 3945829,
   "duration": 493,
@@ -63,6 +69,12 @@
   "bytes": 3587941,
   "duration": 448,
   "sha256": "5e9f19cfd1387ba8744331075ea5aeffce2c7492e92b7e386ea2178ea73b5a99",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-loan-is-called": {
+  "bytes": 3914917,
+  "duration": 489,
+  "sha256": "5f714e3c22d708060cf26e7c06382eb7a22605111c0bd41963ccf69980e34e5d",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-machine-thinks-im-a-mastermind": {
