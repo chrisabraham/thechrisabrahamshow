@@ -11,6 +11,12 @@
   "sha256": "01e6d2043cb4b72c8767811e1c6820ac1f8e9cb0281956857b639c5e8076f0dd",
   "voice": "avocado_v2:qvd_02406"
  },
+ "build-your-own-website": {
+  "bytes": 2865253,
+  "duration": 358,
+  "sha256": "ca036eca0b647da8dfa68d9e104ae96bf7c26e93d836708e08d9827930c6e259",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "half-the-game": {
   "bytes": 7127845,
   "duration": 890,
