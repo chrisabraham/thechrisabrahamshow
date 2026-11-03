@@ -12,9 +12,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "build-your-own-website": {
-  "bytes": 2865253,
-  "duration": 358,
-  "sha256": "ca036eca0b647da8dfa68d9e104ae96bf7c26e93d836708e08d9827930c6e259",
+  "bytes": 3367333,
+  "duration": 420,
+  "sha256": "161c08b41084989e82c7fc181f4493814ec15061e7ecff1b0b95d03885f6cc05",
   "voice": "avocado_v2:qvd_02406"
  },
  "half-the-game": {
@@ -66,9 +66,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "probably-not-voting": {
-  "bytes": 9806053,
-  "duration": 1225,
-  "sha256": "6d31db88be9e6ee967ce78f084794bf0bd5b879ec2f22520cf876c037f4edacc",
+  "bytes": 10410853,
+  "duration": 1301,
+  "sha256": "ea7ba235b788c1f9fced3237f910c34fd2d82523aaaeff8455122d54163dd8ee",
   "voice": "avocado_v2:qvd_02406"
  },
  "reacher-and-bolan": {
