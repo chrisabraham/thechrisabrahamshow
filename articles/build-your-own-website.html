@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  // Consent mode: no ad storage anywhere; no analytics cookies in the EU, EEA, UK, or
+  // Switzerland, or when the browser sends Global Privacy Control or Do Not Track. See /privacy.html.
+  gtag('consent', 'default', {ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'granted'});
+  gtag('consent', 'default', {analytics_storage: 'denied', region: ['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});
+  if (navigator.globalPrivacyControl === true || navigator.doNotTrack === '1') gtag('consent', 'default', {analytics_storage: 'denied'});
+  gtag('js', new Date());
+  gtag('config', 'G-MT3LD4KQ62', {allow_google_signals: false, allow_ad_personalization_signals: false});
+  (function () {
+    var done = false;
+    function load() {
+      if (done) return;
+      done = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-MT3LD4KQ62';
+      document.head.appendChild(s);
+    }
+    ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (e) { addEventListener(e, load, {once: true, passive: true}); });
+    addEventListener('load', function () { setTimeout(load, 4000); });
+  })();
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>try{if(localStorage.getItem("tcas-theme")==="dark")document.documentElement.setAttribute("data-theme","dark")}catch(e){}</script>
+<title>Build Your Own Website for Ten Dollars a Year</title>
+<meta name="description" content="Every site I run, including this show&#x27;s site, sits on GitHub Pages with a wholesale Cloudflare domain. Here is the whole build, step by step.">
+<link rel="canonical" href="https://thechrisabrahamshow.com/articles/build-your-own-website.html">
+<link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+<meta name="keywords" content="GitHub Pages, Cloudflare, domain registration, build your own website, static website, small business website, AI, website ownership">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Chris Abraham">
+<meta property="og:site_name" content="The Chris Abraham Show">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Build Your Own Website for Ten Dollars a Year">
+<meta property="og:description" content="Every site I run, including this show&#x27;s site, sits on GitHub Pages with a wholesale Cloudflare domain. Here is the whole build, step by step.">
+<meta property="og:url" content="https://thechrisabrahamshow.com/articles/build-your-own-website.html">
+<meta property="og:image" content="https://thechrisabrahamshow.com/assets/images/build-your-own-website.jpg">
+<meta property="og:image:alt" content="Amber-ink watercolor doodle: a small house built from stacked paper pages, its roof and chimney made of paper with a wisp of smoke rising, and a globe circled by dashed arrows floating above it.">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="1280">
+<meta property="article:published_time" content="2026-11-03T12:00:00-05:00">
+<meta property="article:author" content="https://chrisabraham.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Build Your Own Website for Ten Dollars a Year">
+<meta name="twitter:description" content="Every site I run, including this show&#x27;s site, sits on GitHub Pages with a wholesale Cloudflare domain. Here is the whole build, step by step.">
+<meta name="twitter:image" content="https://thechrisabrahamshow.com/assets/images/build-your-own-website.jpg">
+<meta name="twitter:image:alt" content="Amber-ink watercolor doodle: a small house built from stacked paper pages, its roof and chimney made of paper with a wisp of smoke rising, and a globe circled by dashed arrows floating above it.">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://thechrisabrahamshow.com/#author","name":"Chris Abraham","url":"https://chrisabraham.com","sameAs":["https://chrisabraham.com/","https://hillmole.com/","https://www.amazon.com/stores/Chris-Abraham/author/B0GD2HTQYC","https://www.linkedin.com/in/chrisabraham","https://x.com/chrisabraham","https://chrisabraham.substack.com/","https://www.reddit.com/user/chrisabraham","https://mastodon.social/@chrisa","https://github.com/chrisabraham","https://www.youtube.com/chrisabraham"],"homeLocation":{"@type":"Place","name":"South Arlington, Virginia"}},{"@type":"BlogPosting","@id":"https://thechrisabrahamshow.com/articles/build-your-own-website.html#article","url":"https://thechrisabrahamshow.com/articles/build-your-own-website.html","headline":"Build Your Own Website for Ten Dollars a Year","description":"Every site I run, including this show's site, sits on GitHub Pages with a wholesale Cloudflare domain. Here is the whole build, step by step.","datePublished":"2026-11-03T12:00:00-05:00","author":{"@id":"https://thechrisabrahamshow.com/#author"},"publisher":{"@id":"https://thechrisabrahamshow.com/#author"},"image":"https://thechrisabrahamshow.com/assets/images/build-your-own-website.jpg","inLanguage":"en","isPartOf":{"@id":"https://thechrisabrahamshow.com/#website"},"about":[]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"The Chris Abraham Show","item":"https://thechrisabrahamshow.com/"},{"@type":"ListItem","position":2,"name":"Articles","item":"https://thechrisabrahamshow.com/articles.html"},{"@type":"ListItem","position":3,"name":"Build Your Own Website for Ten Dollars a Year","item":"https://thechrisabrahamshow.com/articles/build-your-own-website.html"}]}]}
+</script>
+<meta name="theme-color" content="#cccccc" id="theme-color">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32.png">
+<link rel="apple-touch-icon" href="/assets/images/icon-180.png">
+<link rel="stylesheet" href="/assets/show.css">
+<link rel="alternate" type="application/rss+xml" title="The Chris Abraham Show (Podcast)" href="https://thechrisabrahamshow.com/podcast.xml">
+<link rel="alternate" type="application/rss+xml" title="The Chris Abraham Show — Articles (narrated)" href="https://thechrisabrahamshow.com/articles.xml">
+<link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt">
+<script type="speculationrules">{"prefetch": [{"where": {"and": [{"href_matches": "/*"}, {"not": {"href_matches": ["/*.txt", "/*.json", "/*.xml"]}}]}, "eagerness": "moderate"}]}</script>
+<link rel="me" href="https://mastodon.social/@chrisa">
+</head>
+<body>
+<a class="skip" href="#content">Skip to the content</a>
+<div id="container">
+  <header id="banner">
+    <div class="banner-controls">
+      <button type="button" class="theme-toggle" id="theme-toggle" hidden>Dark</button>
+      <a class="hire-tab" href="https://chrisabraham.net/hire.html">Hire Me</a>
+    </div>
+    <a href="/" accesskey="1"><img src="/assets/images/banner-700.webp" srcset="/assets/images/banner-700.webp 700w, /assets/images/banner-1400.webp 1400w" sizes="(min-width: 700px) 700px, 100vw" alt="The Chris Abraham Show: home" width="700" height="240"></a>
+  </header>
+  <nav class="site-nav" aria-label="Site">
+<span class="nav-item"><a href="/">Home</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/about.html">About</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/archives.html">Archives</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/articles.html">Articles</a></span>
+</nav>
+  <div class="columns">
+    <main class="content" id="content">
+<article class="entry">
+  <h1>Build Your Own Website for Ten Dollars a Year</h1>
+  <p class="meta">An article by <a href="/about.html" rel="author">Chris Abraham</a>, November 3, 2026</p>
+  <div class="entry-body">
+<figure class="article-art"><img src="/assets/images/build-your-own-website.jpg" srcset="/assets/images/build-your-own-website-600.jpg 600w, /assets/images/build-your-own-website.jpg 1200w" sizes="(min-width: 700px) 636px, calc(100vw - 32px)" alt="Amber-ink watercolor doodle: a small house built from stacked paper pages, its roof and chimney made of paper with a wisp of smoke rising, and a globe circled by dashed arrows floating above it." width="1920" height="1280" fetchpriority="high"><figcaption>Doodle by Eunice, in amber ink and watercolor.</figcaption></figure>
+  <p class="listen">This article, read aloud:</p>
+  <audio class="player" controls preload="metadata" src="/assets/audio/build-your-own-website.mp3"><a href="/assets/audio/build-your-own-website.mp3">Download the narration</a></audio>
+<p class="listen">Share: <a href="https://x.com/intent/post?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html&amp;text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">LinkedIn</a> · <a href="https://www.reddit.com/submit?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html&amp;title=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year">Reddit</a> · <a href="https://bsky.app/intent/compose?text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year%20https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Bluesky</a> · <a href="https://www.threads.net/intent/post?text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year%20https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Threads</a> · <a href="mailto:?subject=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year&amp;body=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Email</a></p>
+<p>A client asked me this morning whether I could build him a website. He hates being a technologist. He has four kids, a business to run, and thirty years of selling other people's technical work, and what he wanted to know was whether somebody like me could just handle the propeller-head stuff forever. I told him something better. I told him he could own the whole thing himself, for about ten dollars a year, and that my job could shrink to the parts he actually needs. Then I promised him I would write down exactly how, step by step, because the method is not a secret and it is not hard. This is that write-down. Every website I run, including this show's site, is built exactly this way.</p>
+
+<p>Start with the domain, and buy it from Cloudflare Registrar. Cloudflare sells domains at the wholesale price it pays the registry. No markup, no teaser year, no renewal that triples, no checkout line of add-ons you have to refuse one by one. A dot-com renews at roughly ten to fifteen dollars a year, and that is the entire annual bill for everything in this article. Set it to auto-renew. Turn on two-factor authentication. More small websites die from a lapsed domain than from every technical failure put together.</p>
+
+<p>Next, make a free GitHub account and create a repository. A repository is a folder with a memory. It holds your site's files, and every change you save is recorded as a commit, a dated snapshot with a note attached. You can compare versions and roll back to any of them, which means nothing you do to your own website is ever permanent unless you want it to be. Ignore the rest of the programmer vocabulary. You do not need it. Folder, files, commits. That is the model.</p>
+
+<p>In the repository settings, turn on GitHub Pages and tell it to publish from the main branch. A minute later your site answers at a free address with your username in it. It will be empty. That is fine. An empty site at a working address is a real thing, and everything after this moment is improving a real thing instead of planning an imaginary one.</p>
+
+<p>Then connect your domain. In the Pages settings, enter your custom domain. In Cloudflare's DNS page, which is free, add the records GitHub publishes in its documentation: a CNAME record sending the www address to your GitHub address, and four A records sending the bare domain to GitHub's servers. Set them to DNS only while GitHub checks them, then turn on the Enforce HTTPS option. GitHub issues your security certificate itself and renews it itself. The padlock costs nothing and asks nothing. In ten minutes of pasting numbers into the right boxes, your domain points at your free site, permanently.</p>
+
+<p>A website, at minimum, is one file named index.html. You do not have to write it. Ask your AI chat to write it: give it your business name, your city, your phone number, what you do, and tell it to use only the facts you gave it. Paste the result into GitHub's web editor, write a commit note, save it, and reload your domain. Your business is on the internet, on your own name, for ten dollars a year.</p>
+
+<p>From then on, the work is a loop, and the loop is the whole craft. Write words anywhere: your phone, a dictated rant in the car, the answer to a question a customer asked you yesterday. Paste the words into the AI chat and ask for the finished page back. Paste the page into GitHub and commit it. Reload. That is publishing. Images work the same way. The AI can draw an illustration or clean up a photograph; you upload the file to the repository and tell the chat its name, and the chat writes the reference into the page. There is no dashboard to expire, no plugin to update, no plan tier between you and your own paragraph. The site is files. You can read them, copy them, back them up, and carry them to any host on the planet. If GitHub Pages closed tomorrow, the folder would be running somewhere else before lunch. Try saying that about a website builder.</p>
+
+<p>The honest edges, because there are edges. GitHub Pages serves static pages. It does not run a store, so selling takes a payment link from Stripe or PayPal or a real store elsewhere. It cannot receive a form, so forms use a small helper service that emails you the submissions. It does not do logins or dashboards or anything that thinks. A business that needs those things needs a developer and different hosting, and should hire both without embarrassment.</p>
+
+<p>But here is what I keep coming back to, and it is why I told my client all of this instead of just quoting him a price. The usual small-business website is rent. Two to five hundred dollars a year to a platform, forever, for a site that lives inside their walls and vanishes when the payments stop. This stack is ownership. Your domain, your files, your ten dollars a year, and an AI that does the typing you never wanted to learn. Some owners will run the loop themselves and love it. Some, like my client, will decide their hours belong to selling and to the people who buy from them, and will hand the files to a technical partner while keeping everything else. Both of those are the same website. One of them just has a partner strapped into the parts he hates. Either way, the site is his, the rent is nobody's, and the whole thing started with a folder that remembers.</p>
+<p class="listen">Share: <a href="https://x.com/intent/post?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html&amp;text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year">X</a> · <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Facebook</a> · <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">LinkedIn</a> · <a href="https://www.reddit.com/submit?url=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html&amp;title=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year">Reddit</a> · <a href="https://bsky.app/intent/compose?text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year%20https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Bluesky</a> · <a href="https://www.threads.net/intent/post?text=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year%20https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Threads</a> · <a href="mailto:?subject=Build%20Your%20Own%20Website%20for%20Ten%20Dollars%20a%20Year&amp;body=https%3A//thechrisabrahamshow.com/articles/build-your-own-website.html">Email</a></p>
+  </div>
+</article>
+<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>
+    </main>
+    <aside class="sidebar">
+      <form class="search" method="get" action="/search.html" role="search">
+        <label for="search" class="visually-hidden">Search the episodes</label>
+        <input id="search" name="q" type="search" placeholder="Search">
+      </form>
+      <p class="feeds">Listen on<br><a href="https://open.spotify.com/show/5POax2UqdOPC2HhHxVU7O0">Spotify</a><br><a href="https://www.youtube.com/@chrisabrahamshow">YouTube</a><br><a href="https://podcasts.apple.com/us/podcast/the-chris-abraham-show/id1468506258">Apple Podcasts</a><br><a href="https://overcast.fm/itunes1468506258">Overcast</a><br><a href="https://pca.st/3YS9">Pocket Casts</a><br><a href="https://castbox.fm/channel/ChrisCast-id2169365">Castbox</a><br><a href="https://podcastindex.org/podcast/1017827">Podcast Index</a><br><a href="https://tunein.com/podcasts/Comedy/ChrisCast-p1229481/">TuneIn</a><br><a href="https://anchor.fm/s/c0f56fc/podcast/rss">RSS</a></p>
+      <p>Start at the very <a href="/episodes/2019/06/the-chris-abraham-show-trailer.html">beginning</a><br>a very good place to start.</p>
+      <p><a href="/about.html">About the show</a><br><a href="/archives.html">Every episode</a><br><a href="/articles.html">Articles</a></p>
+      <p class="badge"><a href="https://open.spotify.com/show/5POax2UqdOPC2HhHxVU7O0"><img src="/assets/images/icon-180.png" alt="Listen to The Chris Abraham Show on Spotify" width="160" height="160" loading="lazy"></a></p>
+    </aside>
+  </div>
+  <footer class="site-footer">
+    <nav class="site-nav" aria-label="Footer">
+<span class="nav-item"><a href="/">Home</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/about.html">About</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/archives.html">Archives</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/articles.html">Articles</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/glossary.html">Glossary</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/show-index.html">Index</a><span aria-hidden="true">&nbsp;·</span></span> <span class="nav-item"><a href="/colophon.html">Colophon</a></span>
+</nav>
+    <p>The Chris Abraham Show © 2019–2026 <a href="/about.html" rel="author">Chris Abraham</a>.</p>
+    <p>Mirrored from Spotify for Creators. Static on GitHub&nbsp;Pages. <a href="/privacy.html">Privacy</a>.</p>
+    <p>Everything here, episodes and cover art included, is <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: share it, clip it, remix it, credit The&nbsp;Chris&nbsp;Abraham&nbsp;Show and link&nbsp;back.</p>
+  </footer>
+</div>
+<script>
+(function () {
+  var root = document.documentElement, btn = document.getElementById("theme-toggle"),
+      meta = document.getElementById("theme-color");
+  function show(dark) {
+    btn.textContent = dark ? "Light" : "Dark";
+    btn.setAttribute("aria-label", dark ? "Switch to light reading mode" : "Switch to dark reading mode");
+    meta.setAttribute("content", dark ? "#141414" : "#cccccc");
+  }
+  show(root.getAttribute("data-theme") === "dark");
+  btn.hidden = false;
+  btn.addEventListener("click", function () {
+    var dark = root.getAttribute("data-theme") !== "dark";
+    if (dark) root.setAttribute("data-theme", "dark"); else root.removeAttribute("data-theme");
+    try { localStorage.setItem("tcas-theme", dark ? "dark" : "light"); } catch (e) {}
+    show(dark);
+  });
+  var share = document.getElementById("share-native");
+  if (share) {
+    share.hidden = false;
+    share.addEventListener("click", function () {
+      var url = share.getAttribute("data-url"), title = share.getAttribute("data-title");
+      if (navigator.share) { navigator.share({ title: title, url: url }).catch(function () {}); return; }
+      navigator.clipboard.writeText(url).then(function () { share.textContent = "Link Copied"; });
+    });
+  }
+})();
+</script>
+</body>
+</html>
