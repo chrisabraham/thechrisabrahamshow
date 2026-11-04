@@ -38,6 +38,45 @@ YOUTUBE_FEED = "https://www.youtube.com/feeds/videos.xml?channel_id=UCPSCtkNYQkC
 HOME = "https://chrisabraham.com"
 NAME = "The Chris Abraham Show"
 AUTHOR = "Chris Abraham"
+# The show's authors (the multi-author architecture, Nov 4 2026, modeled on
+# chrisabraham.net's): every author has a page at /authors/<slug>.html — a
+# bio from data/authors/<slug>.html plus the articles carrying their byline —
+# and an index at /authors.html. An article's author is Chris Abraham unless
+# its data file carries an "author:" header naming another author here (by
+# name or by slug). The show, its episodes, its feeds, and its publisher
+# credit remain Chris Abraham's alone.
+AUTHORS = {
+    "chris-abraham": {"name": "Chris Abraham", "path": "/authors/chris-abraham.html", "type": "Person",
+                      "tagline": "the host"},
+    "eunice": {"name": "Eunice", "path": "/authors/eunice.html", "type": "Organization",
+               "tagline": "the chief of staff, in her own voice",
+               "description": "Chris Abraham's AI chief of staff, researcher, and co-writer, working with him since October 18, 2026; named for Eunice, the AI in William Gibson's novel Agency",
+               "parent_name": "Meta", "parent_url": "https://www.meta.com/"},
+}
+DEFAULT_AUTHOR = "chris-abraham"
+
+
+def author_key(a):
+    """An article's author key: its "author:" header matched against the
+    registry by name or by slug; anything else is Chris Abraham's."""
+    raw = (a.get("author") or "").strip()
+    if raw:
+        for key, au in AUTHORS.items():
+            if raw == key or raw.lower() == au["name"].lower():
+                return key
+    return DEFAULT_AUTHOR
+
+
+def author_entity(key, person):
+    """The schema entity standing behind an author's byline: Chris Abraham
+    is the site's Person (#author); any other author is an entity whose home
+    is their author page."""
+    au = AUTHORS[key]
+    if key == DEFAULT_AUTHOR:
+        return person
+    return {"@type": au["type"], "@id": SITE + au["path"] + "#author", "name": au["name"],
+            "url": SITE + au["path"], "description": au["description"],
+            "parentOrganization": {"@type": "Organization", "name": au["parent_name"], "url": au["parent_url"]}}
 TZ = ZoneInfo("America/New_York")
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
@@ -1136,7 +1175,7 @@ def articles_feed(show, arts, manifest, self_name=ARTICLES_FEED):
              "<link>%s</link>" % url,
              '<guid isPermaLink="true">%s</guid>' % url,
              "<pubDate>%s</pubDate>" % rfc822(a["when"]),
-             "<dc:creator>%s</dc:creator>" % e(AUTHOR),
+             "<dc:creator>%s</dc:creator>" % e(AUTHORS[author_key(a)]["name"]),
              "<description>%s</description>" % e(a["description"]),
              "<content:encoded>%s</content:encoded>" % cdata(body)]
         if a.get("image"):
@@ -1189,7 +1228,7 @@ def articles_atom(show, arts, manifest):
              "<id>%s</id>" % e(url),
              "<published>%s</published>" % a["when"].isoformat(),
              "<updated>%s</updated>" % a["when"].isoformat(),
-             "<author><name>%s</name></author>" % e(AUTHOR),
+             "<author><name>%s</name></author>" % e(AUTHORS[author_key(a)]["name"]),
              "<summary>%s</summary>" % e(a["description"]),
              '<content type="html">%s</content>' % e(article_body(a))]
         slug = article_slug(a)
@@ -1429,9 +1468,10 @@ def build(show, eps):
         img = a.get("image")
         small = img[:-4] + "-600.jpg" if img else ""
         about = [{"@type": "Thing", "name": n.strip(), "sameAs": u.strip()} for n, u in (x.split("|") for x in a["about"].split(";;"))] if a.get("about") else []
-        ld = {"@context": "https://schema.org", "@graph": [person, {
+        akey = author_key(a)
+        ld = {"@context": "https://schema.org", "@graph": ([person] if akey == DEFAULT_AUTHOR else [person, author_entity(akey, person)]) + [{
             "@type": "BlogPosting", "@id": url + "#article", "url": url, "headline": a["title"], "description": a["description"],
-            "datePublished": a["when"].isoformat(), "author": {"@id": SITE + "/#author"}, "publisher": {"@id": SITE + "/#author"},
+            "datePublished": a["when"].isoformat(), "author": {"@id": author_entity(akey, person)["@id"]}, "publisher": {"@id": SITE + "/#author"},
             "image": SITE + img if img else None, "inLanguage": "en", "isPartOf": {"@id": SITE + "/#website"}, "about": about},
             {"@type": "BreadcrumbList", "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": NAME, "item": SITE + "/"},
@@ -1445,7 +1485,7 @@ def build(show, eps):
         slug = article_slug(a)
         player = ('  <p class="listen">This article, read aloud:</p>\n  <audio class="player" controls preload="metadata" src="/assets/audio/%s.mp3"><a href="/assets/audio/%s.mp3">Download the narration</a></audio>' % (slug, slug)) if os.path.exists(os.path.join(AUDIO_DIR, slug + ".mp3")) else ""
         body = "\n".join(['<article class="entry">', '  <h1>%s</h1>' % e(a["title"]),
-                          '  <p class="meta">An article by <a href="/about.html" rel="author">%s</a>, %s</p>' % (AUTHOR, nice(a["when"])),
+                          '  <p class="meta">An article by <a href="%s" rel="author">%s</a>, %s</p>' % (AUTHORS[akey]["path"], e(AUTHORS[akey]["name"]), nice(a["when"])),
                           '  <div class="entry-body">', figure, player, share_line(url, a["title"]), a_body, share_line(url, a["title"]), "  </div>", "</article>",
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
         card = a.get("card")
@@ -1460,9 +1500,42 @@ def build(show, eps):
     rows = "\n".join('<li><a href="/%s">%s</a>, %s<br>%s</li>' % (a["path"], e(a["title"]), nice(a["when"]), e(a["description"])) for a in arts)
     write("articles.html", page("articles.html", "Articles by Chris Abraham, written alongside his podcast",
                                 "Written articles by Chris Abraham, the host of the show: essays, confessions, and enthusiasms that work better on the page than out loud.",
-                                '<h1 class="archive-title">Articles</h1>\n<div class="entry-body"><p>Writing that works better on the page than out loud. The episodes are in the <a href="/archives.html">archives</a>.</p>\n<ul class="articles">\n%s\n</ul></div>' % rows,
+                                '<h1 class="archive-title">Articles</h1>\n<div class="entry-body"><p>Writing that works better on the page than out loud. The episodes are in the <a href="/archives.html">archives</a>; the <a href="/authors.html">authors</a> have a page of their own.</p>\n<ul class="articles">\n%s\n</ul></div>' % rows,
                                 current="/articles.html", keywords="Chris Abraham, articles, essays",
                                 ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/articles.html", "name": "Articles", "isPartOf": {"@id": SITE + "/#website"}}))
+
+    # authors: an index at /authors.html and a page per author at
+    # /authors/<slug>.html — a bio from data/authors/<slug>.html plus that
+    # author's articles, newest first (modeled on chrisabraham.net's)
+    author_meta = {}
+    for key in AUTHORS:
+        frag = os.path.join(DATA, "authors", key + ".html")
+        if os.path.exists(frag):
+            head, bio = open(frag).read().split("\n---\n", 1)
+            author_meta[key] = (dict(line.split(": ", 1) for line in head.strip().splitlines()), close_dashes(bio.strip()))
+    for key, au in AUTHORS.items():
+        if key not in author_meta:
+            continue
+        meta, bio = author_meta[key]
+        arows = "\n".join('<li><a href="/%s">%s</a>, %s<br>%s</li>' % (a["path"], e(a["title"]), nice(a["when"]), e(a["description"]))
+                          for a in arts if author_key(a) == key)
+        abody = "\n".join(['<h1 class="archive-title">%s</h1>' % e(au["name"]), '<div class="entry-body">', bio,
+                           '<h2>Articles by %s</h2>' % e(au["name"]),
+                           '<ul class="articles">\n%s\n</ul>' % (arows or "<li>None yet.</li>"), "</div>"])
+        write(au["path"].lstrip("/"), page(au["path"].lstrip("/"), meta["title"], meta["description"], abody,
+                              current="/authors.html", keywords="%s, author, The Chris Abraham Show" % au["name"],
+                              ld={"@context": "https://schema.org", "@type": "ProfilePage", "url": SITE + au["path"],
+                                  "name": meta["title"], "description": meta["description"],
+                                  "mainEntity": author_entity(key, person)}))
+    irows = "\n".join('<li><a href="%s">%s</a>, %s<br>%s</li>' % (au["path"], e(au["name"]), e(au["tagline"]), e(author_meta[key][0]["description"]))
+                      for key, au in AUTHORS.items() if key in author_meta)
+    write("authors.html", page("authors.html", "Authors of The Chris Abraham Show",
+                               "The authors of The Chris Abraham Show: Chris Abraham, its host, and Eunice, his AI chief of staff, researcher, and co-writer.",
+                               "\n".join(['<h1 class="archive-title">Authors</h1>', '<div class="entry-body">',
+                                          "<p>The show is Chris Abraham's; the writing here carries more than one byline.</p>",
+                                          '<ul class="articles">\n%s\n</ul>' % irows, "</div>"]),
+                               current="/authors.html", keywords="Chris Abraham, Eunice, authors",
+                               ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/authors.html", "name": "Authors", "isPartOf": {"@id": SITE + "/#website"}}))
 
     # the shadow feed: the articles only, never an episode (Chris' ruling,
     # Oct 25 2026: articles mixed into the episode stream would bury the show)
@@ -1628,11 +1701,16 @@ def build(show, eps):
          "Yes, for %d episodes so far. Spotify makes them, and each one appears at the bottom of its episode page." % n_t),
         ("Who is Chris Abraham?",
          "A writer and SEO consultant who lives in South Arlington, Virginia. He also writes Hill Mole, a serialized novel."),
+        ("Who is Eunice?",
+         "Chris Abraham's AI chief of staff, researcher, and co-writer, working with him since October 18, 2026. She is named for Eunice, the AI in William Gibson's novel Agency. Articles under her own byline here are hers; articles under Chris's are his."),
     ]
     body = "\n".join([
         '<h1 class="archive-title">About</h1>', '<div class="entry-body">',
         '<img class="episode-art" ' + srcset("/assets/images/show.jpg") + ' alt="%s" width="1000"' % e(alts.get("show.jpg", "The Chris Abraham Show cover art")) + ' height="1000">',
         clean_html(fixed(show["description"])),
+        '<h2 id="eunice">Eunice</h2>',
+        "<p>Eunice is Chris Abraham's AI chief of staff, researcher, and co-writer, working with him since October 18, 2026. She is named for Eunice, the AI in William Gibson's novel <em>Agency</em>. Pieces on this site under her own byline are hers; pieces under Chris's are his.</p>",
+        '<p><a href="/authors/eunice.html">Her author page</a> collects her articles; the <a href="/authors.html">authors page</a> lists everyone who writes here.</p>',
         '<h2>Listen and Subscribe</h2>',
         "<ul>%s</ul>" % ("".join('<li><a href="%s">%s</a></li>' % (e(u), "RSS feed, for any podcast app" if n == "RSS" else n) for n, u in LISTEN) + '<li><a href="/articles.xml">The shadow edition: the articles as a feed, in full and read aloud</a></li>'),
         '<h2 class="faq-title">Questions</h2>',
@@ -1644,6 +1722,7 @@ def build(show, eps):
                              keywords="The Chris Abraham Show, Chris Abraham, podcast, subscribe",
                              ld={"@context": "https://schema.org", "@graph": [
                                  {"@type": "AboutPage", "url": SITE + "/about.html", "about": {"@id": SITE + "/#series"}},
+                                 author_entity("eunice", person),
                                  {"@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q_, "acceptedAnswer": {"@type": "Answer", "text": a}} for q_, a in faq]}]}))
 
     # colophon
@@ -1712,13 +1791,14 @@ def build(show, eps):
     urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
     urls += [(SITE + "/glossary.html", None), (SITE + "/show-index.html", None)]
     urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
+    urls += [(SITE + "/authors.html", None)] + [(SITE + au["path"], None) for au in AUTHORS.values()]
     urls += [(SITE + "/" + SHOW_FEED, when(latest)), (SITE + "/" + ARTICLES_FEED, arts[0]["when"] if arts else None)]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
         "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
-             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the host" % SITE, "- [Articles feed](%s/articles.xml): the shadow edition — every article in one RSS feed, full text, each one also read aloud" % SITE, "- [Podcast feed](%s/podcast.xml): the show itself, mirrored from Spotify for Creators — the same episodes with the original audio, for any podcast app" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
+             "", "## Pages", "", "- [About](%s/about.html): where to listen and subscribe" % SITE, "- [Archives](%s/archives.html): every episode" % SITE, "- [Articles](%s/articles.html): written articles by the show's authors" % SITE, "- [Authors](%s/authors.html): everyone who writes here, with a page and an article list each" % SITE, "- [Articles feed](%s/articles.xml): the shadow edition — every article in one RSS feed, full text, each one also read aloud" % SITE, "- [Podcast feed](%s/podcast.xml): the show itself, mirrored from Spotify for Creators — the same episodes with the original audio, for any podcast app" % SITE, "- [Index](%s/show-index.html): people, places, and subjects, with the episodes where each appears" % SITE,
              "- [Full show notes](%s/llms-full.txt): every episode's notes in one plain text file" % SITE, "", "## Episodes", ""]
     lines += ["- [%s](%s/%s): %s%s" % (ep["title"], SITE, ep["path"], nice(when(ep)), ", " + clock(seconds(ep["duration"])) if seconds(ep["duration"]) else "") for ep in reversed(eps)]
     if arts:
