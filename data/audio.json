@@ -5,12 +5,6 @@
   "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
   "voice": "avocado_v2:qvd_02406"
  },
- "blew-up-reddit-someone-elses-loss": {
-  "bytes": 2976037,
-  "duration": 372,
-  "sha256": "01e6d2043cb4b72c8767811e1c6820ac1f8e9cb0281956857b639c5e8076f0dd",
-  "voice": "avocado_v2:qvd_02406"
- },
  "build-your-own-website": {
   "bytes": 3367333,
   "duration": 420,
@@ -45,12 +39,6 @@
   "bytes": 4222693,
   "duration": 527,
   "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
-  "voice": "avocado_v2:qvd_02406"
- },
- "private-eyes-better-man": {
-  "bytes": 2685733,
-  "duration": 335,
-  "sha256": "accf34d39fe188bf2a9faf233b11ecaa946436dba8bcb6816891c77f0eb62b6d",
   "voice": "avocado_v2:qvd_02406"
  },
  "private-eyes-christ-figure": {
@@ -101,12 +89,6 @@
   "sha256": "98913c5f1e7fb1760054076489f91d5dda6f472041b2c885e994189d0c0147f7",
   "voice": "avocado_v2:qvd_02406"
  },
- "the-trellis-not-the-vine": {
-  "bytes": 5222245,
-  "duration": 652,
-  "sha256": "be38f12672e1f8401b075c6156609e018eebb22403813a794ef2315bc4a5d5bb",
-  "voice": "avocado_v2:qvd_02406"
- },
  "the-truck-stops-itself": {
   "bytes": 5715493,
   "duration": 714,
@@ -117,12 +99,6 @@
   "bytes": 7337317,
   "duration": 917,
   "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
-  "voice": "avocado_v2:qvd_02406"
- },
- "things-i-might-be-making-up": {
-  "bytes": 3548005,
-  "duration": 443,
-  "sha256": "e5ac5f576d5830e37dfd4e4bf5346495ab3ef3956cb342930e1c43fdb166e90f",
   "voice": "avocado_v2:qvd_02406"
  },
  "when-the-antibiotics-stop-working": {
