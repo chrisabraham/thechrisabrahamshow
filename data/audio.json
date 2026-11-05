@@ -5,6 +5,12 @@
   "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
   "voice": "avocado_v2:qvd_02406"
  },
+ "blew-up-reddit-someone-elses-loss": {
+  "bytes": 3083173,
+  "duration": 385,
+  "sha256": "bf478c12af20392184327d5782b190306fc138254dd6acf3a3df22f454c90cf6",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "build-your-own-website": {
   "bytes": 3367333,
   "duration": 420,
@@ -35,10 +41,34 @@
   "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "midterm-election-roundup-the-blue-wave-came": {
+  "bytes": 11132581,
+  "duration": 1391,
+  "sha256": "23653526ef03a16a6ebf4497ca8ea4f6d41de59ce2b9ed4f2914d66bec51f411",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "musk-didnt-invent-it-thats-the-point": {
+  "bytes": 3228133,
+  "duration": 403,
+  "sha256": "4f434e50b5c3b7dbb49b649105e8f248b45bb96723089de9e454f93180ca15cd",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "nathalia-filgueiras": {
+  "bytes": 5261605,
+  "duration": 657,
+  "sha256": "9d5aad627d5d77ab882160a903f8d262f3546e6a5ba78b041ffb2c48f2e2b62f",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "nine-years-of-slow-jogging-on-reddit": {
   "bytes": 4222693,
   "duration": 527,
   "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "private-eyes-better-man": {
+  "bytes": 2778277,
+  "duration": 347,
+  "sha256": "f204a5c35dd7947062845ca259ec403a8fb8e14252078c55745079eb3e1d5d9c",
   "voice": "avocado_v2:qvd_02406"
  },
  "private-eyes-christ-figure": {
@@ -57,6 +87,12 @@
   "bytes": 10410853,
   "duration": 1301,
   "sha256": "ea7ba235b788c1f9fced3237f910c34fd2d82523aaaeff8455122d54163dd8ee",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "profit-is-not-a-sin": {
+  "bytes": 3234853,
+  "duration": 404,
+  "sha256": "29f2813e248ba66c38a8dea014405f18d1452672972936db39d7ff395163f45c",
   "voice": "avocado_v2:qvd_02406"
  },
  "reacher-and-bolan": {
