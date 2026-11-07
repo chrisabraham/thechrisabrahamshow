@@ -107,6 +107,30 @@
   "sha256": "5e9f19cfd1387ba8744331075ea5aeffce2c7492e92b7e386ea2178ea73b5a99",
   "voice": "avocado_v2:qvd_02406"
  },
+ "security-theater": {
+  "bytes": 15722533,
+  "duration": null,
+  "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-first-muslim-senator": {
+  "bytes": 17433637,
+  "duration": null,
+  "sha256": "625e7df718801490d5f25fcbeb36a0186bdc3303623d9a5c30b0ec38e6e57889",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-glass-jaw-of-democracy": {
+  "bytes": 4062181,
+  "duration": null,
+  "sha256": "5885b02d89e3287d2b84cd24cf0ef386826eadc2989061e25a7861998f61133c",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-industrialist-from-inside-the-machine": {
+  "bytes": 3170341,
+  "duration": null,
+  "sha256": "041d3bb6c6c4c993901ac49d1cde8680042e09d5b8562af5145f7dc2a6c50dec",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-loan-is-called": {
   "bytes": 3837733,
   "duration": 479,
@@ -125,6 +149,24 @@
   "sha256": "98913c5f1e7fb1760054076489f91d5dda6f472041b2c885e994189d0c0147f7",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-short-leash": {
+  "bytes": 4394917,
+  "duration": null,
+  "sha256": "7b7977753fc6c12be3066713a114308f67d800163cc90b991ac2d3248e759c78",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-sixteen-percent": {
+  "bytes": 10371493,
+  "duration": null,
+  "sha256": "527fb369b3e058622fb354fb3803a9221b274b550321e2f959a4ae4ee01a8da9",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-trellis-not-the-vine": {
+  "bytes": 5189797,
+  "duration": null,
+  "sha256": "148787240a8bfe35431bbcf115f13688b68c174b3e066f14b2c56ef6f62afffb",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-truck-stops-itself": {
   "bytes": 5715493,
   "duration": 714,
@@ -137,16 +179,40 @@
   "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
   "voice": "avocado_v2:qvd_02406"
  },
+ "things-i-might-be-making-up": {
+  "bytes": 3226213,
+  "duration": null,
+  "sha256": "4e953f270759c19888f7b9fe5b810bead3ce7377248b36aa599556f5459c40be",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "this-isnt-a-prison-planet": {
+  "bytes": 7265893,
+  "duration": null,
+  "sha256": "df96936eaae5365fa963f061246e8bd6e33fcd79a5ee9f6b7f9f1059b73aa9e7",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "when-the-antibiotics-stop-working": {
   "bytes": 3972901,
   "duration": 496,
   "sha256": "b7f83abeaee80b44f0576aaeca13a8c3a362856dd67306f9974fac2d7b3ae51b",
   "voice": "avocado_v2:qvd_02406"
  },
+ "why-i-didnt-vote-on-tuesday": {
+  "bytes": 5005477,
+  "duration": null,
+  "sha256": "f4115ebe53e41d011a36857219dd4276e48041881da2f15b55fece6d4c2be8ca",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "why-matt-shade-is-not-a-douchebag": {
   "bytes": 6539749,
   "duration": 817,
   "sha256": "094dd2a5fc2ed402f54626b2189a2bb992bb46657ea58bf6fa42007d61a7306b",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "yes-in-your-backyard": {
+  "bytes": 20832805,
+  "duration": 2604,
+  "sha256": "9971015cf0d8e37777fa71fbcf5ae58073a413e3e8120112c2e335f1e1a76096",
   "voice": "avocado_v2:qvd_02406"
  },
  "you-dont-have-to-be-homeless-in-dc": {
