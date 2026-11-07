@@ -179,6 +179,12 @@
   "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-worst-hitler-ever": {
+  "bytes": 6792421,
+  "duration": 849,
+  "sha256": "c0c2ee44c4ecc07dcffb4317c541b15231a52c7fc9596e008b5f3b542ef4b44c",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "things-i-might-be-making-up": {
   "bytes": 3226213,
   "duration": null,
