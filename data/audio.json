@@ -6,15 +6,15 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "an-old-grandpas-gospel-of-reporting": {
-  "bytes": 15039781,
-  "duration": 1879,
-  "sha256": "cd536cf154c95aa27f8f45d8eb29e7aa453a69cb1bd4736b751d2488c1581b3c",
+  "bytes": 14811109,
+  "duration": 1851,
+  "sha256": "92c8c8579f56c1b26a371e43f24b75832d04d666811c236a7be8ba9454474bbb",
   "voice": "avocado_v2:qvd_02406"
  },
  "beautiful-beards-beautiful-merkins": {
-  "bytes": 14843173,
-  "duration": 1855,
-  "sha256": "6ac64a5a6a9ddfae5d7a07cdd62e09bf4eef6f1fd2fb8706cfb2fd3da4e44685",
+  "bytes": 15324709,
+  "duration": 1915,
+  "sha256": "f9e1daeda8aee2ad8886ae470cc88f5ac6ef7f26d730a23f84079c315b5da8ae",
   "voice": "avocado_v2:qvd_02406"
  },
  "blew-up-reddit-someone-elses-loss": {
@@ -144,9 +144,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "the-gospel-according-to-chris-abraham": {
-  "bytes": 14323813,
-  "duration": 1790,
-  "sha256": "0d77eeeffe8ba239f0934cb191a752589048560ff19814620f560f4be7000d3c",
+  "bytes": 14119525,
+  "duration": 1764,
+  "sha256": "aa2401688497fc7686435c6b4a856b97e60fe63ca99c1513d95d473ff1dae447",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-industrialist-from-inside-the-machine": {
@@ -252,9 +252,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "you-won-a-midterm-not-a-presidency": {
-  "bytes": 7175461,
-  "duration": 896,
-  "sha256": "1236dc6084c8541aaff56b437e84f34602802afbb422448b5d6fcb3351ed02e3",
+  "bytes": 7047781,
+  "duration": 880,
+  "sha256": "0f9225ba01442f6e87c1cfd0fd567f625e9e28eab6847122096aee8324738d72",
   "voice": "avocado_v2:qvd_02406"
  }
 }
