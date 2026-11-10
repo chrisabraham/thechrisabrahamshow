@@ -35,6 +35,12 @@
   "sha256": "d629cb4b18e0bcaeb47e9ccbb96ce16a1f453ef997f9eb816bd38bfa94728aff",
   "voice": "avocado_v2:qvd_02406"
  },
+ "gw-mens-rowing-alumni-night": {
+  "bytes": 2207845,
+  "duration": 275,
+  "sha256": "e589614d28b31b539ce5c2d036248166f32464c1916aaad0b798f006b65b0a3c",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "half-the-game": {
   "bytes": 7127845,
   "duration": 890,
