@@ -1645,14 +1645,22 @@ def build(show, eps):
     body = '<h1 class="archive-title">Not found</h1>\n<div class="entry-body"><p>There is no page at this address. Try the <a href="/archives.html">list of every episode</a>, the <a href="/search.html">search</a>, or the <a href="/">latest episode</a>.</p></div>'
     write("404.html", page("404.html", "Page not found", "There is no page at this address.", body, robots="noindex"))
 
-    # sitemap and robots
-    urls = [(SITE + "/", when(latest)), (SITE + "/archives.html", when(latest)), (SITE + "/about.html", None), (SITE + "/colophon.html", None), (SITE + "/privacy.html", None)]
-    urls += [(SITE + "/" + ep["path"], when(ep)) for ep in reversed(eps)]
-    urls += [(SITE + "/glossary.html", None), (SITE + "/show-index.html", None)]
-    urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None)] + [(SITE + "/" + a["path"], a["when"]) for a in arts]
-    urls += [(SITE + "/" + SHOW_FEED, when(latest)), (SITE + "/" + ARTICLES_FEED, arts[0]["when"] if arts else None)]
-    write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n%s\n</urlset>\n' % "\n".join(
-        "  <url><loc>%s</loc>%s</url>" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "") for u, d in urls))
+    # sitemap and robots — each page also names its key image (the same image
+    # its og:image carries: episode art, article art, or the show card), so
+    # Google Images can index the art straight from the sitemap.
+    CARD = SITE + "/assets/images/card.jpg"
+    urls = [(SITE + "/", when(latest), CARD), (SITE + "/archives.html", when(latest), CARD), (SITE + "/about.html", None, CARD), (SITE + "/colophon.html", None, CARD), (SITE + "/privacy.html", None, CARD)]
+    urls += [(SITE + "/" + ep["path"], when(ep), SITE + art(ep)) for ep in reversed(eps)]
+    urls += [(SITE + "/glossary.html", None, CARD), (SITE + "/show-index.html", None, CARD)]
+    urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None, CARD)] + [(SITE + "/" + a["path"], a["when"], SITE + a["image"] if a.get("image") else CARD) for a in arts]
+    urls += [(SITE + "/" + SHOW_FEED, when(latest), None), (SITE + "/" + ARTICLES_FEED, arts[0]["when"] if arts else None, None)]
+    def sm_url(u, d, img):
+        s = "  <url><loc>%s</loc>%s" % (e(u), "<lastmod>%s</lastmod>" % d.date().isoformat() if d else "")
+        if img:
+            s += "<image:image><image:loc>%s</image:loc></image:image>" % e(img)
+        return s + "</url>"
+    write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n%s\n</urlset>\n' % "\n".join(
+        sm_url(u, d, img) for u, d, img in urls))
     write("robots.txt", ROBOTS % SITE)
     lines = ["# %s" % NAME, "", "> %s" % show_desc, "",
              "Chris Abraham's podcast, %d episodes from %s to %s. Each episode page has the audio, show notes and, where Spotify has made one, a full transcript." % (total, nice(when(first)), nice(when(latest))),
