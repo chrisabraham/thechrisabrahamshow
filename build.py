@@ -1798,9 +1798,21 @@ def build(show, eps):
     # Google Images can index the art straight from the sitemap.
     CARD = SITE + "/assets/images/card.jpg"
     urls = [(SITE + "/", when(latest), CARD), (SITE + "/archives.html", when(latest), CARD), (SITE + "/about.html", None, CARD), (SITE + "/colophon.html", None, CARD), (SITE + "/privacy.html", None, CARD)]
-    urls += [(SITE + "/" + ep["path"], when(ep), SITE + art(ep)) for ep in reversed(eps)]
+    def ep_card(ep):
+        shown = ep["title"] if len(ep["title"]) <= 90 else seo_title(ep["title"])
+        return SITE + "/assets/images/" + episode_card(ep.get("art") or "show.jpg", shown)
+    urls += [(SITE + "/" + ep["path"], when(ep), ep_card(ep)) for ep in reversed(eps)]
     urls += [(SITE + "/glossary.html", None, CARD), (SITE + "/show-index.html", None, CARD)]
-    urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None, CARD)] + [(SITE + "/" + a["path"], a["when"], SITE + a["image"] if a.get("image") else CARD) for a in arts]
+    def art_card(a):
+        img = a.get("image")
+        card = a.get("card")
+        if not card and img:
+            sibling = img[:-4] + "-card.jpg"
+            card = sibling if os.path.exists(os.path.join(ROOT, sibling.lstrip("/"))) else img
+        if not card:
+            card = ARTICLE_CARD
+        return SITE + card
+    urls += [(SITE + "/articles.html", arts[0]["when"] if arts else None, CARD)] + [(SITE + "/" + a["path"], a["when"], art_card(a)) for a in arts]
     urls += [(SITE + "/authors.html", None, CARD)] + [(SITE + au["path"], None, CARD) for au in AUTHORS.values()]
     urls += [(SITE + "/" + SHOW_FEED, when(latest), None), (SITE + "/" + ARTICLES_FEED, arts[0]["when"] if arts else None, None)]
     def sm_url(u, d, img):
