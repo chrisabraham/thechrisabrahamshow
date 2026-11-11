@@ -47,5 +47,3 @@ Sitemap: https://thechrisabrahamshow.com/sitemap.xml
 # AI training: yes, allowed. AI grounding (retrieval and citation in live answers): yes, allowed.
 User-Agent: __usage_ai-training
 Allow: /
-
-# Deployment refresh, Nov 10, 2026: nudge a Pages rebuild so the sitemap image entries go live.
