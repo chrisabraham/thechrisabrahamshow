@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675" role="img" aria-labelledby="title desc">
+  <title id="title">How Much Hitler? A balance scale</title>
+  <desc id="desc">A balance scale weighs a megaphone shouting Hitler against a courthouse and ballot box.</desc>
+  <rect width="1200" height="675" fill="#fffaf0"/>
+  <g fill="none" stroke="#b45309" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- balance beam and post -->
+    <path d="M190 150 L1010 190"/>
+    <path d="M600 118 L600 520"/>
+    <path d="M505 545 L695 545 L640 500 L560 500 Z"/>
+    <circle cx="600" cy="165" r="17"/>
+    <!-- left pan hangers -->
+    <path d="M300 158 L205 335 M300 158 L395 335"/>
+    <path d="M185 338 Q300 390 415 338"/>
+    <!-- megaphone -->
+    <path d="M238 292 L330 252 L330 326 L238 306 Z"/>
+    <path d="M238 292 L214 282 L214 314 L238 306"/>
+    <path d="M258 306 L268 348"/>
+    <path d="M356 260 q28 28 0 58 M382 244 q45 45 0 90"/>
+    <!-- right pan hangers -->
+    <path d="M900 182 L805 350 M900 182 L995 350"/>
+    <path d="M785 353 Q900 405 1015 353"/>
+    <!-- courthouse on right pan -->
+    <path d="M820 318 L900 278 L980 318"/>
+    <path d="M834 330 L834 350 M872 330 L872 350 M928 330 L928 350 M966 330 L966 350"/>
+    <path d="M812 354 L988 354"/>
+    <!-- ballot box under beam center-right -->
+    <rect x="846" y="382" width="108" height="62" rx="7"/>
+    <path d="M872 398 L928 398"/>
+    <path d="M884 352 L916 352 L910 390 L890 390 Z" fill="#fffaf0"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#92400e" text-anchor="middle">
+    <text x="300" y="112" font-size="35" font-weight="bold">HITLER!</text>
+    <text x="900" y="112" font-size="35" font-weight="bold">THE RECORD</text>
+    <text x="300" y="438" font-size="27">the warning</text>
+    <text x="900" y="482" font-size="27">court · ballot · street</text>
+    <text x="600" y="622" font-size="42" font-weight="bold">how much Hitler?</text>
+  </g>
+</svg>
