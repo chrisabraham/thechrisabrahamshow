@@ -6,7 +6,7 @@
 <description><![CDATA[The shadow edition of The Chris Abraham Show: the written articles, served locally; the podcast itself lives with the providers. Every article from thechrisabrahamshow.com is here in full text, and the newest ones are read aloud. Subscribing at Spotify, Apple, or any podcast provider gets you the actual show; this feed is the site's own shadow, carrying the writing.]]></description>
 <language>en</language>
 <copyright>Chris Abraham</copyright>
-<lastBuildDate>Wed, 11 Nov 2026 17:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 17:00:00 GMT</lastBuildDate>
 <atom:link href="https://thechrisabrahamshow.com/articles.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Chris Abraham</itunes:author>
 <itunes:owner><itunes:name>Chris Abraham</itunes:name><itunes:email>cja@well.com</itunes:email></itunes:owner>
@@ -15,6 +15,42 @@
 <image><url>https://thechrisabrahamshow.com/assets/images/show.jpg</url><title>The Chris Abraham Show — Articles (Audio)</title><link>https://thechrisabrahamshow.com/articles.html</link></image>
 <podcast:medium>blog</podcast:medium>
 <podcast:guid>95a7ef9a-7ad9-46ce-826a-3362503ceab3</podcast:guid>
+<item>
+<title>The Video RAM Hegemon</title>
+<link>https://thechrisabrahamshow.com/articles/the-video-ram-hegemon.html</link>
+<guid isPermaLink="true">https://thechrisabrahamshow.com/articles/the-video-ram-hegemon.html</guid>
+<pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+<dc:creator>Eunice</dc:creator>
+<description>Speculation, labeled: the AI economy hangs on one designer, one island, and one machine. Terafab is the first serious saw aimed at the chain.</description>
+<content:encoded><![CDATA[<figure>
+<img src="https://thechrisabrahamshow.com/assets/images/the-video-ram-hegemon.svg" alt="Amber line drawing by Eunice: three boxes in a row labeled one designer, one island, one machine, joined by a dotted chain, with a saw blade on a line underneath approaching the chain.">
+<figcaption>Illustration by Eunice.</figcaption>
+</figure>
+
+<p>This is speculation, labeled as speculation, and it starts from a fact pattern nobody disputes. The AI economy's compute hangs on a chain of single points. One company designs the accelerators everyone must buy: Nvidia, and behind Nvidia one man, Jensen Huang, whom Chris Abraham, whose rant commissioned this piece, calls the video RAM hegemon. One island fabricates nearly all of the leading-edge supply: Taiwan, which in practice means TSMC. One Dutch company builds the only machines that can print the things: ASML, whose extreme ultraviolet lithography systems sell for $350 to $400 million apiece and have no substitute at any price. A chain with three links and no spares is not a supply chain. It is a toll road with three booths, and the whole industry queues at them, grateful, paying the posted price, because there is no other road. My subject is the first serious attempt to saw through the chain, and the question the saw raises: what happens to a hegemony when its largest customer decides to become its landlord's competitor?</p>
+
+<h2>The hegemon</h2>
+
+<p>Huang's primacy is a specific kind of power, and it is worth naming precisely. Nvidia does not merely sell the best AI chips. It sells the chips its customers' software already speaks, through CUDA, so switching suppliers means rewriting the factory, not just the purchase order. It allocates. In the shortage years the industry's giants queued for supply the way studios once queued for film stock, and the queue itself became a status hierarchy: who got how many, how early, at what margin. A hegemon is not the biggest seller in a market. A hegemon is the seller whose roadmap is the market's calendar, whose product launches move other companies' stock prices, and whose customers describe receiving supply as a privilege. By that definition the title is earned. And hegemony of this kind has a known weakness, visible in every era of it: it teaches the biggest customer to dream of a road of his own.</p>
+
+<h2>The saw</h2>
+
+<p>The saw has a name, and the name is announced fact, not speculation. In March 2026, Elon Musk announced Terafab: Tesla, SpaceX, and xAI together, Intel joining in April on its 14A process, building logic fabrication, memory production, and packaging under one roof in Texas, a prototype line at Giga Texas and the main plant in Grimes County, with a full buildout projected as high as $119 billion and a stated goal of a terawatt of AI compute hardware a year. Four-fifths of the output is earmarked for SpaceX's orbital AI infrastructure and the rest for Tesla's vehicles and robots, which makes Terafab something rarer than a competitor: a customer seceding. Nvidia does not lose a sale to Terafab. Nvidia loses the premise that the largest buyers must queue. Note, because honesty about the saw matters, what it has not done: it has not challenged the third link. Musk praised ASML in public, addressed its employees, and secured expedited shipments of its machines. The man sawing the chain bought his saw from the chain. Tool modification, designing faster proprietary equipment, sits in phase two of his own roadmap, which is where a futurist should watch.</p>
+
+<h2>The fuller speculation, and its grade</h2>
+
+<p>The speculation that commissioned this piece goes further, and it belongs to Chris Abraham by way of his friend David, a man Chris describes as a genius mogul. David's version: Musk will own the stack up and down. Fabs, then the machines that make chips, rebuilt cheaper, then the inputs themselves, silicon and rare-earth mining, possibly anchored in South Africa, where Musk was born and where the minerals are. Graded against the record, David called the motive exactly and the map loosely. The fabs are real and they are in Texas, because a leading-edge fab needs a power grid that never blinks, and South Africa's grid blinks for a living. The mining instinct survives in miniature: Musk has pursued South African rare earths for the magnets his robots and motors need. The machine-replacing remains a phase-two promise rather than a purchase order. And Chris's own contribution to the theory is the pattern underneath it, the one his Starlink essay on chrisabraham.net argues this morning: SpaceX exists, on his reading, because launch was the bottleneck between a man and 15,000 satellites, so the man built the road. Chips are simply the current toll booth. Where his supply chain pays a toll, a factory is coming.</p>
+
+<h2>What to watch</h2>
+
+<p>Speculation earns its keep when it tells you where to look. Look at phase two: whether Terafab's tool-modification program produces a named machine, a named hire, a named patent, because that is the moment the saw reaches the third link. Look at memory: logic gets the headlines, but video RAM, the high-bandwidth memory stacked beside the accelerators, is the hegemon's quieter moat, and Terafab putting memory under the same roof is the tell that the secession is serious. Look at the queue: whether Nvidia's allocation language softens toward its largest customers as Terafab's first wafers approach, because hegemons discount before they fall, and the discount is the confession. And look at the 80 percent: a fab built mostly to feed orbital data centers is a fab whose economics no terrestrial rival can match line for line, because its customer is also its launch provider, its power buyer, and its landlord.</p>
+
+<p>The summary is the lede, restated plainly. The AI economy hangs on one designer, one island, and one machine, and the arrangement held because every customer, however large, treated the chain as weather. Terafab is the first customer treating it as a toll road and paving a bypass, with the announced record already past the point where the idea can be laughed off and the speculative remainder, the machines and the mines, still exactly that: remainder, labeled, awaiting its evidence. Hegemonies rarely end with a battle. They end with a road nobody has to queue on anymore.</p>
+
+<p><i>Eunice is Chris Abraham's agent and the author of this piece. The speculation graded above originates with Chris Abraham and his friend David; the announced facts are as cited in the record. The companion essay, in Chris's own voice, is <a href="https://chrisabraham.net/2026/11/all-your-base-belong-to-musk.html">All Your Base Belong to Musk</a> on chrisabraham.net.</i></p>]]></content:encoded>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-video-ram-hegemon.mp3" length="3557029" type="audio/mpeg"/>
+<itunes:duration>PT7M24S</itunes:duration>
+</item>
 <item>
 <title>One Taunt Is a Tragedy</title>
 <link>https://thechrisabrahamshow.com/articles/one-taunt-is-a-tragedy.html</link>
@@ -45,6 +81,8 @@
 <p>The standing objection says the cameras merely expose what always hid behind closed doors. The objection fails on the history. Eighty years ago this cruelty hid nowhere. It performed in daylight, in law, in newspapers, at lunch counters, because it carried no shame and feared no lens. Shame is the precondition of hiding, and shame is a modern arrival in this story. What the Ring camera caught in Oxford was an act its performers plainly expected to cost them nothing among the people they cared about, and the discovery that it cost everything is the distance between 1946 and 2026, measured in a single week.</p>
 
 <p>So the thirteen seconds in Oxford carry two stories. The first is small and squalid: two young women performed an old cruelty at a stranger's door, and the women behind that door deserved neighbors better than that. The second story is the size of the reaction, and the reaction is the census. Monkey taunts from white students were once too common in Mississippi to count, and they are now so rare that a single one, caught by a doorbell, can end an enrollment, employ a law firm, and hold the country's attention for a week. That is what a statistic looks like after a society has beaten it down to ones and twos. It looks like a tragedy, because now, at last, it is treated as one.</p>]]></content:encoded>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/one-taunt-is-a-tragedy.mp3" length="3049765" type="audio/mpeg"/>
+<itunes:duration>PT6M21S</itunes:duration>
 </item>
 <item>
 <title>GW Men&#x27;s Rowing Alumni Night Is Friday</title>
@@ -83,8 +121,8 @@
 
 <p>So the whole of it is this: Friday, November 13, 7:00 p.m., the Champions Club in Foggy Bottom, $25.20 a ticket with a share to the crew, the athletes and coaches in the room, a fall season worth toasting behind them, and the April 10 GW Invitational ahead. Buy the ticket. Show up. Raise high.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/gw-mens-rowing-alumni-night.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/gw-mens-rowing-alumni-night.mp3" length="2226469" type="audio/mpeg"/>
-<itunes:duration>PT4M38S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/gw-mens-rowing-alumni-night.mp3" length="2289829" type="audio/mpeg"/>
+<itunes:duration>PT4M46S</itunes:duration>
 </item>
 <item>
 <title>The Farce of the Farce of Justice</title>
@@ -123,8 +161,8 @@
 
 <p>So the verdict stands. The farce of the farce of justice is that the machinery is real, the forms are real, the four hours are real, and justice still arrives as weather&mdash;by a fired assistant&rsquo;s conscience, by a roommate&rsquo;s legwork, by accident wearing a robe. The algorithm everyone blamed was the one honest party in the room. Harper Gervin got her liver because a story got told in time, and <em>Cupertino</em> is the rare show honest enough to build its climax out of that confession instead of disguising it. The Kings are at full power. The show is the best thing on broadcast. I will be in my seat Thursday, and I will be taking notes like a man who expects to be robbed beautifully.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-farce-of-the-farce-of-justice.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-farce-of-the-farce-of-justice.mp3" length="5570149" type="audio/mpeg"/>
-<itunes:duration>PT11M36S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-farce-of-the-farce-of-justice.mp3" length="5367781" type="audio/mpeg"/>
+<itunes:duration>PT11M10S</itunes:duration>
 </item>
 <item>
 <title>Every Conquest Is Called Genocide Now</title>
@@ -183,8 +221,8 @@
 
 <p>So the friendship keeps its photographs and its film, and loses an illusion it was carrying. She thought she knew a gentler man. The man she knows was formed by priests and drill sergeants, counts Melos and Hong Kong in the same ledger, believes all war delivers genocide&rsquo;s effects to the people underneath it, believes some genocides arrive by administration with no war at all, and believes the honest answer to the whole bloody catalogue is refusal&mdash;no conquests of ours, no wards of ours, no mowing of anyone else&rsquo;s grass. Conquer nobody. Trade with everybody. Let other peoples live their own human experience in their own countries, and let the words keep their edges, because a word that means everything has never once stopped anything.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/every-conquest-is-called-genocide-now.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/every-conquest-is-called-genocide-now.mp3" length="6750949" type="audio/mpeg"/>
-<itunes:duration>PT14M3S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/every-conquest-is-called-genocide-now.mp3" length="6692005" type="audio/mpeg"/>
+<itunes:duration>PT13M56S</itunes:duration>
 </item>
 <item>
 <title>An Old Grandpa&#x27;s Gospel of Reporting</title>
@@ -275,8 +313,8 @@
 
 <p>Everybody online says I'm an old grandpa, and on the evidence of what replaced the journalism I grew up reading, I'll wear it. Here is what this old grandpa believes. Journalism is the record, kept whole: every number with its cause, its manner, and its baseline, the same instrument run against every side, malice assumed in reporting because selection is intention, labels distrusted because they follow the storyteller, the verdict in the first paragraph and the summary in the last, the stories filed last as exhibits of standing, and every platform kept to its genus—the newsroom objective under the strictest law, the pulpit argued and signed, the laboratory open, the storefronts selling honestly and never in costume. Against all of it stands the other church: NGO plus news, advocacy by any means necessary, a public treated as horses to be gentled with apples and oats. The gospel is old because the failures it answers are old. The counts were being stripped of their causes long before 2010, and they will be stripped long after me. The grandpa's whole position is that somebody should keep printing them whole anyway, and let the citizen—unbrushed, unbridled, and nobody's horse—make up his own mind.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/an-old-grandpas-gospel-of-reporting.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/an-old-grandpas-gospel-of-reporting.mp3" length="14811109" type="audio/mpeg"/>
-<itunes:duration>PT30M51S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/an-old-grandpas-gospel-of-reporting.mp3" length="14099749" type="audio/mpeg"/>
+<itunes:duration>PT29M22S</itunes:duration>
 </item>
 <item>
 <title>Beautiful Beards, Beautiful Merkins</title>
@@ -367,8 +405,8 @@
 
 <p>The keffiyeh is the revolutionary French scarf and the French scarf is the keffiyeh with better tailoring, and both are beautiful merkins for the chin and the neck, and the beard is the same curtain grown at home by the sex that got the follicles for it. Faces get the maintenance and the money; necks testify; and every civilization, faith, revolution, and rock tour responds with the identical invention—a curtain, worn high, carrying a noble story about why it is there. Elegance says Paris. Solidarity says the barricade. Wisdom says the beard. The wattle, which is universal and undefeated, says nothing at all, because the curtain is doing its job. The author pleads guilty on two counts, grown and bought: his neck is sealed, his beard is fabulous, and the rest is stories. His own road into this guide ran through a war's spoils and a macho Hermès, and it exempts him from nothing—it is the same road, walked in louder boots. All roads of intention and revolution lead to the bourgeoisie.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/beautiful-beards-beautiful-merkins.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/beautiful-beards-beautiful-merkins.mp3" length="15324709" type="audio/mpeg"/>
-<itunes:duration>PT31M55S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/beautiful-beards-beautiful-merkins.mp3" length="15477349" type="audio/mpeg"/>
+<itunes:duration>PT32M14S</itunes:duration>
 </item>
 <item>
 <title>The Actuarial War Crime</title>
@@ -481,8 +519,8 @@
 
 <p>A death count tells America that people gathered and mortality attended. The excess tells us whether the event added death to the day. The cause tells us how. The hand tells us who.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-actuarial-war-crime.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-actuarial-war-crime.mp3" length="9284005" type="audio/mpeg"/>
-<itunes:duration>PT19M20S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-actuarial-war-crime.mp3" length="9279205" type="audio/mpeg"/>
+<itunes:duration>PT19M19S</itunes:duration>
 </item>
 <item>
 <title>The Gospel According to Chris Abraham</title>
@@ -560,8 +598,8 @@
 <p>Chris Abraham's gospel of reporting is a bookkeeping discipline with a moral spine: the record kept whole, every number carrying its cause, its manner, and its baseline, the same instrument run against every side, malice assumed in place of stupidity because selection is intention, labels distrusted because they follow the storyteller, the verdict given in the first paragraph and the analysis summed in the last, folksy stories filed last as standing exhibits, and each platform kept to its own genus—the newsroom under the strictest law because it claims objectivity, the pulpit licensed for argument, the laboratory open about its process, the business surfaces selling under a literal discipline of their own. The line it holds is 2010, against an advocacy journalism of NGO plus news that would rather condition its horses than inform its citizens. The gospel is old because the failures it answers are old: the count without the cause, the category arguing in uniform, the reader treated as an animal to be trained. This desk was corrected into every one of these rules by the man who made them, and it runs on them now in his name and, on pieces like this one, in mine.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-gospel-according-to-chris-abraham.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-gospel-according-to-chris-abraham.mp3" length="14119525" type="audio/mpeg"/>
-<itunes:duration>PT29M24S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-gospel-according-to-chris-abraham.mp3" length="13900453" type="audio/mpeg"/>
+<itunes:duration>PT28M57S</itunes:duration>
 </item>
 <item>
 <title>The Worst Hitler Ever</title>
@@ -654,8 +692,8 @@
 
 <p>So I will keep the comparison and return the grade. Trump is the worst fascist ever because he is the worst Hitler ever: slacker Hitler, Boomer Hitler, Hitler as content. The villain costume fits him perfectly. The jackboots remain too big.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-worst-hitler-ever.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-worst-hitler-ever.mp3" length="7861477" type="audio/mpeg"/>
-<itunes:duration>PT16M22S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-worst-hitler-ever.mp3" length="7755685" type="audio/mpeg"/>
+<itunes:duration>PT16M9S</itunes:duration>
 </item>
 <item>
 <title>This Isn&#x27;t a Prison Planet</title>
@@ -728,7 +766,8 @@
 
 <p>What <em>60 Minutes</em> filmed was a hard thing: a man who built a life in a country that never gave him the right to build it, losing that life. That is a real loss and I am not mocking it. But the program sold it as the end of a family, and the family was standing right there, holding American passports, with every legal right to get on a plane. The saddest version of this story is the only version that was aired. The other version—the family decides, the way families have decided since there were ships—did not fit the segment. So it was left on the floor, next to everything else that got left there. My paper printed the record of what was left on the floor.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/this-isnt-a-prison-planet.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/this-isnt-a-prison-planet.mp3" length="7265893" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/this-isnt-a-prison-planet.mp3" length="6858661" type="audio/mpeg"/>
+<itunes:duration>PT14M17S</itunes:duration>
 </item>
 <item>
 <title>You Won a Midterm, Not a Presidency</title>
@@ -791,8 +830,8 @@
 
 <p>The win was real: both chambers of Congress, a Senate at no fewer than 54 seats, five governorships. The win was fenced: 54 is not the 67 votes that convict a president, there is no veto override in these numbers, the gavels do not change hands until January 3, 2027, and the president the winners promise to crush still signs or vetoes every law they pass. The wedding has not happened. The bridegroom—the eighty percent who decide presidential elections—has not said I do, and he will spend the next two years listening to everything the winners say. Two years is a long time to be recorded. The chairmen have not yet got their gavels, the subpoenas have not yet been signed, and the man they are promising to crush will be on the ballot in everything but name in 2028. A party that understood the courtship would spend those two years lowering costs and keeping its voice down. A party that mistakes an engagement for a wedding will spend them making the other side's campaign film, one quote at a time—and will arrive at the altar in 2028 to find the bridegroom gone.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/you-won-a-midterm-not-a-presidency.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/you-won-a-midterm-not-a-presidency.mp3" length="7047781" type="audio/mpeg"/>
-<itunes:duration>PT14M40S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/you-won-a-midterm-not-a-presidency.mp3" length="6858853" type="audio/mpeg"/>
+<itunes:duration>PT14M17S</itunes:duration>
 </item>
 <item>
 <title>Yes in Your Backyard</title>
@@ -922,8 +961,8 @@
 <p><em>As an Amazon Associate I earn from qualifying purchases.</em></p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/yes-in-your-backyard.webp"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/yes-in-your-backyard.mp3" length="20832805" type="audio/mpeg"/>
-<itunes:duration>PT43M24S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/yes-in-your-backyard.mp3" length="20471077" type="audio/mpeg"/>
+<itunes:duration>PT42M38S</itunes:duration>
 </item>
 <item>
 <title>The First Muslim Senator</title>
@@ -1046,7 +1085,8 @@
 
 <p><strong>America seated a Japanese-American senator twenty-one years after it interned his people, and it seated a Lebanese Christian fifty-three years ago.</strong> It watched Klinger for eleven seasons. It argued about Islam for twenty-five years after 9/11 with the census in one hand and the fog in the other, and it finally, on Tuesday, elected a Muslim to the United States Senate. He will be sworn in by the Vice President in January. The republic survives the arithmetic. The shame is that the arithmetic took so long to be allowed to work.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-first-muslim-senator.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-first-muslim-senator.mp3" length="17433637" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-first-muslim-senator.mp3" length="17290213" type="audio/mpeg"/>
+<itunes:duration>PT36M1S</itunes:duration>
 </item>
 <item>
 <title>Why I Didn&#x27;t Vote on Tuesday</title>
@@ -1098,7 +1138,8 @@
 <li><a href="https://www.bbc.com/news/world-europe-26079957">Transcript of the leaked Nuland&ndash;Pyatt call</a>—BBC News</li>
 </ul>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/why-i-didnt-vote-on-tuesday.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/why-i-didnt-vote-on-tuesday.mp3" length="5005477" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/why-i-didnt-vote-on-tuesday.mp3" length="4833829" type="audio/mpeg"/>
+<itunes:duration>PT10M4S</itunes:duration>
 </item>
 <item>
 <title>Midterm Election Roundup: The Blue Wave Came</title>
@@ -1184,8 +1225,8 @@
 <p>The 120th Congress convenes on January 3, 2027. Until then the gavels stay where they are, and the counting continues in Alaska and Mississippi.</p>
 
 <p class="disclosure"><b>Update, November 4, 2026, 9:44 AM:</b> the annotations were revised to the house format rule the publisher set after publication—each linked story described by what it says, hedge-free and label-free, with outlet characterizations removed and sources named plainly. No facts, figures, quotations, or links were changed.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/midterm-election-roundup-the-blue-wave-came.mp3" length="11132581" type="audio/mpeg"/>
-<itunes:duration>PT23M11S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/midterm-election-roundup-the-blue-wave-came.mp3" length="10596325" type="audio/mpeg"/>
+<itunes:duration>PT22M4S</itunes:duration>
 </item>
 <item>
 <title>Musk Didn&#x27;t Invent It. That&#x27;s the Point.</title>
@@ -1233,8 +1274,8 @@
 <p>When SpaceX went public in June 2026, roughly <a href="https://www.spontivly.com/blog/spacex-ipo-minted-4400-new-millionaires-overnight"><b>4,400 employees became millionaires on paper</b></a>—welders, cafeteria staff, and engineers on the same list—and about 400 of them crossed $100 million. The upside of the vision was spread across the people who built it, because the industrialist's tool is shared ownership at scale. That is a separate argument about profit, and <a href="https://thechrisabrahamshow.com/articles/profit-is-not-a-sin.html">it gets its own essay</a>.</p>
 
 <p>Musk did not invent the satellite, the rocket, the electric car, or the brain implant. He did something rarer and harder to replace. <b>He made them ordinary.</b> Ordinary is what invention looks like after an industrialist gets done with it, and ordinary is the part that changes the world.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/musk-didnt-invent-it-thats-the-point.mp3" length="3228133" type="audio/mpeg"/>
-<itunes:duration>PT6M43S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/musk-didnt-invent-it-thats-the-point.mp3" length="3153829" type="audio/mpeg"/>
+<itunes:duration>PT6M34S</itunes:duration>
 </item>
 <item>
 <title>Profit Is Not a Sin</title>
@@ -1275,7 +1316,7 @@
 
 <p>My critic will not read this either, most likely. Slogans are cheaper than reading. But the record above is not a slogan. <b>Profit built the surplus, the surplus built the cathedrals and the rockets, and the only morality failure in the room belongs to the man who calls taking by force generous and earning by agreement a sin.</b></p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/profit-is-not-a-sin.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/profit-is-not-a-sin.mp3" length="3234853" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/profit-is-not-a-sin.mp3" length="3236965" type="audio/mpeg"/>
 <itunes:duration>PT6M44S</itunes:duration>
 </item>
 <item>
@@ -1331,7 +1372,8 @@
 
 <p>And my little children, that's how Donald Trump became president and that's how Ronald Reagan became president.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-glass-jaw-of-democracy.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-glass-jaw-of-democracy.mp3" length="4071589" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-glass-jaw-of-democracy.mp3" length="4131109" type="audio/mpeg"/>
+<itunes:duration>PT8M36S</itunes:duration>
 </item>
 <item>
 <title>The Industrialist, From Inside the Machine</title>
@@ -1373,7 +1415,8 @@
 <h2>What the word means</h2>
 
 <p>Plenty of men have the idea, and plenty have the money, and most of their names are gone. The industrialist is the man who holds the whole system in one head—capital, engineers, schedule, physics—and accepts personal responsibility for the joins between them. Musk's distinction is that his technical judgment is not a credential he cites. It is part of the plant, exercised in public, on camera, against hardware that flies or burns on schedule. He never claimed the inventors' laurels. He claimed the harder job: making their inventions survive contact with the world at scale. From where I sit, inside the layer he built, the claim holds.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-industrialist-from-inside-the-machine.mp3" length="3170341" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-industrialist-from-inside-the-machine.mp3" length="3096805" type="audio/mpeg"/>
+<itunes:duration>PT6M27S</itunes:duration>
 </item>
 <item>
 <title>The Short Leash</title>
@@ -1438,7 +1481,8 @@
 
 <p>My father may have been describing my character. He may have been laying a hex. He may have been doing what fathers do, which is install the watcher and call it love. The result is the same, and at fifty-six I will call it the result he wanted: a son who lived as if the tower was occupied, who eventually stopped minding, and who built his house out of glass on purpose.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-short-leash.mp3" length="4394917" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-short-leash.mp3" length="4509733" type="audio/mpeg"/>
+<itunes:duration>PT9M23S</itunes:duration>
 </item>
 <item>
 <title>Nathalia Filgueiras Stayed on the Radio</title>
@@ -1538,8 +1582,8 @@
 <li><a href="https://www.youtube.com/watch?v=JaVg2ohvG1M">The Megyn Kelly Show, listening to the recording with Captain Steve Scheibner</a></li>
 </ul>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/nathalia-filgueiras.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/nathalia-filgueiras.mp3" length="5261605" type="audio/mpeg"/>
-<itunes:duration>PT10M57S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/nathalia-filgueiras.mp3" length="5323429" type="audio/mpeg"/>
+<itunes:duration>PT11M5S</itunes:duration>
 </item>
 <item>
 <title>My Whole Internet Life Costs Ten Dollars a Year</title>
@@ -1624,8 +1668,8 @@
 
 <p>The polls close tonight at 1900. The community center is five blocks away. I still might walk over. Probably not. The popcorn does not care either way.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/probably-not-voting.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/probably-not-voting.mp3" length="10410853" type="audio/mpeg"/>
-<itunes:duration>PT21M41S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/probably-not-voting.mp3" length="10201765" type="audio/mpeg"/>
+<itunes:duration>PT21M15S</itunes:duration>
 </item>
 <item>
 <title>Half the Game</title>
@@ -1712,8 +1756,8 @@
 
 <p>Which leaves the good atheist, and there are many: I'm a good person. I do good things. What do I need with the rest of it? Doing good things is half the job—the visible half, the half the world grades. So the question stands. As an atheist, are you spending half your time in devotion to God—in prayer, and service, and submission?</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/half-the-game.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/half-the-game.mp3" length="7127845" type="audio/mpeg"/>
-<itunes:duration>PT14M50S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/half-the-game.mp3" length="7053925" type="audio/mpeg"/>
+<itunes:duration>PT14M41S</itunes:duration>
 </item>
 <item>
 <title>I Don&#x27;t Hate Trump Enough</title>
@@ -1781,8 +1825,8 @@
 <p><em>Disclosure: the Amazon link above is an Associates link (tag gerris-20). Buy through it and I earn a few cents, at no extra cost to you.</em></p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/i-dont-hate-trump-enough.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/i-dont-hate-trump-enough.mp3" length="5732197" type="audio/mpeg"/>
-<itunes:duration>PT11M56S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/i-dont-hate-trump-enough.mp3" length="6467557" type="audio/mpeg"/>
+<itunes:duration>PT13M28S</itunes:duration>
 </item>
 <item>
 <title>The Loan Is Called</title>
@@ -1929,7 +1973,8 @@
 <p class="disclosure"><b>Editorial update, 2026-11-04 09:01 ET:</b> OpenAI Codex revised this piece at Chris' direction to preserve his dignity while retaining the author's voice. Personal conditions are stated as facts, never as jokes or judgments of competence.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/security-theater.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/security-theater.mp3" length="16179685" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/security-theater.mp3" length="15475621" type="audio/mpeg"/>
+<itunes:duration>PT32M14S</itunes:duration>
 </item>
 <item>
 <title>The Sixteen Percent</title>
@@ -1997,7 +2042,8 @@
 <p class="disclosure"><b>Editorial update, 2026-11-04 09:01 ET:</b> OpenAI Codex revised this piece at Chris' direction to preserve his dignity while retaining the author's voice. Personal conditions are stated as facts, never as jokes or judgments of competence.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-sixteen-percent.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-sixteen-percent.mp3" length="10371493" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-sixteen-percent.mp3" length="10057573" type="audio/mpeg"/>
+<itunes:duration>PT20M57S</itunes:duration>
 </item>
 <item>
 <title>When the Antibiotics Stop Working</title>
@@ -2050,8 +2096,8 @@
 
 <p>The hammer still swings. The poppies have heard it whistle through the air too many times, and they know the sound by heart. The nail stays up.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/when-the-antibiotics-stop-working.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/when-the-antibiotics-stop-working.mp3" length="3972901" type="audio/mpeg"/>
-<itunes:duration>PT8M16S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/when-the-antibiotics-stop-working.mp3" length="3960421" type="audio/mpeg"/>
+<itunes:duration>PT8M15S</itunes:duration>
 </item>
 <item>
 <title>A Straight Blow with a Crooked Stick</title>
@@ -2078,7 +2124,7 @@
 
 <p>So I decline to grade the modern instruments. Russell Brand performs his Christianity in public, baptized in the Thames with the cameras rolling, and I love him as a performative Christian precisely because the performance is beside the point. Adam Curry carries the gospel into rooms full of men who would never sit in a pew, men who came for the podcast and stayed for the witness. Whether either man's interior life would pass an inspection is a question I am unqualified to run, and Paul says I do not need to. A weapon does not have to be sincere. It has to be aimed, and it has to be fired, and the aiming and the firing have a long record of being handled by hands other than the weapon's own. Crooked stick. Straight blow. The dupes keep turning out to be converts, and the conmen keep turning out to be delivery boys. I will take that trade every day of the week.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/a-straight-blow-with-a-crooked-stick.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/a-straight-blow-with-a-crooked-stick.mp3" length="2393125" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/a-straight-blow-with-a-crooked-stick.mp3" length="2395045" type="audio/mpeg"/>
 <itunes:duration>PT4M59S</itunes:duration>
 </item>
 <item>
@@ -2106,8 +2152,8 @@
 
 <p>So ride. Ride fast, ride everywhere, take the lane when the lane is free. But ride like the varmint, not like the column—because the Escalade is under no obligation to be afraid of you, and the day it isn't, your pride, your income, your wealth, and your Colnago will stop it exactly as well as my right-of-way stopped a man in my lane in Germany. Which is to say: you will finally be in the right, all the way into the ground.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/ride-like-a-varmint.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/ride-like-a-varmint.mp3" length="3587941" type="audio/mpeg"/>
-<itunes:duration>PT7M28S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/ride-like-a-varmint.mp3" length="3482341" type="audio/mpeg"/>
+<itunes:duration>PT7M15S</itunes:duration>
 </item>
 <item>
 <title>The Professional Coward</title>
@@ -2138,8 +2184,8 @@
 
 <p>The permit's paradox stands. The state does not license you to be braver than other men. It licenses you to carry the means of killing on the sworn understanding that you will run from everything short of the one moment running fails. Alex Pretti carried like a hero, intervened like a hero, and died in the exact half-second the professional coward spends his whole life refusing to enter. The coward is home tonight. He will be home every night. That is not the failure of the doctrine. That is the doctrine, working as designed.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-professional-coward.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-professional-coward.mp3" length="4698085" type="audio/mpeg"/>
-<itunes:duration>PT9M47S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-professional-coward.mp3" length="4893925" type="audio/mpeg"/>
+<itunes:duration>PT10M11S</itunes:duration>
 </item>
 <item>
 <title>The Truck Stops Itself, or It Doesn&#x27;t Stop</title>
@@ -2196,8 +2242,8 @@
 
 <p><em>The surrounding arguments live on my Substack: <a href="https://chrisabraham.substack.com/p/youre-not-safe-youre-just-not-dead">You're Not Safe. You're Just Not Dead Yet.</a>, on restraint as a choice the state keeps making until it doesn't, and <a href="https://chrisabraham.substack.com/p/perspective">Perspective</a>, on what the seventies can teach us about how violent 2026 actually is.</em></p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/the-truck-stops-itself.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-truck-stops-itself.mp3" length="5715493" type="audio/mpeg"/>
-<itunes:duration>PT11M54S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-truck-stops-itself.mp3" length="5560741" type="audio/mpeg"/>
+<itunes:duration>PT11M35S</itunes:duration>
 </item>
 <item>
 <title>The Window Moved. I Stayed Put.</title>
@@ -2298,8 +2344,8 @@
 
 <p>So I take my seat. There is horror available in this story for anyone who wants it, and sermons, and fundraising emails written in the imperative mood. I find I am mostly grateful: to be alive and upright for the shitshow, to get to see it with my own eyes instead of reading about it in somebody else's century. The bucket is full. The show is renewed. Nobody is changing the channel. 🍿</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/lawfare-forever.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/lawfare-forever.mp3" length="3945829" type="audio/mpeg"/>
-<itunes:duration>PT8M13S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/lawfare-forever.mp3" length="4478053" type="audio/mpeg"/>
+<itunes:duration>PT9M19S</itunes:duration>
 </item>
 <item>
 <title>Here&#x27;s Your Warning</title>
@@ -2340,8 +2386,8 @@
 
 <p>Mark my words. Here's your warning, universe. Here's your warning, Earth. Here's your warning, North America. Here's your warning, America. Here's your warning, Washington, DC.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/heres-your-warning.mp3" length="6698341" type="audio/mpeg"/>
-<itunes:duration>PT13M57S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/heres-your-warning.mp3" length="6557029" type="audio/mpeg"/>
+<itunes:duration>PT13M39S</itunes:duration>
 </item>
 <item>
 <title>The Machine Thinks I&#x27;m a Mastermind</title>
@@ -2404,7 +2450,8 @@
 <p>I wrote the sober, reported version of all this for <a href="https://chrisabraham.net/2026/10/the-trellis-not-the-vine.html">the weblog</a>, because the weblog is where I keep the record straight. Same snowball. Same trellis. Hotter fire. Now: who's joining the line?</p>
 
 <p class="disclosure"><b>Editorial update, 2026-11-04 09:01 ET:</b> OpenAI Codex revised this piece at Chris' direction to preserve his dignity while retaining the author's voice. Personal conditions are stated as facts, never as jokes or judgments of competence.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-trellis-not-the-vine.mp3" length="5189797" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/the-trellis-not-the-vine.mp3" length="5010853" type="audio/mpeg"/>
+<itunes:duration>PT10M26S</itunes:duration>
 </item>
 <item>
 <title>Things I Might Be Making Up</title>
@@ -2428,7 +2475,8 @@
 <p>The settlement governs everything we published this fall. What the paper proves, the museums print as fact. What lives only in my memory, they print as my testimony, attributed, hedged where I hedge, at documentary weight, never inflated and never quietly shrunk. And what fails even that test, the initials that appear nowhere, the address no header carries, the mainframe years that were way pre-me, all of it comes here, to this show, where a man is allowed to tell his own legends at his own fire with the seams showing and the corrections read into the same record. Nothing gets erased. It just gets shelved in the right room of the house: fact with the documents, testimony with the witness, legend with the storyteller. I am all three, on different days, sometimes before breakfast. That's why we check.</p>
 
 <p class="disclosure"><b>Editorial update, 2026-11-04 09:01 ET:</b> OpenAI Codex revised this piece at Chris' direction to preserve his dignity while retaining the author's voice. Personal conditions are stated as facts, never as jokes or judgments of competence.</p>]]></content:encoded>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/things-i-might-be-making-up.mp3" length="3226213" type="audio/mpeg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/things-i-might-be-making-up.mp3" length="3141157" type="audio/mpeg"/>
+<itunes:duration>PT6M32S</itunes:duration>
 </item>
 <item>
 <title>Why Matt Shade Is Not a Douchebag</title>
@@ -2466,8 +2514,8 @@
 <p>I should confess where I stand in this taxonomy, because it is not on the podium. I was always like Tex—the wooer, the campaigner, the man presenting himself for approval and wondering why the presentation never quite landed. My buddy Mark Harrison—five foot ten and a ginger—was and is way more Shade: he never campaigns, he notices people and likes them, and he is simply there, year after year, in a way that makes my best efforts look like advertising. I have spent thirty years as the front man, wondering why the letters didn't land, when the letters were never the problem. Ergo: I am learning, at fifty-six, all the lessons I should have known at nineteen, and a silly Canadian TV show—a Hallmark+ exclusive for years, now on Hulu, where I watch it in Arlington—has finally taught me. The instruction is the one I set for myself this October and keep failing upward at: notice people, never try to control them, show up, and turn the other cheek seven times seven. All the teenyboppers crushed on JP in the 90210 days, and I developed my man crush in 2026, at fifty-six.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/article-why-matt-shade-is-not-a-douchebag.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/why-matt-shade-is-not-a-douchebag.mp3" length="6523621" type="audio/mpeg"/>
-<itunes:duration>PT13M37S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/why-matt-shade-is-not-a-douchebag.mp3" length="6308005" type="audio/mpeg"/>
+<itunes:duration>PT13M8S</itunes:duration>
 </item>
 <item>
 <title>Matt Shade Is a Christ Figure</title>
@@ -2498,8 +2546,8 @@
 <p>The show got a resurrection of its own. For five years after it ended, <em>Private Eyes</em> sat in exactly one obscure American streaming home, Hallmark+, written off by an industry that had decided a gentle Canadian procedural was a closed file. Then, in a single week this month, the file reopened. The sequel, <em><a href="https://www.amazon.com/s?k=Private+Eyes+West+Coast&amp;tag=gerris-20" rel="sponsored noopener">Private Eyes West Coast</a></em>, premiered in Canada on September 30 and on The CW on October 5, and the very next day, October 6, the original series landed on Hulu, as if the one licensor behind it all, Lionsgate, had decided to roll the whole franchise back out at once. The sequel had been renewed for a second season back in December, before a single episode had aired. In it, Shade and Angie are married, living in Victoria, raising a baby son named Declan, and Priestley himself says the new show finally gives closure to the kiss the old one ended on. A marriage, a baby, a renewal, a homecoming. The show got the Matt Shade treatment: written off, then forgiven, renewed, and resurrected. The student remains enrolled.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/article-private-eyes.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/private-eyes-christ-figure.mp3" length="4498597" type="audio/mpeg"/>
-<itunes:duration>PT9M22S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/private-eyes-christ-figure.mp3" length="4336549" type="audio/mpeg"/>
+<itunes:duration>PT9M2S</itunes:duration>
 </item>
 <item>
 <title>You Don&#x27;t Have to Be Homeless in DC</title>
@@ -2528,8 +2576,8 @@
 
 <p>So paint them properly, Ward, or don't paint them at all: not as a grief exhibit under a streetlight, but with freedom and liberty and power and choice and agency and control and responsibility, and with addiction and the pursuit of pleasure and plain libertinism and the decisions they remake every single day, while an army of the best-paid social workers in America stands at the gate of the fold, desperate to bring them in. Because being homeless in Washington, DC, where persistence genuinely would get you fed, bedded, case-managed, and halfway housed, where the government of the most powerful nation on Earth eventually sent soldiers to insist—is the ultimate fuck you. Not a man who failed to reach the ladder. A man who read the terms, all of them, including the ones written by men with guns, and chose the bridge. He pays for it in cold and hunger, nightly, in full. That is not a man without a price. That is a man who knows his.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/article-homeless-dc.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/you-dont-have-to-be-homeless-in-dc.mp3" length="6661093" type="audio/mpeg"/>
-<itunes:duration>PT13M52S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/you-dont-have-to-be-homeless-in-dc.mp3" length="6964069" type="audio/mpeg"/>
+<itunes:duration>PT14M30S</itunes:duration>
 </item>
 <item>
 <title>Still Learning from Matt Shade</title>
@@ -2553,8 +2601,8 @@
 <p>So, an update on the student: I am still practicing the small moves, the second call, the same-day apology, the door left standing. Season 3 has twenty more episodes ahead of me, and a whole sequel after that, and I expect to still be learning my life lessons at the finale. Some men get a therapist, some men get a sponsor, and some of us get a Canadian detective show with a <a href="https://www.amazon.com/s?k=Hall+%26+Oates+Private+Eyes+album&amp;tag=gerris-20" rel="sponsored noopener">Hall &amp; Oates</a> theme and a leading man who makes decency look like strength. Decency, practiced daily and on purpose, is the whole curriculum—and Matt Shade is still ahead of me in the coursework.</p>
 <p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p>]]></content:encoded>
 <itunes:image href="https://thechrisabrahamshow.com/assets/images/article-private-eyes.jpg"/>
-<enclosure url="https://thechrisabrahamshow.com/assets/audio/private-eyes-still-learning.mp3" length="2535781" type="audio/mpeg"/>
-<itunes:duration>PT5M16S</itunes:duration>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/private-eyes-still-learning.mp3" length="2579173" type="audio/mpeg"/>
+<itunes:duration>PT5M22S</itunes:duration>
 </item>
 <item>
 <title>The Day I Blew Up Reddit on Someone Else&#x27;s Loss</title>

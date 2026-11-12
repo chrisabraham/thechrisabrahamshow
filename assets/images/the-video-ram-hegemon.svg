@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#fffaf0"/>
+  <g fill="none" stroke="#b45309" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <!-- a chain of three single points -->
+    <rect x="120" y="270" width="200" height="130" rx="14"/>
+    <rect x="500" y="270" width="200" height="130" rx="14"/>
+    <rect x="880" y="270" width="200" height="130" rx="14"/>
+    <path d="M320 335 L500 335 M700 335 L880 335" stroke-dasharray="3 18" stroke-width="8"/>
+    <!-- chip pins -->
+    <path d="M150 270 v-26 M200 270 v-26 M250 270 v-26 M290 270 v-26 M150 400 v26 M200 400 v26 M250 400 v26 M290 400 v26" stroke-width="5"/>
+    <!-- island -->
+    <path d="M545 372 q55 -58 110 0 q-55 22 -110 0 Z" stroke-width="5"/>
+    <!-- the one machine -->
+    <circle cx="980" cy="335" r="42"/>
+    <circle cx="980" cy="335" r="16" stroke-width="5"/>
+    <!-- a saw approaching from below -->
+    <path d="M240 560 L700 560" stroke-width="6"/>
+    <path d="M260 560 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22 l18 -22 l18 22" stroke-width="5"/>
+    <circle cx="880" cy="560" r="30"/>
+  </g>
+  <text x="220" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#92400e">one designer</text>
+  <text x="600" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#92400e">one island</text>
+  <text x="980" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#92400e">one machine</text>
+  <text x="600" y="632" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#92400e">the video RAM hegemon, and the saw</text>
+</svg>
