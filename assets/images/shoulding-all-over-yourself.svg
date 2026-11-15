@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Eunice doodle, amber ink on warm paper: the approach.
+       A hand offered back-of-hand first, a dog at the fence deciding. -->
+  <rect x="0" y="0" width="800" height="600" fill="#f8ecd2"/>
+  <g fill="none" stroke="#b45309" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- the dog, sitting, behind the fence (drawn first so the fence crosses it) -->
+    <g stroke="#9a6a1f" stroke-width="5">
+      <!-- body, seated haunch -->
+      <path d="M585,455 C560,400 565,340 600,315 C640,290 690,305 700,350 C708,385 700,425 685,455"/>
+      <!-- chest and front leg -->
+      <path d="M600,330 C585,370 588,415 600,452"/>
+      <path d="M600,452 L640,455"/>
+      <!-- ground paw line -->
+      <path d="M560,458 L712,458"/>
+      <!-- head, in profile, nose pointing left toward the hand -->
+      <path d="M612,318 C590,300 585,268 605,248 C628,226 668,228 684,252 C696,270 692,296 676,310"/>
+      <!-- snout -->
+      <path d="M606,262 C588,264 576,272 574,282 C573,290 582,294 596,292"/>
+      <!-- floppy ear -->
+      <path d="M652,238 C668,258 668,288 654,306 C644,292 642,262 652,238"/>
+      <!-- tail, curled on the ground -->
+      <path d="M700,440 C735,438 752,420 744,402 C738,390 724,388 716,396"/>
+    </g>
+    <!-- dog's eye and nose, darker ink -->
+    <g stroke="#7c4a12" stroke-width="4">
+      <circle cx="622" cy="262" r="3.5" fill="#7c4a12"/>
+      <path d="M574,282 C570,286 572,291 578,291"/>
+    </g>
+
+    <!-- the fence: pickets with slightly uneven tops, two rails -->
+    <g stroke="#b45309" stroke-width="5">
+      <path d="M428,180 L428,470"/>
+      <path d="M474,168 L474,470"/>
+      <path d="M520,178 L520,470"/>
+      <path d="M566,166 L566,470"/>
+      <path d="M612,176 L612,470"/>
+      <path d="M658,168 L658,470"/>
+      <path d="M704,178 L704,470"/>
+      <path d="M750,170 L750,470"/>
+      <!-- picket points -->
+      <path d="M416,182 L428,158 L440,182"/>
+      <path d="M462,170 L474,146 L486,170"/>
+      <path d="M508,180 L520,156 L532,180"/>
+      <path d="M554,168 L566,144 L578,168"/>
+      <path d="M600,178 L612,154 L624,178"/>
+      <path d="M646,170 L658,146 L670,170"/>
+      <path d="M692,180 L704,156 L716,180"/>
+      <path d="M738,172 L750,148 L762,172"/>
+      <!-- rails -->
+      <path d="M414,268 C520,258 640,262 766,256"/>
+      <path d="M414,402 C520,412 640,406 766,414"/>
+    </g>
+
+    <!-- the forearm, entering from the left edge -->
+    <g stroke="#9a6a1f" stroke-width="5">
+      <path d="M-5,296 C80,292 170,288 246,284"/>
+      <path d="M-5,352 C80,352 170,344 244,332"/>
+      <!-- cuff -->
+      <path d="M58,294 L62,350"/>
+    </g>
+
+    <!-- the hand, back of the hand up, fingers relaxed and slightly curled -->
+    <g stroke="#9a6a1f" stroke-width="5">
+      <path d="M246,284 C268,262 312,252 344,262 C372,270 384,292 376,312 C368,332 340,340 306,338 C278,336 254,330 244,318 C236,308 238,294 246,284 Z"/>
+      <!-- finger separations -->
+      <path d="M318,258 C322,276 320,296 312,312"/>
+      <path d="M348,266 C354,282 352,300 344,314"/>
+      <!-- thumb, tucked low -->
+      <path d="M262,330 C282,348 312,352 330,342"/>
+      <!-- knuckle creases on the back of the hand -->
+      <path d="M286,282 C296,278 308,278 316,284" stroke-width="3.5"/>
+      <path d="M292,302 C302,298 312,299 320,304" stroke-width="3.5"/>
+    </g>
+
+    <!-- grass strokes along the ground line -->
+    <g stroke="#b45309" stroke-width="3.5">
+      <path d="M120,470 C122,452 118,442 110,432"/>
+      <path d="M150,470 C154,454 156,444 154,432"/>
+      <path d="M330,472 C332,456 330,446 322,436"/>
+      <path d="M392,472 C396,458 398,448 396,438"/>
+      <path d="M96,474 C220,466 420,474 560,468 C640,465 720,470 782,466" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
