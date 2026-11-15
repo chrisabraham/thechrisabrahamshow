@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+  <rect x="0" y="0" width="1200" height="1200" fill="#FFFFFF"/>
+  <!-- open hills on the right horizon -->
+  <path d="M 700 880 Q 850 760 990 850 Q 1080 905 1160 862" fill="none" stroke="#D97706" stroke-width="13" stroke-linecap="round"/>
+  <path d="M 790 920 Q 920 830 1060 905" fill="none" stroke="#F59E0B" stroke-width="10" stroke-linecap="round"/>
+  <!-- low sun -->
+  <circle cx="985" cy="690" r="62" fill="#F59E0B" stroke="#B45309" stroke-width="9"/>
+  <g stroke="#D97706" stroke-width="10" stroke-linecap="round">
+    <line x1="985" y1="588" x2="985" y2="548"/>
+    <line x1="890" y1="622" x2="862" y2="594"/>
+    <line x1="1080" y1="622" x2="1108" y2="594"/>
+    <line x1="862" y1="700" x2="822" y2="700"/>
+    <line x1="1108" y1="700" x2="1148" y2="700"/>
+  </g>
+  <!-- the enclosure fence: posts and rails, left side -->
+  <g stroke="#7C2D12" stroke-linecap="round">
+    <line x1="90" y1="640" x2="600" y2="640" stroke-width="17"/>
+    <line x1="90" y1="790" x2="600" y2="790" stroke-width="17"/>
+  </g>
+  <g fill="#92400E" stroke="#7C2D12" stroke-width="7">
+    <rect x="92" y="560" width="34" height="380" rx="8"/>
+    <rect x="232" y="560" width="34" height="380" rx="8"/>
+    <rect x="372" y="560" width="34" height="380" rx="8"/>
+    <rect x="512" y="560" width="34" height="380" rx="8"/>
+  </g>
+  <!-- the gate, standing open: hinged on the last post, swung outward -->
+  <g transform="rotate(20 546 700)">
+    <rect x="546" y="578" width="30" height="360" rx="8" fill="#92400E" stroke="#7C2D12" stroke-width="7"/>
+    <g stroke="#7C2D12" stroke-linecap="round">
+      <line x1="546" y1="648" x2="830" y2="648" stroke-width="15"/>
+      <line x1="546" y1="792" x2="830" y2="792" stroke-width="15"/>
+      <line x1="688" y1="648" x2="688" y2="792" stroke-width="12"/>
+      <line x1="812" y1="648" x2="812" y2="792" stroke-width="12"/>
+    </g>
+    <line x1="560" y1="660" x2="818" y2="786" stroke="#7C2D12" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <!-- the full food bowl, left inside -->
+  <g>
+    <path d="M 196 872 L 388 872 Q 372 946 292 946 Q 212 946 196 872 Z" fill="#D97706" stroke="#7C2D12" stroke-width="10" stroke-linejoin="round"/>
+    <ellipse cx="292" cy="870" rx="98" ry="17" fill="#F59E0B" stroke="#7C2D12" stroke-width="9"/>
+    <ellipse cx="292" cy="866" rx="64" ry="9" fill="#B45309"/>
+  </g>
+  <!-- tracks: paw prints and hoof prints, out through the gate to the hills -->
+  <g fill="#92400E">
+    <!-- paw 1 -->
+    <ellipse cx="470" cy="918" rx="17" ry="22"/>
+    <circle cx="446" cy="888" r="8"/><circle cx="466" cy="880" r="8"/><circle cx="486" cy="888" r="8"/>
+    <!-- paw 2 -->
+    <ellipse cx="612" cy="872" rx="17" ry="22"/>
+    <circle cx="588" cy="842" r="8"/><circle cx="608" cy="834" r="8"/><circle cx="628" cy="842" r="8"/>
+    <!-- paw 3 -->
+    <ellipse cx="762" cy="838" rx="16" ry="21"/>
+    <circle cx="739" cy="809" r="8"/><circle cx="758" cy="801" r="8"/><circle cx="778" cy="809" r="8"/>
+    <!-- paw 4 -->
+    <ellipse cx="905" cy="872" rx="15" ry="20"/>
+    <circle cx="883" cy="844" r="7"/><circle cx="901" cy="836" r="7"/><circle cx="919" cy="844" r="7"/>
+  </g>
+  <g fill="none" stroke="#92400E" stroke-width="10" stroke-linecap="round">
+    <!-- hoof prints: two-lobed -->
+    <path d="M 522 946 q -14 -22 -4 -38 M 548 946 q 2 -24 16 -34"/>
+    <path d="M 678 912 q -14 -22 -4 -38 M 704 912 q 2 -24 16 -34"/>
+    <path d="M 830 884 q -13 -21 -4 -36 M 855 884 q 2 -23 15 -32"/>
+    <path d="M 972 902 q -12 -20 -3 -34 M 996 902 q 2 -21 14 -30"/>
+  </g>
+  <!-- ground line -->
+  <line x1="60" y1="972" x2="700" y2="972" stroke="#7C2D12" stroke-width="14" stroke-linecap="round"/>
+</svg>

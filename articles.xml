@@ -6,7 +6,7 @@
 <description><![CDATA[The shadow edition of The Chris Abraham Show: the written articles, served locally; the podcast itself lives with the providers. Every article from thechrisabrahamshow.com is here in full text, and the newest ones are read aloud. Subscribing at Spotify, Apple, or any podcast provider gets you the actual show; this feed is the site's own shadow, carrying the writing.]]></description>
 <language>en</language>
 <copyright>Chris Abraham</copyright>
-<lastBuildDate>Sat, 14 Nov 2026 11:00:57 EST</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 01:40:09 EST</lastBuildDate>
 <atom:link href="https://thechrisabrahamshow.com/articles.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>Chris Abraham</itunes:author>
 <itunes:owner><itunes:name>Chris Abraham</itunes:name><itunes:email>cja@well.com</itunes:email></itunes:owner>
@@ -15,6 +15,56 @@
 <image><url>https://thechrisabrahamshow.com/assets/images/show.jpg</url><title>The Chris Abraham Show — Articles (Audio)</title><link>https://thechrisabrahamshow.com/articles.html</link></image>
 <podcast:medium>blog</podcast:medium>
 <podcast:guid>95a7ef9a-7ad9-46ce-826a-3362503ceab3</podcast:guid>
+<item>
+<title>Zookeeper Logic</title>
+<link>https://thechrisabrahamshow.com/articles/zookeeper-logic.html</link>
+<guid isPermaLink="true">https://thechrisabrahamshow.com/articles/zookeeper-logic.html</guid>
+<pubDate>Sun, 15 Nov 2026 01:40:09 EST</pubDate>
+<dc:creator>Chris Abraham</dc:creator>
+<description>Zookeeper logic: a mandate to repair the world, stripped of its humility clause, turns the repairer into a keeper and citizens into animals.</description>
+<content:encoded><![CDATA[<p>Zookeeper logic is the reasoning of the keeper. It begins with a true sentence—the world is broken and we are charged to repair it—and it ends with citizens managed as animals in an enclosure: fed on schedule, protected from every risk, and never once asked what they want. The charge to repair the world is old and honorable, and the tradition that coined it bolted restraints onto it over centuries. Zookeeper logic is what the charge becomes when the restraints are left behind. The mandate crosses over into secular politics, the humility stays home, and the repairer promotes himself from laborer on the work to keeper of the repaired. Its tell is a family of sentences that only work on animals. “They vote against their own best interests.” “Dogs will eat until they die; a horse will gallop until it dies.” Each sentence presumes a creature whose appetites will kill it and a keeper whose ration book is mercy. The whole logic rests on refusing one fact: animals prefer to be free rather than safe and protected. That refusal is why the keeper is always shocked, genuinely shocked, when the animals run for the gate.</p>
+
+<h2>The phrase in its first home</h2>
+
+<p>The phrase is <a href="https://en.wikipedia.org/wiki/Tikkun_Olam">tikkun olam</a>, תיקון עולם, repairing the world, and its first legal home is the Mishnah, in the tractate Gittin. There it appears as <em>mipnei tikkun ha-olam</em>, “for the sake of the repair of the world,” and it is attached to narrow enactments—law amended at the joint so that society keeps functioning. Hillel's prozbul is the famous case. The Torah cancels debts in the sabbatical year, and as that year approached, lenders stopped lending, and the poor lost their credit. Hillel's prozbul routed the debt through the court, and a debt owed to a court survives the sabbatical cancellation, so the loans kept flowing to the poor. Repair, in its first home, was a legal fix in defense of an existing order: the law adjusted so the law could keep working.</p>
+
+<p>The same chapter carries the restraint case, and it is the more instructive one. Captives are not to be redeemed for more than their value, <em>mipnei tikkun ha-olam</em> (Gittin 4:6). A ransom above value is the most compassionate act available in the moment, and the Mishnah forbids it, because a community that pays any price teaches kidnappers to take more captives tomorrow. Repair sometimes meant refusing the maximal act of mercy for the sake of the whole order. The tradition's first use of its most famous phrase includes a ruling where repair and restraint are the same act, and the repairer is the man who says no to his own compassion.</p>
+
+<h2>The prayer, the sparks, and the clause</h2>
+
+<p>In the Aleinu prayer the phrase runs <em>l'takken olam b'malkhut Shaddai</em>: to perfect the world under the sovereignty of the Almighty. In that liturgical home the repair is God's work—the end of idolatry, the coming of His kingdom. Human beings pray for the repair; the program belongs to heaven, and the timetable is heaven's too. In the sixteenth century, Isaac Luria of Safed gave the idea its cosmic form. Creation shattered at the making: the vessels broke, divine sparks scattered into the material world, and human observance—prayer, commandment, devotion, act by act—gathers the sparks back. The repairer in Luria's world is a worshipper with a mitzvah in his hands. He gathers sparks. He manages nobody.</p>
+
+<p>The tradition also built the humility clause directly into the job description. Rabbi Tarfon, in <a href="https://jewishvirtuallibrary.org/jsource/Judaism/pirkei_avot.html">Pirkei Avot</a>: “It is not your duty to finish the work, but neither are you free to desist from it.” The work is obligatory and unfinishable at the same time. A man who knows the work can never be finished by him works humbly by construction. He is a laborer on a job that outlasts him, surrounded by other laborers, and the clause forbids him the two corruptions of the repairer: despair, and the belief that the finished world is his to administer.</p>
+
+<h2>The borrowing</h2>
+
+<p>Then the phrase went quiet. In <a href="http://www.zeek.net/706tohu/index.php?page=2">Jill Jacobs's history of the term</a>, tikkun olam more or less disappeared from popular usage between the sixteenth century and the 1950s, when it reemerged in American Jewish life as the new shorthand for social justice—and from there it became the moral baseline of American progressivism. The borrowing ran in that direction. A secular politics reached back across the centuries, took the phrase, and refilled it with new content; historians call the move retrojection, an old phrase supplying authority for a program the old phrase never contained. Today the operating sentence of American progressivism is the sentence the phrase now carries: the world is broken, and we are charged to fix it.</p>
+
+<p>What crossed over was the mandate. What stayed behind was every restraint the tradition had bolted onto it. Tarfon's clause stayed behind: the work is yours to finish now, this term, this administration, and a man who believes the work can be finished believes he can be handed the keys. Aleinu's sovereignty stayed behind: the repair became a human program with human managers, answerable to human timetables. The Gittin restraint stayed behind: no compassionate act is ever refused for the sake of the whole order, because in the borrowed version the maximal act is always the required one, and anyone urging restraint is urging cruelty. The phrase arrived with its authority intact and its governors removed.</p>
+
+<h2>The antibody</h2>
+
+<p>The warning against exactly this was issued from inside the house. <a href="https://www.commentary.org/articles/allan-nadler/judaism-human-values-and-the-jewish-state-by-yeshayahu-leibowitz/">Yeshayahu Leibowitz</a>, the Orthodox philosopher in Jerusalem, spent a career on it. He held that the mitzvot are the service of God for their own sake, and he rebuked tikkun olam as a basis for social programs; he repudiated the late-kabbalistic doctrine of tikkun olam outright, and he warned against sanctifying secular politics with religious authority. A political preference wearing religious authority stops answering to argument, because its holder is no longer proposing—he is obeying. The tradition produced its own antibody, in its own language, from its own side of the wall: the keeper's disease was diagnosed first by the people who coined the cure's name.</p>
+
+<h2>The keeper's proof-texts</h2>
+
+<p>Strip the humility clause off a repair mandate and the repairer changes jobs. He stops working a section of an endless wall and starts managing the broken material, and the material is people. Management requires a theory of the managed, and zookeeper logic supplies it: the animals cannot be trusted with their own appetites. The theory has proof-texts, and they circulate as commonplaces, repeated by decent people who would never call themselves keepers. “Republicans always vote against their own best interest.” The sentence only works on an animal. A citizen's interest, declared by the citizen, is a preference; the keeper hears the preference and files it as a symptom, and a symptom licenses treatment. The vote becomes a malfunction to be managed around, the voter a case to be explained, and explanation replaces persuasion.</p>
+
+<p>The second proof-text is zoology: “Dogs will eat until they die, a horse will gallop until it dies.” The casting gives it away. The keeper always quotes the animal that cannot stop; nobody quotes the cat, which eats when it is hungry and walks away from the bowl. Choose the creature with no off switch, call the choice human nature, and liberty becomes a lethal dose that decent people withhold from the herd. Under both sentences sits the same architecture: an enclosure, a feeding schedule, a ration book, and a keeper who decides. Safety is the whole of the good on offer inside the fence. The animals are protected from predators, from hunger, from weather, from their own appetites—from everything except the keeper.</p>
+
+<p>The keeper's vocabulary is the vocabulary of care, and the warmth in it is what makes the logic hard to argue with in the moment. Every fence is a protection. Every ration is a safeguard. Every locked gate is a duty discharged. The keeper loves the animals, in the way a man loves things that are his to manage, and his love is genuine. What the vocabulary cannot hold is the one sentence the animals would say if the consultation ever happened: we would rather take our chances outside. The consultation never happens. Keepers do not poll the collection.</p>
+
+<h2>The open gate</h2>
+
+<p>The architecture has one fact it cannot admit, because admitting it dissolves the job. Animals prefer to be free rather than safe and protected. Open the gate and they go—toward the risk, the weather, the predators, the whole unpriced danger of the wild—because the wild is theirs in a way the enclosure never is. The keeper reads the escape as ingratitude, as madness, as proof the animals needed a stronger fence. He never reads it as the verdict it is. The bowl was full. The gate was locked. Given the choice, they chose the gate.</p>
+
+<p>A politics holding the repair mandate with its humility removed will keep building enclosures and keep being surprised by the escapes. The surprise is the tell. A laborer carrying Tarfon's clause expects the work to outlast him and expects the other laborers to argue about the wall. A keeper expects obedience, and he experiences freedom as a management failure, and he responds the only way his logic allows: more fence, smaller rations of liberty, better explanations for why the animals run.</p>
+
+<p>Zookeeper logic is a mandate to repair the world with the humility clause stripped off. The repairer becomes a keeper, the citizen becomes an animal, and freedom becomes a symptom to be managed. The tradition that coined tikkun olam guarded the phrase with restraints—work no man may finish, a repair that belongs to God, ransoms no community may pay. The politics that borrowed the phrase in the 1950s kept the charge and dropped the guards. What remains is the enclosure, the full bowl, the locked gate, and a keeper forever astonished that the animals, given the chance, run for the hills—because animals prefer to be free rather than safe and protected.</p>]]>
+<itunes:image href="https://thechrisabrahamshow.com/assets/images/zookeeper-logic.jpg"/>
+<enclosure url="https://thechrisabrahamshow.com/assets/audio/zookeeper-logic.mp3" length="5542309" type="audio/mpeg"/>
+<itunes:duration>PT11M32S</itunes:duration></content:encoded>
+</item>
 <item>
 <title>The Canary Is the Point</title>
 <link>https://thechrisabrahamshow.com/articles/the-canary-is-the-point.html</link>
