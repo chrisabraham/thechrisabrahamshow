@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Eunice doodle, amber ink on warm paper: the Pareto curve.
+       Three tall bars at the left, then the long low tail running right. -->
+  <rect x="0" y="0" width="800" height="600" fill="#f8ecd2"/>
+  <g fill="none" stroke="#b45309" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- the bars: the vital few, then the useful many -->
+    <g stroke="#b45309" stroke-width="5">
+      <path d="M86,470 C84,299 87,146 88,128 C98,125 112,130 122,129 C124,299 121,450 122,470"/>
+      <path d="M140,470 C138,344 141,236 142,218 C152,215 166,220 176,219 C178,344 175,450 176,470"/>
+      <path d="M194,470 C192,385 195,318 196,300 C206,297 220,302 230,301 C232,385 229,450 230,470"/>
+      <path d="M248,470 C246,413 249,374 250,356 C260,353 274,358 284,357 C286,413 283,450 284,470"/>
+      <path d="M302,470 C300,433 303,414 304,396 C314,393 328,398 338,397 C340,433 337,450 338,470"/>
+      <path d="M356,470 C354,446 357,440 358,422 C368,419 382,424 392,423 C394,446 391,450 392,470"/>
+      <path d="M410,470 C408,455 411,458 412,440 C422,437 436,442 446,441 C448,455 445,450 446,470"/>
+      <path d="M464,470 C462,460 465,468 466,450 C476,447 490,452 500,451 C502,460 499,450 500,470"/>
+      <path d="M518,470 C516,463 519,474 520,456 C530,453 544,458 554,457 C556,463 553,450 554,470"/>
+      <path d="M572,470 C570,465 573,478 574,460 C584,457 598,462 608,461 C610,465 607,450 608,470"/>
+      <path d="M626,470 C624,466 627,481 628,463 C638,460 652,465 662,464 C664,466 661,450 662,470"/>
+      <path d="M680,470 C678,467 681,483 682,465 C692,462 706,467 716,466 C718,467 715,450 716,470"/>
+    </g>
+
+    <!-- the curve over the tops, darker ink -->
+    <g stroke="#7c4a12" stroke-width="4">
+      <path d="M104,120 C 200,180 300,330 420,420 C 520,478 640,486 742,478"/>
+    </g>
+
+    <!-- the ground line and its hatch marks -->
+    <g stroke="#9a6a1f" stroke-width="5">
+      <path d="M56,472 C260,466 540,474 756,468"/>
+    </g>
+    <g stroke="#9a6a1f" stroke-width="3">
+      <path d="M120,492 l-12,14 M220,494 l-12,14 M330,492 l-12,14 M450,494 l-12,14 M570,492 l-12,14 M680,494 l-12,14"/>
+    </g>
+
+    <!-- a small bird riding the curve, because the tail is a fine place to travel -->
+    <g stroke="#7c4a12" stroke-width="3.5">
+      <path d="M596,408 C604,398 618,396 626,404 C618,404 612,410 610,416 C606,412 600,410 596,408 Z"/>
+      <path d="M610,416 l-2,8 M618,415 l1,8"/>
+      <circle cx="620" cy="401" r="1.8" fill="#7c4a12"/>
+    </g>
+  </g>
+</svg>
