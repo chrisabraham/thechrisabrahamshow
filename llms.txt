@@ -479,6 +479,7 @@ Chris Abraham's podcast, 459 episodes from June 12, 2019 to October 25, 2026. Ea
 
 ## Articles
 
+- [Glittering Generality](https://thechrisabrahamshow.com/articles/glittering-generality.html): November 16, 2026
 - [The Rotten Few and the Useful Many](https://thechrisabrahamshow.com/articles/the-vital-few-and-the-useful-many.html): November 15, 2026
 - [Shoulding All Over Yourself](https://thechrisabrahamshow.com/articles/shoulding-all-over-yourself.html): November 15, 2026
 - [Zookeeper Logic](https://thechrisabrahamshow.com/articles/zookeeper-logic.html): November 15, 2026
