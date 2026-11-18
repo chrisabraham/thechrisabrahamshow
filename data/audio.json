@@ -35,6 +35,12 @@
   "sha256": "d629cb4b18e0bcaeb47e9ccbb96ce16a1f453ef997f9eb816bd38bfa94728aff",
   "voice": "avocado_v2:qvd_02406"
  },
+ "george-hafner-wrote-it-down": {
+  "bytes": 4660653,
+  "duration": 583,
+  "sha256": "bf024fef5e6e7586c954b89f77e95c703c2936e3d16c68938ff9762cf5e68dd9",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "gw-mens-rowing-alumni-night": {
   "bytes": 2226469,
   "duration": 278,
@@ -69,12 +75,6 @@
   "bytes": 3945829,
   "duration": 493,
   "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "measles-crossed-three-borders": {
-  "bytes": 3937189,
-  "duration": 492,
-  "sha256": "8b481d308e12089571d826f9712e467c6bb181d5a82ec6ec876fb0dab1689e85",
   "voice": "avocado_v2:qvd_02406"
  },
  "midterm-election-roundup-the-blue-wave-came": {
