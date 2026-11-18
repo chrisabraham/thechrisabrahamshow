@@ -921,10 +921,16 @@ Allow: /
 """
 
 
+# Hand-written SEO titles for episodes whose own titles run long (Chris'
+# rule, Nov 18 2026: about 60 characters, written as a summary, never cut).
+_seo_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "seo_titles.json")
+SEO_TITLES = {k: v for k, v in json.load(open(_seo_path)).items() if not k.startswith("_")} if os.path.exists(_seo_path) else {}
+
+
 def seo_title(t):
     """About 60 characters: the episode title, plus who made it when it fits."""
     t = seo_text(t)
-    if len(t) > 66:  # "about 60": a whole title up to 66 beats a cut one
+    if len(t) > 60:  # "about 60", hard cap (Chris, Nov 18 2026); write long ones into data/seo_titles.json
         if 25 <= t.find(":") <= 60:
             return t[:t.find(":")]
         words = t[:61].split(" ")[:-1]
@@ -1406,7 +1412,7 @@ def build(show, eps):
         sec = seconds(ep["duration"])
         url = SITE + "/" + ep["path"]
         has_t = os.path.exists(os.path.join(TRANSCRIPTS, ep["guid"] + ".srt"))
-        title = seo_title(ep["title"])
+        title = SEO_TITLES.get(ep["guid"]) or seo_title(ep["title"])
         notes_text = seo_text(plain(fixed(ep["description"])))
         if notes_text and notes_text[-1] not in ".!?…":
             notes_text += "."
@@ -1646,7 +1652,7 @@ def build(show, eps):
                  "The terms I define in the episode notes are in the <a href=\"/glossary.html\">glossary</a>, and every episode in order is in the <a href=\"/archives.html\">archives</a>.</p>") % (
                      ("all %d episodes" % total if len(used) == total else "%d of the %d episodes" % (len(used), total)), when(first).year, format(n_heads, ","), n_people, total)
         body = "\n".join(['<h1 class="archive-title">Index</h1>', '<div class="entry-body">', intro, jump] + rows + ["</div>"])
-        write("show-index.html", page("show-index.html", "Index of The Chris Abraham Show: every person, place, and subject",
+        write("show-index.html", page("show-index.html", "Index of The Chris Abraham Show: People, Places, Subjects",
                                       fit("A back-of-the-book index to all %d episodes of Chris Abraham's podcast: every person named on the show, plus subjects from aphantasia to South Arlington." % total, 160),
                                       body, current="/show-index.html", keywords="Chris Abraham, podcast index, people, subjects, episodes",
                                       ld={"@context": "https://schema.org", "@type": "CollectionPage", "url": SITE + "/show-index.html", "name": "Index",
@@ -1754,7 +1760,8 @@ def build(show, eps):
         "</div>"])
     write("colophon.html", page("colophon.html", "Colophon: how Chris Abraham's podcast is made",
                                 "How Chris Abraham records and edits his podcast, who made the music and cover art, and how this site mirrors his Spotify feed every day.",
-                                body, keywords="colophon, Sony ICD UX570, Audacity, podcast credits", current="/colophon.html"))
+                                body, keywords="colophon, Sony ICD UX570, Audacity, podcast credits", current="/colophon.html",
+                                ld={"@context": "https://schema.org", "@type": "AboutPage", "url": SITE + "/colophon.html", "name": "Colophon", "isPartOf": {"@id": SITE + "/#website"}, "about": {"@id": SITE + "/#series"}}))
 
     # privacy
     body = "\n".join([
@@ -1770,13 +1777,14 @@ def build(show, eps):
         "<h2>Hosting</h2>",
         "<p>GitHub Pages serves the site and may log visitors' IP addresses for security under <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub's privacy statement</a>. The domain's DNS is at Cloudflare, which does not sit between you and the pages.</p>",
         "<h2>Amazon Links</h2>",
-        "<p>Some links to books and gear carry Chris's Amazon Associates tag, which Amazon uses to credit purchases. As an Amazon Associate I earn from qualifying purchases.</p>",
+        "<p>Some links to books and gear carry Chris' Amazon Associates tag, which Amazon uses to credit purchases. As an Amazon Associate I earn from qualifying purchases.</p>",
         "<h2>Questions</h2>",
         '<p>Chris holds no personal information from this site beyond email you send him. Write to <a href="mailto:cja@well.com">cja@well.com</a>.</p>',
         "</div>"])
     write("privacy.html", page("privacy.html", "Privacy: what this podcast site collects and why",
                                "What Chris Abraham's podcast site collects: Google Analytics with ad features off, no analytics cookies in Europe or with privacy signals, and no ads.",
-                               body, keywords="privacy, Google Analytics consent mode, cookies, Global Privacy Control", current="/privacy.html"))
+                               body, keywords="privacy, Google Analytics consent mode, cookies, Global Privacy Control", current="/privacy.html",
+                               ld={"@context": "https://schema.org", "@type": "WebPage", "url": SITE + "/privacy.html", "name": "Privacy", "isPartOf": {"@id": SITE + "/#website"}}))
 
     # search
     body = "\n".join([
@@ -1866,10 +1874,10 @@ def report(eps):
         h = open(f).read()
         t = html.unescape(re.search(r"<title>(.*?)</title>", h).group(1))
         d = html.unescape(re.search(r'<meta name="description" content="([^"]*)"', h).group(1))
-        long_t += len(t) > 66
+        long_t += len(t) > 60
         short_d += not 120 <= len(d) <= 160 and "noindex" not in h
         dashes += bool(re.search(r"\||[–—]|(?<!\w)-|-(?!\w)", t + " " + d)) and "noindex" not in h  # hyphens inside words are fine
-    print("SEO: titles over 66: %d, descriptions outside 120 to 160: %d, with dashes or pipes: %d" % (long_t, short_d, dashes))
+    print("SEO: titles over 60: %d, descriptions outside 120 to 160: %d, with dashes or pipes: %d" % (long_t, short_d, dashes))
 
 
 def main():
