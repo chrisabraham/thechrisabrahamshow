@@ -1473,7 +1473,7 @@ def build(show, eps):
     for a in arts:
         url = SITE + "/" + a["path"]
         img = a.get("image")
-        small = img[:-4] + "-600.jpg" if img else ""
+        small = os.path.splitext(img)[0] + "-600.jpg" if img else ""
         about = [{"@type": "Thing", "name": n.strip(), "sameAs": u.strip()} for n, u in (x.split("|") for x in a["about"].split(";;"))] if a.get("about") else []
         akey = author_key(a)
         ld = {"@context": "https://schema.org", "@graph": ([person] if akey == DEFAULT_AUTHOR else [person, author_entity(akey, person)]) + [{
@@ -1487,7 +1487,7 @@ def build(show, eps):
         figure = ('<figure class="article-art"><img src="%s" srcset="%s 600w, %s 1200w" sizes="(min-width: 700px) 636px, calc(100vw - 32px)" alt="%s" width="%d" height="%d" fetchpriority="high">%s</figure>'
                   % ((img, small, img, e(a["image_alt"])) + _size(img) + ("<figcaption>%s</figcaption>" % e(a["image_credit"]) if a.get("image_credit") else "",))) if img else ""
         a_body = affiliate(a["body"])
-        if "tag=" + TAG in a_body:
+        if "tag=" + TAG in a_body and "Amazon Associate" not in a_body:  # an article that writes its own disclosure keeps only its own
             a_body += "\n" + DISCLOSURE
         slug = article_slug(a)
         player = ('  <p class="listen">This article, read aloud:</p>\n  <audio class="player" controls preload="metadata" src="/assets/audio/%s.mp3"><a href="/assets/audio/%s.mp3">Download the narration</a></audio>' % (slug, slug)) if os.path.exists(os.path.join(AUDIO_DIR, slug + ".mp3")) else ""
@@ -1497,7 +1497,7 @@ def build(show, eps):
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
         card = a.get("card")
         if not card and img:
-            sibling = img[:-4] + "-card.jpg"
+            sibling = os.path.splitext(img)[0] + "-card.jpg"
             card = sibling if os.path.exists(os.path.join(ROOT, sibling.lstrip("/"))) else img
         if not card:
             card = ARTICLE_CARD
@@ -1807,7 +1807,7 @@ def build(show, eps):
         img = a.get("image")
         card = a.get("card")
         if not card and img:
-            sibling = img[:-4] + "-card.jpg"
+            sibling = os.path.splitext(img)[0] + "-card.jpg"
             card = sibling if os.path.exists(os.path.join(ROOT, sibling.lstrip("/"))) else img
         if not card:
             card = ARTICLE_CARD
