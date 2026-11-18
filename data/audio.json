@@ -71,6 +71,12 @@
   "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "measles-crossed-three-borders": {
+  "bytes": 3937189,
+  "duration": 492,
+  "sha256": "8b481d308e12089571d826f9712e467c6bb181d5a82ec6ec876fb0dab1689e85",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "midterm-election-roundup-the-blue-wave-came": {
   "bytes": 11132581,
   "duration": 1391,
