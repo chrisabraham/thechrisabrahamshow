@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Claude doodle, amber ink on warm paper: three neighboring houses, every one
+       of them spotted, a measles virus strolling the road between them with a
+       suitcase, and a scribe with a scroll pointing at only the middle house. -->
+  <rect x="0" y="0" width="800" height="600" fill="#f8ecd2"/>
+  <g fill="none" stroke="#b45309" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- the ground and the road -->
+    <path d="M30,430 C220,424 560,434 770,426" stroke="#9a6a1f" stroke-width="5"/>
+    <path d="M40,470 C200,462 420,478 760,466" stroke="#9a6a1f" stroke-width="3" stroke-dasharray="14 12"/>
+
+    <!-- house one, left -->
+    <g stroke-width="5">
+      <path d="M70,428 C69,360 71,330 72,318 L212,316 C214,340 213,390 214,428"/>
+      <path d="M58,322 L142,252 L226,320"/>
+      <path d="M126,428 C125,398 126,388 127,380 L160,379 C161,392 160,410 161,428"/>
+      <path d="M88,340 h30 v26 h-30 z M178,338 h24 v26 h-24 z" stroke-width="3.5"/>
+    </g>
+    <!-- house two, middle, the one being pointed at -->
+    <g stroke-width="5">
+      <path d="M300,428 C299,350 301,318 302,304 L462,302 C464,330 463,380 464,428"/>
+      <path d="M286,308 L382,226 L478,306"/>
+      <path d="M364,428 C363,394 364,382 365,374 L402,373 C403,388 402,408 403,428"/>
+      <path d="M318,330 h32 v28 h-32 z M418,328 h28 v28 h-28 z" stroke-width="3.5"/>
+    </g>
+    <!-- house three, right -->
+    <g stroke-width="5">
+      <path d="M560,428 C559,366 561,336 562,324 L704,322 C706,346 705,394 706,428"/>
+      <path d="M548,328 L633,260 L718,326"/>
+      <path d="M616,428 C615,400 616,390 617,382 L650,381 C651,394 650,412 651,428"/>
+      <path d="M578,346 h30 v26 h-30 z M670,344 h24 v26 h-24 z" stroke-width="3.5"/>
+    </g>
+
+    <!-- the spots: every house has them -->
+    <g fill="#c2410c" stroke="none">
+      <circle cx="96" cy="392" r="6"/><circle cx="190" cy="396" r="5"/><circle cx="110" cy="300" r="5"/><circle cx="176" cy="292" r="6"/><circle cx="145" cy="282" r="4"/><circle cx="200" cy="404" r="4"/>
+      <circle cx="330" cy="390" r="6"/><circle cx="440" cy="392" r="5"/><circle cx="350" cy="286" r="5"/><circle cx="414" cy="280" r="6"/><circle cx="384" cy="262" r="4"/><circle cx="452" cy="404" r="4"/>
+      <circle cx="590" cy="396" r="6"/><circle cx="684" cy="398" r="5"/><circle cx="604" cy="306" r="5"/><circle cx="664" cy="298" r="6"/><circle cx="634" cy="288" r="4"/><circle cx="694" cy="408" r="4"/>
+    </g>
+
+    <!-- the virus, strolling the road between the houses with a suitcase -->
+    <g stroke="#7c4a12" stroke-width="3.5">
+      <circle cx="510" cy="452" r="20"/>
+      <path d="M510,428 v-10 M510,476 v8 M486,452 h-10 M534,452 h10 M493,435 l-7,-7 M527,435 l7,-7 M493,469 l-6,6 M527,469 l6,6"/>
+      <circle cx="510" cy="418" r="3" fill="#7c4a12"/><circle cx="476" cy="452" r="3" fill="#7c4a12"/><circle cx="544" cy="452" r="3" fill="#7c4a12"/><circle cx="486" cy="428" r="3" fill="#7c4a12"/><circle cx="534" cy="428" r="3" fill="#7c4a12"/>
+      <circle cx="503" cy="447" r="2.2" fill="#7c4a12"/><circle cx="517" cy="447" r="2.2" fill="#7c4a12"/>
+      <path d="M502,458 C507,463 513,463 518,458"/>
+      <path d="M502,484 l-8,18 M518,484 l9,18"/>
+      <path d="M534,456 C544,460 548,466 550,470"/>
+      <path d="M546,468 h26 v20 h-26 z M553,468 v-5 h12 v5"/>
+    </g>
+
+    <!-- the scribe, in the foreground, scroll in one hand, pointing at the middle house only -->
+    <g stroke="#7c4a12" stroke-width="4">
+      <circle cx="250" cy="478" r="16"/>
+      <path d="M235,472 C240,456 260,456 265,472"/>
+      <path d="M244,474 l4,2 M253,474 l4,-1"/>
+      <path d="M243,485 C247,490 253,490 257,485"/>
+      <path d="M250,494 C247,520 246,540 243,568 M250,494 C254,520 256,540 258,568"/>
+      <path d="M236,568 C244,548 258,548 266,568"/>
+      <path d="M250,506 C280,488 312,462 344,436"/>
+      <path d="M344,436 l12,-8 M344,436 l10,4"/>
+      <path d="M250,510 C232,518 220,526 212,534"/>
+      <path d="M196,526 C200,518 214,520 214,530 C214,540 200,542 196,534 Z"/>
+      <path d="M200,540 C196,556 204,566 216,566"/>
+    </g>
+
+    <!-- the shout -->
+    <g stroke="#7c4a12" stroke-width="3">
+      <path d="M40,520 C42,494 62,484 116,484 C168,484 190,494 190,518 C190,540 170,548 150,548 L132,548 C120,548 100,550 80,546 C56,542 40,536 40,520 Z"/>
+      <path d="M186,506 L228,486 L190,526"/>
+    </g>
+    <text x="115" y="528" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#7c4a12">Unclean!</text>
+
+    <!-- the sun, indifferent -->
+    <g stroke="#d97706" stroke-width="3.5">
+      <circle cx="700" cy="110" r="30"/>
+      <path d="M700,64 v-14 M700,156 v14 M654,110 h-14 M746,110 h14 M667,77 l-10,-10 M733,77 l10,-10 M667,143 l-10,10 M733,143 l10,10"/>
+    </g>
+  </g>
+</svg>
