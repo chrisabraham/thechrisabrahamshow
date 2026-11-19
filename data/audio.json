@@ -209,6 +209,12 @@
   "sha256": "5b939f838f913eb908abe5b4613c3190f6b50a5c268471939ae3b0faf7d0c292",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-duck-hunter-paradox": {
+  "bytes": 3547045,
+  "duration": 443,
+  "sha256": "e246ab1f453e5107161181d57d44373696d811ff88711957196f7f33ae62ad4e",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-farce-of-the-farce-of-justice": {
   "bytes": 5570149,
   "duration": 696,
