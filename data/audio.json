@@ -311,6 +311,12 @@
   "sha256": "df96936eaae5365fa963f061246e8bd6e33fcd79a5ee9f6b7f9f1059b73aa9e7",
   "voice": "avocado_v2:qvd_02406"
  },
+ "verbal-kint": {
+  "bytes": 3932581,
+  "duration": 491,
+  "sha256": "68c6952cc4022447b495236a4650f8c52c9a2723c3a390d61940806221d00f5f",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "when-the-antibiotics-stop-working": {
   "bytes": 3972901,
   "duration": 496,
