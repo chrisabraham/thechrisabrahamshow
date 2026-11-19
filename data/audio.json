@@ -1,4 +1,10 @@
 {
+ "a-different-1969": {
+  "bytes": 4424485,
+  "duration": 553,
+  "sha256": "9b54569f1c8faf286ea12ad9d1fe203187e3907f413290c32c28678af0ae3761",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "a-straight-blow-with-a-crooked-stick": {
   "bytes": 2393125,
   "duration": 299,
@@ -45,6 +51,12 @@
   "bytes": 6750949,
   "duration": 843,
   "sha256": "d629cb4b18e0bcaeb47e9ccbb96ce16a1f453ef997f9eb816bd38bfa94728aff",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "freaking-awesome-at-math": {
+  "bytes": 3266341,
+  "duration": 408,
+  "sha256": "184b3a29549109e56eeb1cd2dfce1f9bd0227169101fc900033e6626cddf3ed5",
   "voice": "avocado_v2:qvd_02406"
  },
  "george-hafner-wrote-it-down": {
@@ -167,6 +179,12 @@
   "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-abduction": {
+  "bytes": 3305125,
+  "duration": 413,
+  "sha256": "6b5e27e9a3797c8971d5795a9be3e4edf9f9558e7dfb97ee2b6fa231c6a2de46",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-actuarial-war-crime": {
   "bytes": 9284005,
   "duration": 1160,
@@ -174,9 +192,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "the-asymmetry-of-grace": {
-  "bytes": 6470437,
-  "duration": 808,
-  "sha256": "bed123a29d1915d3f5b89494d960895adf7080e5bebc48b13f033c5b66b99696",
+  "bytes": 6790501,
+  "duration": 848,
+  "sha256": "51c579bfcad724255a2c9ad84c971d47b4850797a453cddf01accf138f5a759d",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-farce-of-the-farce-of-justice": {
