@@ -239,6 +239,12 @@
   "sha256": "041d3bb6c6c4c993901ac49d1cde8680042e09d5b8562af5145f7dc2a6c50dec",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-kid-gloves": {
+  "bytes": 5313061,
+  "duration": 664,
+  "sha256": "efae83f821b5489d57ef0949b2156b57f0fe249929c0c8ba02c59fe699f25560",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-loan-is-called": {
   "bytes": 3837733,
   "duration": 479,
