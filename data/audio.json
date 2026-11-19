@@ -180,9 +180,9 @@
   "voice": "avocado_v2:qvd_02406"
  },
  "the-abduction": {
-  "bytes": 3305125,
-  "duration": 413,
-  "sha256": "6b5e27e9a3797c8971d5795a9be3e4edf9f9558e7dfb97ee2b6fa231c6a2de46",
+  "bytes": 4248421,
+  "duration": 531,
+  "sha256": "199537d19bfec0f0680fcefdebba4c003fa890fcfc9236c65eb10e5b086ec301",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-actuarial-war-crime": {
@@ -195,6 +195,12 @@
   "bytes": 6791845,
   "duration": 848,
   "sha256": "4e55f0ae3b7edf65984cfc8283cf0ebb17ad71adfa0a99d7c46a0b40c9d4bfb3",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-dive-buddy": {
+  "bytes": 3885733,
+  "duration": 485,
+  "sha256": "5b939f838f913eb908abe5b4613c3190f6b50a5c268471939ae3b0faf7d0c292",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-farce-of-the-farce-of-justice": {
