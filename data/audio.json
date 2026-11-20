@@ -59,6 +59,12 @@
   "sha256": "2e07dbb38822f433cf07d68dd41a7792e2d682b2aae3d87bd018cce78484b17c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "ferraris-are-not-everyday-cars": {
+  "bytes": 4091557,
+  "duration": 511,
+  "sha256": "38913ecf832df10c64d13d3c2bbacdeea5c3e083be71644af55a82dd3c896a02",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "fish-jumping-in-the-boat": {
   "bytes": 4233253,
   "duration": 529,
