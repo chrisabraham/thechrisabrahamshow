@@ -59,6 +59,12 @@
   "sha256": "2e07dbb38822f433cf07d68dd41a7792e2d682b2aae3d87bd018cce78484b17c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "fish-jumping-in-the-boat": {
+  "bytes": 4233253,
+  "duration": 529,
+  "sha256": "a41c15a615a9d75cd10df48025f91b2f9e56439edbcb75e218cea9e409809163",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "freaking-awesome-at-math": {
   "bytes": 3266341,
   "duration": 408,
