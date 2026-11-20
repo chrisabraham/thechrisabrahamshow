@@ -103,6 +103,10 @@
    "asin": "1942812132"
   },
   {
+   "match": "Beverly Hills, 90210",
+   "search": "Beverly Hills 90210 complete series"
+  },
+  {
    "match": "A Fish Called Wanda",
    "search": "A Fish Called Wanda"
   },
@@ -133,6 +137,10 @@
   {
    "match": "The Tipping Point",
    "asin": "0316346624"
+  },
+  {
+   "match": "Murdoch Mysteries",
+   "search": "Murdoch Mysteries complete series"
   },
   {
    "match": "The Executioner",
@@ -176,8 +184,16 @@
    "search": "Jack Reacher series Lee Child"
   },
   {
+   "match": "The Good Fight",
+   "search": "The Good Fight complete series"
+  },
+  {
    "match": "Killing Floor",
    "asin": "0515153656"
+  },
+  {
+   "match": "The Good Wife",
+   "search": "The Good Wife complete series"
   },
   {
    "match": "Moonlighting",
@@ -207,6 +223,10 @@
    "match": "foam roller",
    "search": "foam roller",
    "ci": true
+  },
+  {
+   "match": "Rookie Blue",
+   "search": "Rookie Blue complete series"
   },
   {
    "match": "Alphaville",
@@ -248,6 +268,10 @@
   {
    "match": "Sharpie",
    "search": "Sharpie markers"
+  },
+  {
+   "match": "M*A*S*H",
+   "search": "MASH complete series"
   },
   {
    "match": "Garmin",
