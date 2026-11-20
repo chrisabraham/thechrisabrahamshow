@@ -107,6 +107,12 @@
   "sha256": "f57838ab592cf7ac73774ea9fab775d086ccefbb35e0e055d847ab954cc5e7a5",
   "voice": "avocado_v2:qvd_02406"
  },
+ "i-want-to-be-jane-goodall": {
+  "bytes": 4341925,
+  "duration": 542,
+  "sha256": "9626cf13598e71454b9be0d4978038b2612ac858c14a6b24b2c46309242748e6",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "lawfare-forever": {
   "bytes": 3945829,
   "duration": 493,
