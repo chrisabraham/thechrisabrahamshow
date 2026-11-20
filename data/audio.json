@@ -299,6 +299,12 @@
   "sha256": "c685e281b7266077b6242803de5f8b92ec098057583ffbc08188fd93183c19e3",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-medicine-cabinet": {
+  "bytes": 4359205,
+  "duration": 544,
+  "sha256": "451792275345bc755564af11299a3d4c6f770450a1517d9afa85248d2ebf3e77",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-professional-coward": {
   "bytes": 4698085,
   "duration": 587,
