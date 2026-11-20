@@ -275,6 +275,12 @@
   "sha256": "aa2401688497fc7686435c6b4a856b97e60fe63ca99c1513d95d473ff1dae447",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-hot-potato": {
+  "bytes": 4873957,
+  "duration": 609,
+  "sha256": "f6b5ebc862d0dac6f43efc79c5108c8662e874c360473b692dbdfef2cfcd2c21",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-industrialist-from-inside-the-machine": {
   "bytes": 3170341,
   "duration": null,
