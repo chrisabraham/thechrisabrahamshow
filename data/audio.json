@@ -323,6 +323,12 @@
   "sha256": "df96936eaae5365fa963f061246e8bd6e33fcd79a5ee9f6b7f9f1059b73aa9e7",
   "voice": "avocado_v2:qvd_02406"
  },
+ "two-goldfish-one-notebook": {
+  "bytes": 4632805,
+  "duration": 579,
+  "sha256": "28ccd35b0abadafc696c8acdec2e0eaf8199533cc97340848a5acf06c173edfe",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "verbal-kint": {
   "bytes": 3932581,
   "duration": 491,
