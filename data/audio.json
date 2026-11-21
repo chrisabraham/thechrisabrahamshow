@@ -47,6 +47,12 @@
   "sha256": "161c08b41084989e82c7fc181f4493814ec15061e7ecff1b0b95d03885f6cc05",
   "voice": "avocado_v2:qvd_02406"
  },
+ "either-whole-or-hole": {
+  "bytes": 10894885,
+  "duration": 1361,
+  "sha256": "bf27ad9947773d0ec593a103034018ed1db3be25831bcc5d3921cff6ce77ab22",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "every-conquest-is-called-genocide-now": {
   "bytes": 6750949,
   "duration": 843,
