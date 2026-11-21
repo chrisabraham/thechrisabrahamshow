@@ -161,6 +161,12 @@
   "sha256": "9d5aad627d5d77ab882160a903f8d262f3546e6a5ba78b041ffb2c48f2e2b62f",
   "voice": "avocado_v2:qvd_02406"
  },
+ "neither-ant-nor-grasshopper": {
+  "bytes": 3935461,
+  "duration": 491,
+  "sha256": "99f391bb028e5ad2a8cf001b82a9faabfe6e0626893c152fcaf656d3669eff59",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "nine-years-of-slow-jogging-on-reddit": {
   "bytes": 4222693,
   "duration": 527,
