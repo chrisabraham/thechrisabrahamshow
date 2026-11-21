@@ -161,6 +161,12 @@
   "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
   "voice": "avocado_v2:qvd_02406"
  },
+ "pity-and-locks": {
+  "bytes": 4342309,
+  "duration": 542,
+  "sha256": "e1c6bdddecb59f11b750e25cabfd1c042b7ffd2a43aa8bad628610c0a484e7f4",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "private-eyes-better-man": {
   "bytes": 2778277,
   "duration": 347,
