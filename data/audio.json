@@ -239,6 +239,12 @@
   "sha256": "4e55f0ae3b7edf65984cfc8283cf0ebb17ad71adfa0a99d7c46a0b40c9d4bfb3",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-distress-standard": {
+  "bytes": 4796965,
+  "duration": 599,
+  "sha256": "98b5bc3d4cbbf5ffa172a989bf9200d2de0027b8f0245b24a11f88171541fa8e",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-dive-buddy": {
   "bytes": 3885733,
   "duration": 485,
