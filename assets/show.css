@@ -232,6 +232,10 @@ h3.year { font-size: 1.2rem; margin: 1.5rem 0 .4rem; border-bottom: 1px solid va
 .article-art figcaption { font-family: var(--heading); font-size: .75rem; color: var(--muted); margin-top: .35rem; }
 .articles li { margin-bottom: 1rem; }
 .disclosure { font-family: var(--heading); font-size: .8rem; color: var(--muted); margin-top: 1rem; }
+.suggested-next { border-top: 1px solid var(--rule); margin-top: 1.6em; }
+.suggested-next h2 { font-size: 1.2rem; margin: .9em 0 .4em; }
+.suggested-next li { margin-bottom: .45rem; }
+.suggested-next a { display: inline-block; min-height: 24px; line-height: 24px; padding: 2px 0; }
 
 /* Show index */
 .show-index { list-style: none; padding-left: 0; }

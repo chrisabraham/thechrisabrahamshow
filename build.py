@@ -17,6 +17,7 @@ import hashlib
 import html
 import io
 import json
+import math
 import os
 import re
 import subprocess
@@ -26,6 +27,7 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import Counter
 from html.parser import HTMLParser
 from zoneinfo import ZoneInfo
 
@@ -1171,6 +1173,151 @@ def article_body(a):
     return body
 
 
+# ---------------------------------------------------------------- suggested next
+
+# "Suggested next" (Chris' ruling, Nov 22 2026): every article page ends with
+# five related articles to read or listen to next, so the catalogue stitches
+# itself together with title links and no page is a dead end. Relatedness is
+# deterministic: TF-IDF cosine over each article's keywords (the phrases and
+# their words), title, description, and body text, with hand-tuned sibling
+# pairs for the known families and an evergreen fill, rotated per article,
+# so no page ever ends short. Only articles in data/articles/ take part,
+# which is to say only published ones: a held piece has no source here, so
+# it can neither carry nor receive a link until it ships.
+SUGGESTED_COUNT = 5
+SUGGESTED_FLOOR = 0.03
+SUGGESTED_SIBLING_BOOST = 0.30
+SUGGESTED_SIBLINGS = [
+    ("measles-crossed-three-borders", "not-the-governments-job"),
+    ("measles-crossed-three-borders", "the-asymmetry-of-grace"),
+    ("nobody-pays-a-proportion", "profit-is-not-a-sin"),
+    ("nobody-pays-a-proportion", "the-vital-few-and-the-useful-many"),
+    ("neither-ant-nor-grasshopper", "history-goes-to-the-cowards"),
+    ("neither-ant-nor-grasshopper", "the-isolationist-populist-gets-my-vote"),
+    ("rights-are-not-allowances", "wards-and-citizens"),
+    ("rights-are-not-allowances", "zookeeper-logic"),
+    ("wards-and-citizens", "zookeeper-logic"),
+    ("the-abduction", "the-dive-buddy"),
+    ("the-abduction", "a-different-1969"),
+    ("the-dive-buddy", "a-different-1969"),
+    ("everybody-has-become-a-signifying-monkey", "price-of-the-display"),
+    ("i-want-to-be-jane-goodall", "everybody-has-become-a-signifying-monkey"),
+    ("two-goldfish-one-notebook", "my-mojo-left-with-my-picnic-basket"),
+    ("two-goldfish-one-notebook", "things-i-might-be-making-up"),
+    ("the-gospel-according-to-chris-abraham", "an-old-grandpas-gospel-of-reporting"),
+    ("the-gospel-according-to-chris-abraham", "advocacy-is-not-reportership"),
+    ("an-old-grandpas-gospel-of-reporting", "advocacy-is-not-reportership"),
+    ("musk-didnt-invent-it-thats-the-point", "the-industrialist-from-inside-the-machine"),
+    ("musk-didnt-invent-it-thats-the-point", "profit-is-not-a-sin"),
+    ("the-truck-stops-itself", "the-professional-coward"),
+    ("you-have-to-want-the-ground", "you-dont-have-to-be-homeless-in-dc"),
+    ("the-veto", "yes-in-your-backyard"),
+]
+SUGGESTED_EVERGREEN = [
+    "neither-ant-nor-grasshopper", "i-want-to-be-jane-goodall",
+    "rights-are-not-allowances", "nobody-pays-a-proportion",
+    "two-goldfish-one-notebook", "the-gospel-according-to-chris-abraham",
+    "you-have-to-want-the-ground", "the-veto", "history-goes-to-the-cowards",
+    "george-hafner-wrote-it-down", "measles-crossed-three-borders",
+    "security-theater",
+]
+_SUGGESTED_STOP = frozenset(
+    "the a an and or of to in on for with is are was were be been it its this "
+    "that these those as at by from not no if but so than then too very can "
+    "could should would do does did have has had he she they we you his her "
+    "their our your my me him them us who whom what when where which while "
+    "into over under about between through after before out up down off again "
+    "once only also just like more most other some any all each every own "
+    "same".split())
+
+
+def _suggested_words(s):
+    return [w for w in re.findall(r"[a-z0-9][a-z0-9'\-]*", (s or "").lower())
+            if len(w) >= 3 and w not in _SUGGESTED_STOP]
+
+
+def suggested_next(arts):
+    """{slug: [article, ...]}: each article's Suggested next picks, best
+    first. A pure function of the loaded articles, so the daily build and a
+    local build lay the same stitches."""
+    n = len(arts)
+    fields, df = [], Counter()
+    for a in arts:
+        phrases = [p.strip().lower() for p in (a.get("keywords") or "").split(",") if p.strip()]
+        words = set()
+        for p in phrases:
+            words.update(_suggested_words(p))
+        title = set(_suggested_words(a["title"]))
+        desc = set(_suggested_words(a.get("description")))
+        body = Counter(_suggested_words(article_text(a)))
+        fields.append((phrases, words, title, desc, body))
+        for t in set(phrases) | words | title | desc | set(body):
+            df[t] += 1
+
+    def idf(t):
+        return math.log((n + 1) / (df[t] + 1)) + 1.0
+
+    vecs = []
+    for phrases, words, title, desc, body in fields:
+        v = {}
+        for p in phrases:
+            v["k:" + p] = v.get("k:" + p, 0.0) + 4.0 * idf(p)
+        for w in words:
+            v["w:" + w] = v.get("w:" + w, 0.0) + 1.5 * idf(w)
+        for w in title:
+            v["w:" + w] = v.get("w:" + w, 0.0) + 2.0 * idf(w)
+        for w in desc:
+            v["w:" + w] = v.get("w:" + w, 0.0) + 1.0 * idf(w)
+        for w, c in body.items():
+            v["w:" + w] = v.get("w:" + w, 0.0) + 0.25 * math.sqrt(c) * idf(w)
+        vecs.append((v, math.sqrt(sum(x * x for x in v.values()))))
+
+    siblings = {}
+    for x, y in SUGGESTED_SIBLINGS:
+        siblings.setdefault(x, set()).add(y)
+        siblings.setdefault(y, set()).add(x)
+    by_slug = {article_slug(a): a for a in arts}
+    out = {}
+    for i, a in enumerate(arts):
+        slug = article_slug(a)
+        vi, ni = vecs[i]
+        scored = []
+        for j, b in enumerate(arts):
+            if j == i:
+                continue
+            vj, nj = vecs[j]
+            small, big = (vi, vj) if len(vi) <= len(vj) else (vj, vi)
+            s = sum(x * big.get(k, 0.0) for k, x in small.items()) / (ni * nj) if ni and nj else 0.0
+            if article_slug(b) in siblings.get(slug, ()):
+                s += SUGGESTED_SIBLING_BOOST
+            scored.append((s, article_slug(b)))
+        scored.sort(key=lambda t: (-t[0], t[1]))
+        picks = [bslug for s, bslug in scored if s > SUGGESTED_FLOOR][:SUGGESTED_COUNT]
+        if len(picks) < SUGGESTED_COUNT:
+            k = i % len(SUGGESTED_EVERGREEN)
+            for eslug in SUGGESTED_EVERGREEN[k:] + SUGGESTED_EVERGREEN[:k]:
+                if len(picks) >= SUGGESTED_COUNT:
+                    break
+                if eslug != slug and eslug in by_slug and eslug not in picks:
+                    picks.append(eslug)
+        out[slug] = [by_slug[p] for p in picks]
+    return out
+
+
+def suggested_block(picks):
+    """The block itself: a nav after the article and before the page's
+    closing furniture, headed with Chris' own words for it."""
+    if not picks:
+        return ""
+    items = "\n".join('    <li><a href="/%s">%s</a></li>' % (b["path"], e(b["title"])) for b in picks)
+    return "\n".join(['<nav class="suggested-next" aria-label="Suggested next">',
+                      '  <h2>Suggested next</h2>',
+                      '  <ul class="articles">',
+                      items,
+                      '  </ul>',
+                      '</nav>'])
+
+
 def articles_feed(show, arts, manifest, self_name=ARTICLES_FEED):
     """articles.xml: the shadow edition (Chris' word). The podcast itself
     lives with the providers and its feed stays pure episodes; this local
@@ -1476,6 +1623,7 @@ def build(show, eps):
     arts = load_articles()
     ensure_article_cards(arts)
     audio_manifest = ensure_article_audio(arts)
+    suggested = suggested_next(arts)
     for a in arts:
         url = SITE + "/" + a["path"]
         img = a.get("image")
@@ -1500,6 +1648,7 @@ def build(show, eps):
         body = "\n".join(['<article class="entry">', '  <h1>%s</h1>' % e(a["title"]),
                           '  <p class="meta">An article by <a href="%s" rel="author">%s</a>, %s</p>' % (AUTHORS[akey]["path"], e(AUTHORS[akey]["name"]), nice(a["when"])),
                           '  <div class="entry-body">', figure, player, share_line(url, a["title"]), a_body, share_line(url, a["title"]), "  </div>", "</article>",
+                          suggested_block(suggested[slug]),
                           '<p class="intro">More writing in the <a href="/articles.html">articles</a>, and every episode of the show in the <a href="/archives.html">archives</a>.</p>'])
         card = a.get("card")
         if not card and img:
