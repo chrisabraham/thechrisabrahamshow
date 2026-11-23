@@ -47,6 +47,12 @@
   "sha256": "bf478c12af20392184327d5782b190306fc138254dd6acf3a3df22f454c90cf6",
   "voice": "avocado_v2:qvd_02406"
  },
+ "bucket-lists-are-for-poor-people": {
+  "bytes": 4359397,
+  "duration": 545,
+  "sha256": "194ef7abdaf68c2a29fb04cc96eb301f3fe993ab3cc7d757cff2ae4428029ba3",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "build-your-own-website": {
   "bytes": 3367333,
   "duration": 420,
