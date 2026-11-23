@@ -1,524 +1,530 @@
 {
- "a-child-deserves-candy-and-soda": {
-  "bytes": 5752165,
-  "duration": 719,
-  "sha256": "d88141ff32200f07056cad4feed868d14982c83fa80b19e68b209a574abae16c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "a-different-1969": {
-  "bytes": 4424485,
-  "duration": 553,
-  "sha256": "9b54569f1c8faf286ea12ad9d1fe203187e3907f413290c32c28678af0ae3761",
-  "voice": "avocado_v2:qvd_02406"
- },
- "a-straight-blow-with-a-crooked-stick": {
-  "bytes": 2393125,
-  "duration": 299,
-  "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
-  "voice": "avocado_v2:qvd_02406"
- },
- "a-word-from-the-capitol": {
-  "bytes": 4278949,
-  "duration": 534,
-  "sha256": "2da80ef05e5221f17ff70a9446000f79c4a47b49df42bb0f78cc57f73ba65cb3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "advocacy-is-not-reportership": {
-  "bytes": 4300645,
-  "duration": 537.576,
-  "sha256": "3bd394e531e6482bfe0483ce48cf4d5bd0594a8cb9cd3b9f1f9c0e188567578f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "america-fits-brics-better-than-nato": {
-  "bytes": 6509229,
-  "duration": 813.624,
-  "sha256": "e7ca799837f7daa58f185787a7003e29858ca4ddda17d2884a9e8524beddbc18",
-  "voice": "avocado_v2:qvd_02406"
- },
- "an-old-grandpas-gospel-of-reporting": {
-  "bytes": 14811109,
-  "duration": 1851,
-  "sha256": "92c8c8579f56c1b26a371e43f24b75832d04d666811c236a7be8ba9454474bbb",
-  "voice": "avocado_v2:qvd_02406"
- },
- "ask-not-three-social-contracts": {
-  "bytes": 4636453,
-  "duration": 579,
-  "sha256": "5f284e3ed38784b6aee25b2b504054431a6da9d397755d499b779d92e1251726",
-  "voice": "avocado_v2:qvd_02406"
- },
- "beautiful-beards-beautiful-merkins": {
-  "bytes": 15324709,
-  "duration": 1915,
-  "sha256": "f9e1daeda8aee2ad8886ae470cc88f5ac6ef7f26d730a23f84079c315b5da8ae",
-  "voice": "avocado_v2:qvd_02406"
- },
- "blew-up-reddit-someone-elses-loss": {
-  "bytes": 3083173,
-  "duration": 385,
-  "sha256": "bf478c12af20392184327d5782b190306fc138254dd6acf3a3df22f454c90cf6",
-  "voice": "avocado_v2:qvd_02406"
- },
- "bucket-lists-are-for-poor-people": {
-  "bytes": 4359397,
-  "duration": 545,
-  "sha256": "194ef7abdaf68c2a29fb04cc96eb301f3fe993ab3cc7d757cff2ae4428029ba3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "build-your-own-website": {
-  "bytes": 3367333,
-  "duration": 420,
-  "sha256": "161c08b41084989e82c7fc181f4493814ec15061e7ecff1b0b95d03885f6cc05",
-  "voice": "avocado_v2:qvd_02406"
- },
- "chanel-can-use-ai-but-your-church-cannot": {
-  "bytes": 4964965,
-  "duration": 620,
-  "sha256": "a5ece9101b8fde24671a6a3e6553b4c91ac226dcf54d5b9640dba312ab08fe94",
-  "voice": "avocado_v2:qvd_02406"
- },
- "either-whole-or-hole": {
-  "bytes": 10894885,
-  "duration": 1361,
-  "sha256": "bf27ad9947773d0ec593a103034018ed1db3be25831bcc5d3921cff6ce77ab22",
-  "voice": "avocado_v2:qvd_02406"
- },
- "every-conquest-is-called-genocide-now": {
-  "bytes": 6750949,
-  "duration": 843,
-  "sha256": "d629cb4b18e0bcaeb47e9ccbb96ce16a1f453ef997f9eb816bd38bfa94728aff",
-  "voice": "avocado_v2:qvd_02406"
- },
- "everybody-has-become-a-signifying-monkey": {
-  "bytes": 4943077,
-  "duration": 617,
-  "sha256": "2e07dbb38822f433cf07d68dd41a7792e2d682b2aae3d87bd018cce78484b17c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "ferraris-are-not-everyday-cars": {
-  "bytes": 4091557,
-  "duration": 511,
-  "sha256": "38913ecf832df10c64d13d3c2bbacdeea5c3e083be71644af55a82dd3c896a02",
-  "voice": "avocado_v2:qvd_02406"
- },
- "fish-jumping-in-the-boat": {
-  "bytes": 4233253,
-  "duration": 529,
-  "sha256": "a41c15a615a9d75cd10df48025f91b2f9e56439edbcb75e218cea9e409809163",
-  "voice": "avocado_v2:qvd_02406"
- },
- "freaking-awesome-at-math": {
-  "bytes": 3266341,
-  "duration": 408,
-  "sha256": "184b3a29549109e56eeb1cd2dfce1f9bd0227169101fc900033e6626cddf3ed5",
-  "voice": "avocado_v2:qvd_02406"
- },
- "george-hafner-wrote-it-down": {
-  "bytes": 4660653,
-  "duration": 583,
-  "sha256": "bf024fef5e6e7586c954b89f77e95c703c2936e3d16c68938ff9762cf5e68dd9",
-  "voice": "avocado_v2:qvd_02406"
- },
- "gw-mens-rowing-alumni-night": {
-  "bytes": 2226469,
-  "duration": 278,
-  "sha256": "a20eb1ddcde1316b02af49593fe1edd432aac5c233fecb5b0491e32146438af5",
-  "voice": "avocado_v2:qvd_02406"
- },
- "half-the-game": {
-  "bytes": 7127845,
-  "duration": 890,
-  "sha256": "fd16f5ac4ccd99456178a4f2a8cc375257e4efbc11f797c801a739a181b4cb8e",
-  "voice": "avocado_v2:qvd_02406"
- },
- "heres-your-warning": {
-  "bytes": 6703141,
-  "duration": 837,
-  "sha256": "7628f722e7bb1e601ef247d8f03820d5eb9aecd1d7624db27b4afe5589b5bd6f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "how-much-hitler": {
-  "bytes": 7618213,
-  "duration": 952,
-  "sha256": "991689454c9f41637ce29266582fa1ca73f7a4065475bc9909ed1d4f5205f08d",
-  "voice": "avocado_v2:qvd_02406"
- },
- "i-dont-hate-trump-enough": {
-  "bytes": 5732197,
-  "duration": 716,
-  "sha256": "d15258c6e70223c37f9ab180f1c8204327e85a0fa9258a40fcba958e51dedc0f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "i-might-as-well-become-the-private-eyes-guy": {
-  "bytes": 4096933,
-  "duration": 512.112,
-  "sha256": "f57838ab592cf7ac73774ea9fab775d086ccefbb35e0e055d847ab954cc5e7a5",
-  "voice": "avocado_v2:qvd_02406"
- },
- "i-want-to-be-jane-goodall": {
-  "bytes": 4341925,
-  "duration": 542,
-  "sha256": "9626cf13598e71454b9be0d4978038b2612ac858c14a6b24b2c46309242748e6",
-  "voice": "avocado_v2:qvd_02406"
- },
- "lawfare-forever": {
-  "bytes": 3945829,
-  "duration": 493,
-  "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "midterm-election-roundup-the-blue-wave-came": {
-  "bytes": 11132581,
-  "duration": 1391,
-  "sha256": "23653526ef03a16a6ebf4497ca8ea4f6d41de59ce2b9ed4f2914d66bec51f411",
-  "voice": "avocado_v2:qvd_02406"
- },
- "musk-didnt-invent-it-thats-the-point": {
-  "bytes": 3228133,
-  "duration": 403,
-  "sha256": "4f434e50b5c3b7dbb49b649105e8f248b45bb96723089de9e454f93180ca15cd",
-  "voice": "avocado_v2:qvd_02406"
- },
- "my-mojo-left-with-my-picnic-basket": {
-  "bytes": 4391269,
-  "duration": 548,
-  "sha256": "52b4ecf6187b69419e0370d19426beee37cf0153b9cafcf1ef03cdf50077780c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "nathalia-filgueiras": {
-  "bytes": 5261605,
-  "duration": 657,
-  "sha256": "9d5aad627d5d77ab882160a903f8d262f3546e6a5ba78b041ffb2c48f2e2b62f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "neither-ant-nor-grasshopper": {
-  "bytes": 7428901,
-  "duration": 929,
-  "sha256": "b46a04584a015d911f45245d284c72a95d827ee11898ca7f3c0088f0290a7c27",
-  "voice": "avocado_v2:qvd_02406"
- },
- "nine-years-of-slow-jogging-on-reddit": {
-  "bytes": 4222693,
-  "duration": 527,
-  "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
-  "voice": "avocado_v2:qvd_02406"
- },
- "nobody-pays-a-proportion": {
-  "bytes": 6751333,
-  "duration": 843,
-  "sha256": "5fad9476d1ad496c1616fc6955ede0a3f768b9dcdfd1af7efdda2d8b8436221f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "not-the-governments-job": {
-  "bytes": 5858149,
-  "duration": 732,
-  "sha256": "3f52d2b2642537f3fc21ab48aa94e6e5a887367aea2ace3ecb3003df78c19021",
-  "voice": "avocado_v2:qvd_02406"
- },
- "pity-and-locks": {
-  "bytes": 4342309,
-  "duration": 542,
-  "sha256": "e1c6bdddecb59f11b750e25cabfd1c042b7ffd2a43aa8bad628610c0a484e7f4",
-  "voice": "avocado_v2:qvd_02406"
- },
- "private-eyes-better-man": {
-  "bytes": 2778277,
-  "duration": 347,
-  "sha256": "f204a5c35dd7947062845ca259ec403a8fb8e14252078c55745079eb3e1d5d9c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "private-eyes-christ-figure": {
-  "bytes": 4498597,
-  "duration": 562,
-  "sha256": "e4814c90981fd1b5c24e1d0529613c211da6ea70acecdde20a911f177f6c8e18",
-  "voice": "avocado_v2:qvd_02406"
- },
- "private-eyes-still-learning": {
-  "bytes": 2535781,
-  "duration": 316,
-  "sha256": "f18a40558c55185ca9fb6eefd954992a94cf771b34fd01db6b982da80c3baab4",
-  "voice": "avocado_v2:qvd_02406"
- },
- "probably-not-voting": {
-  "bytes": 10410853,
-  "duration": 1301,
-  "sha256": "ea7ba235b788c1f9fced3237f910c34fd2d82523aaaeff8455122d54163dd8ee",
-  "voice": "avocado_v2:qvd_02406"
- },
- "profit-is-not-a-sin": {
-  "bytes": 3234853,
-  "duration": 404,
-  "sha256": "29f2813e248ba66c38a8dea014405f18d1452672972936db39d7ff395163f45c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "reacher-and-bolan": {
-  "bytes": 2182501,
-  "duration": 272,
-  "sha256": "43fd587ca18b84d54ba586e44b7dbd64a4a253837cbce3cd2e68ed11ca861a2e",
-  "voice": "avocado_v2:qvd_02406"
- },
- "ride-like-a-varmint": {
-  "bytes": 3587941,
-  "duration": 448,
-  "sha256": "5e9f19cfd1387ba8744331075ea5aeffce2c7492e92b7e386ea2178ea73b5a99",
-  "voice": "avocado_v2:qvd_02406"
- },
- "rights-are-not-allowances": {
-  "bytes": 5212069,
-  "duration": 651,
-  "sha256": "5a2c6a8a2dadcdb8e34f6ca9a5b0bd65a0ff2d7de68d41c5b6cf53c1edcb7cf2",
-  "voice": "avocado_v2:qvd_02406"
- },
- "saving-pagan-babies": {
-  "bytes": 5955109,
-  "duration": 744,
-  "sha256": "c0cd9049288204a813a19f2b4471a590751bba7f91f5f8a3f51bf6d7af3235b7",
-  "voice": "avocado_v2:qvd_02406"
- },
- "security-theater": {
-  "bytes": 15722533,
-  "duration": null,
-  "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
-  "voice": "avocado_v2:qvd_02406"
- },
- "send-every-poor-kid-to-disneyland": {
-  "bytes": 13091941,
-  "duration": 1636,
-  "sha256": "de6d693c1235dadcf759ec086554e94bdb01cd49613a5a6142c2412cc33f55ae",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-abduction": {
-  "bytes": 4844389,
-  "duration": 605,
-  "sha256": "259116777736caaee24ab16e58f6cba564780e40ffbdb7cc0f6d02eef6a4bb53",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-actuarial-war-crime": {
-  "bytes": 9284005,
-  "duration": 1160,
-  "sha256": "472c94a16b6228a7342de58570b8509f15ecbc74e03348f402756ded186e36e4",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-asymmetry-of-grace": {
-  "bytes": 6791845,
-  "duration": 848,
-  "sha256": "4e55f0ae3b7edf65984cfc8283cf0ebb17ad71adfa0a99d7c46a0b40c9d4bfb3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-death-of-the-author-was-a-custody-grab": {
-  "bytes": 5036773,
-  "duration": 629,
-  "sha256": "c6ba1e79bb6341d8468553eaaf95012c8959ceaa55a629b88d505fa449381959",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-distress-standard": {
-  "bytes": 4796965,
-  "duration": 599,
-  "sha256": "98b5bc3d4cbbf5ffa172a989bf9200d2de0027b8f0245b24a11f88171541fa8e",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-dive-buddy": {
-  "bytes": 3885733,
-  "duration": 485,
-  "sha256": "5b939f838f913eb908abe5b4613c3190f6b50a5c268471939ae3b0faf7d0c292",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-duck-hunter-paradox": {
-  "bytes": 5276005,
-  "duration": 659,
-  "sha256": "0ec5346d47fb612d4ccaf7f3f10c1d3bdd06cb9df6b7258b41bbd5ab3e0d4164",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-farce-of-the-farce-of-justice": {
-  "bytes": 5570149,
-  "duration": 696,
-  "sha256": "c89e3075414513052994926f36527eba165ad24c37a2c4559beb0301fda59d5c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-first-muslim-senator": {
-  "bytes": 17433637,
-  "duration": null,
-  "sha256": "625e7df718801490d5f25fcbeb36a0186bdc3303623d9a5c30b0ec38e6e57889",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-glass-jaw-of-democracy": {
-  "bytes": 4062181,
-  "duration": null,
-  "sha256": "5885b02d89e3287d2b84cd24cf0ef386826eadc2989061e25a7861998f61133c",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-gospel-according-to-chris-abraham": {
-  "bytes": 14119525,
-  "duration": 1764,
-  "sha256": "aa2401688497fc7686435c6b4a856b97e60fe63ca99c1513d95d473ff1dae447",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-hot-potato": {
-  "bytes": 4873957,
-  "duration": 609,
-  "sha256": "f6b5ebc862d0dac6f43efc79c5108c8662e874c360473b692dbdfef2cfcd2c21",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-industrialist-from-inside-the-machine": {
-  "bytes": 3170341,
-  "duration": null,
-  "sha256": "041d3bb6c6c4c993901ac49d1cde8680042e09d5b8562af5145f7dc2a6c50dec",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-isolationist-populist-gets-my-vote": {
-  "bytes": 7335013,
-  "duration": 916,
-  "sha256": "e40a67cec5aed4cb91c1849f38c45c1dbfc2bed9ba37ba641cc740ba44c57c59",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-kid-gloves": {
-  "bytes": 5313061,
-  "duration": 664,
-  "sha256": "efae83f821b5489d57ef0949b2156b57f0fe249929c0c8ba02c59fe699f25560",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-loan-is-called": {
-  "bytes": 3837733,
-  "duration": 479,
-  "sha256": "0054f83ec06a87ae5630a6975c48b30e360bdb3e42a1e086e0b6a1b690935109",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-machine-thinks-im-a-mastermind": {
-  "bytes": 2826277,
-  "duration": 353,
-  "sha256": "c685e281b7266077b6242803de5f8b92ec098057583ffbc08188fd93183c19e3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-medicine-cabinet": {
-  "bytes": 4359205,
-  "duration": 544,
-  "sha256": "451792275345bc755564af11299a3d4c6f770450a1517d9afa85248d2ebf3e77",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-more-the-merrier": {
-  "bytes": 1993189,
-  "duration": 249,
-  "sha256": "2ae4bbfe0c39cee2d2ea1925b4289d535dac9234534ad812fde568e33bef8ed3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-professional-coward": {
-  "bytes": 4698085,
-  "duration": 587,
-  "sha256": "98913c5f1e7fb1760054076489f91d5dda6f472041b2c885e994189d0c0147f7",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-runway": {
-  "bytes": 4556005,
-  "duration": 569,
-  "sha256": "dcb936e5d32a35e45da508dac4a18afbf6f10ec8e86a84ca888c3da623a4e224",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-short-leash": {
-  "bytes": 4394917,
-  "duration": null,
-  "sha256": "7b7977753fc6c12be3066713a114308f67d800163cc90b991ac2d3248e759c78",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-sixteen-percent": {
-  "bytes": 10371493,
-  "duration": null,
-  "sha256": "527fb369b3e058622fb354fb3803a9221b274b550321e2f959a4ae4ee01a8da9",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-trellis-not-the-vine": {
-  "bytes": 5189797,
-  "duration": null,
-  "sha256": "148787240a8bfe35431bbcf115f13688b68c174b3e066f14b2c56ef6f62afffb",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-truck-stops-itself": {
-  "bytes": 5715493,
-  "duration": 714,
-  "sha256": "b722f4a13571cea359a6509e72b28f1a4d1f788c5c243725f8bdb2dd4b6c1bfe",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-window-moved-i-stayed-put": {
-  "bytes": 7337317,
-  "duration": 917,
-  "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-worst-hitler-ever": {
-  "bytes": 7861477,
-  "duration": 982,
-  "sha256": "5a7efc5d9e0b005df06bde8535e38372576079c6c1f542b2a8022e9d98e047f3",
-  "voice": "avocado_v2:qvd_02406"
- },
- "things-i-might-be-making-up": {
-  "bytes": 3226213,
-  "duration": null,
-  "sha256": "4e953f270759c19888f7b9fe5b810bead3ce7377248b36aa599556f5459c40be",
-  "voice": "avocado_v2:qvd_02406"
- },
- "this-isnt-a-prison-planet": {
-  "bytes": 7265893,
-  "duration": null,
-  "sha256": "df96936eaae5365fa963f061246e8bd6e33fcd79a5ee9f6b7f9f1059b73aa9e7",
-  "voice": "avocado_v2:qvd_02406"
- },
- "two-goldfish-one-notebook": {
-  "bytes": 4632805,
-  "duration": 579,
-  "sha256": "34a8fbfc3763d3782b95ce24e122e0732c09dfd2faf228894a85adac06e5092d",
-  "voice": "avocado_v2:qvd_02406"
- },
- "verbal-kint": {
-  "bytes": 3932581,
-  "duration": 491,
-  "sha256": "68c6952cc4022447b495236a4650f8c52c9a2723c3a390d61940806221d00f5f",
-  "voice": "avocado_v2:qvd_02406"
- },
- "wards-and-citizens": {
-  "bytes": 4909861,
-  "duration": 613,
-  "sha256": "161c7e4f482384b67ed27f18dddf02e89b974f1e4d3a651cce52b98496b4f139",
-  "voice": "avocado_v2:qvd_02406"
- },
- "when-the-antibiotics-stop-working": {
-  "bytes": 3972901,
-  "duration": 496,
-  "sha256": "b7f83abeaee80b44f0576aaeca13a8c3a362856dd67306f9974fac2d7b3ae51b",
-  "voice": "avocado_v2:qvd_02406"
- },
- "why-i-didnt-vote-on-tuesday": {
-  "bytes": 5005477,
-  "duration": null,
-  "sha256": "f4115ebe53e41d011a36857219dd4276e48041881da2f15b55fece6d4c2be8ca",
-  "voice": "avocado_v2:qvd_02406"
- },
- "why-matt-shade-is-not-a-douchebag": {
-  "bytes": 6539749,
-  "duration": 817,
-  "sha256": "094dd2a5fc2ed402f54626b2189a2bb992bb46657ea58bf6fa42007d61a7306b",
-  "voice": "avocado_v2:qvd_02406"
- },
- "yes-in-your-backyard": {
-  "bytes": 20832805,
-  "duration": 2604,
-  "sha256": "9971015cf0d8e37777fa71fbcf5ae58073a413e3e8120112c2e335f1e1a76096",
-  "voice": "avocado_v2:qvd_02406"
- },
- "you-dont-have-to-be-homeless-in-dc": {
-  "bytes": 6661093,
-  "duration": 832,
-  "sha256": "e92acb8bc92a5f705f683b691101a18d6dabe62634e6d8d787961e518fb96aea",
-  "voice": "avocado_v2:qvd_02406"
- },
- "you-have-to-want-the-ground": {
-  "bytes": 5142565,
-  "duration": 642,
-  "sha256": "64a052378023d7e960b412bc224b091ab7107efd1449079d307d1274bfdc773e",
-  "voice": "avocado_v2:qvd_02406"
- },
- "you-won-a-midterm-not-a-presidency": {
-  "bytes": 7047781,
-  "duration": 880,
-  "sha256": "0f9225ba01442f6e87c1cfd0fd567f625e9e28eab6847122096aee8324738d72",
-  "voice": "avocado_v2:qvd_02406"
- }
+  "a-child-deserves-candy-and-soda": {
+    "bytes": 5752165,
+    "duration": 719,
+    "sha256": "d88141ff32200f07056cad4feed868d14982c83fa80b19e68b209a574abae16c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "a-different-1969": {
+    "bytes": 4424485,
+    "duration": 553,
+    "sha256": "9b54569f1c8faf286ea12ad9d1fe203187e3907f413290c32c28678af0ae3761",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "a-straight-blow-with-a-crooked-stick": {
+    "bytes": 2393125,
+    "duration": 299,
+    "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "a-word-from-the-capitol": {
+    "bytes": 4278949,
+    "duration": 534,
+    "sha256": "2da80ef05e5221f17ff70a9446000f79c4a47b49df42bb0f78cc57f73ba65cb3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "advocacy-is-not-reportership": {
+    "bytes": 4300645,
+    "duration": 537.576,
+    "sha256": "3bd394e531e6482bfe0483ce48cf4d5bd0594a8cb9cd3b9f1f9c0e188567578f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "america-fits-brics-better-than-nato": {
+    "bytes": 6509229,
+    "duration": 813.624,
+    "sha256": "e7ca799837f7daa58f185787a7003e29858ca4ddda17d2884a9e8524beddbc18",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "an-old-grandpas-gospel-of-reporting": {
+    "bytes": 14811109,
+    "duration": 1851,
+    "sha256": "92c8c8579f56c1b26a371e43f24b75832d04d666811c236a7be8ba9454474bbb",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "ask-not-three-social-contracts": {
+    "bytes": 4636453,
+    "duration": 579,
+    "sha256": "5f284e3ed38784b6aee25b2b504054431a6da9d397755d499b779d92e1251726",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "beautiful-beards-beautiful-merkins": {
+    "bytes": 15324709,
+    "duration": 1915,
+    "sha256": "f9e1daeda8aee2ad8886ae470cc88f5ac6ef7f26d730a23f84079c315b5da8ae",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "blew-up-reddit-someone-elses-loss": {
+    "bytes": 3083173,
+    "duration": 385,
+    "sha256": "bf478c12af20392184327d5782b190306fc138254dd6acf3a3df22f454c90cf6",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "bucket-lists-are-for-poor-people": {
+    "bytes": 4359397,
+    "duration": 545,
+    "sha256": "194ef7abdaf68c2a29fb04cc96eb301f3fe993ab3cc7d757cff2ae4428029ba3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "build-your-own-website": {
+    "bytes": 3367333,
+    "duration": 420,
+    "sha256": "161c08b41084989e82c7fc181f4493814ec15061e7ecff1b0b95d03885f6cc05",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "chanel-can-use-ai-but-your-church-cannot": {
+    "bytes": 4964965,
+    "duration": 620,
+    "sha256": "a5ece9101b8fde24671a6a3e6553b4c91ac226dcf54d5b9640dba312ab08fe94",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "either-whole-or-hole": {
+    "bytes": 10894885,
+    "duration": 1361,
+    "sha256": "bf27ad9947773d0ec593a103034018ed1db3be25831bcc5d3921cff6ce77ab22",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "every-conquest-is-called-genocide-now": {
+    "bytes": 6750949,
+    "duration": 843,
+    "sha256": "d629cb4b18e0bcaeb47e9ccbb96ce16a1f453ef997f9eb816bd38bfa94728aff",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "everybody-has-become-a-signifying-monkey": {
+    "bytes": 4943077,
+    "duration": 617,
+    "sha256": "2e07dbb38822f433cf07d68dd41a7792e2d682b2aae3d87bd018cce78484b17c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "ferraris-are-not-everyday-cars": {
+    "bytes": 4091557,
+    "duration": 511,
+    "sha256": "38913ecf832df10c64d13d3c2bbacdeea5c3e083be71644af55a82dd3c896a02",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "fish-jumping-in-the-boat": {
+    "bytes": 4233253,
+    "duration": 529,
+    "sha256": "a41c15a615a9d75cd10df48025f91b2f9e56439edbcb75e218cea9e409809163",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "freaking-awesome-at-math": {
+    "bytes": 3266341,
+    "duration": 408,
+    "sha256": "184b3a29549109e56eeb1cd2dfce1f9bd0227169101fc900033e6626cddf3ed5",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "george-hafner-wrote-it-down": {
+    "bytes": 4660653,
+    "duration": 583,
+    "sha256": "bf024fef5e6e7586c954b89f77e95c703c2936e3d16c68938ff9762cf5e68dd9",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "gw-mens-rowing-alumni-night": {
+    "bytes": 2226469,
+    "duration": 278,
+    "sha256": "a20eb1ddcde1316b02af49593fe1edd432aac5c233fecb5b0491e32146438af5",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "half-the-game": {
+    "bytes": 7127845,
+    "duration": 890,
+    "sha256": "fd16f5ac4ccd99456178a4f2a8cc375257e4efbc11f797c801a739a181b4cb8e",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "heres-your-warning": {
+    "bytes": 6703141,
+    "duration": 837,
+    "sha256": "7628f722e7bb1e601ef247d8f03820d5eb9aecd1d7624db27b4afe5589b5bd6f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "how-much-hitler": {
+    "bytes": 7618213,
+    "duration": 952,
+    "sha256": "991689454c9f41637ce29266582fa1ca73f7a4065475bc9909ed1d4f5205f08d",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "i-dont-hate-trump-enough": {
+    "bytes": 5732197,
+    "duration": 716,
+    "sha256": "d15258c6e70223c37f9ab180f1c8204327e85a0fa9258a40fcba958e51dedc0f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "i-might-as-well-become-the-private-eyes-guy": {
+    "bytes": 4096933,
+    "duration": 512.112,
+    "sha256": "f57838ab592cf7ac73774ea9fab775d086ccefbb35e0e055d847ab954cc5e7a5",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "i-want-to-be-jane-goodall": {
+    "bytes": 4341925,
+    "duration": 542,
+    "sha256": "9626cf13598e71454b9be0d4978038b2612ac858c14a6b24b2c46309242748e6",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "lawfare-forever": {
+    "bytes": 3945829,
+    "duration": 493,
+    "sha256": "adcedc31a1b07d19d08268d39c9a72ac2429574edf0b3f666c9e419228b47c8c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "midterm-election-roundup-the-blue-wave-came": {
+    "bytes": 11132581,
+    "duration": 1391,
+    "sha256": "23653526ef03a16a6ebf4497ca8ea4f6d41de59ce2b9ed4f2914d66bec51f411",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "musk-didnt-invent-it-thats-the-point": {
+    "bytes": 3228133,
+    "duration": 403,
+    "sha256": "4f434e50b5c3b7dbb49b649105e8f248b45bb96723089de9e454f93180ca15cd",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "my-mojo-left-with-my-picnic-basket": {
+    "bytes": 4391269,
+    "duration": 548,
+    "sha256": "52b4ecf6187b69419e0370d19426beee37cf0153b9cafcf1ef03cdf50077780c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "nathalia-filgueiras": {
+    "bytes": 5261605,
+    "duration": 657,
+    "sha256": "9d5aad627d5d77ab882160a903f8d262f3546e6a5ba78b041ffb2c48f2e2b62f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "neither-ant-nor-grasshopper": {
+    "bytes": 7428901,
+    "duration": 929,
+    "sha256": "b46a04584a015d911f45245d284c72a95d827ee11898ca7f3c0088f0290a7c27",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "nine-years-of-slow-jogging-on-reddit": {
+    "bytes": 4222693,
+    "duration": 527,
+    "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "nobody-pays-a-proportion": {
+    "bytes": 6751333,
+    "duration": 843,
+    "sha256": "5fad9476d1ad496c1616fc6955ede0a3f768b9dcdfd1af7efdda2d8b8436221f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "not-the-governments-job": {
+    "bytes": 5858149,
+    "duration": 732,
+    "sha256": "3f52d2b2642537f3fc21ab48aa94e6e5a887367aea2ace3ecb3003df78c19021",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "pity-and-locks": {
+    "bytes": 4342309,
+    "duration": 542,
+    "sha256": "e1c6bdddecb59f11b750e25cabfd1c042b7ffd2a43aa8bad628610c0a484e7f4",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "private-eyes-better-man": {
+    "bytes": 2778277,
+    "duration": 347,
+    "sha256": "f204a5c35dd7947062845ca259ec403a8fb8e14252078c55745079eb3e1d5d9c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "private-eyes-christ-figure": {
+    "bytes": 4498597,
+    "duration": 562,
+    "sha256": "e4814c90981fd1b5c24e1d0529613c211da6ea70acecdde20a911f177f6c8e18",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "private-eyes-still-learning": {
+    "bytes": 2535781,
+    "duration": 316,
+    "sha256": "f18a40558c55185ca9fb6eefd954992a94cf771b34fd01db6b982da80c3baab4",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "probably-not-voting": {
+    "bytes": 10410853,
+    "duration": 1301,
+    "sha256": "ea7ba235b788c1f9fced3237f910c34fd2d82523aaaeff8455122d54163dd8ee",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "profit-is-not-a-sin": {
+    "bytes": 3234853,
+    "duration": 404,
+    "sha256": "29f2813e248ba66c38a8dea014405f18d1452672972936db39d7ff395163f45c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "reacher-and-bolan": {
+    "bytes": 2182501,
+    "duration": 272,
+    "sha256": "43fd587ca18b84d54ba586e44b7dbd64a4a253837cbce3cd2e68ed11ca861a2e",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "ride-like-a-varmint": {
+    "bytes": 3587941,
+    "duration": 448,
+    "sha256": "5e9f19cfd1387ba8744331075ea5aeffce2c7492e92b7e386ea2178ea73b5a99",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "rights-are-not-allowances": {
+    "bytes": 5212069,
+    "duration": 651,
+    "sha256": "5a2c6a8a2dadcdb8e34f6ca9a5b0bd65a0ff2d7de68d41c5b6cf53c1edcb7cf2",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "saving-pagan-babies": {
+    "bytes": 5955109,
+    "duration": 744,
+    "sha256": "c0cd9049288204a813a19f2b4471a590751bba7f91f5f8a3f51bf6d7af3235b7",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "security-theater": {
+    "bytes": 15722533,
+    "duration": null,
+    "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "send-every-poor-kid-to-disneyland": {
+    "bytes": 13091941,
+    "duration": 1636,
+    "sha256": "de6d693c1235dadcf759ec086554e94bdb01cd49613a5a6142c2412cc33f55ae",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-abduction": {
+    "bytes": 4844389,
+    "duration": 605,
+    "sha256": "259116777736caaee24ab16e58f6cba564780e40ffbdb7cc0f6d02eef6a4bb53",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-actuarial-war-crime": {
+    "bytes": 9284005,
+    "duration": 1160,
+    "sha256": "472c94a16b6228a7342de58570b8509f15ecbc74e03348f402756ded186e36e4",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-asymmetry-of-grace": {
+    "bytes": 6791845,
+    "duration": 848,
+    "sha256": "4e55f0ae3b7edf65984cfc8283cf0ebb17ad71adfa0a99d7c46a0b40c9d4bfb3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-death-of-the-author-was-a-custody-grab": {
+    "bytes": 5036773,
+    "duration": 629,
+    "sha256": "c6ba1e79bb6341d8468553eaaf95012c8959ceaa55a629b88d505fa449381959",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-distress-standard": {
+    "bytes": 4796965,
+    "duration": 599,
+    "sha256": "98b5bc3d4cbbf5ffa172a989bf9200d2de0027b8f0245b24a11f88171541fa8e",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-dive-buddy": {
+    "bytes": 3885733,
+    "duration": 485,
+    "sha256": "5b939f838f913eb908abe5b4613c3190f6b50a5c268471939ae3b0faf7d0c292",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-duck-hunter-paradox": {
+    "bytes": 5276005,
+    "duration": 659,
+    "sha256": "0ec5346d47fb612d4ccaf7f3f10c1d3bdd06cb9df6b7258b41bbd5ab3e0d4164",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-farce-of-the-farce-of-justice": {
+    "bytes": 5570149,
+    "duration": 696,
+    "sha256": "c89e3075414513052994926f36527eba165ad24c37a2c4559beb0301fda59d5c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-first-muslim-senator": {
+    "bytes": 17433637,
+    "duration": null,
+    "sha256": "625e7df718801490d5f25fcbeb36a0186bdc3303623d9a5c30b0ec38e6e57889",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-free-cafe": {
+    "bytes": 4467301,
+    "duration": 558,
+    "sha256": "d6e3883b843fbadaa13c32944396c4ed1ff60b9555d3b7769bccdcf03e61d44a",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-glass-jaw-of-democracy": {
+    "bytes": 4062181,
+    "duration": null,
+    "sha256": "5885b02d89e3287d2b84cd24cf0ef386826eadc2989061e25a7861998f61133c",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-gospel-according-to-chris-abraham": {
+    "bytes": 14119525,
+    "duration": 1764,
+    "sha256": "aa2401688497fc7686435c6b4a856b97e60fe63ca99c1513d95d473ff1dae447",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-hot-potato": {
+    "bytes": 4873957,
+    "duration": 609,
+    "sha256": "f6b5ebc862d0dac6f43efc79c5108c8662e874c360473b692dbdfef2cfcd2c21",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-industrialist-from-inside-the-machine": {
+    "bytes": 3170341,
+    "duration": null,
+    "sha256": "041d3bb6c6c4c993901ac49d1cde8680042e09d5b8562af5145f7dc2a6c50dec",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-isolationist-populist-gets-my-vote": {
+    "bytes": 7335013,
+    "duration": 916,
+    "sha256": "e40a67cec5aed4cb91c1849f38c45c1dbfc2bed9ba37ba641cc740ba44c57c59",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-kid-gloves": {
+    "bytes": 5313061,
+    "duration": 664,
+    "sha256": "efae83f821b5489d57ef0949b2156b57f0fe249929c0c8ba02c59fe699f25560",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-loan-is-called": {
+    "bytes": 3837733,
+    "duration": 479,
+    "sha256": "0054f83ec06a87ae5630a6975c48b30e360bdb3e42a1e086e0b6a1b690935109",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-machine-thinks-im-a-mastermind": {
+    "bytes": 2826277,
+    "duration": 353,
+    "sha256": "c685e281b7266077b6242803de5f8b92ec098057583ffbc08188fd93183c19e3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-medicine-cabinet": {
+    "bytes": 4359205,
+    "duration": 544,
+    "sha256": "451792275345bc755564af11299a3d4c6f770450a1517d9afa85248d2ebf3e77",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-more-the-merrier": {
+    "bytes": 1993189,
+    "duration": 249,
+    "sha256": "2ae4bbfe0c39cee2d2ea1925b4289d535dac9234534ad812fde568e33bef8ed3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-professional-coward": {
+    "bytes": 4698085,
+    "duration": 587,
+    "sha256": "98913c5f1e7fb1760054076489f91d5dda6f472041b2c885e994189d0c0147f7",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-runway": {
+    "bytes": 4556005,
+    "duration": 569,
+    "sha256": "dcb936e5d32a35e45da508dac4a18afbf6f10ec8e86a84ca888c3da623a4e224",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-short-leash": {
+    "bytes": 4394917,
+    "duration": null,
+    "sha256": "7b7977753fc6c12be3066713a114308f67d800163cc90b991ac2d3248e759c78",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-sixteen-percent": {
+    "bytes": 10371493,
+    "duration": null,
+    "sha256": "527fb369b3e058622fb354fb3803a9221b274b550321e2f959a4ae4ee01a8da9",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-trellis-not-the-vine": {
+    "bytes": 5189797,
+    "duration": null,
+    "sha256": "148787240a8bfe35431bbcf115f13688b68c174b3e066f14b2c56ef6f62afffb",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-truck-stops-itself": {
+    "bytes": 5715493,
+    "duration": 714,
+    "sha256": "b722f4a13571cea359a6509e72b28f1a4d1f788c5c243725f8bdb2dd4b6c1bfe",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-window-moved-i-stayed-put": {
+    "bytes": 7337317,
+    "duration": 917,
+    "sha256": "1fec60e90c63dd7b4805a26e890295d73ab825670425f12c22dad5f8f76eac63",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "the-worst-hitler-ever": {
+    "bytes": 7861477,
+    "duration": 982,
+    "sha256": "5a7efc5d9e0b005df06bde8535e38372576079c6c1f542b2a8022e9d98e047f3",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "things-i-might-be-making-up": {
+    "bytes": 3226213,
+    "duration": null,
+    "sha256": "4e953f270759c19888f7b9fe5b810bead3ce7377248b36aa599556f5459c40be",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "this-isnt-a-prison-planet": {
+    "bytes": 7265893,
+    "duration": null,
+    "sha256": "df96936eaae5365fa963f061246e8bd6e33fcd79a5ee9f6b7f9f1059b73aa9e7",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "two-goldfish-one-notebook": {
+    "bytes": 4632805,
+    "duration": 579,
+    "sha256": "34a8fbfc3763d3782b95ce24e122e0732c09dfd2faf228894a85adac06e5092d",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "verbal-kint": {
+    "bytes": 3932581,
+    "duration": 491,
+    "sha256": "68c6952cc4022447b495236a4650f8c52c9a2723c3a390d61940806221d00f5f",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "wards-and-citizens": {
+    "bytes": 4909861,
+    "duration": 613,
+    "sha256": "161c7e4f482384b67ed27f18dddf02e89b974f1e4d3a651cce52b98496b4f139",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "when-the-antibiotics-stop-working": {
+    "bytes": 3972901,
+    "duration": 496,
+    "sha256": "b7f83abeaee80b44f0576aaeca13a8c3a362856dd67306f9974fac2d7b3ae51b",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "why-i-didnt-vote-on-tuesday": {
+    "bytes": 5005477,
+    "duration": null,
+    "sha256": "f4115ebe53e41d011a36857219dd4276e48041881da2f15b55fece6d4c2be8ca",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "why-matt-shade-is-not-a-douchebag": {
+    "bytes": 6539749,
+    "duration": 817,
+    "sha256": "094dd2a5fc2ed402f54626b2189a2bb992bb46657ea58bf6fa42007d61a7306b",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "yes-in-your-backyard": {
+    "bytes": 20832805,
+    "duration": 2604,
+    "sha256": "9971015cf0d8e37777fa71fbcf5ae58073a413e3e8120112c2e335f1e1a76096",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "you-dont-have-to-be-homeless-in-dc": {
+    "bytes": 6661093,
+    "duration": 832,
+    "sha256": "e92acb8bc92a5f705f683b691101a18d6dabe62634e6d8d787961e518fb96aea",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "you-have-to-want-the-ground": {
+    "bytes": 5142565,
+    "duration": 642,
+    "sha256": "64a052378023d7e960b412bc224b091ab7107efd1449079d307d1274bfdc773e",
+    "voice": "avocado_v2:qvd_02406"
+  },
+  "you-won-a-midterm-not-a-presidency": {
+    "bytes": 7047781,
+    "duration": 880,
+    "sha256": "0f9225ba01442f6e87c1cfd0fd567f625e9e28eab6847122096aee8324738d72",
+    "voice": "avocado_v2:qvd_02406"
+  }
 }
