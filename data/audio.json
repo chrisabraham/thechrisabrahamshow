@@ -1,4 +1,10 @@
 {
+ "a-child-deserves-candy-and-soda": {
+  "bytes": 5752165,
+  "duration": 719,
+  "sha256": "d88141ff32200f07056cad4feed868d14982c83fa80b19e68b209a574abae16c",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "a-different-1969": {
   "bytes": 4424485,
   "duration": 553,
