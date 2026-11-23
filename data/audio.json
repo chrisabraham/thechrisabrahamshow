@@ -431,6 +431,12 @@
   "sha256": "2ae4bbfe0c39cee2d2ea1925b4289d535dac9234534ad812fde568e33bef8ed3",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-most-dangerous-man-lost-a-crown": {
+  "bytes": 6902821,
+  "duration": 862,
+  "sha256": "28d5c8684376f51379bd456af107c1f6d85bb613e372b7217643af8be70c03ac",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-professional-coward": {
   "bytes": 4698085,
   "duration": 587,
