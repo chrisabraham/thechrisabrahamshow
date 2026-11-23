@@ -263,6 +263,12 @@
   "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
   "voice": "avocado_v2:qvd_02406"
  },
+ "send-every-poor-kid-to-disneyland": {
+  "bytes": 13091941,
+  "duration": 1636,
+  "sha256": "de6d693c1235dadcf759ec086554e94bdb01cd49613a5a6142c2412cc33f55ae",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-abduction": {
   "bytes": 4844389,
   "duration": 605,
