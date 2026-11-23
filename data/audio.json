@@ -245,6 +245,12 @@
   "sha256": "3f52d2b2642537f3fc21ab48aa94e6e5a887367aea2ace3ecb3003df78c19021",
   "voice": "avocado_v2:qvd_02406"
  },
+ "nothing-expires": {
+  "bytes": 7279333,
+  "duration": 909,
+  "sha256": "124ad23f0903d9d5ed7a6422d68a95190c5411b34668bd5e1adf54f47e20fd18",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "pity-and-locks": {
   "bytes": 4342309,
   "duration": 542,
