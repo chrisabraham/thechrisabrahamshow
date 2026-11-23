@@ -59,6 +59,12 @@
   "sha256": "bf478c12af20392184327d5782b190306fc138254dd6acf3a3df22f454c90cf6",
   "voice": "avocado_v2:qvd_02406"
  },
+ "bread-not-bread-and-circuses": {
+  "bytes": 4727653,
+  "duration": 590,
+  "sha256": "bcd42cb490f7a30d3072f8fc666c054a7c9fb987098394925a7ae7d7d604f6a7",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "bucket-lists-are-for-poor-people": {
   "bytes": 4359397,
   "duration": 545,
