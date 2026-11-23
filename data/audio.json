@@ -41,6 +41,12 @@
   "sha256": "92c8c8579f56c1b26a371e43f24b75832d04d666811c236a7be8ba9454474bbb",
   "voice": "avocado_v2:qvd_02406"
  },
+ "ask-not-three-social-contracts": {
+  "bytes": 4636453,
+  "duration": 579,
+  "sha256": "5f284e3ed38784b6aee25b2b504054431a6da9d397755d499b779d92e1251726",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "beautiful-beards-beautiful-merkins": {
   "bytes": 15324709,
   "duration": 1915,
