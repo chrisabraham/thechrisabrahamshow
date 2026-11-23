@@ -11,6 +11,12 @@
   "sha256": "f5efcd520841667455a3bc87ad8e0241424be9535f74081827090102a48f00bb",
   "voice": "avocado_v2:qvd_02406"
  },
+ "a-word-from-the-capitol": {
+  "bytes": 4269733,
+  "duration": 533,
+  "sha256": "3cb138bf0b409a0dca1514677c9dc68ade4ceeb121a397399ea850e36751786f",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "advocacy-is-not-reportership": {
   "bytes": 4300645,
   "duration": 537.576,
@@ -255,12 +261,6 @@
   "bytes": 15722533,
   "duration": null,
   "sha256": "3f53012fdad26bf7ff242ee7a78bbfac5c169eeec2908a2126487e87166aa8f0",
-  "voice": "avocado_v2:qvd_02406"
- },
- "send-every-poor-kid-to-disneyland": {
-  "bytes": 3934885,
-  "duration": 491,
-  "sha256": "5f36caa845dbb2ce876485bd7aff7ffc4f53e484017e070f7a372c4b77c6b6f4",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-abduction": {
