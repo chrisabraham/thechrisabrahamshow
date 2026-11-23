@@ -143,6 +143,12 @@
   "sha256": "7628f722e7bb1e601ef247d8f03820d5eb9aecd1d7624db27b4afe5589b5bd6f",
   "voice": "avocado_v2:qvd_02406"
  },
+ "hitlers-all-the-way-down": {
+  "bytes": 5939941,
+  "duration": 742,
+  "sha256": "6bbfbdce0b75c2fa25941648d289ef40039516fd3dd3f0f02acb29fe9c8c3e3f",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "how-much-hitler": {
   "bytes": 7618213,
   "duration": 952,
