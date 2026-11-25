@@ -101,6 +101,12 @@
   "sha256": "e63dda9eec552fa8e7fe31014cb3c9a1e56e619d6f9fd7f0700f2d39f5decc94",
   "voice": "avocado_v2:qvd_02406"
  },
+ "dictator-means-he-gives-the-orders-himself": {
+  "bytes": 14677950,
+  "duration": 1832,
+  "sha256": "14aadd518f94797b3905d900f9341d61412e16388d16f65c2e5022357a59a051",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "either-whole-or-hole": {
   "bytes": 10894885,
   "duration": 1361,
@@ -141,6 +147,12 @@
   "bytes": 3266341,
   "duration": 408,
   "sha256": "184b3a29549109e56eeb1cd2dfce1f9bd0227169101fc900033e6626cddf3ed5",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "free-college-ends-college-football": {
+  "bytes": 6507966,
+  "duration": 811,
+  "sha256": "89f35c26b9369c1098459d8584589c0d7087e0802dbe2ea3fc3b97840aa9b90b",
   "voice": "avocado_v2:qvd_02406"
  },
  "george-hafner-wrote-it-down": {
@@ -329,6 +341,12 @@
   "sha256": "de6d693c1235dadcf759ec086554e94bdb01cd49613a5a6142c2412cc33f55ae",
   "voice": "avocado_v2:qvd_02406"
  },
+ "someone-elses-war": {
+  "bytes": 5945598,
+  "duration": 741,
+  "sha256": "129b7d36bbd45126cdf41197d39b493d66188adef8758caf496f6c644f270d4b",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-abduction": {
   "bytes": 4844389,
   "duration": 605,
@@ -345,6 +363,12 @@
   "bytes": 6791845,
   "duration": 848,
   "sha256": "4e55f0ae3b7edf65984cfc8283cf0ebb17ad71adfa0a99d7c46a0b40c9d4bfb3",
+  "voice": "avocado_v2:qvd_02406"
+ },
+ "the-cabal-is-selection-bias": {
+  "bytes": 7497534,
+  "duration": 934,
+  "sha256": "afb0a57b909e2b8f9638d21f4b7626229e870bcf52f82b0e925b09a8d58c55b1",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-capitol-is-not-fascist": {
