@@ -634,5 +634,11 @@
   "duration": 880,
   "sha256": "0f9225ba01442f6e87c1cfd0fd567f625e9e28eab6847122096aee8324738d72",
   "voice": "avocado_v2:qvd_02406"
+ },
+ "you-would-just-laugh": {
+  "bytes": 5537598,
+  "duration": 689,
+  "sha256": "b0204940a88bcb83f3a405abfb2d1894be34dec20c93c2af0aa591d16b911d4d",
+  "voice": "avocado_v2:qvd_02406"
  }
 }
