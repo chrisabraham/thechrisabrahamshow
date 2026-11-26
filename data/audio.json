@@ -359,6 +359,12 @@
   "sha256": "de6d693c1235dadcf759ec086554e94bdb01cd49613a5a6142c2412cc33f55ae",
   "voice": "avocado_v2:qvd_02406"
  },
+ "shepherds-arent-edc-theyre-ems": {
+  "bytes": 4719294,
+  "duration": 587.5,
+  "sha256": "8f0090b7238ee6f4aef9c77f6358a1c4cde2faf442e6dd5d664d518ff8fa04f1",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "someone-elses-war": {
   "bytes": 5945598,
   "duration": 741,
