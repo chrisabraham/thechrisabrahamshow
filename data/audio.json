@@ -587,6 +587,12 @@
   "sha256": "b7f83abeaee80b44f0576aaeca13a8c3a362856dd67306f9974fac2d7b3ae51b",
   "voice": "avocado_v2:qvd_02406"
  },
+ "who-says-your-blood-is-redder": {
+  "bytes": 9339966,
+  "duration": 1165,
+  "sha256": "485eedf3363e4a5df958ef48bb7711088f29978fb2ef9a3671a043a4deedee03",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "why-i-didnt-vote-on-tuesday": {
   "bytes": 5005477,
   "duration": null,
