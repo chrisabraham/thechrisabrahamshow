@@ -245,6 +245,12 @@
   "sha256": "b46a04584a015d911f45245d284c72a95d827ee11898ca7f3c0088f0290a7c27",
   "voice": "avocado_v2:qvd_02406"
  },
+ "never-spare-the-one-for-the-many": {
+  "bytes": 5632638,
+  "duration": 701,
+  "sha256": "172fdf36b844923f53aa73138a35b1f0f81ddfe0469121fbdc7c7a54924e2d6b",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "nine-years-of-slow-jogging-on-reddit": {
   "bytes": 4222693,
   "duration": 527,
