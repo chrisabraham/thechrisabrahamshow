@@ -629,6 +629,12 @@
   "sha256": "485eedf3363e4a5df958ef48bb7711088f29978fb2ef9a3671a043a4deedee03",
   "voice": "avocado_v2:qvd_02406"
  },
+ "why-does-nobody-call-them-scabs": {
+  "bytes": 7186302,
+  "duration": 895,
+  "sha256": "e50596a37d79590005dc2ef471a5c67670a76aa20077f27264d0d115ff3e2ef6",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "why-i-didnt-vote-on-tuesday": {
   "bytes": 5005477,
   "duration": null,
