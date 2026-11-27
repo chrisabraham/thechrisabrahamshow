@@ -407,6 +407,12 @@
   "sha256": "c6ba1e79bb6341d8468553eaaf95012c8959ceaa55a629b88d505fa449381959",
   "voice": "avocado_v2:qvd_02406"
  },
+ "the-deer-are-coming-out-of-the-woods": {
+  "bytes": 7056510,
+  "duration": 879,
+  "sha256": "9f89d2c256bd546357c2837d445a97dd6c1795e852d8ebfb4f32dbc9c446c456",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "the-distress-standard": {
   "bytes": 4796965,
   "duration": 599,
