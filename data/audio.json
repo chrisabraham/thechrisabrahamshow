@@ -149,6 +149,12 @@
   "sha256": "e082c9ae9cd85114c7a85dcd5b7d6c43cf9e6b7b289925e5c87011968f222a65",
   "voice": "avocado_v2:qvd_02406"
  },
+ "everything-but-the-squeal": {
+  "bytes": 7101630,
+  "duration": 885,
+  "sha256": "d952e9e495839bfee57be54ef083df91e8cdc557147b8c272760b663c25d6a84",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "ferraris-are-not-everyday-cars": {
   "bytes": 4091557,
   "duration": 511,
