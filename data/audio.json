@@ -137,6 +137,12 @@
   "sha256": "2e07dbb38822f433cf07d68dd41a7792e2d682b2aae3d87bd018cce78484b17c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "everybody-knew": {
+  "bytes": 4693374,
+  "duration": 584,
+  "sha256": "f41c37c2780524c6c9517233f3356df4bdd401aee7f98905b747b05bbc326cef",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "ferraris-are-not-everyday-cars": {
   "bytes": 4091557,
   "duration": 511,
@@ -405,12 +411,6 @@
   "bytes": 5036773,
   "duration": 629,
   "sha256": "c6ba1e79bb6341d8468553eaaf95012c8959ceaa55a629b88d505fa449381959",
-  "voice": "avocado_v2:qvd_02406"
- },
- "the-deer-are-coming-out-of-the-woods": {
-  "bytes": 7056510,
-  "duration": 879,
-  "sha256": "9f89d2c256bd546357c2837d445a97dd6c1795e852d8ebfb4f32dbc9c446c456",
   "voice": "avocado_v2:qvd_02406"
  },
  "the-distress-standard": {
