@@ -65,6 +65,12 @@
   "sha256": "f9e1daeda8aee2ad8886ae470cc88f5ac6ef7f26d730a23f84079c315b5da8ae",
   "voice": "avocado_v2:qvd_02406"
  },
+ "blame-the-victim": {
+  "bytes": 4987134,
+  "duration": 621,
+  "sha256": "b0a9c0a3a05473f7d095330ea91cb5c9fccdbdbc39cfcf00a382ca00c61fc025",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "blew-up-reddit-someone-elses-loss": {
   "bytes": 3083173,
   "duration": 385,
