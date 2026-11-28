@@ -659,6 +659,12 @@
   "sha256": "094dd2a5fc2ed402f54626b2189a2bb992bb46657ea58bf6fa42007d61a7306b",
   "voice": "avocado_v2:qvd_02406"
  },
+ "yankee-doodle": {
+  "bytes": 7823742,
+  "duration": 975,
+  "sha256": "cb42f1d0beabf349c2b06e3e55ca82ffeae8d49ac3312d29fea373ea4f834ef1",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "yes-in-your-backyard": {
   "bytes": 20832805,
   "duration": 2604,
