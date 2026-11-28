@@ -341,6 +341,12 @@
   "sha256": "29f2813e248ba66c38a8dea014405f18d1452672972936db39d7ff395163f45c",
   "voice": "avocado_v2:qvd_02406"
  },
+ "putin-has-showed-restraint": {
+  "bytes": 5273598,
+  "duration": 656,
+  "sha256": "7243b11415b93f62b1c74bbf96ab7cec5b9c72100c91eae4b07e29dc24907ee4",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "reacher-and-bolan": {
   "bytes": 2182501,
   "duration": 272,
