@@ -287,6 +287,12 @@
   "sha256": "f809f3f052992c8db241efc24ba546ff2960ba819ebfe9a4c43f5a7ec8085b9b",
   "voice": "avocado_v2:qvd_02406"
  },
+ "nobody-grows-up-in-a-postcard": {
+  "bytes": 5069694,
+  "duration": 631.344,
+  "sha256": "e06adbd794b8d3fc956c3f8990355ee81b18c145893b16a1a1debebc0da61142",
+  "voice": "avocado_v2:qvd_02406"
+ },
  "nobody-pays-a-proportion": {
   "bytes": 6751333,
   "duration": 843,
