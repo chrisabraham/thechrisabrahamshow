@@ -694,5 +694,11 @@
   "duration": 689,
   "sha256": "b0204940a88bcb83f3a405abfb2d1894be34dec20c93c2af0aa591d16b911d4d",
   "voice": "avocado_v2:qvd_02406"
+ },
+ "your-baseline-is-somebody-elses-bucket-list": {
+  "bytes": 6505086,
+  "duration": 810.768,
+  "sha256": "b09d68ce540cec4c47326377990a81b482303e5c6c8a7f6de3ec93864790080f",
+  "voice": "avocado_v2:qvd_02406"
  }
 }
